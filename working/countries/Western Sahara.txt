@@ -1,6 +1,4 @@
 trojan://8r<[9'l6hAO#8ZQi@185.112.83.62:8443?ed=2560&eh=Sec-WebSocket-Protocol&host=Koma-YT.PAGeS.Dev&path=/trTelegram+@WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#66@oneclickvpnkeys
 trojan://8r<[9'l6hAO#8ZQi@194.67.204.158:8443?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&host=Koma-YT.PAGeS.Dev&path=/trTelegram+@WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#72@oneclickvpnkeys
-trojan://8r<[9'l6hAO#8ZQi@31.169.127.103:8443?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&fp=chrome&host=Koma-YT.PAGeS.Dev&path=/trTelegram+@WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#31@oneclickvpnkeys
 trojan://8r<[9'l6hAO#8ZQi@45.95.203.214:2053?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&host=Koma-YT.PAGeS.Dev&path=/trTelegram+@WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#74@oneclickvpnkeys
-trojan://8r<[9'l6hAO#8ZQi@194.67.204.158:8443?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&host=Koma-YT.PAGeS.Dev&path=/trTelegram+@WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#[56954] - Telegram : @V2All
-trojan://8r<[9'l6hAO#8ZQi@45.95.203.214:2053?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&host=Koma-YT.PAGeS.Dev&path=/trTelegram+@WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#[56952] - Telegram : @V2All
+trojan://8r<[9'l6hAO#8ZQi@31.169.127.103:8443?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&fp=chrome&host=Koma-YT.PAGeS.Dev&path=/trTelegram+@WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#31@oneclickvpnkeys
