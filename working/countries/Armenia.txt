@@ -2,7 +2,7 @@ vless://37b3c481-a327-4c9a-9907-9024861cbc2e@s2.isfahangaming.com:2082?path=/&se
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.247.186.199:443?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.latonyamadeline.ndjp.net&path=/&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws#@v2ray_configs_poolGermanyFrankfurt am Mainping:27.93ms
 vless://803aba73-e0ce-469d-a308-141ccee0b369@185.143.234.235:2086?encryption=none&security=none&type=ws&host=sync.arasbaran-co.ir&path=/#Germany, Frankfurt am Main |  IP: 135.136.19.237 | ping:572.79ms |  @NamazVPN
 vless://c24a32f1-b645-47da-98a3-1e7c713229c1@104.18.12.149:8880?path=/api&security=none&encryption=none&host=armenia.chatgpt.com.siasia.ir&type=httpupgrade#Armenia(@proSSH)
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@146.185.248.22:989#%F0%9F%87%A6%F0%9F%87%B2AM-146.185.248.22-8454
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@146.185.248.22:989#%F0%9F%87%A6%F0%9F%87%B2AM-146.185.248.22-8580
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwTnFuWWYza0hlc09wQ2NoUnZVWnhmd1RhZlJzT2o3Zw@213.159.76.21:443#AM%20%20ROSE411
 vmess://eyJhZGQiOiAiMTg1LjE2Mi4yMjguMyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJsaWZlLnRudHNlcnZpY2Uuc2hvcCIsICJpZCI6ICIwYWJjMDA3NS1jZWNiLTRiODItZmRhZC1hYWY0YjliN2E0YTMiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjIwODYiLCAicHMiOiAiQHYycmF5MjQgXHUyNWI3IEFybWVuaWEgXHVkODNjXHVkZGU2XHVkODNjXHVkZGYyIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==
 vless://12f34fc2-b3f6-4422-a44d-37adcadca8f3@188.164.159.178:2053?security=tls&sni=flnewconect3.fragmentscan.xyz&type=grpc&fp=chrome&alpn=h2%2Chttp%2F1.1# VL-GRPC-TLS  AM-188.164.159.178:2053
