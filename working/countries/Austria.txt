@@ -7,7 +7,6 @@ trojan://8r%3C%5B9%27l6hAO%238ZQi@38.180.143.51:2053?security=tls&sni=Koma-YT.PA
 trojan://8r%3C%5B9%27l6hAO%238ZQi@46.102.156.144:2053?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%A6%F0%9F%87%B9AT-46.102.156.144-0804
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3NWRyQUw3UGZDSXdRMnljVXVvRHNWMkxz@212.113.106.243:13022#%F0%9F%87%A6%F0%9F%87%B9AT-212.113.106.243-8190
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQMnp4WFBld2xWM0JsZnFxWWlTdGh2dExj@212.113.106.243:12949#%F0%9F%87%A6%F0%9F%87%B9AT-212.113.106.243-8191
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@193.233.232.9:443?encryption=none&fp=chrome&host=2-eox.pages.dev&security=tls&sni=2-eox.pages.dev&type=ws#AT_1023_@Surfboardv2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXQUtJWHF0bE1TRDdmYUxETkg5VjROQDQ1LjMzLjMwLjg6MTg3ODk#%F0%9F%91%89%F0%9F%86%94%20@v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%BA%F0%9F%87%B8United%20States%0A%0AV2RAY_CONFIGS_POOL,%20%5BSep%2015,%202024%20at%204:54%C2%A0AM%5D
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@94.177.8.26:130?allowInsecure=0&sni=juzi8186.5112233.xyz&type=ws&host=juzi8186.5112233.xyz&path=/?ed=2560fp=chrome&security=tls#15|AT_speednode_0002
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@212.183.88.242:443?allowInsecure=0&sni=dw.ylks.xyz&type=ws&host=dw.ylks.xyz&path=/bluesecurity=tls#15|AT_speednode_0003
