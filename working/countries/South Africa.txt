@@ -13,7 +13,6 @@ vmess://eyJwb3J0IjoiMzQ0OTciLCJmcCI6InJhbmRvbWl6ZWQiLCJhbHBuIjoiaDIsaHR0cFwvMS4x
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@41.203.4.34:989#%F0%9F%87%BF%F0%9F%87%A6ZA-41.203.4.34-0751
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#%f0%9f%87%bf%f0%9f%87%a6%20ZA%201
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@139.84.235.99:443?type=ws&encryption=none&host=1-jk1.pages.dev&path=/&headerType=none&quicSecurity=none&serviceName=&security=tls&flow=&fp=chrome&insecure=1&sni=1-jk1.pages.dev#[openproxylist.com] vless-ZA
-trojan://8r%3C%5B9%27l6hAO%238ZQi@154.197.108.253:443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BF%F0%9F%87%A6ZA%E5%8D%97%E9%9D%9E
 vless://c55d1b40-5974-491a-bcea-9a03edbfd776@gfnfhyhttgbrtgbrtgbrtttyht7.arenafile.com:33431?encryption=none&security=reality&sni=www.icloud.com&fp=chrome&pbk=DQjRDYsGHriGDOyYw4ikOCgg8fnPoK6Hw74wuio7qyk&sid=cceca309a6cd013a&type=tcp&headerType=none#//South Africa/Johannesburg
 vmess://eyJ2IjogIjIiLCAicHMiOiAiUmVsYXlf8J+Hv/Cfh6ZaQS3wn4e68J+HuFVTXzE4MCIsICJhZGQiOiAiMTU2LjI1MS4xMzUuMTEiLCAicG9ydCI6IDUzMzAyLCAiYWlkIjogNjQsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCJ9
 vmess://eyJ2IjogIjIiLCAicHMiOiAiUmVsYXlf8J+Hv/Cfh6ZaQS3wn4e68J+HuFVTXzE5NTkiLCAiYWRkIjogIjE1Ni4yNTEuMTM1LjExIiwgInBvcnQiOiA1MzMwMiwgImFpZCI6IDY0LCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQifQ==

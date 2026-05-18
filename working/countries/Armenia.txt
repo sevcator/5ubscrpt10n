@@ -1,5 +1,5 @@
 vless://37b3c481-a327-4c9a-9907-9024861cbc2e@s2.isfahangaming.com:2082?path=/&security=none&encryption=none&host=s2.isfahangaming.com&type=ws#Germany, Frankfurt am Main |  IP: 185.192.23.11 | ping:4267.15ms |  @NamazVPN
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.241.241.33:2053?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.indevs.in&path=/?Telegram@WangCai2=&security=tls&sni=sni.111000.indevs.in&type=ws#@v2ray_configs_poolGermanyFrankfurt am Mainping:28.78ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@148.253.210.141:443?&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws&headerType=none&host=sni.latonyamadeline.ndjp.net&path=/#@v2ray_configs_poolGermanyFrankfurt am Mainping:35.72ms
 vless://803aba73-e0ce-469d-a308-141ccee0b369@185.143.234.235:2086?encryption=none&security=none&type=ws&host=sync.arasbaran-co.ir&path=/#Germany, Frankfurt am Main |  IP: 135.136.19.237 | ping:572.79ms |  @NamazVPN
 vless://c24a32f1-b645-47da-98a3-1e7c713229c1@104.18.12.149:8880?path=/api&security=none&encryption=none&host=armenia.chatgpt.com.siasia.ir&type=httpupgrade#Armenia(@proSSH)
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@146.185.248.22:989#%F0%9F%87%A6%F0%9F%87%B2AM-146.185.248.22-8586
