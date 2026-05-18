@@ -1,1 +1,1 @@
-vless://7e296434-2d17-48d3-928d-19eaa34aecb1@45.15.140.38:28495?security=reality&sni=dl.google.com&fp=chrome&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&sid=0ecc2c1392&type=tcp&encryption=none#NZ_643_@Surfboardv2ray
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@114.129.43.238:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&path=/?Telegram@WangCai2=&security=tls&sni=sni.jpmj.dev&type=ws#NZ_482_@Surfboardv2ray
