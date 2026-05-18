@@ -3,6 +3,4 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@46.183.184.64:989#%F0%9F%87%AD%F0%
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@46.183.184.61:989#%F0%9F%87%AD%F0%9F%87%B7HR-46.183.184.61-8026
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXYXZIZVNHRnhmdnJra2JRZDQ4UHJC@5.181.2.73:43248#HR%20%20ROSE250
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnWE9YazJGSndzejlQNm5YSUlDdUROT3FGOWdXWDFkbg@185.156.110.92:443#HR%20%20ROSE405
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@213.182.199.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#HR_536_@Surfboardv2ray
 vless://8346adf1-76ff-41d6-8ca4-044c817a3ec9@5.181.2.112:7610?security=reality&sni=refersion.com&type=grpc&serviceName=mgrpcmn&fp=chrome&pbk=2wBPu3_o03KRu5ujEFZ9cgczdgiR2eLdJTo7ZfAAogo&sid=1923945e10a464a5# VL-GRPC-RLT  HR-5.181.2.112:7610
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@46.183.184.60:989#%F0%9F%87%AD%F0%9F%87%B7HR-46.183.184.60-0218

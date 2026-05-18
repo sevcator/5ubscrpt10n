@@ -1,9 +1,6 @@
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.244.138:2096?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#CR
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@138.59.16.146:989#%F0%9F%87%A8%F0%9F%87%B7CR-138.59.16.146-8613
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@145.14.131.37:990#CR%20%20ROSE397
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.244.138:2096?encryption=none&fp=chrome&host=sni.111000.indevs.in&path=/&security=tls&sni=sni.111000.indevs.in&type=ws#CR_526_@Surfboardv2ray
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.245.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=/?telegram+@wangcai2=&security=tls&sni=sni.111000.indevs.in&type=ws#CR_527_@Surfboardv2ray
-vless://dd6af632-e4bb-400a-922f-43f75ec89d64@190.93.245.94:443?mode=auto&path=/v1/api/sync/f47ac10b58cc4372a5670e02b2c3d479&security=tls&alpn=h2&encryption=none&insecure=0&host=api-ws-de.nxping.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=api-ws-de.nxping.ir#CR_1231_@Surfboardv2ray
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@190.93.246.129:443?allowInsecure=0&sni=aw.ylks.xyz&type=ws&host=aw.ylks.xyz&path=/?ed=2048security=tls#15|CR_speednode_0006
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@190.93.244.38:443?allowInsecure=0&sni=aw.ylks.xyz&type=ws&host=aw.ylks.xyz&path=/?ed=2048security=tls#15|CR_speednode_0007
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@190.93.247.124:443?allowInsecure=0&sni=ax.ylks.xyz&type=ws&host=ax.ylks.xyz&path=/?ed=2048security=tls#15|CR_speednode_0008
