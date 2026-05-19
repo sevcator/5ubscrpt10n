@@ -45,12 +45,8 @@ trojan://65f14831-5c67-483f-9e85-f3aa73f21187@naiu-us.05vr9nyqg5.download:13019?
 trojan://243eab52-9ac1-405c-887c-eb112c0985b8@hk03.trojanyyds.xyz:443?security=tls&sni=hk03.trojanyyds.xyz&type=tcp&headerType=none#%E5%85%B3%E6%B3%A8%E9%A2%91%E9%81%93https%3A%2F%2Ft.me%2Fmftizi
 trojan://1469e09e-027c-11ec-a0fc-f23c913c8d2b@204bdce4-sxaf40-t5bgb3-l4nv.cm5.cnkuaishou.com:27231?security=tls&sni=204bdce4-sxaf40-t5bgb3-l4nv.cm5.cnkuaishou.com&type=tcp&headerType=none#%E4%B8%8D%E5%AE%9A%E6%9C%9F%E6%8A%BD%E5%A5%96https%3A%2F%2Ft.me%2Fmftizi
 trojan://4e399fb9-5a4c-49cd-9849-2051512f4c6c@aafrtpfxr.hkl01i9zjfegelp.5xfsur8v62.gosdk.xyz:27101?security=tls&sni=q08m.vgraxiw73s.hasyaf.cn&type=tcp&headerType=none#%E5%85%B3%E6%B3%A8%E7%94%B5%E6%8A%A5https%3A%2F%2Ft.me%2Fmftizi
-trojan://humanity@chat.openai.com:443?path=%2Fassignment&security=tls&alpn=h2%2Chttp%2F1.1&host=www.calmlunch.com&fp=chrome&type=ws&sni=www.calmlunch.com#https://t.me/ConfigX2ray
-vmess://eyJhZGQiOiI0NS45MC4xMDYuMjQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiY2hyb21lIiwiaG9zdCI6IiIsImlkIjoiNWMwNDBmMWQtNDVkYi00M2JkLThkNDYtZTQ5NTBlNDMzNzM1IiwiaW5zZWN1cmUiOiIxIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMjM0IiwicHMiOiJb8J+Hs/Cfh7FddC5tZS9Db25maWdzSHViIiwic2N5IjoiYWVzLTEyOC1nY20iLCJzbmkiOiJzdXBlcnZwbi5zdXBlci5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-vmess://eyJhZGQiOiIxNjIuMTkuMjA0LjcxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6ImNocm9tZSIsImhvc3QiOiIiLCJpZCI6IjVjMDQwZjFkLTQ1ZGItNDNiZC04ZDQ2LWU0OTUwZTQzMzczNSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTIzNCIsInBzIjoiW/Cfh6nwn4eqXXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImFlcy0xMjgtZ2NtIiwic25pIjoic3VwZXJ2cG4uc3VwZXIuY29tIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+vmess://eyJhZGQiOiI1MS44OS40MS4yMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiIiwiaWQiOiI1YzA0MGYxZC00NWRiLTQzYmQtOGQ0Ni1lNDk1MGU0MzM3MzUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjEyMzQiLCJwcyI6Ilvwn4ep8J+Hql10Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhZXMtMTI4LWdjbSIsInNuaSI6InN1cGVydnBuLnN1cGVyLmNvbSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@103.75.119.38:990#t.me/OutlineVpnOfficial
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.179:443#t.me/OutlineVpnOfficial | Free | 3242 | United Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#t.me/config_fre
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMHwtaHR0cHM6Ly90Lm1lL01yWGJpbi05NyIsICJhZGQiOiAiMTQ2LjU5LjU1LjUwIiwgInBvcnQiOiA0NDMsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAidGxzIiwgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJzbmkiOiAid3JtZWxtd3hsZi5na3RldmxycXpud3Fxb3p5LmZhYnBmczY2Z2l6bW5vamhjdnF4d2wua3l0cmNmenFsYTg3Z3ZndnM2Yzdram5ydWJ1aC5jYyIsICJob3N0IjogIm8ubWV0dWppLmNvbSIsICJwYXRoIjogIi9saW5rdndzIn0=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@185.237.185.89:990# t.me/Natrixo AA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQdTNQcmNwYXNVN2tOMXRWTkZqZVE3RHNpOU5yeXY4bg==@vip8.myspacex.shop:8088#25602 | Telegram = t.me/SOSkeyNET
@@ -121,6 +117,7 @@ vless://2d6780ea-d5bb-41bb-a60b-d3984dcd6519@185.143.233.200:2052?path=/&securit
 vless://2d6780ea-d5bb-41bb-a60b-d3984dcd6519@185.143.233.200:2052?path=/&security=none&encryption=mlkem768x25519plus.native.0rtt.9Zwbp5JsBrqWXj8vFrYXBFUSgphRW3Td-4nL6xgfe1I&host=nima.hayalco.ir&type=ws#25674 | Telegram = t.me/SOSkeyNET
 vless://2e635a14-57bb-40d1-bc0d-c811b1fb74be@varzesh3.com:80?path=/&security=none&encryption=none&host=proto.helexm.ir&type=ws#25737 | Telegram = t.me/SOSkeyNET
 vless://30373138-6530-4566-a361-353463393466@185.143.233.130:80?path=/l/w/aXD2QyDdS6vRQpxs?ed=2047&security=none&encryption=none&host=dl.tgmovie.bond&type=ws#25621 | Telegram = t.me/SOSkeyNET
+vless://30616639-3436-4565-b630-373064363963@185.143.235.26:80?path=/l/w/aXD2QyDdS6vRQpxs?ed=2047&security=&encryption=none&host=dl.tgmovie.bond&type=ws#25757 | Telegram = t.me/SOSkeyNET
 vless://358e8d08-65f0-4ef3-9686-7dfb16211439@varzesh3.com:80?type=ws&encryption=none&path=/ws&host=nobody.fasterspeed.ir&security=none#t.me/ConfigFori  -  Config 73728
 vless://358e8d08-65f0-4ef3-9686-7dfb16211439@varzesh3.com:80?type=ws&encryption=none&path=/ws&host=nobody.fasterspeed.ir&security=none#t.me/ConfigFori  -  Config 73731
 vless://35d5855b-0c39-4e60-aec0-d7776bcf418a@blubank.sb24.ir:2086?security=none&type=ws&headerType=&path=/path&host=tr-st2.ge9.ir#25635 | Telegram = t.me/SOSkeyNET
@@ -131,16 +128,18 @@ vless://36c4dba7-e4df-4b8a-a4a9-9bcccb6edce4@varzesh3.com:80?path=/ws&security=n
 vless://36d51eae-04be-473f-9a34-096e2f466826@varzesh3.com:80?type=ws&encryption=none&path=/ws&host=nobody.fasterspeed.ir&security=none#t.me/ConfigFori  -  Config 73730
 vless://36eaa0f2-396d-40d0-91be-0239357c738a@Snapp.ir:80?path=/&security=none&encryption=none&host=mangel.phynanc.ir&type=ws#25623 | Telegram = t.me/SOSkeyNET
 vless://38623661-3032-4065-b135-396263363937@185.143.234.60:80?path=/l/w/aXD2QyDdS6vRQpxs?ed=2047&security=none&encryption=none&host=dl.tgmovie.bond&type=ws#25149 | Telegram = t.me/S@imokping
+vless://38643932-6263-4162-a539-333032393736@185.143.234.129:80?path=/l/w/aXD2QyDdS6vRQpxs?ed=2047&security=&encryption=none&host=dl.tgmovie.bond&type=ws#25752 | Telegram = t.me/SOSkeyNET
 vless://394f6981-a782-4779-9a85-e6cf22935d93@84.17.37.19:8443?allowInsecure=1&alpn=h2&encryption=none&security=tls&sni=hkg1.fromblancwithlove.com&type=tcp# t.me/Natrixo BB
 vless://3bc02b51-5f7d-48ab-977f-090053794e0f@em4.vendnew.com:8880?type=ws&security=none&host=em4.vendnew.com&path=/#25665 | Telegram = t.me/SOSkeyNET
 vless://3d2a5cf2-8849-4210-9e3e-058841ee353e@Snapp.ir:2052/?type=ws&encryption=none&path=/&host=siroos.pakivyeshi.ir&security=none#25656 | Telegram = t.me/SOSkeyNET
 vless://3dd38b4a-87c1-469d-bddb-fb13cd99e929@snapp.ir:80?type=ws&encryption=none&path=/&host=sudo.daltooncloud.ir&security=none#25657 | Telegram = t.me/SOSkeyNET
-vless://3debe751-c4e8-4848-aa78-70b95df3efd3@snapp.ir:80?security=none&encryption=none&host=hub2.psychodelicoxytocin.ir&type=ws#25584 | Telegram = t.me/SOSkeyNET
 vless://3f5e4344-678a-4259-b3b3-5dae5f789df9@snapp.ir:80?encryption=none&type=xhttp&path=/&host=dash.beynodcomplete.ir&mode=auto#25603 | Telegram = t.me/SOSkeyNET
 vless://43488128-319e-f480-64ea-0acdc712e2a8@95.179.150.23:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=jAdL6F6VaKzvTMpPQ53X58sC_i2QY6Wx2rdjq4Eo3yo&security=reality&sid=a1b2c3d4e5f67890&sni=www.coolblue.nl&type=tcp# t.me/Natrixo AA
 vless://43948622-52bf-4dba-8198-7816518b2e9a@185.143.232.5:8080?encryption=none&security=none&type=ws&headerType=none&path=/porroo&host=silver.segaltejarat.ir#25155 | Telegram = t.me%2@imokping
 vless://43948622-52bf-4dba-8198-7816518b2e9a@185.143.232.5:80?path=/ccore&security=none&encryption=none&host=jpy.segaltejarat.ir&type=ws#25151 | Telegram = t.me/@imokping
 vless://43e399f2-45b2-4c99-8559-082b35f4b040@185.143.233.235:8080?path=/&security=none&encryption=none&host=d5.artarona.ir&type=ws#25743 | Telegram = t.me/SOSkeyNET
+vless://44de73bc-eb6d-429d-9c2f-ec0a6e4a6681@my.configfast.site:4013?security=none&encryption=none&host=bale.ai,web.splus.ir,igap.net&headerType=http&type=tcp#25751 | Telegram = t.me/SOSkeyNET
+vless://4888fea3-24f9-416d-acec-1b63613bb6ee@snapp.ir:80?path=/PahlaviTeam&security=none&encryption=mlkem768x25519plus.native.0rtt.VnC8i7IdSEuFAvYGW1KGSjti_NKtygg9GT25m-Mgl1Y&host=amyrax.x2n2.ir&type=ws#25753 | Telegram = t.me/SOSkeyNET
 vless://49a87d56-0703-4e39-b662-5e25b08b6cd4@register.mobile-khayam.ir:50121?encryption=none&type=tcp&headerType=none#25604 | Telegram = t.me/SOSkeyNET
 vless://4a5ad880-217e-41de-b3fd-b540d8a5f5a5@www.varzesh3.com:2095?encryption=none&type=ws&path=/chat?ed=128&host=dl2.mizbanertebatfarda.ir#25609 | Telegram = t.me/SOSkeyNET
 vless://4e0bceda-f116-4ebd-a481-c6cfbd32b298@plusred0shop16.lol:80?path=/as&security=&encryption=none&host=plusred0shop16.lol&type=ws#25420 | Telegram = t.me/SOSkeyNET
@@ -150,6 +149,8 @@ vless://53682025-9585-4c81-b677-264be67fd14d@Q1.super-resolve.ir:2086?path=/&sec
 vless://53682025-9585-4c81-b677-264be67fd14d@Q1.super-resolve.ir:2086?path=/&security=none&encryption=none&type=ws#25638 | Telegram = t.me/SOSkeyNET
 vless://54881e9b-3036-4a84-a8fd-9d19c24f4634@snapp.ir:80?encryption=none&host=faraaa.darakio.ir&path=/&security=none&type=ws#25739 | Telegram = t.me/SOSkeyNET
 vless://54c47dee-eaee-417c-9b3c-339c5e00eeb7@trex.docos.tech:443?path=/vless-ws&security=tls&encryption=none&insecure=0&host=trex.docos.tech&fp=chrome&type=ws&allowInsecure=0&sni=trex.docos.tech#t.me/FlashTunnelx
+vless://5637d0dd-27de-43b0-b027-57b8182faf07@185.213.165.81:38024?type=tcp&encryption=none&security=none#25754 | Telegram = t.me/SOSkeyNET
+vless://5637d0dd-27de-43b0-b027-57b8182faf07@185.213.165.81:38024?type=tcp&encryption=none&security=none#25755 | Telegram = t.me/SOSkeyNET
 vless://57296151-a443-4876-9b9f-4872795abd53@snapp.ir:8080?path=/&security=none&encryption=none&type=ws#25717 | Telegram = t.me/SOSkeyNET
 vless://5adb5656-b4c0-411b-b834-a6f3b06d9369@185.143.235.200:8080?path=/&security=&encryption=none&host=dy.borna-otbas.ir&type=ws#25644 | Telegram = t.me/SOSkeyNET
 vless://5bb54450-0e69-40de-a9f5-442c6a2f22fe@snapp.ir:8080?path=/&security=none&encryption=none&host=api.morvaridvps.ir&type=ws#25736 | Telegram = t.me/SOSkeyNET
@@ -157,9 +158,6 @@ vless://5f3d1a2b-a54f-4686-a86c-4a2043876ca2@Snapp.ir:2086?type=ws&encryption=no
 vless://606207dd-23f0-49d9-9746-3943e35b15ab@snapp.ir:80?encryption=none&security=none&type=ws&headerType=none&path=/graphql?ed=2560&host=ss15.limitless-cloud.ir#25703 | Telegram = t.me/SOSkeyNET
 vless://6194972b-1172-4eaa-b65a-8495b9fc5429@snapp.ir:80?path=/&security=none&encryption=none&host=simorgh.garfar.ir&type=ws#25697 | Telegram = t.me/SOSkeyNET
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@78.158.166.180:2096?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&fp=chrome&type=ws&allowInsecure=0&sni=sni.jpmj.dev#[]t.me/Raiv2mmr
-vless://63c4ca5b-61c0-4332-b76c-23def539c883@blubank.sb24.ir:2086?security=none&type=ws&headerType=&path=/path&host=tr-st2.ge9.ir#25581 | Telegram = t.me/SOSkeyNET
-vless://63c4ca5b-61c0-4332-b76c-23def539c883@digipay.ir:2052?security=none&type=ws&headerType=&path=/path&host=tr-st3.ge9.ir#25582 | Telegram = t.me/SOSkeyNET
-vless://63c4ca5b-61c0-4332-b76c-23def539c883@tarvar.ir:8880?security=none&type=ws&headerType=&path=/&host=tr-st.ge9.ir#25580 | Telegram = t.me/SOSkeyNET
 vless://6408f8f3-4d00-4c36-aa0e-b49d09a26a34@arvancloud.ir:2095?path=/Aar,d-F?ed=2086&security=none&encryption=none&host=jswq678j.exinasy.site&type=ws#2https://t.me/ConfigX2ray
 vless://6408f8f3-4d00-4c36-aa0e-b49d09a26a34@arvancloud.ir:2095?path=/Aar,d-F?ed=2086&security=none&encryption=none&host=jswq678j.exinasy.site&type=ws#https://t.me/V2rayng_vpn403
 vless://675edb84-254f-48c7-bd95-0fd3542132b3@digipay.ir:8080?encryption=none&security=none&type=ws&path=/&host=dns-02.dl-toucan.monster#25601 | Telegram = t.me/SOSkeyNET
@@ -179,6 +177,7 @@ vless://6fd828ce-5297-4cde-b7eb-6954d263b0bc@snapp.ir:80?encryption=none&securit
 vless://700b9f8a-795b-474c-a80e-0d9164a67300@snapp.ir:80?encryption=none&host=main.bvps.ir&path=/netv&security=none&type=ws#25669 | Telegram = t.me/SOSkeyNET
 vless://71b308e0-e718-41b5-8c33-13cbebce3fe9@arvancloud.ir:2095?path=/Aar,d-F?ed=2086&security=none&encryption=none&host=jswq678j.exinasy.site&type=ws#9https://t.me/ConfigX2ray
 vless://71b308e0-e718-41b5-8c33-13cbebce3fe9@arvancloud.ir:2095?path=/Aar,d-F?ed=2086&security=none&encryption=none&host=jswq678j.exinasy.site&type=ws#https://t.me/V2rayng_vpn403
+vless://72e1293f-e180-4df5-86fa-e16e7f4103a8@starlink.tino2020.com:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=starlink.tino2020.com#25756 | Telegram = t.me/SOSkeyNET
 vless://74d140ce-c6f4-4166-b0a5-076734c303c7@varzesh3.com:8080?path=/cdn&security=&encryption=none&host=Za.movizdl.ir&type=ws#25419 | Telegram = t.me/SOSkeyNET
 vless://7548bd99-5a5c-44b0-bd87-6600cc637a93@faq.irfallen.shop:34192?encryption=none&type=xhttp&path=/&mode=packet-up#25589 | Telegram = t.me/SOSkeyNET
 vless://75b0cf0e-15bd-428b-b4f2-416195caceee@dl2.20soton.ir:80?security=&type=ws&path=/games/TheLastofUsPartIIRemastered&host=dl2.20soton.ir&encryption=none#25647 | Telegram = t.me/SOSkeyNET
@@ -201,12 +200,10 @@ vless://859185ed-187c-4fdd-8300-4f9e81915086@arira.mnet37255.ir:80?type=ws&encry
 vless://85b12000-6cd9-4403-9ec6-abc565373714@out.newlinemobile.xyz:443?security=reality&encryption=none&type=tcp&sni=www.aparat.com&sid=9ffa25198e88&fp=chrome&pbk=klzunRrpCD-1ELitLDb07YGfB2aFsmC8Bqm8alo_sWc&spx=/G6axndcGkBxXRAc&headerType=none#25746 | Telegram = t.me/SOSkeyNET
 vless://86983dfa-05d9-46fb-8eb9-f9173d44c420@snapp.ir:80?path=/&security=none&encryption=none&host=derakhshan.molvliafor.ir&type=ws#25633 | Telegram = t.me/SOSkeyNET
 vless://86fea107-f32b-428d-8f68-d86a3ded7348@185.143.235.200:2095?type=ws&encryption=none&path=/&host=baz.amirenzohost.ir&security=none#25715 | Telegram = t.me/SOSkeyNET
-vless://89e6e690-6fca-435d-b286-c65a9925a65b@fl1bot-ws.headerip.com:80?path=/&security=none&encryption=none&host=fl1.mv5.ir&type=ws#25585 | Telegram = t.me/SOSkeyNET
 vless://8cab5e7a-f47e-4b5b-af12-566a517b6279@188.121.123.73:443?security=tls&type=ws&headerType=&path=/ws?ed=500&host=&sni=plus.sabavision.com&fp=chrome&pcs=7af8aa0f3d118b625908fcd58693bd64226b8693e47cdde374e6214480decd2e&allowInsecure=1#25707 | Telegram = t.me/SOSkeyNET
 vless://8cab5e7a-f47e-4b5b-af12-566a517b6279@193.151.129.116:443?security=tls&type=ws&headerType=&path=/ws?ed=500&host=&sni=r1-vod.varzesh3.com&fp=chrome&pcs=3308f15fc05422bbd9e15744ed93a67c163c51e8fa625a069cd798d1d3f87059&allowInsecure=1#25708 | Telegram = t.me/SOSkeyNET
 vless://9099c893-7ebc-4bc7-bd95-43c3d05786f2@snapp.ir:80?path=/&security=none&encryption=none&host=derakhshan.molvliafor.ir&type=ws#25622 | Telegram = t.me/SOSkeyNET
 vless://927a7884-9f94-4073-acae-711e20ef793b@fpq.shopiranni.ir:80?encryption=none&host=&path=/2&security=none&type=ws#25607 | Telegram = t.me/SOSkeyNET
-vless://93d741e4-a37f-4fa3-afda-deb40208ff91@tamin.ir:80?type=ws&encryption=none&path=/&host=kawaii.starix.shop&security=none#25587 | Telegram = t.me/SOSkeyNET
 vless://95d38539-4996-4417-9e40-3cc458551043@87.236.215.18:443?security=tls&type=xhttp&headerType=&path=&host=cdn.gapfilm.org&mode=auto&extra={"scMaxEachPostBytes":+1000000,+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false}&sni=cdn.gapfilm.org&fp=chrome&pcs=610792abc1380f3fe53381ed3ba0c1a6a71a893755106d729b9d80e5930ae8be&allowInsecure=1#25705 | Telegram = t.me/SOSkeyNET
 vless://97aaeab2-f8a7-4ec7-b9e2-c5cac9559083@snapp.ir:80?security=none&encryption=none&headerType=none&type=tcp#t.me/ConfigFori  -  Config 73738
 vless://983da2df-bc52-4226-84c1-bbfef0704427@016fab73dd0e5521.freestly.sapienza-mahan.ir:443?mode=auto&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=nazan-baba-z1.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=1&sni=speedtest.net#t.me/ConfigFori  -  Config 73734
@@ -241,16 +238,16 @@ vless://b4770c62-80f6-4257-a0c6-0241d1615297@snapp.ir:8080?security=none&type=ws
 vless://b4770c62-80f6-4257-a0c6-0241d1615297@tarvar.ir:8880?security=none&type=ws&headerType=&path=/&host=tr-st.ge9.ir#25689 | Telegram = t.me/SOSkeyNET
 vless://b4f9fe59-6f6a-4319-be50-dbfe06e44b30@snapp.ir:80?encryption=none&host=kia.pavps.ir&path=/w&security=none&type=ws#25672 | Telegram = t.me/SOSkeyNET
 vless://b5521d21-8b91-4252-aad2-3415cbbc2cee@188.121.124.181:443?security=tls&type=xhttp&headerType=&path=&host=static.cdn.asset.aparat.com&mode=auto&extra={"scMaxEachPostBytes":+1000000,+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false}&sni=static.cdn.asset.aparat.com&fp=chrome&pcs=f562dc60b65f99780e34ce1d5b7074c74e812c346e9c75494905948c12ab60f6&allowInsecure=1#25713 | Telegram = t.me/SOSkeyNET
+vless://b7ff4ee8-6e34-438a-aa4b-7f067c257961@snapp.ir:80?path=/&security=none&encryption=none&host=derakhshan.molvliafor.ir&type=ws#25750 | Telegram = t.me/SOSkeyNET
 vless://ba642e98-3de2-409d-b129-e15767c175ee@varzesh3.com:80?type=ws&encryption=none&path=/ws&host=nobody.fasterspeed.ir&security=none#t.me/ConfigFori  -  Config 73729
 vless://ba642e98-3de2-409d-b129-e15767c175ee@varzesh3.com:80?type=ws&encryption=none&path=/ws&host=nobody.fasterspeed.ir&security=none#t.me/ConfigFori  -  Config 73732
-vless://bac4900f-00fb-474f-8f30-3f58786f7ca9@useredge2.noroozmobarak.com:443?path=/wsloc1001?ed=2560&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=vip1host.ir3dprint.com&fp=chrome&type=ws&allowInsecure=0&sni=vip1host.ir3dprint.com#25579 | Telegram = t.me/SOSkeyNET
 vless://bad1c14e-48e2-4a9f-a194-a732a15e39d0@snapp.ir:80?path=/&security=none&encryption=none&host=play.nexia.cam&type=ws#25691 | Telegram = t.me/SOSkeyNET
 vless://baf7be50-f2e8-40b3-809c-47c4f65bf482@Snapp.ir:80?path=/&security=none&encryption=none&host=mangel.phynanc.ir&type=ws#25655 | Telegram = t.me/SOSkeyNET
+vless://bb734615-2bdc-4bb0-9565-e0bcb266821d@snapp.ir:2083?encryption=none&type=ws&security=tls&path=/&host=post.exitping.store&sni=post.exitping.store&alpn=h2,http/1.1&fp=chrome&allowInsecure=0#25758 | Telegram = t.me/SOSkeyNET
 vless://bd6e4c14-9d2b-4fa8-a3cf-1b74dd78ede7@arvancloud.ir:2095?path=/Aar,d-F?ed=2086&security=none&encryption=none&host=jswq678j.exinasy.site&type=ws#5https://t.me/ConfigX2ray
 vless://bd6e4c14-9d2b-4fa8-a3cf-1b74dd78ede7@arvancloud.ir:2095?path=/Aar,d-F?ed=2086&security=none&encryption=none&host=jswq678j.exinasy.site&type=ws#https://t.me/V2rayng_vpn403
 vless://c158a43e-eb35-4f07-aee9-82fced79d97c@2.verapeak.ir:44321?type=xhttp&encryption=none&path=/&host=&mode=auto&x_padding_bytes=100-1000&extra={"xPaddingBytes":"100-1000"}&security=tls&fp=chrome&alpn=h2,http/1.1&sni=2.verapeak.ir#25421 | Telegram = t.me/SOSkeyNET
 vless://c4ccce89-bfe2-4d27-b649-cc11f9136fd5@snapp.ir:80?path=/&security=none&encryption=none&host=simorgh.garfar.ir&type=ws#25668 | Telegram = t.me/SOSkeyNET
-vless://c52103b5-86ae-4a1e-a808-3482fdab8649@c1.rahnamabist.ir:8080?path=/&security=none&encryption=none&host=s4.pvnet.site&type=ws#25586 | Telegram = t.me/SOSkeyNET
 vless://c7f87ac7-a783-4cac-ac0e-90a12ada85e9@s4.tehranionliine.ir:80?type=ws&path=/&security=none#25682 | Telegram = t.me/SOSkeyNET
 vless://c998f60d-c7cd-4bc1-b0b9-33f6122625ee@185.143.235.200:2082?path=/snapp&security=none&encryption=none&host=sss.aztt.ir&type=httpupgrade#25423 | Telegram = t.me/SOSkeyNET
 vless://ca4da98c-7851-4a9c-9bc0-874e406ef774@snapp.ir:8080?type=ws&security=none&path=/user/login&host=vip.falnqiro.ir#25714 | Telegram = t.me/SOSkeyNET
@@ -272,7 +269,6 @@ vless://d709e3db-0482-450b-9d05-2d816f782e63@snapp.ir:8880?path=/&security=none&
 vless://d808be0d-35c5-4aa6-a61d-418cad2353c6@anten.ir:80?path=@TunizoNET&security=&encryption=none&host=TU.amirenzohost.ir&type=ws#25153 | Telegram = t.me/SO@imokping
 vless://d808be0d-35c5-4aa6-a61d-418cad2353c6@anten.ir:80?path=@TunizoNET&security=&encryption=none&host=TU.amirenzohost.ir&type=ws#25154 | Telegram = t.me/S@imokping
 vless://d90b1b21-1d20-49a3-9466-267fccab9e1c@varzesh3.com:80?path=/&security=none&encryption=none&host=proto.helexm.ir&type=ws#25606 | Telegram = t.me/SOSkeyNET
-vless://d92c9609-23e3-486d-a38e-720104cac82c@195.28.11.225:443?path=/etc/lat/db.php&security=tls&encryption=none&insecure=1&host=i-cod.ir&type=ws&allowInsecure=1#25583 | Telegram = t.me/SOSkeyNET
 vless://da992858-3123-4aea-9bb5-6c8f8d74688d@arvancloud.ir:2095?path=/Aar,d-F?ed=2086&security=none&encryption=none&host=jswq678j.exinasy.site&type=ws#7https://t.me/ConfigX2ray
 vless://da992858-3123-4aea-9bb5-6c8f8d74688d@arvancloud.ir:2095?path=/Aar,d-F?ed=2086&security=none&encryption=none&host=jswq678j.exinasy.site&type=ws#https://t.me/V2rayng_vpn403
 vless://dbfbcc8d-385e-457a-944a-1824dac367f6@arvancloud.ir:2086?encryption=none&type=ws&path=/&host=pro.networkbazaar.ir#25612 | Telegram = t.me/SOSkeyNET
@@ -1046,36 +1042,20 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInQubWUvQ29uZmlnVjJSYXlORyIsDQogICJhZGQi
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInQubWUvQ29uZmlnVjJSYXlORyIsDQogICJhZGQiOiAiMTcyLjY3LjE4My4xMTAiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJ3YXlubi5tYWtldXAiLA0KICAicGF0aCI6ICJsaW5rdndzIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogIndheW5uLm1ha2V1cCIsDQogICJhbHBuIjogIiINCn0=
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInQubWUvQ29uZmlnVjJSYXlORyIsDQogICJhZGQiOiAiMTA0LjIxLjUzLjEyIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsDQogICJhaWQiOiAiMSIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAib3BoZWxpYS5tb20iLA0KICAicGF0aCI6ICJsaW5rdndzIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogIm9waGVsaWEubW9tIiwNCiAgImFscG4iOiAiIg0KfQ==
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInQubWUvQ29uZmlnc0h1YiIsDQogICJhZGQiOiAiMTcyLjY3LjIxNS4yMDIiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwNCiAgImFpZCI6ICIxIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJvY3RhdmkuY2ZkIiwNCiAgInBhdGgiOiAibGlua3Z3cyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJvY3RhdmkuY2ZkIiwNCiAgImFscG4iOiAiIg0KfQ==
-vless://09ece0f4-b156-4b57-88b9-881c80451cc6@185.143.232.201:80?encryption=none&security=none&fp=chrome&type=ws&host=v3.y105.ir&path=/ir#25558 | Telegram = t.me/SOSkeyNET
-vless://09ece0f4-b156-4b57-88b9-881c80451cc6@185.143.234.235:80?encryption=none&security=none&fp=chrome&type=ws&host=d4.y106.ir&path=/ir#25557 | Telegram = t.me/SOSkeyNET
-vless://09ece0f4-b156-4b57-88b9-881c80451cc6@tamin.ir:80?encryption=none&security=none&fp=chrome&type=ws&host=d42.y106.ir&path=/ir#25556 | Telegram = t.me/SOSkeyNET
-vless://09ece0f4-b156-4b57-88b9-881c80451cc6@varzesh3.com:80?encryption=none&security=none&fp=chrome&type=ws&host=v3.y105.ir&path=/ir#25559 | Telegram = t.me/SOSkeyNET
-vless://2067f303-de08-42f4-b365-c87b8b0883d5@snapp.ir:8080?encryption=none&host=vip.darafor.ir&path=/filmirani?ed=2048&security=none&type=ws#25575 | Telegram = t.me/SOSkeyNET
-vless://31646a6a-0cb6-4626-952c-001ac89a7336@v4b.alapayment.com:2052?encryption=none&host=&path=/&security=none&type=ws#25561 | Telegram = t.me/SOSkeyNET
-vless://48e3ec8d-44ce-4542-aa4d-a48573e0d423@94.184.24.235:56001?security=none&encryption=none&headerType=none&type=tcp#25569 | Telegram = t.me/SOSkeyNET
-vless://48e3ec8d-44ce-4542-aa4d-a48573e0d423@94.184.24.235:56001?security=none&encryption=none&headerType=none&type=tcp#25570 | Telegram = t.me/SOSkeyNET
-vless://49f3a12a-1722-4adc-bcb0-4ec20f741914@snapp.ir:80?encryption=none&type=ws&path=/&host=cdn.softnetconnect.ir#25552 | Telegram = t.me/SOSkeyNET
-vless://63c4ca5b-61c0-4332-b76c-23def539c883@snapp.ir:8080?security=none&type=ws&headerType=&path=/path&host=tr-st4.ge9.ir#25578 | Telegram = t.me/SOSkeyNET
-vless://675edb84-254f-48c7-bd95-0fd3542132b3@digipay.ir:8080?encryption=none&security=none&type=ws&path=/&host=dns-02.dl-toucan.monster#https://t.me/Configir98
-vless://7b152be4-c2fb-4631-a7cf-51d5b8c823ef@varzesh3.com:80?path=/ws&security=none&encryption=none&host=nobody.fasterspeed.ir&type=ws#25564 | Telegram = t.me/SOSkeyNET
-vless://8660c4c8-4a64-4a73-ab1b-3e0135dbac73@snapp.ir:80?path=/&security=none&encryption=none&host=derakhshan.molvliafor.ir&type=ws#25565 | Telegram = t.me/SOSkeyNET
-vless://95911e9d-6c05-d01c-7970-ae343d2b715a@varzesh3.com:443?security=tls&type=ws&headerType=none&encryption=none&path=/&host=&sni=cdn-reb-aaa.fasrgobar.ir&fp=chrome&alpn=h2,http/1.1#25560 | Telegram = t.me/SOSkeyNET
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@103.15.90.134:49678?encryption=none&security=tls&sni=babayaga-6i7.pages.dev&type=ws&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram@WangCai2# t.me/Natrixo BB
-vless://a9900ac8-9aab-4bc8-cb0b-ed380627c8aa@193.58.119.134:443?security=&encryption=none&host=google.com&headerType=http&type=tcp#25555 | Telegram = t.me/SOSkeyNET
-vless://ae4bdd4b-cb96-59b3-3463-417766b4379e@snapp.ir:8080?path=/&security=&encryption=none&host=iran.arub.ir&type=ws#25567 | Telegram = t.me/SOSkeyNET
-vless://ae4bdd4b-cb96-59b3-3463-417766b4379e@snapp.ir:8880?path=/&security=&encryption=none&host=iran.arub.ir&type=ws#25566 | Telegram = t.me/SOSkeyNET
-vless://b3176435-46c0-4fb6-bb03-e4a8f9f1c645@185.143.233.43:80?encryption=none&host=Yaghi1.panelbaz.com&path=/&security=none&type=ws#25576 | Telegram = t.me/SOSkeyNET
-vless://b807d311-38d3-4022-9207-98bf8cd4fc65@snapp.ir:8080?type=ws&encryption=none&path=/Embestpro1&host=Cyrus.zomavo.ir&security=none#25571 | Telegram = t.me/SOSkeyNET
-vless://c5948af7-53a0-4435-9c4b-74e3cdef7bd1@185.143.234.235:80?encryption=none&host=login.deltars.ir&path=/&security=none&type=ws#25573 | Telegram = t.me/SOSkeyNET
-vless://c9a40b93-3975-4f98-ab34-57f8674a895f@snapp.ir:2082?path=/&security=none&encryption=none&host=mail.zivotra.ir&type=ws#25562 | Telegram = t.me/SOSkeyNET
-vless://dd23964b-7958-4ac0-b0b1-527fd09251aa@snapp.ir:80?path=/&security=&encryption=none&host=simorgh.garfar.ir&type=ws#25577 | Telegram = t.me/SOSkeyNET
-vless://e9bdfae8-3291-40f1-ac5f-e5c03241f9e2@snappfood.ir:80?path=/&security=none&encryption=none&host=netsecureteam3.ir&type=ws#25574 | Telegram = t.me/SOSkeyNET
-vless://f00b9830-14ee-4a66-9dc9-1682811a3073@sublink.darkping.ir:443?path=/&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=dll1.darkping.ir#25553 | Telegram = t.me/SOSkeyNET
-vless://f00b9830-14ee-4a66-9dc9-1682811a3073@sublink.darkping.ir:443?path=/&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=dll1.darkping.ir#25554 | Telegram = t.me/SOSkeyNET
-vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.158.133:9000?security=&encryption=none&headerType=http&type=tcp#25563 | Telegram = t.me/SOSkeyNET
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@188.214.157.30:990#t.me/OutlineVpnOfficial
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@203.23.128.92:990# t.me/Natrixo AA
-vmess://eyJhZGQiOiI1MS44OS40MS4yMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiIiwiaWQiOiI1YzA0MGYxZC00NWRiLTQzYmQtOGQ0Ni1lNDk1MGU0MzM3MzUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjEyMzQiLCJwcyI6Ilvwn4ep8J+Hql10Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhZXMtMTI4LWdjbSIsInNuaSI6InN1cGVydnBuLnN1cGVyLmNvbSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
+vless://3debe751-c4e8-4848-aa78-70b95df3efd3@snapp.ir:80?security=none&encryption=none&host=hub2.psychodelicoxytocin.ir&type=ws#25584 | Telegram = t.me/SOSkeyNET
+vless://63c4ca5b-61c0-4332-b76c-23def539c883@blubank.sb24.ir:2086?security=none&type=ws&headerType=&path=/path&host=tr-st2.ge9.ir#25581 | Telegram = t.me/SOSkeyNET
+vless://63c4ca5b-61c0-4332-b76c-23def539c883@digipay.ir:2052?security=none&type=ws&headerType=&path=/path&host=tr-st3.ge9.ir#25582 | Telegram = t.me/SOSkeyNET
+vless://63c4ca5b-61c0-4332-b76c-23def539c883@tarvar.ir:8880?security=none&type=ws&headerType=&path=/&host=tr-st.ge9.ir#25580 | Telegram = t.me/SOSkeyNET
+vless://89e6e690-6fca-435d-b286-c65a9925a65b@fl1bot-ws.headerip.com:80?path=/&security=none&encryption=none&host=fl1.mv5.ir&type=ws#25585 | Telegram = t.me/SOSkeyNET
+vless://93d741e4-a37f-4fa3-afda-deb40208ff91@tamin.ir:80?type=ws&encryption=none&path=/&host=kawaii.starix.shop&security=none#25587 | Telegram = t.me/SOSkeyNET
+vless://bac4900f-00fb-474f-8f30-3f58786f7ca9@useredge2.noroozmobarak.com:443?path=/wsloc1001?ed=2560&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=vip1host.ir3dprint.com&fp=chrome&type=ws&allowInsecure=0&sni=vip1host.ir3dprint.com#25579 | Telegram = t.me/SOSkeyNET
+vless://c52103b5-86ae-4a1e-a808-3482fdab8649@c1.rahnamabist.ir:8080?path=/&security=none&encryption=none&host=s4.pvnet.site&type=ws#25586 | Telegram = t.me/SOSkeyNET
+vless://d92c9609-23e3-486d-a38e-720104cac82c@195.28.11.225:443?path=/etc/lat/db.php&security=tls&encryption=none&insecure=1&host=i-cod.ir&type=ws&allowInsecure=1#25583 | Telegram = t.me/SOSkeyNET
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.179:443#t.me/OutlineVpnOfficial | Free | 3242 | United Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#t.me/config_fre
+trojan://humanity@chat.openai.com:443?path=%2Fassignment&security=tls&alpn=h2%2Chttp%2F1.1&host=www.calmlunch.com&fp=chrome&type=ws&sni=www.calmlunch.com#https://t.me/ConfigX2ray
+vmess://eyJhZGQiOiI0NS45MC4xMDYuMjQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiY2hyb21lIiwiaG9zdCI6IiIsImlkIjoiNWMwNDBmMWQtNDVkYi00M2JkLThkNDYtZTQ5NTBlNDMzNzM1IiwiaW5zZWN1cmUiOiIxIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMjM0IiwicHMiOiJb8J+Hs/Cfh7FddC5tZS9Db25maWdzSHViIiwic2N5IjoiYWVzLTEyOC1nY20iLCJzbmkiOiJzdXBlcnZwbi5zdXBlci5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+vmess://eyJhZGQiOiIxNjIuMTkuMjA0LjcxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6ImNocm9tZSIsImhvc3QiOiIiLCJpZCI6IjVjMDQwZjFkLTQ1ZGItNDNiZC04ZDQ2LWU0OTUwZTQzMzczNSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTIzNCIsInBzIjoiW/Cfh6nwn4eqXXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImFlcy0xMjgtZ2NtIiwic25pIjoic3VwZXJ2cG4uc3VwZXIuY29tIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTRGFGSVNyM0dmbTZZa0JTU3JGSUV3d1dqRUVVN1hibw@95.164.10.228:443?#https%3A%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A9%F0%9F%87%B0-Copenhagen-275ms-PQ%20HOSTING%20PLUS%20S.R.L.
 vless://d7dbeb1e-268c-465c-8f59-489f14703efd@5.182.36.251:16331?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=wYtc0dMr5fw5bBQkbLNpTqtu0m4B9NKnOyEWjRJUmzk&sid=910aab&type=tcp&headerType=none#https%3A%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A8%F0%9F%87%AD-Bern-1126ms-PQ%20HOSTING%20PLUS%20S.R.L.
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@192.71.244.150:990?#https%3A%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B8%F0%9F%87%AE-Ljubljana-391ms-Optimus%20IT%20d.o.o.

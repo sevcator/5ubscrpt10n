@@ -1,5 +1,5 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#%3E%3E%40v2ray_configs_pool%3A%3ARO
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@194.14.217.115:989#%F0%9F%87%B7%F0%9F%87%B4RO-194.14.217.115-8257
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@194.14.217.115:989#%F0%9F%87%B7%F0%9F%87%B4RO-194.14.217.115-8177
 vless://85b5cb2e-2617-4930-b6a4-4aeaf3b7b9aa@de.sbrf-cdn342.ru:443?allowInsecure=0&sni=sub.sbrf-cdn342.ru&alpn=http/1.1&flow=xtls-rprx-vision-udp443&fp=qq&security=tls#RO_speednode_0023
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#RO%20%20ROSE109
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTYjV5OE5aZTVRR3hUYkt0S0QwSXha@64.7.198.119:26610#RO%20%20ROSE251

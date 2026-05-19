@@ -69,16 +69,3 @@ vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=%2F&securit
 vless://3e0f8249-3f4e-4368-b31a-23f6af0fdfe4@c1.3.site.azadsb.sbs:8443?path=%2Fazad74562&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&type=ws&sni=siNgle.lenalizmy0ve.ir#%F0%9F%8C%90%20%7C%20null%20%7C%2099999ms%20%7C%20%2A%2A%2A%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%2A%2A%2A-%40SPEEDS_VPN
 vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=ipv4.yasharteam.com&fp=chrome&type=ws&allowInsecure=0&sni=ipv4.yasharteam.com#%F0%9F%8C%90%20%7C%20null%20%7C%2099999ms%20%7C%20configraygan_19
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052/?type=xhttp&encryption=none#%F0%9F%8C%90%20%7C%20null%20%7C%2099999ms%20%7C%20
-vless://606207dd-23f0-49d9-9746-3943e35b15ab@snapp.ir:80?path=/graphql?ed=2560&security=none&encryption=none&host=ss15.limitless-cloud.ir&type=ws#@v2ray_configs_poolIranTehrnping:102.79ms
-vless://606207dd-23f0-49d9-9746-3943e35b15ab@snapp.ir:80?path=/graphql?ed=2560&security=none&encryption=none&host=ss15.limitless-cloud.ir&type=ws#@v2ray_configs_poolIranTehrnping:70.32ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@151.242.69.214:2053?&security=tls&sni=sni.111000.v6.army&type=ws&headerType=none&host=sni.111000.v6.army&path=/?ed=2560#@v2ray_configs_poolThe NetherlandsAmsterdamping:39.16ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@152.70.76.104:46000?&security=tls&fp=chrome&sni=sni.111000.v6.navy&type=ws&headerType=none&host=sni.111000.v6.navy&path=/?ed=2560&Telegram#@v2ray_configs_poolIndiaHyderabadping:193.97ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@64.227.174.213:2053?path=/?ed=2560&Telegram+@WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#@v2ray_configs_poolIndiaBengaluruping:175.42ms
-vless://84ee9d31-a721-4236-bb24-c443705e350d@185.143.232.1:80?path=/&security=none&encryption=none&host=S0.restaurantpro.ir&type=ws#@v2ray_configs_poolIranTehrnping:296.29ms
-vless://98aec3c3-d957-4363-9933-018e533c7c06@freedom.gov:443?security=tls&alpn=http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0#@v2ray_configs_poolCanadaTorontoping:89.36ms
-vless://b832d861-f028-4f64-9b54-7667acab71ef@Snapp.ir:80?path=/&security=none&encryption=none&host=S1.leopanel.ir&type=ws#@v2ray_configs_poolIranTehrnping:67.24ms
-vless://c49fb851-870b-40b7-a249-e3162e0963b3@snapp.ir:80?path=/graphql?ed=2560&security=none&encryption=none&host=ss10.limitless-cloud.ir&type=ws#@v2ray_configs_poolIranTehrnping:70.32ms
-vless://e6d8d743-a9bc-48c9-be99-8f3cc94d16e1@ako.pagate.top:443?allowInsecure=0&sni=ako.pagate.top&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#@v2ray_configs_poolSouth KoreaYangcheondongping:285.82ms
-vless://efae4cd9-b311-47c8-b8fb-72ae91ca9599@varzesh3.com:8080?path=/cdn&security=none&encryption=none&host=Za.movizdl.ir&type=ws#@v2ray_configs_poolIranTehrnping:326.28ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.58.239:8388#@v2ray_configs_poolThe NetherlandsAmsterdamping:28.65ms
-trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@91.184.250.116:2083?security=tls&sni=xo.e0f.cx&type=ws&host=xo.e0f.cx&path=/trojan-ws#@v2ray_configs_poolCzechiaVesel nad Lunicping:39.6ms
