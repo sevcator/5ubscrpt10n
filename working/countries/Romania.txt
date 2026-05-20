@@ -1,5 +1,5 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#%3E%3E%40v2ray_configs_pool%3A%3ARO
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@194.14.217.115:989#%F0%9F%87%B7%F0%9F%87%B4RO-194.14.217.115-8177
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@194.14.217.115:989#%F0%9F%87%B7%F0%9F%87%B4RO-194.14.217.115-8140
 trojan://8r%3C%5B9%27l6hAO%238ZQi@38.180.35.88:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram @WangCai2#%F0%9F%87%B7%F0%9F%87%B4RO_2%7C1.0MB/s
 vless://2001daf3-5c56-4bef-8ea6-8dd0493c5a4c@87.120.93.69:443?allowInsecure=0&sni=www.deepl.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#RO_speednode_0025
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#RO%20%20ROSE109
