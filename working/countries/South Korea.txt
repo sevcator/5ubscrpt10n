@@ -94,9 +94,17 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMjI0Mg@115.161.136.145:10099#KR%20%20ROSE65
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@218.237.185.230:4652#KR%20%20ROSE696
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInBlYXNvZnQtNnzwn4ew8J+Ht19LUl/pn6nlm70tPvCfh7vwn4ezX1ZOX+i2iuWNly13b3JrZXItaXAiLA0KICAiYWRkIjogIm10bi5yYXlhbmNvbmYudGsiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiM2E0ZDRiNTItODFmZi00YWVhLWE0NTEtOTllZDQ1ODdiZmI0IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJyYXlhbmNvbmYucmF5YW5hbmRpc2htYW5kLndvcmtlcnMuZGV2IiwNCiAgInBhdGgiOiAiLzYud3V4aWFubGl1bGlhbm5nLnh5ejo0NDMvbXA0IiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogInJheWFuY29uZi5yYXlhbmFuZGlzaG1hbmQud29ya2Vycy5kZXYiLA0KICAiYWxwbiI6ICJoMixodHRwLzEuMSIsDQogICJmcCI6ICJpb3MiDQp9
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkFXUy1LciIsDQogICJhZGQiOiAianV6aTEuODJhLnh5eiIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICI2NGMxNGYwZi1iZGM2LTQyZDQtYTBjYy1iYWU0MDI5YmQzOTAiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImp1emkxLjgyYS54eXoiLA0KICAicGF0aCI6ICIvIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiINCn0=
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@140.238.17.157:443?encryption=none&security=tls&sni=sni.111000.v6.rocks&type=ws&host=sni.111000.v6.rocks&path=/?ed=2560&https://t.me/WangCai2#KR_564_@Surfboardv2ray
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@218.158.249.174:10000?&security=tls&sni=sni.111000.v6.army&type=ws&headerType=none&host=sni.111000.v6.army&path=/?ed=2560#KR_597_@Surfboardv2ray
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@220.118.83.101:60004?&security=tls&sni=sni.111000.v6.army&type=ws&headerType=none&host=sni.111000.v6.army&path=/?ed=2560#KR_598_@Surfboardv2ray
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@121.165.39.209:18810?&security=tls&sni=sni.111000.v6.army&type=ws&headerType=none&host=sni.111000.v6.army&path=/?ed=2560#KR_554_@Surfboardv2ray
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@14.56.183.228:22105?&security=tls&sni=sni.111000.v6.army&type=ws&headerType=none&host=sni.111000.v6.army&path=/?ed=2560#KR_569_@Surfboardv2ray
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@140.238.17.157:443?encryption=none&security=tls&sni=sni.111000.v6.rocks&type=ws&host=sni.111000.v6.rocks&path=/?ed=2560&https://t.me/WangCai2#KR_570_@Surfboardv2ray
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@218.158.249.174:10000?&security=tls&sni=sni.111000.v6.army&type=ws&headerType=none&host=sni.111000.v6.army&path=/?ed=2560#KR_602_@Surfboardv2ray
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@218.158.249.174:10000?&security=tls&sni=sni.111000.v6.army&type=ws&headerType=none&host=sni.111000.v6.army&path=/?ed=2560#KR_603_@Surfboardv2ray
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@220.118.83.101:60004?&security=tls&sni=sni.111000.v6.army&type=ws&headerType=none&host=sni.111000.v6.army&path=/?ed=2560#KR_604_@Surfboardv2ray
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@220.118.83.101:60004?&security=tls&sni=sni.111000.v6.army&type=ws&headerType=none&host=sni.111000.v6.army&path=/?ed=2560#KR_605_@Surfboardv2ray
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@221.156.228.221:10088?&security=tls&sni=sni.111000.v6.army&type=ws&headerType=none&host=sni.111000.v6.army&path=/?ed=2560#KR_606_@Surfboardv2ray
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@222.97.254.167:34599?&security=tls&sni=sni.111000.v6.army&type=ws&headerType=none&host=sni.111000.v6.army&path=/?ed=2560#KR_607_@Surfboardv2ray
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@222.97.71.115:18786?&security=tls&sni=sni.111000.v6.army&type=ws&headerType=none&host=sni.111000.v6.army&path=/?ed=2560#KR_608_@Surfboardv2ray
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@59.31.107.42:13720?&security=tls&sni=sni.111000.v6.army&type=ws&headerType=none&host=sni.111000.v6.army&path=/?ed=2560#KR_626_@Surfboardv2ray
 trojan://3782591447421952000@sincere-stud.adder289.quest:443#South+Korea
 trojan://3747000103274291200@humble-rodent.treefrog761.one:443#South+Korea
 trojan://3747000103274291200@43.202.142.243:443?peer=humble-rodent.treefrog761.one#South+Korea
@@ -193,9 +201,8 @@ vmess://eyJ2IjpudWxsLCJwcyI6IvCfh7Dwn4e3IEtSIDMiLCJhZGQiOiIxNTIuNjcuMjE4LjM4Iiwi
 vmess://eyJ2IjpudWxsLCJwcyI6IvCfh7Dwn4e3IEtSIDQiLCJhZGQiOiIxNTIuNjcuMjE4LjM4IiwicG9ydCI6NDQzLCJpZCI6ImI1ZTk0ODBhLWI3YWEtNDBhNC1mOWE3LTUyOTliNWUzNjNiNCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjoiMTUyLjY3LjIxOC4zOCIsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjpudWxsLCJmcCI6bnVsbH0=
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.90.63.177:989#%f0%9f%87%b0%f0%9f%87%b7%20KR%205
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.90.62.168:989#%f0%9f%87%b0%f0%9f%87%b7%20KR%206
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@183.99.227.24:26257?&security=tls&sni=sni.111000.v6.army&type=ws&headerType=none&host=sni.111000.v6.army&path=%2F%3Fed%3D2560#[openproxylist.com] vless-KR
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@59.4.161.71:38241?&security=tls&sni=sni.111000.v6.army&type=ws&headerType=none&host=sni.111000.v6.army&path=%2F%3Fed%3D2560#[openproxylist.com] vless-KR
-vmess://eyJhZGQiOiJjaHVuY2hlb24wMy56Z2pvay5jb20iLCJhaWQiOjAsImhvc3QiOiJjaHVuY2hlb24wMy56Z2pvay5jb20iLCJpZCI6IjgxZDVjYWM0LWQwMzktNDg3NC05YTIwLWMzOTFmNTgwMDEyZCIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicG9ydCI6NDQzLCJwcyI6Ilx1ZDgzY1x1ZGRmMFx1ZDgzY1x1ZGRmN1tvcGVucHJveHlsaXN0LmNvbV0gdm1lc3MtS1IiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+vmess://eyJhZGQiOiJjaHVuY2hlb24wMy56Z2pvay5jb20iLCJhaWQiOjAsImhvc3QiOiJjaHVuY2hlb24wMy56Z2pvay5jb20iLCJpZCI6IjgxZDVjYWM0LWQwMzktNDg3NC05YTIwLWMzOTFmNTgwMDEyZCIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicG9ydCI6NDQzLCJwcyI6Ilx1ZDgzY1x1ZGRmMFx1ZDgzY1x1ZGRmN1tvcGVucHJveHlsaXN0LmNvbV0gdm1lc3MtS1IiLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byJ9
 trojan://R5ktplWYd5PU@43.203.193.132:14786?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#KR|GithubTrojanLinks
 trojan://zHckDvqHolUX@3.39.252.238:14825?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#KR|GithubTrojanLinks
 trojan://hFkaShOhZSdh@52.78.143.136:14787?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#KR|GithubTrojanLinks
