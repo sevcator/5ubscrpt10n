@@ -76,18 +76,3 @@ vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=%2F&securit
 vless://3e0f8249-3f4e-4368-b31a-23f6af0fdfe4@c1.3.site.azadsb.sbs:8443?path=%2Fazad74562&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&type=ws&sni=siNgle.lenalizmy0ve.ir#%F0%9F%8C%90%20%7C%20null%20%7C%2099999ms%20%7C%20%2A%2A%2A%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%2A%2A%2A-%40SPEEDS_VPN
 vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=ipv4.yasharteam.com&fp=chrome&type=ws&allowInsecure=0&sni=ipv4.yasharteam.com#%F0%9F%8C%90%20%7C%20null%20%7C%2099999ms%20%7C%20configraygan_19
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052/?type=xhttp&encryption=none#%F0%9F%8C%90%20%7C%20null%20%7C%2099999ms%20%7C%20
-vless://33bce551-0bb9-4da4-bc32-5fa4a401b315@varzesh3.com:80?path=/&security=none&encryption=none&host=proto.helexm.ir&type=ws#@v2ray_configs_poolIranTehrnping:342.89ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.17.101.139:443?host=sni.111000.dynv6.net&path=/?proxyip=ip.111000.de5.net:443&security=tls&sni=sni.111000.dynv6.net&type=ws#@v2ray_configs_poolCanadaTorontoping:42.79ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@138.2.59.112:443?&security=tls&sni=sni.111000.v6.army&type=ws&headerType=none&host=sni.111000.v6.army&path=/?ed=2560#@v2ray_configs_poolJapanMinohping:277.79ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.193.31.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=/?telegram+@wangcai2=&security=tls&sni=sni.111000.indevs.in&type=ws#@v2ray_configs_poolUnited KingdomLondonping:44.64ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@212.183.88.238:2096?path=/?ed=2560&Telegram+@WangCai2&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&type=ws&allowInsecure=1&sni=sni.jpmj.dev#@v2ray_configs_poolAustriaViennaping:43.23ms
-vless://70b0602c-7369-471e-8509-a7c4b9594d22@rfral.aghanami.ir:80?type=ws&encryption=none&path=/&host=&security=none#@v2ray_configs_poolIranTehrnping:66.61ms
-vless://9845df9e-ae65-41a4-8d97-f866b12d9b40@185.143.232.214:443?encryption=none&type=ws&host=api.parhamm2.ir&path=/&security=tls&fp=chrome&sni=api.parhamm2.ir#@v2ray_configs_poolIranTehrnping:326.68ms
-vless://a0bea7fb-405f-43c3-b379-60484c4ec3cc@snapp.ir:80?type=ws&security=none&path=/&host=derakhshan.molvliafor.ir#@v2ray_configs_poolIranTehrnping:103.49ms
-vless://a7b7053c-b1ac-4265-a126-ffa552a26271@free.z1q1.cfd:80?path=/24fh6sv00&security=none&encryption=none&host=free.z1q1.cfd&type=ws#@v2ray_configs_poolIranTehrnping:2120.88ms
-vless://a7b7053c-b1ac-4265-a126-ffa552a26271@free.z1q1.cfd:80?path=/24fh6sv00&security=none&encryption=none&host=free.z1q1.cfd&type=ws#@v2ray_configs_poolIranTehrnping:69.65ms
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?allowInsecure=0&sni=r1.mizulina.top&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#@v2ray_configs_poolUnited KingdomLondonping:60.35ms
-vless://c5f5ad32-efc5-4e9f-819e-5dde6a773460@snappfood.ir:80?path=/margbaramperialism&security=none&encryption=none&host=wss.arciman.ir&type=ws#@v2ray_configs_poolIranTehrnping:71.07ms
-vless://d25e808b-3b4a-4e48-b756-67992c35535e@rfral.aghanami.ir:80?type=ws&encryption=none&path=/&host=&security=none#@v2ray_configs_poolIranTehrnping:65.93ms
-vless://d25e808b-3b4a-4e48-b756-67992c35535e@rfral.aghanami.ir:80?type=ws&encryption=none&path=/&host=&security=none#@v2ray_configs_poolIranTehrnping:66.61ms
-vless://ddcd1590-0484-432a-8395-d089a95aeb1d@rfral.aghanami.ir:80?type=ws&encryption=none&path=/&host=&security=none#@v2ray_configs_poolIranTehrnping:66.61ms
