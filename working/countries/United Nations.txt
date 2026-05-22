@@ -29,7 +29,6 @@ vless://a2b5ed44-6d39-4a41-97e1-c643508d73d9@cf.mtpmio.com:2053?encryption=none&
 vless://6bd94ee9-3c63-43d2-8f19-31570cfbef25@narcod-ping.numallaf.shop:58978?type=tcp&path=/&host=zula.ir&headerType=http&security=none# UN | narcod-ping.numallaf.shop
 vless://c8b6a94f-eb38-4b68-9ae7-fadc7d690e16@mariz.kuckenpq.ir:8880?security=&encryption=none&host=zula.ir&headerType=http&type=tcp# UN | mariz.kuckenpq.ir
 vless://c8b6a94f-eb38-4b68-9ae7-fadc7d690e16@dlarm.kuckenpq.ir:8880?security=&encryption=none&host=zula.ir&headerType=http&type=tcp# UN | dlarm.kuckenpq.ir
-vless://78a9bf4f-3bec-48b2-b98f-a3f8151506ac@europeless.duckdns.org:443?security=tls&sni=europeless.duckdns.org&fp=random&type=ws&path=/getupdates&host=europeless.duckdns.org&encryption=none# UN | europeless.duckdns.org
 vless://651a858c-2975-4b96-96b7# UN | 651a858c-2975-4b96-96b7
 vless://5c5b3529-57b9-638b-9998-a2c0e4e26981@melli.ciliko.ir:2096?security=none&encryption=none&headerType=none&type=tcp# UN | melli.ciliko.ir
 vless://15a8a868-ddd3-4a8c-bf7a-bb81671bf157@f1.springpaatogh8.store:2053?path=/?ed=2560&security=tls&encryption=none&host=chess.sorza.ir&type=ws&sni=digikala.sorza.ir# UN | f1.springpaatogh8.store
@@ -56,3 +55,4 @@ trojan://humanity@127.0.0.1:40443?security=tls&sni=www.creationlong.org&insecure
 ss://eyJhZGQiOiI5NC4yMzcuNDkuNDciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNDZhMTU2ZjUtZmU3Yi00NDY2LThmNDYtYTA4NDQ3YjFlYmFlIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0NDMiLCJwcyI6IvCfqrciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9# UN | eyJhZGQiOiI5NC4yMzcuNDkuNDciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNDZhMTU2ZjUtZmU3Yi00NDY2LThmNDYtYTA4NDQ3YjFlYmFlIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0NDMiLCJwcyI6IvCfqrciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNjg6MjUyOTQ# UN | YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNjg6MjUyOTQ
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhHQDg1LjIwOC4xMDguMTg6NzAwMg# UN | YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhHQDg1LjIwOC4xMDguMTg6NzAwMg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjakxDZUExTms0S0dwU2RaRVZ4V2pnN25FVGMzRkpfZ0AxODguMTIxLjEyMy4xODk6NDA1MA==# UN | Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjakxDZUExTms0S0dwU2RaRVZ4V2pnN25FVGMzRkpfZ0AxODguMTIxLjEyMy4xODk6NDA1MA==
