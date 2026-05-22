@@ -6,12 +6,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvait
 trojan://8r%3C%5B9%27l6hAO%238ZQi@46.102.156.144:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram @WangCai2&Host=Koma-YT.PAGeS.Dev#%F0%9F%87%A6%F0%9F%87%B9AT-46.102.156.144-1754
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3NWRyQUw3UGZDSXdRMnljVXVvRHNWMkxz@212.113.106.243:13022#%F0%9F%87%A6%F0%9F%87%B9AT-212.113.106.243-8345
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQMnp4WFBld2xWM0JsZnFxWWlTdGh2dExj@212.113.106.243:12949#%F0%9F%87%A6%F0%9F%87%B9AT-212.113.106.243-8346
-vless://10e82fcc-94ec-4d09-8855-579bb55b77e4@212.113.119.67:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=N0QyBaacGqSpRv_Ib4jsSx5A1kfE8IE1w0HcDB5w1BE&security=reality&sni=www.google.com&type=tcp#AT_167_@Surfboardv2ray
-vless://256c5f48-4908-4255-83d1-c86cb58f22b4@austria.denditop.site:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&sid=9c2378562188c3cb&sni=&spx=/#AT_272_@Surfboardv2ray
-vless://256c5f48-4908-4255-83d1-c86cb58f22b4@austria.denditop.site:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&sid=9c2378562188c3cb&sni=austria.denditop.site&spx=/#AT_273_@Surfboardv2ray
-vless://256c5f48-4908-4255-83d1-c86cb58f22b4@austria.denditop.site:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&sid=9c2378562188c3cb&sni=austria.denditop.site&spx=/#AT_274_@Surfboardv2ray
-vless://256c5f48-4908-4255-83d1-c86cb58f22b4@austria.denditop.site:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&sid=9c2378562188c3cb&sni=austria.denditop.site&spx=/#AT_275_@Surfboardv2ray
-vless://8f8380ae-9f5d-4cb5-8f5f-0f70fbe054a9@152.53.1.32:7443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&security=reality&sid=d82fb387&sni=chat.deepseek.com&type=tcp#AT_954_@Surfboardv2ray
+vless://10e82fcc-94ec-4d09-8855-579bb55b77e4@178.22.31.178:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=N0QyBaacGqSpRv_Ib4jsSx5A1kfE8IE1w0HcDB5w1BE&security=reality&sni=www.google.com&type=tcp#AT_163_@Surfboardv2ray
+vless://10e82fcc-94ec-4d09-8855-579bb55b77e4@212.113.119.67:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=N0QyBaacGqSpRv_Ib4jsSx5A1kfE8IE1w0HcDB5w1BE&security=reality&sni=www.google.com&type=tcp#AT_165_@Surfboardv2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXQUtJWHF0bE1TRDdmYUxETkg5VjROQDQ1LjMzLjMwLjg6MTg3ODk#%F0%9F%91%89%F0%9F%86%94%20@v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%BA%F0%9F%87%B8United%20States%0A%0AV2RAY_CONFIGS_POOL,%20%5BSep%2015,%202024%20at%204:54%C2%A0AM%5D
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@94.177.8.26:130?allowInsecure=0&sni=juzi8186.5112233.xyz&type=ws&host=juzi8186.5112233.xyz&path=/?ed=2560fp=chrome&security=tls#15|AT_speednode_0002
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@212.183.88.242:443?allowInsecure=0&sni=dw.ylks.xyz&type=ws&host=dw.ylks.xyz&path=/bluesecurity=tls#15|AT_speednode_0003
@@ -22,8 +18,6 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.180.12.81:989#%F0%9F%87%A6%F0%
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@212.183.88.238:2096?host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&sni=sni.jpmj.dev&type=ws#%F0%9F%87%A6%F0%9F%87%B9_AT_%E5%A5%A5%E5%9C%B0%E5%88%A9
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.235.56.69:989#%f0%9f%87%a6%f0%9f%87%b9%20AT%201
 vless://8f8380ae-9f5d-4cb5-8f5f-0f70fbe054a9@152.53.1.32:7443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&security=reality&sid=d82fb387&sni=chat.deepseek.com&type=tcp#[openproxylist.com] vless-AT
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@37.235.56.69:990#%F0%9F%87%A6%F0%9F%87%B9AT-37.235.56.69-0159
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.235.56.69:989#%F0%9F%87%A6%F0%9F%87%B9AT-37.235.56.69-0163
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@37.235.56.69:990?#%F0%9F%87%A6%F0%9F%87%B9%20Vienna%2C%209%2C%20Austria
 ss://YWVzLTI1Ni1nY206WWh6cU9lSnNmdVo5cmtrYw==@149.102.132.186:80?type=tcp#/Austria
 vmess://eyJ2IjogIjIiLCAicHMiOiAiUmVsYXkg8J+HpvCfh7kgQXVzdHJpYShDaGF0R1BUKSAwLi4uIiwgImFkZCI6ICIxMTcuMTY0LjE4NS4yMjEiLCAicG9ydCI6ICIxNjMwOCIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImMwMGYyOGM0LTUzMTItMzA0MS04ZGJjLWNiOGQ5Yjk4Zjg2MiJ9
