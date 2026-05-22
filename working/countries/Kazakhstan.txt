@@ -9,9 +9,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVenRIR3c3b3FzZ0NnUTZFdmxYbFNt@kazakhstan28.c
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYzI3YTMwMTJkODFhNDRj@213.156.137.142:43660#KZ%20%20ROSE89
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphODIwMWJiZDc0MDQyMGJi@213.156.137.142:43659#KZ%20%20ROSE90
 vmess://eyJhZGQiOiI4OS4yMTguMTUuMTAwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImI2NDRjMzljLTk1OWItMTFlZi05NjM2LTM3MDQyMzM2ZDI1OSIsIm5ldCI6IndzIiwicGF0aCI6Ii92cG5qYW50aXQiLCJwb3J0IjoiMTAwMDAiLCJwcyI6IkthemFraHN0YW7wn4ew8J+Hv0B6YWJ1emFfc2hvcCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.59.5.138:2096?encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#KZ_645_@Surfboardv2ray
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.43.179.191:443?allowInsecure=1&encryption=none&host=sni.my111000.tech&path=/&security=tls&sni=sni.my111000.tech&type=ws#KZ_664_@Surfboardv2ray
-vless://8ae40bd9-f769-4b1b-bf89-fde9d5afc4c5@fa.gamingserverstream.ir:443?path=/&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=pmeli.express-servers.ir#KZ_924_@Surfboardv2ray
 vless://70ef0e6e-0492-4132-a226-1689aff3e3eb@194.76.18.46:8080?security=none&type=httpupgrade&host=mahil1.hal-ma.info&path=/?ed%3D2087# VL-HTTPUPGRADE-NONE  KZ-194.76.18.46:8080
 vless://d0f9437f-3c49-45c6-976b-ebea24158b39@194.76.18.46:2082?security=none&type=httpupgrade&host=finhztco.nipytee.info&path=%2F# VL-HTTPUPGRADE-NONE  KZ-194.76.18.46:2082
 vless://d0f9437f-3c49-45c6-976b-ebea24158b39@194.76.18.237:2082?security=none&type=httpupgrade&host=finhztco.nipytee.info&path=%2F# VL-HTTPUPGRADE-NONE  KZ-194.76.18.237:2082
