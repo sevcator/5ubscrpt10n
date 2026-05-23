@@ -1,4 +1,5 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.217:8080#@v2ray_configs_poolThe NetherlandsAmsterdam (Amsterdam-Noord)ping:42.56ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4U2NhMUhvL0R3ditDYlNMRndZT01rMmZjRGg1VjFvemRZUzFiSzZsalpVPQ@cpcalendars.hajimamadcloud.com:29765?type=tcp#Bulgaria, Sofia |  IP: 216.147.121.8 | ping:711.02ms |  @NamazVPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#@v2ray_configs_poolThe NetherlandsAmsterdamping:45.41ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.204:8080#@v2ray_configs_poolThe NetherlandsAmsterdam (Amsterdam-Noord)ping:37.46ms
 trojan://humanity@2.144.2.51:443?security=tls&sni=www.ignitelimit.com&alpn=h2&fp=chrome&type=ws&host=www.ignitelimit.com&path=/assignment#France, Paris |  IP: 51.15.243.182 | ping:2658.98ms |  @NamazVPN
@@ -13,7 +14,6 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.251.45:443?ed=2560&eh=Sec-We
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.19.35.169:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.latonyamadeline.ndjp.net&path=/?https://t.me/wangcai2=&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws#@v2ray_configs_poolCanadaTorontoping:42.96ms
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@96.9.226.188:443?encryption=none&security=tls&sni=sni.111000.v6.rocks&type=ws&host=sni.111000.v6.rocks&path=/?ed=2560&https://t.me/WangCai2#@v2ray_configs_poolCanadaToronto (Old Toronto)ping:116.35ms
 vless://734e7cbd-57b0-421d-a27b-7a811d0cba54@snapp.ir:2086?type=ws&security=none&path=/&host=sv1.nopp.ir&encryption=none#Trkiye, Istanbul |  IP: 185.226.92.175 | ping:1699.17ms |  @NamazVPN
-vless://7621006b-93f0-42b2-85cd-a807d0d42c98@snapp.ir:80?type=ws&encryption=none&path=/&host=do.pupload.ir&security=none#Trkiye |  IP: 2a13:a440:9:80::1 | ping:401.62ms |  @NamazVPN
 vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?encryption=none&security=none&type=tcp#@v2ray_configs_poolItalySizianoping:36.56ms
 vless://a01daac7-1e65-4645-854d-b47d226f6b08@104.18.12.149:443?path=/&security=tls&encryption=none&host=y6-3cj.PAgES.DEV&type=ws&sni=y6-3cj.PAgES.DEV#@v2ray_configs_poolCanadaTorontoping:46.79ms
 vless://aa3e8bb7-d554-4a8d-bbb4-2b0948d3c8c6@dns.sane-new-eb.net:8080?encryption=none&security=none&type=grpc&headerType=none&mode=gun#@v2ray_configs_poolGermanyFalkensteinping:62.6ms
@@ -22,6 +22,7 @@ vless://aa3e8bb7-d554-4a8d-bbb4-2b0948d3c8c6@noc.sane-new-eb.net:8080?encryption
 vless://aa3e8bb7-d554-4a8d-bbb4-2b0948d3c8c6@portal.sane-new-eb.net:8080?encryption=none&security=none&type=grpc&headerType=none&mode=gun#@v2ray_configs_poolTurkeyBaakehirping:110.2ms
 vless://abbff0f3-741b-f33f-8773-ebbb65ae8d8d@snapp.ir:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=cdn.fars-rehan.ir#@v2ray_configs_poolIranTehrnping:68.58ms
 vless://e7d85765-88bf-4716-82fa-3deb154778ad@s3.tehranionliine.ir:80?type=ws&path=/&security=none#@v2ray_configs_poolIranTehrnping:132.8ms
+vless://faa634db-ac40-48b7-92cc-28c763312b8a@sub.degeristcs.ir:2052?encryption=none&host=vip.degeristcs.ir&path=/&security=none&type=ws#Trkiye |  IP: 158.94.216.37 | ping:393.85ms |  @NamazVPN
 vless://fbc1777d-f73c-4804-8212-70c008b8fe5a@31.14.116.74:443?mode=auto&path=/&security=reality&encryption=none&extra={"xPaddingBytes":"100-1000"}&pbk=PJe8eZp_kumcwDXcR7j375o1K9K906tpEGhD0-GPCz8&host=aparat.com&fp=chrome&spx=/&type=xhttp&sni=aparat.com&sid=93#France |  IP: 141.95.8.243 | ping:7074.16ms |  @NamazVPN
 vless://fbc1777d-f73c-4804-8212-70c008b8fe5a@31.14.116.74:443?mode=auto&path=/&security=reality&encryption=none&extra={"xPaddingBytes":"100-1000"}&pbk=PJe8eZp_kumcwDXcR7j375o1K9K906tpEGhD0-GPCz8&host=aparat.com&fp=chrome&spx=/&type=xhttp&sni=aparat.com&sid=93#France |  IP: 141.95.8.243 | ping:8848.76ms |  @NamazVPN
 vless://fbc1777d-f73c-4804-8212-70c008b8fe5a@31.14.116.74:443?security=reality&sni=aparat.com&type=xhttp&host=aparat.com&path=/&fp=chrome&pbk=PJe8eZp_kumcwDXcR7j375o1K9K906tpEGhD0-GPCz8&sid=93#France |  IP: 141.95.8.243 | ping:5072.87ms |  @NamazVPN
@@ -71,3 +72,4 @@ vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=%2F&securit
 vless://3e0f8249-3f4e-4368-b31a-23f6af0fdfe4@c1.3.site.azadsb.sbs:8443?path=%2Fazad74562&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&type=ws&sni=siNgle.lenalizmy0ve.ir#%F0%9F%8C%90%20%7C%20null%20%7C%2099999ms%20%7C%20%2A%2A%2A%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%2A%2A%2A-%40SPEEDS_VPN
 vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=ipv4.yasharteam.com&fp=chrome&type=ws&allowInsecure=0&sni=ipv4.yasharteam.com#%F0%9F%8C%90%20%7C%20null%20%7C%2099999ms%20%7C%20configraygan_19
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052/?type=xhttp&encryption=none#%F0%9F%8C%90%20%7C%20null%20%7C%2099999ms%20%7C%20
+vless://7621006b-93f0-42b2-85cd-a807d0d42c98@snapp.ir:80?type=ws&encryption=none&path=/&host=do.pupload.ir&security=none#Trkiye |  IP: 2a13:a440:9:80::1 | ping:401.62ms |  @NamazVPN
