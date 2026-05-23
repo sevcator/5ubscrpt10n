@@ -331,12 +331,11 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkZSX0BiYWlwaWFvMDEiLA0KICAiYWRkIjogImRl
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkZSX0BiYWlwaWFvMDEiLA0KICAiYWRkIjogImRlLnYyLXJheS5jb20iLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiMWZkYWRhMGYtMjdjYi00NmIzLWExZGMtMmU0NmQyYjkwMWFiIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJkZS52Mi1yYXkuY29tIiwNCiAgInBhdGgiOiAiL2Zhc3Rzc2gvNDN0MzRndDQvNjJkN2NiYzcyMmNkYS8iLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiIg0KfQ==
 trojan://0f5e6d9a-49af-4bc0-b04b-503102382144@51.195.219.173:443?allowInsecure=1&sni=ukt1.sshocean.net#FR_AzadNet
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSRkszOENnN0FQbmVTQjVjV0RjcGJt@switcher-nick-croquet.freesocks.work:443#FR%E6%B3%95%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.10.101:22224?type=ws&amp%3Bsecurity=tls&amp%3Bpath=/telegram-channel-vlessconfig&amp%3Bsni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20VLESS%20%7C%20%40vlessconfig%20%231
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.60.29:22224?type=ws&amp%3Bsecurity=tls&amp%3Bpath=/telegram-channel-vlessconfig&amp%3Bsni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20VLESS%20%7C%20%40vlessconfig%20%232
 trojan://humanity@104.20.6.134:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#[openproxylist.com] trojan-FR
+trojan://humanity@sourceforge.net:443?path=/assignment&security=tls&alpn=http/1.1&host=www.calmloud.com&fp=chrome&type=ws&sni=www.calmloud.com#[openproxylist.com] trojan-FR
 trojan://humanity@104.20.6.134:443?type=ws&security=tls&path=%2Fassignment&host=www.ignitelimit.com&sni=www.ignitelimit.com&allowInsecure=0#[openproxylist.com] trojan-FR
-trojan://8r%3C%5B9%27l6hAO%238ZQi@146.19.168.188:8443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%AB%F0%9F%87%B7FR%E6%B3%95%E5%9B%BD
-trojan://telegram-id-privatevpns@35.181.10.101:22222?security=tls&amp%3Balpn=http/1.1&amp%3BheaderType=none&amp%3Btype=tcp&amp%3Bsni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20TROJAN%20%7C%20%40privatevpns%20%231
+vless://256c5f48-4908-4255-83d1-c86cb58f22b4@fr.denditop.site:443?security=reality&encryption=none&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=fr.denditop.site&sid=9c2378562188c3cb#[openproxylist.com] vless-FR
+vless://15cbab96-197e-46a5-9042-073b3980c798@213.136.69.8:80?encryption=none&host=fsdns.ectunnelvpn.me&path=%2Fvless&security=none&type=ws#??[openproxylist.com] vless-FR
 trojan://(VuRWFIPsAhP@13.38.109.97:14828?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#FR|GithubTrojanLinks
 trojan://jESPFD2DoPwn@13.38.44.244:14796?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#FR|GithubTrojanLinks
 vless://0f5952a5-56f4-435b-8688-91661295a445@bforward2.samsung.sony.yahoo.samsung.cloudflare.lg.nokia.android.bforward.uk:8080?path=%2F&security=none&encryption=none&type=ws#//France/Paris

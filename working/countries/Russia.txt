@@ -73,11 +73,6 @@ vmess://eyJhZGQiOiJsaXZlLjk4OWJ1bGwuY29tIiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEu
 vmess://eyJhZGQiOiJydTFhLmFpODg4ODgudG9wIiwiYWlkIjoiMCIsImhvc3QiOiJydTFhLmFpODg4ODgudG9wIiwiaWQiOiJjOTdjZjQ2ZS0xNTU0LTM2Y2ItOGIzNi1jMzU1NmI4ODNkYzQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcnUxYS1SYXlqOHh4VzliVyIsInBvcnQiOiI4MCIsInBzIjoi8J+Ht/Cfh7pSVS00NS4xMzYuMjQ0LjE4MS0wMTI3Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiJsaXZlLjk4OWJ1bGwuY29tIiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiZmlyZWZveCIsImhvc3QiOiJEYmRqaGl3NzJlYnN1MjcyaHM1MTlqLmNvbSIsImlkIjoiNjY4MzNlMmYtZGNhMS00NTkxLTk1MWMtMTM5MmFjZTBiMmY2IiwibmV0Ijoid3MiLCJwYXRoIjoid3MvP2VkXHUwMDNkMjA0OCIsInBvcnQiOiI0NDMiLCJwcyI6IkBHb2xlc3Rhbl9WUE4gLSDwn4e38J+HuiBSdXNzaWEiLCJzY3kiOiJhdXRvIiwic25pIjoibGl2ZS45ODlidWxsLmNvbSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiJsaXZlLjk4OWJ1bGwuY29tIiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiZmlyZWZveCIsImhvc3QiOiJEYmRqaGl3NzJlYnN1MjcyaHM1MTlqLmNvbSIsImlkIjoiOWFiNmQ3YjQtY2QwOC00NTEwLThiY2EtYTAxZjQ2MWY4ZWI1IiwibmV0Ijoid3MiLCJwYXRoIjoid3MvP2VkXHUwMDNkMjA0OCIsInBvcnQiOiI0NDMiLCJwcyI6IkBHb2xlc3Rhbl9WUE4gLSDwn4e38J+HuiBSdXNzaWEiLCJzY3kiOiJhdXRvIiwic25pIjoibGl2ZS45ODlidWxsLmNvbSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.60.223.8:989#%F0%9F%87%B7%F0%9F%87%BARU-38.60.223.8-0159
-ss://YWVzLTI1Ni1nY206Y2ZlNjg1NzI2ZWVhMmM0Yg==@45.140.169.244:30129#%F0%9F%87%B7%F0%9F%87%BARU-45.140.169.244-0403
-ss://YWVzLTI1Ni1nY206YzVmY2RmNzgyOTExMmNiNA==@45.140.169.216:30120#%F0%9F%87%B7%F0%9F%87%BARU-45.140.169.216-0397
-ss://YWVzLTI1Ni1nY206OWYzZDFhNmQzMTQ2ODU5OQ==@195.58.49.9:20129#%F0%9F%87%B7%F0%9F%87%BARU-195.58.49.9-0401
-ss://YWVzLTEyOC1nY206Njc4NGFlZTItMGRmZS00NzRmLTg0NDYtNDgwMjU5ZmY5OTE4@ru.safepass.click:442#%F0%9F%87%B7%F0%9F%87%BARU-45.139.25.43-0243
 vmess://eyJ2IjogIjIiLCAiYWRkIjogIjQ1LjEzMC4xNDcuMTc4IiwgInBvcnQiOiA0MDA0NSwgImlkIjogIjU4YjU1N2FlLWZlNWYtNGFhYS05MTZlLThjODYyOTk2YzdjZCIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgImhvc3QiOiAiNDUuMTMwLjE0Ny4xNzgiLCAicGF0aCI6ICIvIiwgInRscyI6ICIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZjdcdWQ4M2NcdWRkZmFSdXNzaWEifQ==`
 vless://3a28cf29-3792-4947-bb3d-0b1c233582a7@147.45.113.72:808?security=reality&sni=wordpress.org&type=grpc&fp=chrome&pbk=qc392pDgnWNsggwZQWReiwvGE5as_hazAAFf7FgUoSw&sid=19a8d4582f5cf205# VL-GRPC-RLT  RU-147.45.113.72:808
 vless://deac86ca-5d50-4c27-9989-cc7cddac248d@45.67.32.147:14875?security=reality&flow=xtls-rprx-vision&sni=yahoo.com&type=tcp&fp=random&pbk=2mte9DEeo0OwNppy36bIfMqAXL4yLiFbhDqOGXu8XVI&sid=e34371db# VL-TCP-RLT  RU-45.67.32.147:14875
@@ -127,13 +122,6 @@ vless://eb071647-72a6-46be-8e89-ff3d228d52f6@at.jojack.ru:443/?type=tcp&encrypti
 vless://eb071647-72a6-46be-8e89-ff3d228d52f6@nl.jojack.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=nl.jojack.ru&fp=chrome&security=reality&pbk=sxyxV0_y1o09gKJBL9AJJyRSEg6MiYK0j-kb5unzHh4&sid=6bb3c7f9f97b45b8#RU%20VLESS-1032%20%7C%20free-nodes
 vless://8a9fff15-c1d3-4e0f-fdda-dc1c4c2305ca@5.42.107.242:59062?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%B7%F0%9F%87%BA%20RU-5.42.107.242%3A59062
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.60.223.8:989#%f0%9f%87%b7%f0%9f%87%ba%20RU%201
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNlpDSGVhYlVTZktqZlFFdko0SERW@185.242.86.156:54170#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF
-trojan://8r%3C%5B9%27l6hAO%238ZQi@77.221.143.81:2053?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF2
-trojan://8r%3C%5B9%27l6hAO%238ZQi@176.124.201.78:2053?security=tls&type=ws&sni=Koma-YT.PAGeS.Dev&path=/trTelegram @WangCai2#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF3
-trojan://8r%3C%5B9%27l6hAO%238ZQi@212.113.112.236:8443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF4
-trojan://8r%3C%5B9%27l6hAO%238ZQi@46.8.71.206:8443?security=tls&type=ws&sni=Koma-YT.PAGeS.Dev&path=/trTelegram @WangCai2#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF5
-trojan://8r%3C%5B9%27l6hAO%238ZQi@185.233.80.60:2053?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF6
-trojan://8r%3C%5B9%27l6hAO%238ZQi@62.182.196.202:8443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF7
 vless://0f5952a5-56f4-435b-8688-91661295a445@bforward2.samsung.sony.yahoo.samsung.cloudflare.lg.nokia.android.bforward.uk:8080?path=%2F&security=none&encryption=none&type=ws#//Russia/Moscow
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.232.140.43:443?allowInsecure=1&encryption=none&host=sni.111000.cc.cd&path=%2F&security=tls&sni=sni.111000.cc.cd&type=ws#/Russia
 vmess://eyJ2IjogIjIiLCAicHMiOiAiUmVsYXlfLfCfh7fwn4e6UlVfMjI2IiwgImFkZCI6ICJydTEubm5ubjIuYnV6eiIsICJwb3J0IjogMjU1NjYsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAidGxzIiwgImlkIjogIjVjMDkzYWFmLTU3M2YtNDBkYy1iNGM2LWIzNjMwNTVmYWU5ZiJ9
