@@ -1,3 +1,6 @@
+vless://8d121722-0445-47ff-946e-6b30485cde5f@tamin.ir:8880?path=/stream&security=none&encryption=none&host=test.mashinito.ir&type=ws#Germany, Frankfurt am Main |  IP: 31.184.246.144 | ping:812.7ms |  @NamazVPN
+vless://8d121722-0445-47ff-946e-6b30485cde5f@tamin.ir:8880?path=/stream&security=none&encryption=none&host=test.mashinito.ir&type=ws#Germany, Frankfurt am Main |  IP: 31.184.246.144 | ping:877.36ms |  @NamazVPN
+vless://b8f50e36-5a62-4188-9b8e-64693d0ddf56@snapp.ir:80?type=ws&security=none&path=/&host=derakhshan.molvliafor.ir#Germany, Frankfurt am Main |  IP: 2a01:4240:0:1::6d:f3dd | ping:2011.35ms |  @NamazVPN
 vless://c24a32f1-b645-47da-98a3-1e7c713229c1@104.18.12.149:8880?path=/api&security=none&encryption=none&host=armenia.chatgpt.com.siasia.ir&type=httpupgrade#Armenia(@proSSH)
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@146.185.248.22:989#%F0%9F%87%A6%F0%9F%87%B2AM-146.185.248.22-8755
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwTnFuWWYza0hlc09wQ2NoUnZVWnhmd1RhZlJzT2o3Zw@213.159.76.21:443#AM%20%20ROSE411
