@@ -1,3 +1,1 @@
-trojan://1234567890@178.17.48.170:443?allowInsecure=0&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/#IQ_speednode_0066
-trojan://1234567890@178.17.48.170:443?allowInsecure=0&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/?ed=2560#IQ_speednode_0067
-trojan://1234567890@178.17.48.78:443?allowInsecure=0&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/?ed=2560#IQ_speednode_0068
+vless://69a2af58-d74a-44ca-864a-e09b493f4274@de-wail.dataload-cdn.ru:8443?allowInsecure=0&sni=www.vk.ru&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%AE%F0%9F%87%B6IQ_1%7C1.2MB/s
