@@ -82,11 +82,11 @@ vmess://ewogICAgImFkZCI6ICIyMTEuMjQ4LjIxNi4xMTkiLAogICAgImFpZCI6IDAsCiAgICAiaG9z
 ss://YWVzLTI1Ni1jZmI6ZG91Yi5pbw==@43.202.49.222:2333#%F0%9F%87%B0%F0%9F%87%B7KR-43.202.49.222-8233
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.201.108.109:443#%F0%9F%87%B0%F0%9F%87%B7KR-43.201.108.109-8234
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@125.141.26.5:2003#%F0%9F%87%B0%F0%9F%87%B7KR-125.141.26.5-8832
-ss://bm9uZTo1OWZjNWY4Yy01Njk3LTRlYjgtYWNmMi04YWUzNjNmMjAzYTI=@218.150.34.228:10912#%F0%9F%87%B0%F0%9F%87%B7KR_1%7C1.1MB/s
-ss://bm9uZTo1OWZjNWY4Yy01Njk3LTRlYjgtYWNmMi04YWUzNjNmMjAzYTI=@221.150.96.18:10162#%F0%9F%87%B0%F0%9F%87%B7KR_2%7C1.0MB/s
-ss://bm9uZTo1OWZjNWY4Yy01Njk3LTRlYjgtYWNmMi04YWUzNjNmMjAzYTI=@58.151.107.230:14000#%F0%9F%87%B0%F0%9F%87%B7KR_3%7C1.3MB/s
-ss://bm9uZTo1OWZjNWY4Yy01Njk3LTRlYjgtYWNmMi04YWUzNjNmMjAzYTI=@121.180.225.222:16000#%F0%9F%87%B0%F0%9F%87%B7KR_4%7C1.3MB/s
-vless://bafacd98-136a-4530-838d-4e5c51838dac@14.52.210.173:12312?allowInsecure=0&sni=juzi8186.qea.ccwu.cc&type=ws&host=juzi8186.qea.ccwu.cc&path=/fp=firefox&security=tls#%F0%9F%87%B0%F0%9F%87%B7KR_5%7C1.2MB/s
+vless://26524cce-d514-4014-a426-365fb266a14d@112.72.253.34:11371?sni=qznql.node-proxy.chinat.indevs.in&type=ws&host=qznql.node-proxy.chinat.indevs.in&path=/danfeng?ed=2560fp=firefoxfp=chrome&security=tls#%F0%9F%87%B0%F0%9F%87%B7KR_4%7C2.0MB/s
+vless://26524cce-d514-4014-a426-365fb266a14d@125.135.9.231:20201?allowInsecure=0&sni=qznql.node-proxy.chinat.indevs.in&type=ws&host=qznql.node-proxy.chinat.indevs.in&path=/danfeng?ed=2560fp=firefox&security=tls#%F0%9F%87%B0%F0%9F%87%B7KR_1%7C2.0MB/s
+vless://26524cce-d514-4014-a426-365fb266a14d@220.94.34.138:18852?allowInsecure=0&sni=qznql.node-proxy.chinat.indevs.in&type=ws&host=qznql.node-proxy.chinat.indevs.in&path=/danfeng?ed=2560fp=firefox&security=tls#%F0%9F%87%B0%F0%9F%87%B7KR_2%7C1.6MB/s
+vless://26524cce-d514-4014-a426-365fb266a14d@183.108.49.163:11434?sni=qznql.node-proxy.chinat.indevs.in&type=ws&host=qznql.node-proxy.chinat.indevs.in&path=/danfeng?ed=2560fp=firefoxfp=chrome&security=tls#%F0%9F%87%B0%F0%9F%87%B7KR_3%7C1.3MB/s
+vless://26524cce-d514-4014-a426-365fb266a14d@219.255.114.230:18889?sni=qznql.node-proxy.chinat.indevs.in&type=ws&host=qznql.node-proxy.chinat.indevs.in&path=/danfeng?ed=2560fp=firefoxfp=chrome&security=tls#%F0%9F%87%B0%F0%9F%87%B7KR_5%7C1.3MB/s
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQEAyMjEuMTUwLjEwOS44MTo0Mjk3OA==#%F0%9F%87%B0%F0%9F%87%B7_KR_%E9%9F%A9%E5%9B%BD_10
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7001#KR%20%20ROSE98
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@221.139.79.57:13979#KR%20%20ROSE100
@@ -195,8 +195,8 @@ vmess://eyJ2IjpudWxsLCJwcyI6IvCfh7Dwn4e3IEtSIDMiLCJhZGQiOiIxNTIuNjcuMjE4LjM4Iiwi
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.90.62.168:989#%f0%9f%87%b0%f0%9f%87%b7%20KR%204
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6679#%f0%9f%87%b0%f0%9f%87%b7%20KR%205
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7001#%f0%9f%87%b0%f0%9f%87%b7%20KR%206
-vmess://eyJhZGQiOiIxMzIuMTQ1LjgwLjIzMCIsImFpZCI6IjAiLCJob3N0Ijoia3IwMi5hMGEueHl6IiwiaWQiOiI1MTU1ODYwZS1kMDdkLTQ2YzMtOTEyOC0zYWZiZDg0NjI2YzciLCJuYXRpb24iOiIiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL2NjdHYxMy5tM3U4IiwicG9ydCI6IjgwIiwicHMiOiJcdWQ4M2NcdWRkZjBcdWQ4M2NcdWRkZjdbb3BlbnByb3h5bGlzdC5jb21dIHZtZXNzLUtSIiwic2N5IjoiYXV0byIsInNlcnZlclBvcnQiOjAsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@121.175.77.73:10333?host=sni.111000.v6.army&path=%2F%3Fed%3D2560&security=tls&sni=sni.111000.v6.army&type=ws#[openproxylist.com] vless-KR
+vmess://eyJhZGQiOiIxMzIuMTQ1LjgwLjIzMCIsImFpZCI6IjAiLCJob3N0Ijoia3IwMi5hMGEueHl6IiwiaWQiOiI1MTU1ODYwZS1kMDdkLTQ2YzMtOTEyOC0zYWZiZDg0NjI2YzciLCJuYXRpb24iOiIiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL2NjdHYxMy5tM3U4IiwicG9ydCI6IjgwIiwicHMiOiJcdWQ4M2NcdWRkZjBcdWQ4M2NcdWRkZjdbb3BlbnByb3h5bGlzdC5jb21dIHZtZXNzLUtSIiwic2N5IjoiYXV0byIsInNlcnZlclBvcnQiOjAsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 trojan://R5ktplWYd5PU@43.203.193.132:14786?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#KR|GithubTrojanLinks
 trojan://zHckDvqHolUX@3.39.252.238:14825?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#KR|GithubTrojanLinks
 trojan://hFkaShOhZSdh@52.78.143.136:14787?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#KR|GithubTrojanLinks
