@@ -17,7 +17,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5N2ZlNmIwN2NiZmFmN2U3@157.185.173.60:18426#B
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5N2ZlNmIwN2NiZmFmN2U3@157.185.173.60:18427#BR%20%20ROSE213
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOWFjZDk2MGFiOGUzNDA4@157.185.173.60:46727#BR%20%20ROSE214
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJpcC52NiDwn4ep8J+HqiA1LXp2MGJyIiwKICAiYWRkIjogImRkamRqLnYydHJ5LnNicyIsCiAgInBvcnQiOiAxNzU3NiwKICAiaWQiOiAiYjNkMGUwZTAtYjg5ZC00YTFjLThlNTItNjkwZmMwYTg2ZmM5IiwKICAic2N5IjogImF1dG8iLAogICJuZXQiOiAia2NwIiwKICAidHlwZSI6ICJub25lIiwKICAidGxzIjogIm5vbmUiLAogICJwYXRoIjogImhONFI3VmxEbHYiCn0=
-vmess://eyJhZGQiOiAiMTcyLjIzMy4xNy43NiIsICJhaWQiOiAiMSIsICJmcCI6ICJjaHJvbWUiLCAiaWQiOiAiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwgIm5ldCI6ICJ0Y3AiLCAicG9ydCI6ICIyMjMyNCIsICJwcyI6ICJcdWQ4M2NcdWRkZTdcdWQ4M2NcdWRkZjdCUl8zMV9AU3VyZmJvYXJkdjJyYXkiLCAic2N5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
+vless://ca911bd2-e08f-42d8-aefb-3117494d3367@srv11.outlinekeys.com:443?security=reality&encryption=none&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=srv11.outlinekeys.com#BR_1118_@Surfboardv2ray
 trojan://3747000103274291200@216.238.99.123:443?peer=fancy-javelin.treefrog761.one#Brazil
 trojan://af4dc66a-ec88-4057-9e46-777b584577f7@br.mjt001.com:443?allowInsecure=1&sni=br.mjt001.com#BR+%e5%b7%b4%e8%a5%bf(youtube%e9%98%bf%e4%bc%9f%e7%a7%91%e6%8a%80)
 trojan://af4dc66a-ec88-4057-9e46-777b584577f7@br.mjt001.com:443?allowInsecure=1&sni=br.mjt001.com#BR%2b%e5%b7%b4%e8%a5%bf(youtube%e9%98%bf%e4%bc%9f%e7%a7%91%e6%8a%80)
