@@ -8,6 +8,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3NWRyQUw3UGZDSXdRMnljVXVvRHNWMkxz@212.113.10
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQMnp4WFBld2xWM0JsZnFxWWlTdGh2dExj@212.113.106.243:12949#%F0%9F%87%A6%F0%9F%87%B9AT-212.113.106.243-8369
 vless://256c5f48-4908-4255-83d1-c86cb58f22b4@austria.denditop.site:443?flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%A6%F0%9F%87%B9AT_1%7C2.1MB/s
 vless://00000000-0000-4000-8000-000000000000@152.53.178.240:8445?allowInsecure=0&sni=57vanjkxjo3kejbf4o2iul6z4o.gike.dpdns.org&type=ws&host=57vanjkxjo3kejbf4o2iul6z4o.gike.dpdns.org&path=/@Marisa_kristifp=chromesecurity=tls#AT_speednode_0001
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@212.183.88.238:2096?host=sni.jpmj.dev&path=/?ed=2560&Telegram+@WangCai2&security=tls&sni=sni.jpmj.dev&type=ws#AT_522_@Surfboardv2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXQUtJWHF0bE1TRDdmYUxETkg5VjROQDQ1LjMzLjMwLjg6MTg3ODk#%F0%9F%91%89%F0%9F%86%94%20@v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%BA%F0%9F%87%B8United%20States%0A%0AV2RAY_CONFIGS_POOL,%20%5BSep%2015,%202024%20at%204:54%C2%A0AM%5D
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@94.177.8.26:130?allowInsecure=0&sni=juzi8186.5112233.xyz&type=ws&host=juzi8186.5112233.xyz&path=/?ed=2560fp=chrome&security=tls#15|AT_speednode_0002
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@212.183.88.242:443?allowInsecure=0&sni=dw.ylks.xyz&type=ws&host=dw.ylks.xyz&path=/bluesecurity=tls#15|AT_speednode_0003
