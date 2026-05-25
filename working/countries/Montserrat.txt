@@ -6,6 +6,7 @@ trojan://K3gZs5PBCm@188.121.109.94:9443?type=ws&security=none&path=/margbaramper
 trojan://K3gZs5PBCm@188.121.109.94:9443?type=ws&security=none&path=/margbaramperilism&host=188.121.109.94#Germany, Falkenstein |  IP: 2a01:4f8:c013:5e3b::1 | ping:594.44ms |  @NamazVPN
 vless://0231d59e-36ef-412c-9af8-b6b808641d5e@arvancloud.ir:8880?encryption=none&security=none&type=ws&host=wt.programming-coding.ir&path=/#@v2ray_configs_poolIranTehrnping:280.09ms
 vless://0373f1c4-867c-4d72-920c-b06785c4930e@185.143.235.200:443?path=/chat?ed=128&security=tls&encryption=none&alpn=h2,http/1.1&host=g4.podro.store&fp=chrome&type=ws&sni=g4.podro.store#@v2ray_configs_poolIranTehrnping:253.43ms
+vless://0851453f-1670-4182-8f24-9b971e7b843d@194.145.119.9:443?encryption=none&type=tcp#Trkiye |  IP: 193.31.117.31 | ping:784.56ms |  @NamazVPN
 vless://1c58f546-f1b9-4ae4-b5fb-7011a3e71ba6@185.143.234.122:443?encryption=none&security=tls&type=ws&headerType=none&path=/chat?ed=127&host=g1.podro.store&sni=g1.podro.store&fp=chrome&alpn=h2,http/1.1#@v2ray_configs_poolIranTehrnping:39.94ms
 vless://36a9d098-a49e-46a3-b427-361d83f8dcde@snapp.ir:80?type=ws&security=none&path=/&host=derakhshan.molvliafor.ir#@v2ray_configs_poolIranTehrnping:67.36ms
 vless://5b1c202b-019f-4440-a976-ad94ec625d9a@arvancloud.ir:8880?encryption=none&security=none&type=ws&host=wt.programming-coding.ir&path=/#@v2ray_configs_poolIranTehrnping:280.09ms
@@ -15,11 +16,9 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.19.35.169:443?ed=2560&eh=Sec-We
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@96.9.226.188:443?encryption=none&security=tls&sni=sni.111000.v6.rocks&type=ws&host=sni.111000.v6.rocks&path=/?ed=2560&https://t.me/WangCai2#@v2ray_configs_poolCanadaToronto (Old Toronto)ping:116.35ms
 vless://7986548b-c44c-4b65-9227-4b2cb504e7d5@varzesh3.com:80?path=/ws&security=none&encryption=none&host=nobody.fasterspeed.ir&type=ws#Trkiye, Istanbul |  IP: 185.226.93.203 | ping:2763.03ms |  @NamazVPN
 vless://7986548b-c44c-4b65-9227-4b2cb504e7d5@varzesh3.com:80?path=/ws&security=none&encryption=none&host=nobody.fasterspeed.ir&type=ws#Trkiye, Istanbul |  IP: 185.226.93.203 | ping:3975.61ms |  @NamazVPN
-vless://80654c2e-3e5f-429d-be1b-13625b80915e@snapp.ir:8880?path=/&security=none&encryption=none&host=bot.stnolenza.ir&type=ws#United Kingdom, London |  IP: 2a0b:4140:59f5::2 | ping:1236.25ms |  @NamazVPN
 vless://944a0133-3ffc-4772-8bd3-6125ad0683fa@193.24.120.154:8080?security=none&encryption=none&headerType=none&type=tcp#Bulgaria, Sofia |  IP: 2a0e:bfc7::216:3cff:fe69:df2 | ping:913.83ms |  @NamazVPN
-vless://944a0133-3ffc-4772-8bd3-6125ad0683fa@193.24.120.186:8080?security=none&type=tcp#Armenia, Yerevan |  IP: 178.160.230.46 | ping:788.29ms |  @NamazVPN
-vless://944a0133-3ffc-4772-8bd3-6125ad0683fa@193.24.120.186:8080?security=none&type=tcp#Armenia, Yerevan |  IP: 178.160.230.46 | ping:948.87ms |  @NamazVPN
-vless://99ffb57b-e844-417a-ba51-f0b63971b4c2@snapp.ir:8880?type=ws&encryption=none&path=/&host=hunter2x.sorecloud.ir&security=none#Germany, Falkenstein |  IP: 2a01:4f8:c010:3b54::1 | ping:9837.49ms |  @NamazVPN
+vless://944a0133-3ffc-4772-8bd3-6125ad0683fa@95.38.167.144:8080?security=none&type=tcp#Germany, Falkenstein |  IP: 91.107.140.154 | ping:1275.34ms |  @NamazVPN
+vless://944a0133-3ffc-4772-8bd3-6125ad0683fa@95.38.167.144:8080?security=none&type=tcp#Germany, Falkenstein |  IP: 91.107.140.154 | ping:3912.27ms |  @NamazVPN
 vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?encryption=none&security=none&type=tcp#@v2ray_configs_poolItalySizianoping:36.56ms
 vless://a01daac7-1e65-4645-854d-b47d226f6b08@104.18.12.149:443?path=/&security=tls&encryption=none&host=y6-3cj.PAgES.DEV&type=ws&sni=y6-3cj.PAgES.DEV#@v2ray_configs_poolCanadaTorontoping:46.79ms
 vless://aa3e8bb7-d554-4a8d-bbb4-2b0948d3c8c6@dns.sane-new-eb.net:8080?encryption=none&security=none&type=grpc&headerType=none&mode=gun#@v2ray_configs_poolGermanyFalkensteinping:62.6ms
@@ -27,6 +26,7 @@ vless://aa3e8bb7-d554-4a8d-bbb4-2b0948d3c8c6@monitor.sane-new-eb.net:8080?encryp
 vless://aa3e8bb7-d554-4a8d-bbb4-2b0948d3c8c6@noc.sane-new-eb.net:8080?encryption=none&security=none&type=grpc&headerType=none&mode=gun#@v2ray_configs_poolThe NetherlandsAmsterdamping:105.23ms
 vless://aa3e8bb7-d554-4a8d-bbb4-2b0948d3c8c6@portal.sane-new-eb.net:8080?encryption=none&security=none&type=grpc&headerType=none&mode=gun#@v2ray_configs_poolTurkeyBaakehirping:110.2ms
 vless://abbff0f3-741b-f33f-8773-ebbb65ae8d8d@snapp.ir:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=cdn.fars-rehan.ir#@v2ray_configs_poolIranTehrnping:68.58ms
+vless://b2c251d5-ba34-447a-8d45-3aa4f851f573@130.185.75.216:209?encryption=none&security=none&type=tcp&headerType=none#Germany, Falkenstein |  IP: 178.105.112.128 | ping:584.61ms |  @NamazVPN
 vless://c51bce14-4c7a-4a97-8d34-bda23830dc3a@varzesh3.com:80?path=/ws&security=none&encryption=none&host=nobody.fasterspeed.ir&type=ws#Trkiye, Istanbul |  IP: 185.226.93.203 | ping:736.93ms |  @NamazVPN
 vless://c51bce14-4c7a-4a97-8d34-bda23830dc3a@varzesh3.com:80?path=/ws&security=none&encryption=none&host=nobody.fasterspeed.ir&type=ws#Trkiye, Istanbul |  IP: 185.226.93.203 | ping:8752.74ms |  @NamazVPN
 vless://cd8edc13-2f99-4e17-888c-de9d62ddaf2f@81.12.24.237:29914?encryption=none&security=none&type=ws&path=/&host=81.12.24.237#Moldova |  IP: 185.237.222.122 | ping:500.89ms |  @NamazVPN
@@ -74,4 +74,7 @@ vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=%2F&securit
 vless://3e0f8249-3f4e-4368-b31a-23f6af0fdfe4@c1.3.site.azadsb.sbs:8443?path=%2Fazad74562&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&type=ws&sni=siNgle.lenalizmy0ve.ir#%F0%9F%8C%90%20%7C%20null%20%7C%2099999ms%20%7C%20%2A%2A%2A%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%2A%2A%2A-%40SPEEDS_VPN
 vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=ipv4.yasharteam.com&fp=chrome&type=ws&allowInsecure=0&sni=ipv4.yasharteam.com#%F0%9F%8C%90%20%7C%20null%20%7C%2099999ms%20%7C%20configraygan_19
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052/?type=xhttp&encryption=none#%F0%9F%8C%90%20%7C%20null%20%7C%2099999ms%20%7C%20
-vless://5735e087-2573-4c17-b31a-307383714696@185.143.232.200:443?path=/&security=tls&encryption=none&host=mulswe.parhamm2.ir&fp=chrome&type=ws&sni=mulswe.parhamm2.ir#Sweden, Malm |  IP: 2a03:1b20:1:f410::a17e | ping:912.39ms |  @NamazVPN
+vless://80654c2e-3e5f-429d-be1b-13625b80915e@snapp.ir:8880?path=/&security=none&encryption=none&host=bot.stnolenza.ir&type=ws#United Kingdom, London |  IP: 2a0b:4140:59f5::2 | ping:1236.25ms |  @NamazVPN
+vless://944a0133-3ffc-4772-8bd3-6125ad0683fa@193.24.120.186:8080?security=none&type=tcp#Armenia, Yerevan |  IP: 178.160.230.46 | ping:788.29ms |  @NamazVPN
+vless://944a0133-3ffc-4772-8bd3-6125ad0683fa@193.24.120.186:8080?security=none&type=tcp#Armenia, Yerevan |  IP: 178.160.230.46 | ping:948.87ms |  @NamazVPN
+vless://99ffb57b-e844-417a-ba51-f0b63971b4c2@snapp.ir:8880?type=ws&encryption=none&path=/&host=hunter2x.sorecloud.ir&security=none#Germany, Falkenstein |  IP: 2a01:4f8:c010:3b54::1 | ping:9837.49ms |  @NamazVPN
