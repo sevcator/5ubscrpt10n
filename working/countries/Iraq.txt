@@ -1,1 +1,1 @@
-vless://69a2af58-d74a-44ca-864a-e09b493f4274@de-wail.dataload-cdn.ru:8443?allowInsecure=0&sni=www.vk.ru&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%AE%F0%9F%87%B6IQ_1%7C1.2MB/s
+vless://69a2af58-d74a-44ca-864a-e09b493f4274@178.236.254.244:8443?sni=www.vk.ru&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%AE%F0%9F%87%B6IQ_1%7C2.4MB/s
