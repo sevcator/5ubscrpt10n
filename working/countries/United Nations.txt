@@ -32,8 +32,8 @@ vless://14c44521-e28f-4561-a12c-337d8cc44d87@127.0.0.1:40443?mode=auto&path=/TiM
 vless://9863e1a5-f83b-4608-bed8-122d0a54b6d5@127.0.0.1:40443?mode=auto&path=/KtBrKmKh&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=interim.yhbj.store&fp=chrome&type=xhttp&allowInsecure=0&sni=interim.yhbj.store# UN | 127.0.0.1
 vless://651a858c-2975-4b96-96b7# UN | 651a858c-2975-4b96-96b7
 vless://5c5b3529-57b9-638b-9998-a2c0e4e26981@melli.ciliko.ir:2096?security=none&encryption=none&headerType=none&type=tcp# UN | melli.ciliko.ir
+vless://9b4fd9d0-0508-4bcb-b60e-4275adb878bb@games.shabroo.com:6690?security=&encryption=none&host=telewebion.com&headerType=http&type=tcp# UN | games.shabroo.com
 vless://15a8a868-ddd3-4a8c-bf7a-bb81671bf157@f1.springpaatogh8.store:2053?path=/?ed=2560&security=tls&encryption=none&host=chess.sorza.ir&type=ws&sni=digikala.sorza.ir# UN | f1.springpaatogh8.store
-vless://be4c79f7-642a-4e62-9d0f-78d805df1366@sabz8.sabztarash.ir:8080?path=/&security=none&encryption=none&type=ws# UN | sabz8.sabztarash.ir
 vless://c1ea5250-43d6-4f91-8d0f-64ed231cc559@pishgam.sdcards.ir:8080?path=/?ed=2087&security=none&encryption=none&host=pivaz-a.plas-nim.org&type=httpupgrade# UN | pishgam.sdcards.ir
 vless://b43f416d-0bb7-45d9-b3a4-0ccef14f1fbe@simonil.zarghamportal.ir:2095?path=/@iSpeedTopVPN?ed=80&security=none&encryption=none&host=shole.zarghamportal.ir&type=ws# UN | simonil.zarghamportal.ir
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@b.pabloping.cloud:2052?mode=auto&path=/pabloping&security=none&encryption=none&host=updn.pabloping.pro&type=xhttp# UN | b.pabloping.cloud
