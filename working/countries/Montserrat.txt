@@ -77,20 +77,3 @@ vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=%2F&securit
 vless://3e0f8249-3f4e-4368-b31a-23f6af0fdfe4@c1.3.site.azadsb.sbs:8443?path=%2Fazad74562&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&type=ws&sni=siNgle.lenalizmy0ve.ir#%F0%9F%8C%90%20%7C%20null%20%7C%2099999ms%20%7C%20%2A%2A%2A%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%2A%2A%2A-%40SPEEDS_VPN
 vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=ipv4.yasharteam.com&fp=chrome&type=ws&allowInsecure=0&sni=ipv4.yasharteam.com#%F0%9F%8C%90%20%7C%20null%20%7C%2099999ms%20%7C%20configraygan_19
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052/?type=xhttp&encryption=none#%F0%9F%8C%90%20%7C%20null%20%7C%2099999ms%20%7C%20
-vless://02b72f99-55c9-4e72-92e0-edc267237a90@aparatrat1.info:2083?type=tcp&security=none# Hong Kong | 889KB/s | 509ms | @NamazVPN
-vless://02b72f99-55c9-4e72-92e0-edc267237a90@aparatrat1.info:2083?type=tcp&security=none# Hong Kong | 975KB/s | 655ms | @NamazVPN
-vless://03e66e4a-20a9-4b67-9035-bf8b3d2325d9@aparatrat1.info:2083?type=tcp&security=none# Hong Kong | 550KB/s | 717ms | @NamazVPN
-vless://1b463a34-dc0a-41e4-b9fb-a1e1aa6bd5d7@plusred0shop8.lol:2052?type=ws&encryption=none&path=/YP&host=Plusred0shop8.lol&security=none# Australia | 930KB/s | 450ms | @NamazVPN
-vless://30acff0f-547e-48a5-9bf6-1ba6f37620e5@185.143.233.5:443?path=/@alaedin?ed=128&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=alaedin1.8lack.ir&fp=chrome&type=ws&allowInsecure=0&sni=alaedin1.8lack.ir# France Paris | 210KB/s | 804ms | @NamazVPN
-vless://30acff0f-547e-48a5-9bf6-1ba6f37620e5@185.143.233.5:443?path=/@alaedin?ed=128&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=alaedin9.8lack.ir&fp=chrome&type=ws&allowInsecure=0&sni=alaedin9.8lack.ir# United Kingdom London | 555KB/s | 1120ms | @NamazVPN
-vless://36697866-2112-45a8-b10e-6ca4fa427410@anten.ir:80?encryption=none&host=b.abarvip.ir&path=/&security=none&type=ws# Trkiye | 1.7MB/s | 686ms | @NamazVPN
-vless://36697866-2112-45a8-b10e-6ca4fa427410@anten.ir:80?encryption=none&host=b.abarvip.ir&path=/&security=none&type=ws# Trkiye | 1.8MB/s | 3500ms | @NamazVPN
-vless://5050fc6e-825e-478f-bb9f-fde1815aecae@185.143.233.5:443?path=/@alaedin?ed=128&security=tls&encryption=none&alpn=h2,http/1.1&host=alaedin7.8lack.ir&fp=chrome&allowinsecure=0&type=ws&sni=alaedin7.8lack.ir# Poland Warsaw | 151KB/s | 2551ms | @NamazVPN
-vless://5b34187f-f811-58b1-7e68-3cc63df5df3b@meli.masterdadeh.ir:80?encryption=none&security=none&type=ws&path=/&host=meli.masterdadeh.ir# Trkiye Istanbul | 177KB/s | 587ms | @NamazVPN
-vless://5b34187f-f811-58b1-7e68-3cc63df5df3b@meli.masterdadeh.ir:80?encryption=none&type=ws&path=/# Trkiye Istanbul | 280KB/s | 650ms | @NamazVPN
-vless://5b34187f-f811-58b1-7e68-3cc63df5df3b@meli.masterdadeh.ir:80?encryption=none&type=ws&path=/# Trkiye Istanbul | 340KB/s | 664ms | @NamazVPN
-vless://5b34187f-f811-58b1-7e68-3cc63df5df3b@meli.masterdadeh.ir:80?encryption=none&type=ws&path=/# Trkiye Istanbul | 74KB/s | 611ms | @NamazVPN
-vless://ca11af6c-ee77-4175-8ac9-c802ef9ee3ce@snapp.ir:2082?encryption=none&type=ws&path=/API/superip&host=brand.bi6x.ir# The Netherlands Amsterdam | 717KB/s | 1778ms | @NamazVPN
-vless://f0fb5fc4-fee2-4a0a-bb51-14b39cd1da15@aparatrat1.info:2083?type=tcp&security=none# Hong Kong | 1006KB/s | 414ms | @NamazVPN
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiNGM0NWZhOGQwNGRiNGJlMGM3MDkyMjQyNDIyMmM2ZWM0MmQ3MTc5MGRiYWNmYTQ@185.165.119.161:4050?type=tcp# The Netherlands | 1.6MB/s | 475ms | @NamazVPN
-trojan://humanity@2.144.15.223:40443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com# France Paris | 199KB/s | 3895ms | @NamazVPN
