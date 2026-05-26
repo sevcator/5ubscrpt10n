@@ -4,17 +4,19 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.204
 trojan://humanity@193.151.153.23:40443?path=/assignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com# France Paris | 116KB/s | 3737ms | @NamazVPN
 trojan://humanity@2.144.7.227:40443?path=/assignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com# France Paris | 93KB/s | 5389ms | @NamazVPN
 trojan://humanity@45.82.138.35:40443?type=ws&host=www.ignitelimit.com&path=/assignment&security=tls&sni=www.ignitelimit.com# France Paris | 181KB/s | 921ms | @NamazVPN
-trojan://humanity@45.89.221.111:443?path=/assignment&security=tls&insecure=1&type=ws&allowInsecure=1&sni=www.ignitelimit.com# France Paris | 100KB/s | 3564ms | @NamazVPN
 trojan://humanity@45.89.221.111:443?path=/assignment&security=tls&insecure=1&type=ws&allowInsecure=1&sni=www.ignitelimit.com# France Paris | 84KB/s | 4221ms | @NamazVPN
 vless://0231d59e-36ef-412c-9af8-b6b808641d5e@arvancloud.ir:8880?encryption=none&security=none&type=ws&host=wt.programming-coding.ir&path=/#@v2ray_configs_poolIranTehrnping:280.09ms
 vless://0373f1c4-867c-4d72-920c-b06785c4930e@185.143.235.200:443?path=/chat?ed=128&security=tls&encryption=none&alpn=h2,http/1.1&host=g4.podro.store&fp=chrome&type=ws&sni=g4.podro.store#@v2ray_configs_poolIranTehrnping:253.43ms
+vless://094b7193-89b5-458d-9b0f-975c708d8016@pg.nexorainnovationhub.ir:80?encryption=none&security=none&type=ws&headerType=none&path=/&host=germany.lezzaluxa.ir# Germany Falkenstein | 988KB/s | 433ms | @NamazVPN
 vless://0df1bb84-62b6-4dcf-b5b6-c30fd6b23b2a@hostioko.online:443?encryption=none&security=tls&type=ws&headerType=none&path=/dbGTBHVoYGtWdfd3qZFvMYsFYZgAtRVNDe?ed=2560&host=hostioko.online&sni=hostioko.online&fp=chrome&alpn=http/1.1# Germany Nuremberg | 815KB/s | 1934ms | @NamazVPN
 vless://1c58f546-f1b9-4ae4-b5fb-7011a3e71ba6@185.143.234.122:443?encryption=none&security=tls&type=ws&headerType=none&path=/chat?ed=127&host=g1.podro.store&sni=g1.podro.store&fp=chrome&alpn=h2,http/1.1#@v2ray_configs_poolIranTehrnping:39.94ms
 vless://36a9d098-a49e-46a3-b427-361d83f8dcde@snapp.ir:80?type=ws&security=none&path=/&host=derakhshan.molvliafor.ir#@v2ray_configs_poolIranTehrnping:67.36ms
 vless://5b1c202b-019f-4440-a976-ad94ec625d9a@arvancloud.ir:8880?encryption=none&security=none&type=ws&host=wt.programming-coding.ir&path=/#@v2ray_configs_poolIranTehrnping:280.09ms
+vless://5b34187f-f811-58b1-7e68-3cc63df5df3b@meli.masterdadeh.ir:80?path=/&security=none&encryption=none&type=ws# Trkiye Istanbul | 96KB/s | 973ms | @NamazVPN
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.251.45:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.latonyamadeline.ndjp.net&path=/?https://t.me/wangcai2=&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws#@v2ray_configs_poolCanadaTorontoping:47.16ms
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.19.35.169:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.latonyamadeline.ndjp.net&path=/?https://t.me/wangcai2=&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws#@v2ray_configs_poolCanadaTorontoping:42.96ms
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@96.9.226.188:443?encryption=none&security=tls&sni=sni.111000.v6.rocks&type=ws&host=sni.111000.v6.rocks&path=/?ed=2560&https://t.me/WangCai2#@v2ray_configs_poolCanadaToronto (Old Toronto)ping:116.35ms
+vless://8c1f2f79-7b8f-47dc-8a8f-671dde0ecafb@arvancloud.shakhle.ir:2086/?type=ws&encryption=none&path=/upload?ed=80&host=SharEfiLes.FitVitaMin.iR&security=none# Trkiye Istanbul | 1.2MB/s | 421ms | @NamazVPN
 vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?encryption=none&security=none&type=tcp#@v2ray_configs_poolItalySizianoping:36.56ms
 vless://a01daac7-1e65-4645-854d-b47d226f6b08@104.18.12.149:443?path=/&security=tls&encryption=none&host=y6-3cj.PAgES.DEV&type=ws&sni=y6-3cj.PAgES.DEV#@v2ray_configs_poolCanadaTorontoping:46.79ms
 vless://a764332e-0c20-4828-ba33-2b95acaf1a72@aparatrat1.info:2083?security=none&encryption=none&headerType=none&type=tcp# Hong Kong | 79KB/s | 2771ms | @NamazVPN
@@ -22,7 +24,6 @@ vless://aa3e8bb7-d554-4a8d-bbb4-2b0948d3c8c6@dns.sane-new-eb.net:8080?encryption
 vless://aa3e8bb7-d554-4a8d-bbb4-2b0948d3c8c6@monitor.sane-new-eb.net:8080?encryption=none&security=none&type=grpc&headerType=none&mode=gun#@v2ray_configs_poolUnited StatesBuffaloping:225.74ms
 vless://aa3e8bb7-d554-4a8d-bbb4-2b0948d3c8c6@noc.sane-new-eb.net:8080?encryption=none&security=none&type=grpc&headerType=none&mode=gun#@v2ray_configs_poolThe NetherlandsAmsterdamping:105.23ms
 vless://aa3e8bb7-d554-4a8d-bbb4-2b0948d3c8c6@portal.sane-new-eb.net:8080?encryption=none&security=none&type=grpc&headerType=none&mode=gun#@v2ray_configs_poolTurkeyBaakehirping:110.2ms
-vless://aaf622b3-e5e6-4c7e-b6f7-52a3d55550c3@37.152.185.16:27156?type=tcp&encryption=none&security=none# United States Richardson | 74KB/s | 2975ms | @NamazVPN
 vless://abbff0f3-741b-f33f-8773-ebbb65ae8d8d@snapp.ir:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=cdn.fars-rehan.ir#@v2ray_configs_poolIranTehrnping:68.58ms
 vless://bed78936-2bf2-471d-896a-f36b24ccc9d0@snapp.ir:8080?path=/&security=none&encryption=none&host=free.cdn-hio.mom&type=ws# Australia | 278KB/s | 2226ms | @NamazVPN
 vless://bed78936-2bf2-471d-896a-f36b24ccc9d0@snapp.ir:8080?path=/&security=none&encryption=none&host=free.cdn-hio.mom&type=ws# Australia | 89KB/s | 1769ms | @NamazVPN
@@ -77,6 +78,5 @@ vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=%2F&securit
 vless://3e0f8249-3f4e-4368-b31a-23f6af0fdfe4@c1.3.site.azadsb.sbs:8443?path=%2Fazad74562&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&type=ws&sni=siNgle.lenalizmy0ve.ir#%F0%9F%8C%90%20%7C%20null%20%7C%2099999ms%20%7C%20%2A%2A%2A%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%2A%2A%2A-%40SPEEDS_VPN
 vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=ipv4.yasharteam.com&fp=chrome&type=ws&allowInsecure=0&sni=ipv4.yasharteam.com#%F0%9F%8C%90%20%7C%20null%20%7C%2099999ms%20%7C%20configraygan_19
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052/?type=xhttp&encryption=none#%F0%9F%8C%90%20%7C%20null%20%7C%2099999ms%20%7C%20
-vless://15532c26-1673-4055-a47b-095386adaca7@snappfood.ir:8880?type=ws&encryption=none&path=/iripower&host=rial.stulas.ir&security=none# Australia | 142KB/s | 2064ms | @NamazVPN
-vless://7ade0385-f151-4921-8366-0bbf84ab5572@plusred0shop8.lol:2052?type=ws&encryption=none&path=/YP&host=Plusred0shop8.lol&security=none# Australia | 984KB/s | 414ms | @NamazVPN
-vless://93532224-019c-4191-924c-2b8e051813fc@www.varzesh3.com:2082?encryption=none&type=ws&host=irvpn.asan-gozar.ir&path=/&security=none# Germany Falkenstein | 243KB/s | 3715ms | @NamazVPN
+vless://aaf622b3-e5e6-4c7e-b6f7-52a3d55550c3@37.152.185.16:27156?type=tcp&encryption=none&security=none# United States Richardson | 74KB/s | 2975ms | @NamazVPN
+trojan://humanity@45.89.221.111:443?path=/assignment&security=tls&insecure=1&type=ws&allowInsecure=1&sni=www.ignitelimit.com# France Paris | 100KB/s | 3564ms | @NamazVPN
