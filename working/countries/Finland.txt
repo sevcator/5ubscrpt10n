@@ -1,10 +1,6 @@
 vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@one-theme.ir:8880?encryption=none&security=none&type=httpupgrade&host=2.fan1.www.speedtest.net.blue99shop.ir&path=/#FI2
 vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@www.speedtest.net:8880?encryption=none&security=none&type=httpupgrade&host=2.fan1.www.speedtest.net.blue99shop.ir&path=/#FI1
 vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@www.vinatech.ir:8880?encryption=none&security=none&type=httpupgrade&host=2.fan1.www.speedtest.net.blue99shop.ir&path=/#FI3
-vless://6207414d-7b7b-48a9-9e7a-7579f3c2ef01@Ikco.ir:2082?security=none&type=ws&headerType=&path=/cdn&host=dl5.movizdl.ir#Finland [TunneL] 
-vless://6207414d-7b7b-48a9-9e7a-7579f3c2ef01@Tapsi.ir:2052?security=none&type=ws&headerType=&path=/cdn&host=dl5.movizdl.ir#Finland [TunneL] 
-vless://6207414d-7b7b-48a9-9e7a-7579f3c2ef01@Tapsi.ir:80?security=none&type=ws&headerType=&path=/cdn&host=dl6.movizdl.ir#Finland [TunneL] 
-vless://6207414d-7b7b-48a9-9e7a-7579f3c2ef01@snappfood.ir:2086?security=none&type=ws&headerType=&path=/cdn&host=dl5.movizdl.ir#Finland [TunneL] 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@144.31.19.131:443?&security=tls&sni=sni.111000.v6.rocks&type=ws&headerType=none&host=sni.111000.v6.rocks&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%3E%3E%40configshub2%3A%3AFI
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.144.52.69:443?&security=tls&sni=sni.111000.v6.rocks&type=ws&headerType=none&host=sni.111000.v6.rocks&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%3E%3E%40configshub2%3A%3AFI
 vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?encryption=none&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AFI
@@ -68,6 +64,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzaUY5OHhCTDJ2MWk=@135.181.114.242:8478#%F0%9
 vmess://ewogICAgImFkZCI6ICI2NS4xMDkuMTM0LjE5MSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiOTE2OTg3NDctOTJiMy00YTA3LWI1ZGEtMjI2OTRlZGJlYTgyIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2dyYXBocWwiLAogICAgInBvcnQiOiA4MCwKICAgICJwcyI6ICLwn4er8J+HrkZJLTY1LjEwOS4xMzQuMTkxLTM5NTMiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
 trojan://8r%3C%5B9%27l6hAO%238ZQi@31.57.26.194:2053?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%AB%F0%9F%87%AEFI-31.57.26.194-4541
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWUF0ODVTRkdWNTY=@185.77.217.217:443#%F0%9F%87%AB%F0%9F%87%AEFI-185.77.217.217-5729
+vmess://eyJhZGQiOiIxNjUuMTQwLjIxNi4xNDEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZTdkNzJhOGQtMjZmMi00YjU0LWIzNjYtMGM0M2UwYmNiYTdkIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0NDMiLCJwcyI6IkBOZXR3b3JrXzQ0Ml8g8J+RiSBXSS1GSSDwn5KlIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLYm0zeG9LMDRwNE9ob3FWcEV6ZGxq@95.164.113.198:53829#FI%20%20ROSE32
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxUzNza3dtb2xyUTcwcTg0MmlyUUQw@178.17.61.67:5790#FI%20%20ROSE37
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprN3hXNk41U0FWcGdlcWkxd2Q3czd5eEQ3UzhQeGFlaFVNNVc4YXBIclFpM3BTb0RSWFNjb0FQazhTVmE0bUtidlJqcmdFTlUzZFVnelRncDlUM3JyWGluYURlNENYWWs@185.5.38.111:55988#FI%20%20ROSE42
@@ -91,16 +88,6 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1RERFQkZJXzM2X0BTdXJmYm9hcmR2
 vmess://eyJhZGQiOiI2NS4xMDkuMTk5LjQxIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6ImQ2MWE3NGQ2LTFiZTQtNGM2Ni04NjY1LWEyNWVhZjU2MWViOSIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjQ3NTkiLCJwcyI6Itix2KfbjNqv2KfZhiB8IFZNRVNTIHwgRknwn4er8J+HriB8IDDvuI/ig6My77iP4oOjIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
 vmess://ICAgIHsgICAgInYiOiAiMiIsICAgICJwcyI6ICJAdnBubWFzdGVyX2luZm8jZmkxIiwgICAgImFkZCI6ICJmaTEudnBubWFzdGVyLndlYnNpdGUiLCAgICAicG9ydCI6ICI0NDMiLCAgICAiaWQiOiAiZWQwN2E5ZGQtMDhmMy00ODNkLWI3ODktZjZiY2E1MjY0YmJhIiwgICAgImFpZCI6ICIwIiwgICAgIm5ldCI6ICJ3cyIsICAgICJ0eXBlIjogIm5vbmUiLCAgICAiaG9zdCI6ICJmaTEudnBubWFzdGVyLndlYnNpdGUiLCAgICAidGxzIjogInRscyIgICAgfQ==
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBmcmVldjJyYXkyMDI0IChGaW5sYW5kIFZNMDAgXHVEODNEXHVERTBFXHUyNzY0XHVGRTBGKSIsDQogICJhZGQiOiAiMTA0LjIxLjYxLjI0NiIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICJmOWNjZWRlOS1jYTljLTQ3MTktYjEwNS1lNDk0NzQyNDk5ZTMiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImttejMuc2Fzc2FuaWRlbXBpcmUuY29tIiwNCiAgInBhdGgiOiAiLyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJrbXozLnNhc3NhbmlkZW1waXJlLmNvbSIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
-vless://09748875-9da3-440e-9809-9752e1dda1e4@38.244.137.198:443?security=reality&encryption=none&pbk=QXGsw1KqljvUiarkvFdBs3T1TeUQq4skwHFlsmbj31o&headerType=none&fp=chrome&spx=/&type=tcp&sni=google.com&sid=365c07ed#FI_101_@Surfboardv2ray
-vless://0c2a71df-a07c-4132-b7a9-5445640c68e8@138.124.80.24:50549?encryption=none&flow=xtls-rprx-vision&fp=&pbk=WQZxSbqAQVlJF-DMgy6faN3TxJNja_ZdU1qYpNy92Co&security=reality&sid=52cdbcae49e7328a&sni=kinopoisk.ru&type=tcp#FI_112_@Surfboardv2ray
-vless://11697f33-7b99-45ad-ba9d-7e6b3574e916@144.31.109.243:50574?encryption=none&flow=xtls-rprx-vision&fp=&pbk=CVJiOkrMyWN6mIX85kT5xqTlzOtW0_d08eoBIHw8Iyg&security=reality&sid=cbae7fd41d21563e&sni=kinopoisk.ru&type=tcp#FI_123_@Surfboardv2ray
-vless://19773cc6-89a3-47c6-bc10-885460cd2b7b@89.167.17.75:443?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#FI_162_@Surfboardv2ray
-vless://2c72062a-a542-4b9b-97ac-0b636930d7c7@65.109.112.38:30366?encryption=none&type=tcp&headerType=none#FI_222_@Surfboardv2ray
-vless://2c72062a-a542-4b9b-97ac-0b636930d7c7@65.109.112.38:30366?encryption=none&type=tcp&headerType=none#FI_223_@Surfboardv2ray
-vless://4259cd49-5ad0-432d-a078-29159dc999d0@fl-3-direct.djarbnet.ru:443?encryption=none&host=fl-3-direct.djarbnet.ru&path=/getupdates&security=tls&sni=fl-3-direct.djarbnet.ru&type=ws#FI_342_@Surfboardv2ray
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@46.243.1.164:443?path=/?ed=2560&https://t.me/WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.v6.rocks&type=ws&allowInsecure=0&sni=sni.111000.v6.rocks#FI_541_@Surfboardv2ray
-vless://bef676cf-6326-447e-b634-0fd124a03673@193.233.199.117:50587?encryption=none&flow=xtls-rprx-vision&fp=&pbk=03zXqzt3BAO4TKmlkfxP9n39vH-Cdm5NH42Nioud1HE&security=reality&sid=9f072944bd809548&sni=kinopoisk.ru&type=tcp#FI_977_@Surfboardv2ray
-vless://c931f737-cafe-4e4f-998a-a65517941256@node-fi.dostup-est.info:8443?security=reality&encryption=none&pbk=Ubibgn_MlW_zHo9LwjNH_b6SLNWwTJFwq7wW2ggLtUs&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=88ce6b586fcaf681#FI_1017_@Surfboardv2ray
 vless://5186a484-b921-46a2-b928-520ac8f28033@37.27.206.42:8443?security=reality&sni=mhhauto.com&type=grpc&serviceName=ZXZX&fp=chrome&pbk=g4UhOBONKPJ6kAurhzGbGZBhALLyE39qH9uqBMiKzlc&sid=340fb683# VL-GRPC-RLT  FI-37.27.206.42:8443
 vless://bf391fce-b6fd-43ed-f531-3e5409a82bc9@65.21.186.167:11386?security=reality&flow=xtls-rprx-vision-udp443&sni=microsoft.com&type=tcp&fp=firefox&pbk=6-PmJoMCMYHnCgz3w7Djvxdsv_sxvVZ3_zrDqOC5Rgs# VL-TCP-RLT  FI-65.21.186.167:11386
 vless://a0562dec-26ac-43d4-ba1d-785c334e644f@37.27.21.47:443?security=reality&sni=greenpepper.ir&type=grpc&serviceName=@ipV2Ray&fp=firefox&pbk=FVe7_gsA7lnuX9z_V0vZXI9gD5outBiWIWZQsBpIzlI&sid=fada4f5f# VL-GRPC-RLT  FI-37.27.21.47:443
@@ -114,6 +101,10 @@ vless://a42c8b66-d0a7-4b49-9143-b98f1c84edba@144.31.82.47:18038?flow=xtls-rprx-v
 vless://d6d16b83-e7e3-486a-aa82-a649ef73cbfa@65.109.211.159:2053?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AB%F0%9F%87%AE%20FI-65.109.211.159%3A2053
 vless://99785b25-5b68-40c7-be5c-199cac21c838@65.109.211.159:2093?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AB%F0%9F%87%AE%20FI-65.109.211.159%3A2093
 vless://723eb4ef-b933-494e-8b6f-c4b4c580dcca@65.109.211.159:2096?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AB%F0%9F%87%AE%20FI-65.109.211.159%3A2096
+vless://6207414d-7b7b-48a9-9e7a-7579f3c2ef01@Ikco.ir:2082?security=none&type=ws&headerType=&path=/cdn&host=dl5.movizdl.ir#Finland [TunneL] 
+vless://6207414d-7b7b-48a9-9e7a-7579f3c2ef01@Tapsi.ir:2052?security=none&type=ws&headerType=&path=/cdn&host=dl5.movizdl.ir#Finland [TunneL] 
+vless://6207414d-7b7b-48a9-9e7a-7579f3c2ef01@Tapsi.ir:80?security=none&type=ws&headerType=&path=/cdn&host=dl6.movizdl.ir#Finland [TunneL] 
+vless://6207414d-7b7b-48a9-9e7a-7579f3c2ef01@snappfood.ir:2086?security=none&type=ws&headerType=&path=/cdn&host=dl5.movizdl.ir#Finland [TunneL] 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@37.143.129.98:990#%f0%9f%87%ab%f0%9f%87%ae%20FI%201
 vless://0c9c3d36-c93c-4d1b-bdff-8038c3ed78a2@fl-7-direct.djarbnet.ru:443?encryption=none&host=fl-7-direct.djarbnet.ru&path=/getupdates&security=tls&sni=fl-7-direct.djarbnet.ru&type=ws#[openproxylist.com] vless-FI
 vless://c931f737-cafe-4e4f-998a-a65517941256@185.242.247.206:8443?security=reality&encryption=none&pbk=Ubibgn_MlW_zHo9LwjNH_b6SLNWwTJFwq7wW2ggLtUs&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=88ce6b586fcaf681#[openproxylist.com] vless-FI
@@ -141,5 +132,4 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+Hq/Cfh65GSS05NS4yMTcuMTUzLjk4LTE2MzM4IiwgImFk
 vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+Hq/Cfh65GSS0zNy4xNDMuMTI5LjIzOC0xMTU1MiIsICJhZGQiOiAiMzcuMTQzLjEyOS4yMzgiLCAicG9ydCI6IDY2MTYsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjQ1OWQyM2Y0LWRjZmQtNGZlZi05YmEzLWVmMGFkMTBmYzMzNiIsICJzbmkiOiAiIiwgInBhdGgiOiAiLyJ9
 vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+Hq/Cfh65GSS05NS4yMTYuMjA3LjIxLTIzNTM1LVdvLi4uIiwgImFkZCI6ICIxMDQuMTkuMTQ1Ljk1IiwgInBvcnQiOiA0NDMsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAidGxzIiwgImlkIjogImFiY2RlZjAxLTFkZjAtNGViYS1hNTExLWZlMDEyMzQ1Njc4OSIsICJzbmkiOiAibWlsYWQyLnN1ZGl6bzc3NDgud29ya2Vycy5kZXYiLCAicGF0aCI6ICIvbXl3b3JkcHJlc3Mud29yZHByZXNzLXNob3Aud2Vic2l0ZTo0NDMvIn0=
 vless://dcc97071-3c70-4eb2-83f0-6a0b12690213@f8.lalash.click:27732?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp# FI | 94.237.16.129
-vless://978608ba-cac7-461e-af6a-d99d2b53155e@shop.onlineserver2.top:7320?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp# FI | 157.180.28.17
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyZ2I4WUdZbHhZTjdqdkRHeEExNEs5@109.107.182.229:51544# FI | 109.107.182.229
+vless://978608ba-cac7-461e-af6a-d99d2b53155e@shop.onlineserver2.top:7320?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp# FI | 37.27.82.68
