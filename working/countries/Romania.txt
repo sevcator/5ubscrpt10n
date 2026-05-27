@@ -1,11 +1,8 @@
 trojan://8r%3C%5B9%27l6hAO%238ZQi@217.19.4.246:8443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B7%F0%9F%87%B4RO%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A
 trojan://8r%3C%5B9%27l6hAO%238ZQi@46.102.156.144:2053?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B7%F0%9F%87%B4RO%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#%3E%3E%40v2ray_configs_pool%3A%3ARO
-trojan://8r%3C%5B9%27l6hAO%238ZQi@217.19.4.246:8443?security=tls&type=ws&sni=Koma-YT.PAGeS.Dev&path=/trTelegram @WangCai2#%F0%9F%87%B7%F0%9F%87%B4RO%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A
-trojan://8r%3C%5B9%27l6hAO%238ZQi@188.215.31.36:2053?security=tls&type=ws&sni=Koma-YT.PAGeS.Dev&path=/trTelegram @WangCai2#%F0%9F%87%B7%F0%9F%87%B4RO%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A2
-trojan://8r%3C%5B9%27l6hAO%238ZQi@46.229.253.73:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&Host=Koma-YT.PAGeS.Dev#%F0%9F%87%B7%F0%9F%87%B4RO-46.229.253.73-0728
-trojan://8r%3C%5B9%27l6hAO%238ZQi@46.229.253.73:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=%252FtrTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%252B%2540WangCai2&Host=Koma-YT.PAGeS.Dev#%F0%9F%87%B7%F0%9F%87%B4RO-46.229.253.73-0795
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@194.14.217.115:989#%F0%9F%87%B7%F0%9F%87%B4RO-194.14.217.115-8471
+trojan://8r%3C%5B9%27l6hAO%238ZQi@46.229.253.73:8443?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B7%F0%9F%87%B4RO-46.229.253.73-0470
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@194.14.217.115:989#%F0%9F%87%B7%F0%9F%87%B4RO-194.14.217.115-8433
 vless://2001daf3-5c56-4bef-8ea6-8dd0493c5a4c@87.120.93.69:443?allowInsecure=0&sni=www.deepl.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#RO_speednode_0022
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#RO%20%20ROSE109
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTYjV5OE5aZTVRR3hUYkt0S0QwSXha@64.7.198.119:26610#RO%20%20ROSE251
@@ -14,8 +11,6 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@194.14.217.115:989#%F0%9F%87%B7%F0
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@194.14.217.115:989#%F0%9F%87%B7%F0%9F%87%B4RO-194.14.217.115-0735
 vless://7fa0ed5f-4c53-4fa9-af42-46fb2ca1279a@146.70.175.125:443?security=tls&type=ws&sni=65qPXvw0.youthinkyoucanstopmefyoudpi.site&path=/&encryption=none&headerType=none#%F0%9F%87%B7%F0%9F%87%B4_RO_%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A-%3E%F0%9F%87%B3%F0%9F%87%B1_NL_%E8%8D%B7%E5%85%B0
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@194.5.215.59:8080#%F0%9F%87%B7%F0%9F%87%B4_RO_%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A-%3E%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF
-vless://43488128-319e-f480-64ea-0acdc712e2a8@91.199.50.37:443?security=reality&type=tcp&sni=www.alibaba.com&fp=chrome&flow=xtls-rprx-vision&sid=c906f73d3ba8211f&pbk=kkRsTNjRh_XrrTM6eZllllldzoL5Z9IqlBkDtmYLMhw#[openproxylist.com] vless-RO
-vless://43488128-319e-f480-64ea-0acdc712e2a8@77.81.98.70:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=kkRsTNjRh_XrrTM6eZllllldzoL5Z9IqlBkDtmYLMhw&security=reality&sid=9b4fc5a116efd6c8&sni=www.aliexpress.com&type=tcp#[openproxylist.com] vless-RO
 vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HrPCfh6ct6Iux5Zu9LW1jaS5XZWJTaGVjYW4ucm8udG8iLCAiYWRkIjogIm1jaS5XZWJTaGVjYW4ucm8udG8iLCAicG9ydCI6ICIyMDUyIiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiYzA1YjJjZjctNTZiNy00M2I1LWVhZmMtY2RkZTRjNzNjODJkIiwgInNuaSI6ICIiLCAiaG9zdCI6ICJ0ZXN0bWNpLnN5bW9kaS5tbCIsICJwYXRoIjogIi9oZ0FjamNqYkFHc3pzWSJ9
 vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+Ht/Cfh7RSTyhBemFkTmV0LnQubWUpXzgiLCAiYWRkIjogIjQ1Ljg1LjExOS40NCIsICJwb3J0IjogIjQ0MyIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAidGxzIiwgImlkIjogIjk3YjM3YWMyLThjMzAtNDJkMi1mMzk4LTgxZmFhY2M4MjFjMyIsICJzbmkiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiL3NwZWVkIn0=
 vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+Ht/Cfh7RSTyhBemFkTmV0LnQubWUpXzYiLCAiYWRkIjogIjQ1Ljg1LjExOS4xMjAiLCAicG9ydCI6ICI0NDMiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogInRscyIsICJpZCI6ICI4YmJkOTFmZS1hMzBiLTRlMjktYmZjNy1jMjhhNDRjMGNiOGYiLCAic25pIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi9jdXJyZW50X3RpbWUifQ==
