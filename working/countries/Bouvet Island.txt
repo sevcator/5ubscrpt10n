@@ -1,2 +1,1 @@
-vless://ec6b78b3-2bf8-4fc0-b7f0-7a20f168d2d3@82.40.62.56:30882?security=&encryption=none&headerType=&type=tcp#Amir-bv614vqs3
 vless://ec6b78b3-2bf8-4fc0-b7f0-7a20f168d2d3@82.40.62.56:30882?security=&encryption=none&headerType=&type=tcp#Amir-bv614vqs3          https://82.40.62.56:2096/sub/utkkfzd4uwiif39i        
