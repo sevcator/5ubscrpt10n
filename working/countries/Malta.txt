@@ -2,4 +2,5 @@ vless://80d1fe59-60f4-4272-a280-820e1ef0a754@104.18.26.90:443?path=/Telegram-XV2
 vless://b95e1161-599d-4896-952a-a2c19b294d9c@nl1.vezze.lat:2095?path=/&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Btype=httpupgrade#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40mt_proxy%20%232
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@171.22.254.129:990#MT%20%20ROSE545
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@171.22.254.17:990#MT%20%20ROSE684
+vless://b5bd7d6d-5ab9-4965-bccc-32acdbc4f714@finlndcdnkonkori.konkuriran.sbs:80?path=/&security=&encryption=none&host=fincd.konkuriran.sbs&type=ws#MT_1329_@Surfboardv2ray
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@193.227.99.249:443?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#%f0%9f%87%b2%f0%9f%87%b9+MT+%e9%a9%ac%e8%80%b3%e4%bb%96+70
