@@ -15,12 +15,6 @@ ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@212.102.38.41:443#%F0%9F%87%A8%F0%9F%8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjeWk0RkRlNEZkclRHM3JVcG5h@195.123.246.15:51348#%F0%9F%87%A8%F0%9F%87%BFCZ-195.123.246.15-7958
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@143.244.58.102:443#%F0%9F%87%A8%F0%9F%87%BFCZ-143.244.58.102-8291
 vless://a67e3045-626c-42c9-8cc0-a5afa6b18b05@95.85.228.146:8443?allowInsecure=0&sni=io.ozone.ru&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#CZ_speednode_0016
-vless://1b536681-edf6-4d30-a908-d081ab83ec0e@45.15.162.178:33826?encryption=none&fp=&pbk=mAp9MUXYFKezyoMbySDsN73_k5VHcI9McPHh0Xdmojo&security=reality&serviceName=grpc&sid=f5&sni=xp.apple.com&type=grpc#CZ_213_@Surfboardv2ray
-vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@14.102.228.76:2083?mode=stream-one&path=/de&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=de.lezzatzone.ir&fp=chrome&type=xhttp&allowInsecure=1&sni=de.lezzatzone.ir#CZ_467_@Surfboardv2ray
-vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@14.102.228.76:2083?mode=stream-one&path=/de&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=de.lezzatzone.ir&fp=chrome&type=xhttp&allowInsecure=1&sni=de.lezzatzone.ir#CZ_468_@Surfboardv2ray
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@14.102.228.238:2096?path=/&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&type=ws&allowInsecure=1&sni=sni.jpmj.dev#CZ_723_@Surfboardv2ray
-vless://e258977b-e413-4718-a3af-02d75492c349@14.102.228.76:2096?encryption=none&security=tls&sni=jp.aniua.qzz.io&insecure=1&allowInsecure=1&type=ws&host=jp.aniua.qzz.io&path=/#CZ_1442_@Surfboardv2ray
-vless://e258977b-e413-4718-a3af-02d75492c349@14.102.228.76:2096?encryption=none&security=tls&sni=jp.aniua.qzz.io&insecure=1&allowInsecure=1&type=ws&host=jp.aniua.qzz.io&path=/#CZ_1443_@Surfboardv2ray
 trojan://3747000103274291200@195.133.93.135:443?peer=epic-weasel.treefrog761.one#Czechia
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkN6ZWNoaWEiLA0KICAiYWRkIjogIjc3Ljc1LjIzMC4xMjUiLA0KICAicG9ydCI6ICI4MCIsDQogICJpZCI6ICJhYzZiNzE2OS03MzY3LTQ2OTMtOGI0MC0yYjUwNmU1NjJkYzkiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi92bWVzcyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoZlNFM3Rod0FRcXZTSWFjNXhMcFVE@45.83.130.97:53292#%f0%9f%87%a8%f0%9f%87%bf%20CZ%201
