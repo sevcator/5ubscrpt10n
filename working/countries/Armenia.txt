@@ -1,5 +1,7 @@
+vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.25:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&type=tcp&security=tls&headerType=none&sni=sub.sbrf-cdn342.ru&fp=chrome&allowInsecure=0&flow=xtls-rprx-vision-udp443#@freenettirGermanyFrankfurt am Mainping:111.17ms
+vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.25:443?encryption=none&type=tcp&security=tls&headerType=none&sni=sub.sbrf-cdn342.ru&fp=chrome&allowInsecure=0&flow=xtls-rprx-vision-udp443#@freenettirGermanyFrankfurt am Mainping:70.27ms
 vless://c24a32f1-b645-47da-98a3-1e7c713229c1@104.18.12.149:8880?path=/api&security=none&encryption=none&host=armenia.chatgpt.com.siasia.ir&type=httpupgrade#Armenia(@proSSH)
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@146.185.248.22:989#%F0%9F%87%A6%F0%9F%87%B2AM-146.185.248.22-8199
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@146.185.248.22:989#%F0%9F%87%A6%F0%9F%87%B2AM-146.185.248.22-8206
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwTnFuWWYza0hlc09wQ2NoUnZVWnhmd1RhZlJzT2o3Zw@213.159.76.21:443#AM%20%20ROSE411
 vmess://eyJhZGQiOiAiMTg1LjE2Mi4yMjguMyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJsaWZlLnRudHNlcnZpY2Uuc2hvcCIsICJpZCI6ICIwYWJjMDA3NS1jZWNiLTRiODItZmRhZC1hYWY0YjliN2E0YTMiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjIwODYiLCAicHMiOiAiQHYycmF5MjQgXHUyNWI3IEFybWVuaWEgXHVkODNjXHVkZGU2XHVkODNjXHVkZGYyIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==
 vless://12f34fc2-b3f6-4422-a44d-37adcadca8f3@188.164.159.178:2053?security=tls&sni=flnewconect3.fragmentscan.xyz&type=grpc&fp=chrome&alpn=h2%2Chttp%2F1.1# VL-GRPC-TLS  AM-188.164.159.178:2053
