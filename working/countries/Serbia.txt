@@ -2,6 +2,7 @@ vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@2.56.172.83:8443?encryption=none&fl
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@194.71.126.31:989#%F0%9F%87%B7%F0%9F%87%B8RS-194.71.126.31-3833
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.146.30:8880?type=ws&host=vms.lifetime36.workers.dev#B%20-%20%F0%9F%87%B7%F0%9F%87%B8%20RS%2001%20TG%3A%20%40nodpai
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppeFB5bUZtYTZQN1U0MXdrOU1OUDd6blBudmF4M21qZA@45.89.55.173:443#RS%20%20ROSE422
+vless://296bbba2-b100-4d91-b8df-3fe03cc863c4@91.225.217.28:443?security=reality&encryption=none&pbk=CnFVrSvJ1Mhl_6QqKCCvXtEdlaJjN4MXWBkSswJ_gX0&headerType=none&fp=chrome&spx=/&type=tcp&sni=yahoo.com&sid=106c#RS_455_@Surfboardv2ray
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@194.71.126.31:989#%F0%9F%87%B7%F0%9F%87%B8RS-194.71.126.31-0765
 vless://296bbba2-b100-4d91-b8df-3fe03cc863c4@91.225.217.28:443?&security=reality&pbk=CnFVrSvJ1Mhl_6QqKCCvXtEdlaJjN4MXWBkSswJ_gX0&sid=106c&fp=chrome&sni=yahoo.com&type=tcp&headerType=none&host=yahoo.com&path=%2F#[openproxylist.com] vless-RS
 vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+Ht/Cfh7ot5L+E572X5pavLXJzMS5ma2ZpcmV3YWxsLnRvcCIsICJhZGQiOiAicnMxLmZrZmlyZXdhbGwudG9wIiwgInBvcnQiOiAiNDQzIiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICJ0bHMiLCAiaWQiOiAiNGVjNGJmOWItMWI4YS00NDViLTk0YzQtN2UyOTM4MzY1YTgxIiwgInNuaSI6ICJyczEuMThjb21pYy5tbCIsICJob3N0IjogInJzMS4xOGNvbWljLm1sIiwgInBhdGgiOiAiL3J1biJ9
