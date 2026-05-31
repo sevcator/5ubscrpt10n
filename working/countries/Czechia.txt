@@ -14,9 +14,8 @@ ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@212.102.38.88:443#%F0%9F%87%A8%F0%9F%8
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@212.102.38.41:443#%F0%9F%87%A8%F0%9F%87%BFCZ-212.102.38.41-7940
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjeWk0RkRlNEZkclRHM3JVcG5h@195.123.246.15:51348#%F0%9F%87%A8%F0%9F%87%BFCZ-195.123.246.15-7992
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@143.244.58.102:443#%F0%9F%87%A8%F0%9F%87%BFCZ-143.244.58.102-8325
-vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@14.102.228.76:2083?mode=stream-one&path=/de&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=de.lezzatzone.ir&fp=chrome&type=xhttp&allowInsecure=1&sni=de.lezzatzone.ir#CZ_587_@Surfboardv2ray
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@14.102.228.238:2096?path=/&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&type=ws&allowInsecure=1&sni=sni.jpmj.dev#CZ_832_@Surfboardv2ray
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.85.23.253:8880?encryption=none&host=joss.jak.biz.id&path=/Free-VPN-CF-Geo-Project/HK?ed=2560&https://t.me/WangCai2&security=none&type=ws#CZ_846_@Surfboardv2ray
+vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@14.102.228.76:2083?mode=stream-one&path=/de&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=de.lezzatzone.ir&fp=chrome&type=xhttp&allowInsecure=1&sni=de.lezzatzone.ir#CZ_579_@Surfboardv2ray
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@14.102.228.238:2096?path=/&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&type=ws&allowInsecure=1&sni=sni.jpmj.dev#CZ_874_@Surfboardv2ray
 trojan://3747000103274291200@195.133.93.135:443?peer=epic-weasel.treefrog761.one#Czechia
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkN6ZWNoaWEiLA0KICAiYWRkIjogIjc3Ljc1LjIzMC4xMjUiLA0KICAicG9ydCI6ICI4MCIsDQogICJpZCI6ICJhYzZiNzE2OS03MzY3LTQ2OTMtOGI0MC0yYjUwNmU1NjJkYzkiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi92bWVzcyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
 vmess://eyJ2IjpudWxsLCJwcyI6IvCfh6jwn4e/IENaIDEiLCJhZGQiOiI4Mi4xOTguMjQ2LjkiLCJwb3J0IjoxODAsImlkIjoiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwiYWlkIjoiMCIsInNjeSI6bnVsbCwibmV0IjoidGNwIiwidHlwZSI6bnVsbCwiaG9zdCI6ImNmLnNjcG5iLnRvcCIsImFscG4iOm51bGwsInBhdGgiOiIvYjRiYjMwYjEtYjRhMi00Yjc2LTkwZWQtYzdkNTRlYzcxZDY5LXZtIiwidGxzIjoiIiwic25pIjpudWxsLCJmcCI6bnVsbH0=
