@@ -1,3 +1,4 @@
+trojan://humanity@141.193.213.11:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmloud.com&type=ws&allowInsecure=1&sni=www.calmloud.com#%40Diachi%20Humanity%20CF11-MCI
 vless://7f3faff8-41db-403d-8329-6b9072aaabe2@198.41.223.61:443?security=tls&type=ws&ech=https%3A%2F%2Fdns.alidns.com%2Fdns-query&host=edgetunnell-1dc.pages.dev&fp=chrome&sni=edgetunnell-1dc.pages.dev&path=%2F&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8920`
 vmess://eyJhZGQiOiJjZi1sdC5zaGFyZWNlbnRyZS5vbmxpbmUiLCJhaWQiOjAsImhvc3QiOiJ1cy1zdC0yLnNoYXJlY2VudHJlLm9ubGluZSIsImlkIjoiMjBlOTI4ODEtNWZiNC00YjA1LWJjNzctNTc5Mjk0NzZkYzY5IiwibmV0Ijoid3MiLCJwYXRoIjoiL3NoaXJrZXIiLCJwb3J0Ijo0NDMsInBzIjoi44CMU0NQ44CNVVMtQ0YyIiwic2N5IjoiYWVzLTEyOC1nY20iLCJzbmkiOiJ1cy1zdC0yLnNoYXJlY2VudHJlLm9ubGluZSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6Mn0= @V2ray_Custom
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080#%3E%3E%40ip_cf%3A%3AXX

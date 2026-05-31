@@ -1,6 +1,4 @@
-trojan://telegram-id-privatevpns@3.125.174.245:22222?type=tcp&security=tls&path=/# Germany Frankfurt am Main | 649ms | 170KB/s | @NamazVPN
-vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?encryption=none&packetEncoding=xudp# Germany Frankfurt am Main | 435ms | 918KB/s | @NamazVPN
-vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?encryption=none&packetEncoding=xudp# Germany Frankfurt am Main | 981ms | 162KB/s | @NamazVPN
+vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@146.75.117.91:80?mode=auto&path=/Tignal&security=none&encryption=none&extra={"xPaddingBytes":"100-1000"}&host=tignaltofansv5.global.ssl.fastly.net&type=xhttp#@freenettirGermanyFrankfurt am Mainping:25.81ms
 vless://c24a32f1-b645-47da-98a3-1e7c713229c1@104.18.12.149:8880?path=/api&security=none&encryption=none&host=armenia.chatgpt.com.siasia.ir&type=httpupgrade#Armenia(@proSSH)
 trojan://rYuChHcwQZskq9E0zdoR@2.56.204.246:443?security=tls&sni=vpn5.rnmcnm.com&type=ws&path=%2Fws-79dffb8106db&Host=vpn5.rnmcnm.com#%F0%9F%87%A6%F0%9F%87%B2AM-2.56.204.246-0756
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@146.185.248.22:989#%F0%9F%87%A6%F0%9F%87%B2AM-146.185.248.22-8317

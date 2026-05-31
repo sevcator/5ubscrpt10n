@@ -1,2 +1,1 @@
 vless://be1fab42-7703-4f8c-9e63-1daec6d002d5@rec.yaraghfit.ir:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&type=ws&allowInsecure=1#/New Zealand
-vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@202.37.33.80:443?path=/sg-melbi&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=cyylr.eu.cc&fp=chrome&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=cyylr.eu.cc# NZ | 202.37.33.80
