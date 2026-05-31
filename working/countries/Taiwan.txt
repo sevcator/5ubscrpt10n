@@ -14,8 +14,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg007117fb8.cybervena.com:50099#%F0%9F%87%B9%F0%9F%87%BCTW-111.248.73.29-0209
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg0011499tl.cybervena.com:50099#%F0%9F%87%B9%F0%9F%87%BCTW-111.248.88.150-0210
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg007147vhp.cybervena.com:50099#%F0%9F%87%B9%F0%9F%87%BCTW-111.248.87.83-0211
-trojan://gcuCpQfaiVeDBdWG@211.76.176.98:19128?sni=yazhou10.dynu.net#%F0%9F%87%B9%F0%9F%87%BCTW%E5%8F%B0%E6%B9%BE
-trojan://gcuCpQfaiVeDBdWG@jpbgp.netvigor.cc:19128?security=tls&sni=yazhou10.dynu.net#%F0%9F%87%B9%F0%9F%87%BCTW%E5%8F%B0%E6%B9%BE2
 trojan://gcuCpQfaiVeDBdWG@jpbgp.netvigor.cc:19128?security=tls&sni=yazhou10.dynu.net#%F0%9F%87%B9%F0%9F%87%BCTW-211.76.176.98-0279
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.54.107.101:990#%F0%9F%87%B9%F0%9F%87%BCTW-38.54.107.101-0300
 vmess://ewogICAgImFkZCI6ICI0NS4xMjEuNTEuMTAzIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICJmNjQwNmI2ZC01NDg3LTQ2ZGEtZjc5My00NjYxMTI2OWEzMDYiLAogICAgIm5ldCI6ICJodHRwIiwKICAgICJwYXRoIjogIiIsCiAgICAicG9ydCI6IDIwNzE1LAogICAgInBzIjogIvCfh7nwn4e8VFctNDUuMTIxLjUxLjEwMy0wNjQ3IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
@@ -95,6 +93,7 @@ trojan://YWVzLTI1Ni1nY206eHBRd3lWNFc1RmRBNk5NQU5KSng3M1VT@2.58.242.43:443?allowI
 vmess://eyJ2IjpudWxsLCJwcyI6IvCfh7nwn4e8IFRXIDEiLCJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsInBvcnQiOjM1MDM0LCJpZCI6Ijk1OWE4Y2FmLTRjZWEtNDNkMC1hNTQ4LTM2MjhlN2RkZmFmYyIsImFpZCI6IjAiLCJzY3kiOm51bGwsIm5ldCI6bnVsbCwidHlwZSI6bnVsbCwiaG9zdCI6bnVsbCwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOm51bGwsInNuaSI6bnVsbCwiZnAiOm51bGx9
 trojan://gcuCpQfaiVeDBdWG@211.76.176.99:19128?security=tls&sni=yazhou10.dynu.net&type=tcp&headerType=none&path=%2f&allow_insecure=0#%f0%9f%87%b9%f0%9f%87%bc%20TW%202
 trojan://gcuCpQfaiVeDBdWG@211.76.176.98:19128?security=tls&sni=yazhou10.dynu.net&type=tcp&headerType=none&path=%2f#%f0%9f%87%b9%f0%9f%87%bc%20TW%203
+vmess://eyJhZGQiOiJ3b3JsZC50LjUxZ3Vhbmd0YW9iYW8uY29tIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6IjFkM2Q4NjhlLWFlN2ItMzc2Mi1iOWQ5LWE3ZjI2NzQ5NGM3ZSIsIm5hdGlvbiI6Ilx1ZDgzY1x1ZGRlZFx1ZDgzY1x1ZGRmMEhLIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyNTEwIiwicHMiOiJcdWQ4M2NcdWRkZjlcdWQ4M2NcdWRkZmNbb3BlbnByb3h5bGlzdC5jb21dIHZtZXNzLVRXIiwic2N5IjoiYXV0byIsInNlcnZlclBvcnQiOjAsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
 ss://YWVzLTEyOC1nY206b2l3eW00b3ZJNFli@61.224.72.195:443?plugin=v2ray-plugin%3Bhost%3Dt1.kddns.xyz%3Btls#Taiwan|Github%E6%90%9C%E7%B4%A2TrojanLinks
 ss://YWVzLTEyOC1nY206b2l3eW00b3ZJNFli@104.16.88.23:443?plugin=v2ray-plugin%3Bhost%3Dt2.kddns.xyz%3Btls#Taiwan|Github%E6%90%9C%E7%B4%A2TrojanLinks
 ss://YWVzLTI1Ni1jZmI6WkVUNTlMRjZEdkNDOEtWdA==@213.183.59.190:9005#/Taiwan
@@ -296,3 +295,4 @@ vmess://eyJwcyI6ICLwn4e68J+HuC3nvo7lm70tYXdzdXMuYXp6aHVhbmdhcGluZy50dyIsICJhZGQi
 vmess://eyJwcyI6ICLwn4e68J+HuC3nvo7lm70tdXNmaGMuYXp6aHVhbmdhcGluZy50dyIsICJhZGQiOiAidXNmaGMuYXp6aHVhbmdhcGluZy50dyIsICJwb3J0IjogIjgwIiwgInR5cGUiOiAidm1lc3MiLCAiaWQiOiAiNGM0ZTA2NWYtMzYzYi0zYzliLThhNGQtMzEyZjZiOTg0MGQzIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9hZG9iZSIsICJob3N0IjogInVzZmhjLmF6emh1YW5nYXBpbmcudHciLCAidGxzIjogIiIsICJzY3kiOiAiYXV0byJ9
 trojan://d446ca24-80b7-4e4a-8055-e23838e43705@cdnfire.xiaomispeed.com:21102/?type=tcp&security=tls&sni=cdnfire.xiaomispeed.com&allowInsecure=1# TW | 220.130.58.136
 trojan://b574ea88-168d-4504-a62d-fe9a2271d726@green2.cdntencentmusic.com:31103/?type=tcp&security=tls&sni=green2.cdntencentmusic.com&allowInsecure=1# TW | 220.130.58.136
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@36.230.36.180:50099# TW | 36.230.36.180

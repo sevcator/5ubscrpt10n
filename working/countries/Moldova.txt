@@ -14,3 +14,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvait
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.153.197.5:989#MD%20%20ROSE690
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@95.164.22.239:2003?allowInsecure=0&sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=/?ed=2560fp=chrome&security=tls#15|MD_speednode_0032
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@95.164.22.239:2003?allowInsecure=0&sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=/?ed=2560fp=chromefp=chrome&security=tls#15|MD_speednode_0033
+vless://1b43419a-b711-40d4-a0ee-eb5c73e60c92@pl.prostosetup.org:443?security=reality&encryption=none&pbk=ps7eCLLKAqgSGPFRQl1-R1PhzUeO1Z1EwNl02Ac63UA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pl.prostosetup.org&sid=514d02a2addd6476#[openproxylist.com] vless-MD
