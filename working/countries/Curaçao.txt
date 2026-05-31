@@ -1,2 +1,1 @@
 vmess://eyJ2IjogIjIiLCAicHMiOiAiQERlYW1OZXRf8J+HqPCfh7NUYWknYW4tMjE5Ni0zODAiLCAiYWRkIjogIjE0Mi40LjEwOC41NiIsICJwb3J0IjogNTkxMDksICJhaWQiOiA2NCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0In0=
-vless://f322debc-8e3f-4268-89d8-4708161a8e5e@45.81.58.159:2096?path=/ws?ed=2560&security=tls&encryption=none&insecure=0&host=newgen14.hozheen.ir&fp=chrome&type=ws&allowInsecure=0&sni=a2c107fee2b79722.hozheen.ir#undefined CW | 45.81.58.159
