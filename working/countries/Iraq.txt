@@ -1,1 +1,4 @@
-vless://69a2af58-d74a-44ca-864a-e09b493f4274@178.236.254.244:8443?sni=www.vk.ru&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%AE%F0%9F%87%B6IQ_1%7C2.4MB/s
+trojan://Z3_=ewk_+l1U4OT4usQ5=o2vFfk95yfy1V@130.94.97.11:443?security=tls&sni=www.selectnet.click#%F0%9F%87%AE%F0%9F%87%B6IQ-130.94.97.11-0492
+trojan://Z3_=ewk_+l1U4OT4usQ5=o2vFfk95yfy1V@130.94.97.11:443?security=tls&sni=www.selectnet.click&fp=chrome&path=%2f#%f0%9f%87%ae%f0%9f%87%b6%20IQ%201
+trojan://Z3_=ewk_+l1U4OT4usQ5=o2vFfk95yfy1V@130.94.97.11:443?sni=www.selectnet.click&path=%2f#%f0%9f%87%ae%f0%9f%87%b6%20IQ%202
+trojan://Z3_=ewk_+l1U4OT4usQ5=o2vFfk95yfy1V@130.94.97.11:443?security=tls&sni=www.selectnet.click&fp=chrome&type=tcp&headerType=none&host=%40ProxyVPN11&path=%2f&allow_insecure=1#%f0%9f%87%ae%f0%9f%87%b6%20IQ%203

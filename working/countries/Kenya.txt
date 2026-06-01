@@ -1,3 +1,1 @@
-vless://006e96ff-db44-4086-a374-7b8aa7351fe2@microsoft.com:443?encryption=none&type=ws&security=tls&path=/sg-do&host=support.zoom.us.cyylr.eu.cc&sni=support.zoom.us.cyylr.eu.cc&allowInsecure=0&ech=ip.gs+udp://8.8.8.8#KE_84_@Surfboardv2ray
-vless://266c0d10-d0f4-41f2-9d82-37cedf863fe7@microsoft.com:443?encryption=none&type=ws&security=tls&path=/in-pdr&host=cyylr.eu.cc&sni=cyylr.eu.cc&allowInsecure=0&ech=ip.gs+udp://8.8.8.8#KE_372_@Surfboardv2ray
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@62.12.116.66:989#%F0%9F%87%B0%F0%9F%87%AAKE-62.12.116.66-0760
