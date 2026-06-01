@@ -1,10 +1,11 @@
 trojan://BzOx2R8u59SOipHwhIYW-IMyJePBEiUY-m@149.104.104.101:443?allowInsecure=1&fp=chrome&sni=www.registry-monitor.click#%3E%3E%40oneclickvpnkeys%3A%3APK
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxZTZwZUZHNTRGOW40dTN4Mw==@103.125.147.48:51348#%F0%9F%87%B5%F0%9F%87%B0PK-103.125.147.48-8582
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NzUwOWJhMzY3OWI5ZGY5@154.205.145.37:11201#PK%20%20ROSE49
+vless://20df9a62-5948-11f1-bf0f-5254eff7fba9@154.205.145.79:8443?security=reality&encryption=none&pbk=bQrdBuhZRuvqaYIKIT1mRcDipJmqLZPKTzE2HkLZ_j4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cloudflare.com&sid=2046e176b80e8278#PK_331_@Surfboardv2ray
 trojan://3747000103274291200@dynamic-tomcat.treefrog761.one:443#Pakistan
 trojan://3747000103274291200@38.60.217.170:443?peer=dynamic-tomcat.treefrog761.one#Pakistan
 trojan://BzOx2R8u59SOipHwhIYW-IMyJePBEiUY-m@149.104.104.101:443?sni=www.registry-monitor.click&fp=chrome&path=%2f#%f0%9f%87%b5%f0%9f%87%b0%20PK%201
 trojan://BzOx2R8u59SOipHwhIYW-IMyJePBEiUY-m@149.104.104.101:443?security=tls&sni=www.registry-monitor.click&type=tcp&headerType=none&path=%2f#%f0%9f%87%b5%f0%9f%87%b0%20PK%202
 trojan://BzOx2R8u59SOipHwhIYW-IMyJePBEiUY-m@149.104.104.101:443?security=tls&sni=www.registry-monitor.click&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=1#%f0%9f%87%b5%f0%9f%87%b0%20PK%203
-trojan://BzOx2R8u59SOipHwhIYW-IMyJePBEiUY-m@149.104.104.101:443?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=www.registry-monitor.click#[openproxylist.com] trojan-PK
+trojan://BzOx2R8u59SOipHwhIYW-IMyJePBEiUY-m@149.104.104.101:443?allowInsecure=0&sni=www.registry-monitor.click#[openproxylist.com] trojan-PK
 vless://20df9a62-5948-11f1-bf0f-5254eff7fba9@154.205.145.79:8443?security=reality&encryption=none&echfq=none&pbk=bQrdBuhZRuvqaYIKIT1mRcDipJmqLZPKTzE2HkLZ_j4&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=cloudflare.com&sid=2046e176b80e8278#[openproxylist.com] vless-PK

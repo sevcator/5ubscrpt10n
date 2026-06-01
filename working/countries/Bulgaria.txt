@@ -1,7 +1,6 @@
 vless://919526f8-86c8-4f43-b5f7-91eea1368bad@141.227.178.165:25365?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#%F0%9F%87%A7%F0%9F%87%AC%20Bulgaria
 ss://ee122f13-9b54-49b6-abc5-aa47b464fdb3@norman.ns.cloudflare.com:443?path=%2Fyhowcws&security=tls&encryption=none&type=ws&sni=azizoarjmand.info#Bulgaria%20WorkTitans
 vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@norman.ns.cloudflare.com:443?path=%2Fyhowcws&security=tls&encryption=none&type=ws&sni=azizoarjmand.info#Bulgaria%20WorkTitans
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6RExtZVdSc2ZjRmRLVDFUcHkwMnhvZEVUb3FDbGRUeHZaY1JvUElaWnRCZG5JRUw=@89.44.197.181:31348#%F0%9F%87%A7%F0%9F%87%ACBG-89.44.197.181-0157
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6RExtZVdSc2ZjRmRLVDFUcHkwMnhvZEVUb3FDbGRUeHZaY1JvUElaWnRCZG5JRUw=@89.44.197.181:31348#%F0%9F%87%A7%F0%9F%87%ACBG-89.44.197.181-0138
 ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@213.183.63.221:9001#%F0%9F%87%A7%F0%9F%87%ACBG-213.183.63.221-0339
 trojan://8r%3C%5B9%27l6hAO%238ZQi@192.145.31.58:2083?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram+@WangCai2&Host=Koma-YT.PAGeS.Dev#%F0%9F%87%A7%F0%9F%87%ACBG-192.145.31.58-1705
@@ -13,7 +12,7 @@ vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@147.78.140.5:443?encryption=none&se
 vless://d0b60427-ccb0-4026-aeec-d095b6b7dd08@de-2.srv.vpnza300.org:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=de-2.srv.vpnza300.org&pbk=4Y1wdeQGqDecReK5UrA5RV7Dcq9QnfuArtSzujdJbXo&sid=6eda877655137aff&type=tcp&headerType=none#%F0%9F%87%A7%F0%9F%87%AC_www.panlongid.com_BG_%E4%BF%9D%E5%8A%A0%E5%88%A9%E4%BA%9A_31
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6RExtZVdSc2ZjRmRLVDFUcHkwMnhvZEVUb3FDbGRUeHZaY1JvUElaWnRCZG5JRUw=@89.44.197.181:31348#%f0%9f%87%a7%f0%9f%87%ac%20BG%201
 trojan://Z3_=ewk_+l1U4OT4usQ5=o2vFfk95yfy1V@130.94.97.11:443?fp=chrome&security=tls&sni=www.selectnet.click&type=#[openproxylist.com] trojan-BG
-vless://8bb2d0ca-259b-46d0-8055-d6ecbb36f306@87.229.34.23:443?security=reality&allowInsecure=0&encryption=none&type=tcp&sni=www.samsung.com&fp=chrome&pbk=OZVjfQBboTDTBw0baMFqzVPsVUI4FNQmspTEb0b0zW4&headerType=none#[openproxylist.com] vless-BG
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6RExtZVdSc2ZjRmRLVDFUcHkwMnhvZEVUb3FDbGRUeHZaY1JvUElaWnRCZG5JRUw=@89.44.197.181:31348#%F0%9F%87%A7%F0%9F%87%ACBG-89.44.197.181-0157
 trojan://idc117okt@103.176.78.153:443?security=tls#/Bulgaria
 vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+Hp/Cfh6xCRy0xOTUuMTIzLjIyOC44MS00NjAyIiwgImFkZCI6ICIxOTUuMTIzLjIyOC44MSIsICJwb3J0IjogNDQzLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogInRscyIsICJpZCI6ICIxMDcwNmUwYS04MjUxLTRjZmMtYjIxMS1iOTA4Yjk5ZGZkNWYiLCAic25pIjogIiIsICJwYXRoIjogIi83YTE3MzM2MjAxP2VkPTIwNDgifQ==
 vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HrfCfh7AgZ2l0aHViLmNvbS9mcmVlZnEgLSDpppnmuK9CRy4uLiIsICJhZGQiOiAiMjAyLjc5LjE3MS4xNTUiLCAicG9ydCI6ICI0NDMiLCAiYWlkIjogIjY0IiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogInRscyIsICJpZCI6ICI3ZjM3ZGE2MS1jNzM0LTQxYjQtYThjMi1lY2NmZDZjYTQ4ZjAiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvIn0=
