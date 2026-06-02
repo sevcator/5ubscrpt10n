@@ -1,3 +1,1 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZmYxNDIzZjYxZmZlNjcz@38.54.59.16:11201#EG%20%20ROSE237
-trojan://J64JLZPG-rlhq2Wb-8DsmO5s66f9g7v72z@38.60.226.78:443?security=tls&sni=38.60.226.78&fp=chrome&type=tcp&path=%2f#%f0%9f%87%aa%f0%9f%87%ac%20EG%201
-trojan://J64JLZPG-rlhq2Wb-8DsmO5s66f9g7v72z@38.60.226.78:443?sni=38.60.226.78&fp=chrome&type=tcp&path=%2f#%f0%9f%87%aa%f0%9f%87%ac%20EG%202
