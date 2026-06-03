@@ -1,115 +1,3 @@
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.38.143.72:2053?host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=Koma-YT.PAGeS.Dev&type=ws# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.38.143.72:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.38.143.72:8443?host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=Koma-YT.PAGeS.Dev&type=ws# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.38.143.72:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.38.143.97:8443?host=Koma-YT.PAGeS.Dev&path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.38.143.97:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.38.170.27:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.38.170.27:8443?host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=Koma-YT.PAGeS.Dev&type=ws# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.38.170.27:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.40.144.253:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.40.144.253:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&ws=1&wspath=%2FtrTelegram# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.40.144.253:443?sni=Koma-YT.PAGeS.Dev# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.40.144.253:443?type=ws&sni=Koma-YT.PAGeS.Dev&path=/trTelegram&host=Koma-YT.PAGeS.Dev# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.40.145.253:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.40.145.253:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram @WangCai2# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.40.145.253:443?security=tls&sni=Koma-YT.PAGeS.Dev# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.40.146.253:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.40.146.253:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram @WangCai2# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.40.147.253:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.40.147.253:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram @WangCai2# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.40.147.253:443?security=tls&sni=Koma-YT.PAGeS.Dev# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.40.148.253:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.40.148.253:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram @WangCai2# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.40.148.253:443?security=tls&sni=Koma-YT.PAGeS.Dev# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.40.148.253:443?sni=Koma-YT.PAGeS.Dev# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.40.149.253:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.40.149.253:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram @WangCai2# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.40.150.253:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.40.150.253:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram @WangCai2# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.40.150.253:443?security=tls&sni=Koma-YT.PAGeS.Dev# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.40.151.253:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.40.151.253:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram @WangCai2# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.40.151.253:443?security=tls&sni=Koma-YT.PAGeS.Dev# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.40.152.253:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram+@WangCai2# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.40.154.253:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.40.154.253:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram @WangCai2# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.40.155.253:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram @WangCai2# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.40.155.253:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&ws=1&wspath=%252FtrTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2520%2540WangCai2# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.40.155.253:443?security=tls&sni=Koma-YT.PAGeS.Dev# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.40.155.253:443?sni=Koma-YT.PAGeS.Dev# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.40.155.253:443?sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.40.155.253:443?sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram @WangCai2# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.40.155.253:443?sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.40.155.253:443?type=ws&sni=Koma-YT.PAGeS.Dev&path=/trTelegram# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.40.155.253:443?type=ws&sni=Koma-YT.PAGeS.Dev&path=/trTelegram @WangCai2&host=Koma-YT.PAGeS.Dev# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.43.77.109:8443?host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=Koma-YT.PAGeS.Dev&type=ws# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.43.77.109:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.43.88.13:2053?host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=Koma-YT.PAGeS.Dev&type=ws# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.43.88.13:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.43.88.13:8443?host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=Koma-YT.PAGeS.Dev&type=ws# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.43.88.13:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.43.89.19:8443?host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=Koma-YT.PAGeS.Dev&type=ws# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.43.89.19:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.43.89.19:8443?sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram+@WangCai2# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.43.91.201:8443?host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=Koma-YT.PAGeS.Dev&type=ws# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.43.91.201:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.56.84.124:443?type=ws&sni=Koma-YT.PAGeS.Dev&path=/trTelegram# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.56.84.124:443?type=ws&sni=Koma-YT.PAGeS.Dev&path=/trTelegram @WangCai2&host=Koma-YT.PAGeS.Dev# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.59.117.238:8443?allowInsecure=0&sni=Koma-YT.PAGeS.Dev# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.59.117.238:8443?security=tls&sni=Koma-YT.PAGeS.Dev&insecure=1&allowInsecure=1&type=ws&host=Koma-YT.PAGeS.Dev&path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.59.117.238:8443?security=tls&sni=Koma-YT.PAGeS.Dev&insecure=1&allowInsecure=1&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.59.117.238:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.59.117.238:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram @WangCai2&Host=Koma-YT.PAGeS.Dev# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.61.134.79:8443?host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=Koma-YT.PAGeS.Dev&type=ws# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.61.134.79:8443?security=tls&sni=Koma-YT.PAGeS.Dev# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.61.134.79:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.61.134.79:8443?sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.61.134.79:8443?sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram @WangCai2# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.61.140.116:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.61.140.116:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram @WangCai2# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.61.166.121:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.61.166.121:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram @WangCai2# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.61.166.121:443?security=tls&sni=Koma-YT.PAGeS.Dev# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.61.166.121:443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&Host=Koma-YT.PAGeS.Dev# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.61.166.121:443?security=tls&type=ws&sni=Koma-YT.PAGeS.Dev&path=/trTelegram# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.61.166.121:443?sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.66.10.141:8443?host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=Koma-YT.PAGeS.Dev&type=ws# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.66.10.141:8443?path=%2FtrTelegram%2B%40WangCai2&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.66.10.141:8443?security=tls&sni=Koma-YT.PAGeS.Dev# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.66.10.141:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.66.10.141:8443?sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram+@WangCai2# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.66.160.10:2053?host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=Koma-YT.PAGeS.Dev&type=ws# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.66.160.10:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.66.160.10:2053?sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.66.160.10:2053?sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram @WangCai2# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.66.249.22:8443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.66.249.22:8443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram @WangCai2# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.67.202.101:8443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&ws=1&wspath=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.67.202.101:8443?host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=Koma-YT.PAGeS.Dev&type=ws# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.67.202.101:8443?security=tls&sni=Koma-YT.PAGeS.Dev&fp=chrome&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.67.202.101:8443?sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.67.202.101:8443?sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram @WangCai2# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.67.202.173:443?allowInsecure=0&sni=Koma-YT.PAGeS.Dev# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.67.202.173:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.67.202.173:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram @WangCai2# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.67.202.173:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&ws=1&wspath=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.67.202.173:443?security=tls&sni=Koma-YT.PAGeS.Dev# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.67.202.36:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.67.202.36:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram @WangCai2# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.67.202.36:443?security=tls&sni=Koma-YT.PAGeS.Dev# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.67.202.88:8443?host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=Koma-YT.PAGeS.Dev&type=ws# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.67.202.88:8443?security=tls&sni=Koma-YT.PAGeS.Dev# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.67.202.88:8443?security=tls&sni=Koma-YT.PAGeS.Dev&fp=chrome&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.77.206.201:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.77.206.201:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram @WangCai2# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.77.62.142:8443?host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=Koma-YT.PAGeS.Dev&type=ws# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.77.62.142:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.77.62.142:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=%252FtrTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%252B%2540WangCai2&Host=Koma-YT.PAGeS.Dev# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.77.62.142:8443?sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram+@WangCai2# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.77.63.51:8443?host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=Koma-YT.PAGeS.Dev&type=ws# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.77.63.51:8443?security=tls&sni=Koma-YT.PAGeS.Dev# By EbraSha 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.77.63.51:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2# By EbraSha 
 trojan://8r%3C%5B9%27l6hAO%238ZQi@45.77.63.51:8443?sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram+@WangCai2# By EbraSha 
 trojan://8r%3C%5B9%27l6hAO%238ZQi@45.79.73.91:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram# By EbraSha 
 trojan://8r%3C%5B9%27l6hAO%238ZQi@45.79.73.91:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram @WangCai2# By EbraSha 
@@ -5043,6 +4931,7 @@ trojan://BxceQaOe@18.182.19.193:8359?sni=t.me/ripaojiedian# By EbraSha
 trojan://BxceQaOe@18.183.163.141:4099/?type=tcp&security=tls&sni=t.me%252Fripaojiedian&allowInsecure=1# By EbraSha 
 trojan://BxceQaOe@18.183.163.141:4099?allowInsecure=0&sni=t.me%252Fripaojiedian# By EbraSha 
 trojan://BxceQaOe@18.183.163.141:4099?allowInsecure=1&sni=t.me%252Fripaojiedian# By EbraSha 
+trojan://BxceQaOe@18.183.163.141:4099?allowInsecure=1&sni=t.me%2Fripaojiedian# By EbraSha 
 trojan://BxceQaOe@18.183.163.141:4099?security=tls&sni=t.me%252Fripaojiedian# By EbraSha 
 trojan://BxceQaOe@18.183.163.141:4099?sni=t.me%2Fripaojiedian# By EbraSha 
 trojan://BxceQaOe@18.183.163.141:4099?sni=t.me%2Fripaojiedian&allowInsecure=1&type=tcp&fp=chrome# By EbraSha 
@@ -5317,6 +5206,8 @@ trojan://Config0plus@45.130.125.160:443?Telegram=@GozargahAzad,@GozargahAzad,@Go
 trojan://Config0plus@45.130.125.160:443?path=%2Fid-tksi&security=tls&insecure=0&host=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=api24-normal.tiktokv.com.cyylr.eu.cc# By EbraSha 
 trojan://Config0plus@45.130.125.160:443?path=%2Fin-pdr&security=tls&insecure=0&host=investors.spotify.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=investors.spotify.com.cyylr.eu.cc# By EbraSha 
 trojan://Config0plus@45.130.125.160:443?path=/id-tksi&security=tls&insecure=0&host=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=api24-normal.tiktokv.com.cyylr.eu.cc# By EbraSha 
+trojan://Config0plus@45.130.125.160:443?path=/in-pdr&security=tls&insecure=0&host=investors.spotify.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=investors.spotify.com.cyylr.eu.cc# By EbraSha 
+trojan://Config0plus@45.130.125.160:443?security=tls&sni=api24-normal.tiktokv.com.cyylr.eu.cc&insecure=0&allowInsecure=0&type=ws&host=api24-normal.tiktokv.com.cyylr.eu.cc&path=/id-tksi# By EbraSha 
 trojan://Config0plus@45.130.125.160:443?security=tls&type=ws&sni=api24-normal.tiktokv.com.cyylr.eu.cc&path=/id-tksi&host=api24-normal.tiktokv.com.cyylr.eu.cc# By EbraSha 
 trojan://Config0plus@45.130.125.69:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/id-tksi&security=tls&insecure=0&host=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=api24-normal.tiktokv.com.cyylr.eu.cc# By EbraSha 
 trojan://Config0plus@45.130.125.69:443?path=%2Fid-tksi&security=tls&insecure=0&host=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=api24-normal.tiktokv.com.cyylr.eu.cc# By EbraSha 
@@ -7739,6 +7630,7 @@ trojan://aa710f78-eddb-45b4-bd32-1f8692a754e5@104.19.229.21:443?path=%2Fae-bo&se
 trojan://aa710f78-eddb-45b4-bd32-1f8692a754e5@104.19.229.21:443?path=%2Fae-bo&security=tls&insecure=0&host=s.blibli.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=s.blibli.com.cyylr.eu.cc# By EbraSha 
 trojan://aa710f78-eddb-45b4-bd32-1f8692a754e5@104.19.229.21:443?path=/ae-bo&security=tls&insecure=0&host=s.blibli.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=s.blibli.com.cyylr.eu.cc# By EbraSha 
 trojan://aa710f78-eddb-45b4-bd32-1f8692a754e5@104.19.229.21:443?type=ws&security=tls&path=%2Fae-bo&host=s.blibli.com.cyylr.eu.cc&sni=s.blibli.com.cyylr.eu.cc&allowInsecure=0# By EbraSha 
+trojan://aa710f78-eddb-45b4-bd32-1f8692a754e5@104.19.229.21:443?type=ws&security=tls&path=%2Fae-bo&host=s.blibli.com.cyylr.eu.cc&sni=s.blibli.com.cyylr.eu.cc&allowInsecure=1# By EbraSha 
 trojan://aa712df9-b860-41fa-bcee-346cddfe1c10@gzdx.jcnode.top:40000?allowInsecure=1&sni=hk01.ckcloud.info# By EbraSha 
 trojan://aa712df9-b860-41fa-bcee-346cddfe1c10@gzdx.jcnode.top:43002?allowInsecure=1&sni=sg01.ckcloud.info# By EbraSha 
 trojan://aa712df9-b860-41fa-bcee-346cddfe1c10@gzdx.jcnode.top:48000?allowInsecure=1&sni=us2.ckcloud.info# By EbraSha 
@@ -7762,6 +7654,7 @@ trojan://aab77372-534b-4878-a7d0-b9339ddc1868@sgmax09.170203.xyz:45634# By EbraS
 trojan://aab77372-534b-4878-a7d0-b9339ddc1868@us01.170203.xyz:443# By EbraSha 
 trojan://aababcc-aabc-acab-abcd-abccccaabbba@127.0.0.1:8080?security=tls&type=tcp# By EbraSha 
 trojan://aabbcac-baca-bcaa-dacb-babccaacbabc@127.0.0.1:8080?security=tls&type=tcp# By EbraSha 
+trojan://aabcbac-abca-abac-bcad-accbccabaabb@127.0.0.1:8080?security=tls&type=tcp# By EbraSha 
 trojan://aabcbac-caab-aabc-cbda-ccabbabcacba@127.0.0.1:8080?security=tls&type=tcp# By EbraSha 
 trojan://aacabcb-aacb-baac-bcad-bacbaaaccbcb@127.0.0.1:8080?security=tls&type=tcp# By EbraSha 
 trojan://aacabcb-abac-caba-bacd-babacbacbcca@127.0.0.1:8080?security=tls&type=tcp# By EbraSha 
@@ -8944,6 +8837,7 @@ trojan://bb45f73f-795b-4a05-a8e0-ba717bce87e3@141.193.213.30:443?path=/id-tksi&s
 trojan://bb45f73f-795b-4a05-a8e0-ba717bce87e3@141.193.213.30:443?security=tls&type=ws&sni=api24-normal.tiktokv.com.cyylr.eu.cc&path=/id-tksi&host=api24-normal.tiktokv.com.cyylr.eu.cc# By EbraSha 
 trojan://bb45f73f-795b-4a05-a8e0-ba717bce87e3@216.24.57.7:443?path=%2Fid-tksi&security=tls&insecure=0&host=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=api24-normal.tiktokv.com.cyylr.eu.cc# By EbraSha 
 trojan://bb45f73f-795b-4a05-a8e0-ba717bce87e3@216.24.57.7:443?path=/id-tksi&security=tls&insecure=0&host=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=api24-normal.tiktokv.com.cyylr.eu.cc# By EbraSha 
+trojan://bb45f73f-795b-4a05-a8e0-ba717bce87e3@216.24.57.7:443?security=tls&sni=api24-normal.tiktokv.com.cyylr.eu.cc&insecure=0&allowInsecure=0&type=ws&host=api24-normal.tiktokv.com.cyylr.eu.cc&path=/id-tksi# By EbraSha 
 trojan://bb45f73f-795b-4a05-a8e0-ba717bce87e3@216.24.57.7:443?security=tls&type=ws&sni=api24-normal.tiktokv.com.cyylr.eu.cc&path=/id-tksi&host=api24-normal.tiktokv.com.cyylr.eu.cc# By EbraSha 
 trojan://bb45f73f-795b-4a05-a8e0-ba717bce87e3@216.24.57.7:443?type=ws&host=api24-normal.tiktokv.com.cyylr.eu.cc&path=%2Fid-tksi&security=tls&sni=api24-normal.tiktokv.com.cyylr.eu.cc# By EbraSha 
 trojan://bb5b1337-fa9e-4e00-b8c6-1110e626171d@119.247.119.212:443?security=tls&sni=sg-01.tiktokcdn.top# By EbraSha 
@@ -9998,3 +9892,109 @@ trojan://c85761bc-5d74-4ae5-b525-0d32443182fa@tr.mjt000.com:443/?type=tcp&securi
 trojan://c85761bc-5d74-4ae5-b525-0d32443182fa@uk.mjt000.com:443/?type=tcp&security=tls&sni=uk.mjt000.com# By EbraSha 
 trojan://c85761bc-5d74-4ae5-b525-0d32443182fa@waphk.mjt000.com:443/?type=tcp&security=tls&sni=waphk.mjt000.com# By EbraSha 
 trojan://c8646420-4993-3c57-933c-60d33696c992@west.vless.tk:55423?allowInsecure=0&sni=uka.onecld.top# By EbraSha 
+trojan://c8951426-a5a8-5fcb-884f-0a253f771dfd@172.67.171.39:80?security=none&type=ws&host=Fr1.vless.site.&path=%2Fvless# By EbraSha 
+trojan://c8b35e72-3ca0-4b32-84fb-aa02c9baf335@v02.gutingting.com:30005# By EbraSha 
+trojan://c8b35e72-3ca0-4b32-84fb-aa02c9baf335@v02.gutingting.com:30059# By EbraSha 
+trojan://c8eac4b7-95ba-4ce0-920d-c3279eb3b391@172.67.181.193:443/?type=ws&host=EEeEee4.hUAngSHANG2030.dPdNS.org&path=%2FptGwaGzcA4KNAXX&security=tls&sni=EEeEee4.hUAngSHANG2030.dPdNS.org# By EbraSha 
+trojan://c91fdba3-adb6-4307-8cfc-119e9f2815a3@v01.gutingting.com:20221?allowInsecure=1&sni=v2jp01.fuqiangren.com# By EbraSha 
+trojan://c91fdba3-adb6-4307-8cfc-119e9f2815a3@v01.gutingting.com:20224?allowInsecure=1&sni=v2usa01.fuqiangren.com# By EbraSha 
+trojan://c91fdba3-adb6-4307-8cfc-119e9f2815a3@v01.gutingting.com:30056?allowInsecure=1&sni=v1kr01.fuqiangren.com# By EbraSha 
+trojan://c91fdba3-adb6-4307-8cfc-119e9f2815a3@v02.gutingting.com:30003?allowInsecure=1&sni=v2tw01.fuqiangren.com# By EbraSha 
+trojan://c91fdba3-adb6-4307-8cfc-119e9f2815a3@v02.gutingting.com:30005?allowInsecure=1&sni=v2hgc01.fuqiangren.com# By EbraSha 
+trojan://c91fdba3-adb6-4307-8cfc-119e9f2815a3@v02.gutingting.com:30017?allowInsecure=1&sni=v2hgc01.fuqiangren.com# By EbraSha 
+trojan://c91fdba3-adb6-4307-8cfc-119e9f2815a3@v02.gutingting.com:30052?allowInsecure=1&sni=v2th01.fuqiangren.com# By EbraSha 
+trojan://c91fdba3-adb6-4307-8cfc-119e9f2815a3@v02.gutingting.com:30053?allowInsecure=1&sni=v2phl01.fuqiangren.com# By EbraSha 
+trojan://c91fdba3-adb6-4307-8cfc-119e9f2815a3@v02.gutingting.com:30057?allowInsecure=1&sni=v1kr02.fuqiangren.com# By EbraSha 
+trojan://c91fdba3-adb6-4307-8cfc-119e9f2815a3@v02.gutingting.com:30059?allowInsecure=1&sni=v2sggpt01.fuqiangren.com# By EbraSha 
+trojan://c95a5a3a-5a4c-4ee5-b11a-96f72cf80661@104.26.2.3:443/?type=ws&host=4cbba020.fastpurnet3.pages.dev&security=tls&sni=4cbba020.fastpurnet3.pages.dev# By EbraSha 
+trojan://c960163b-de19-4395-a8a6-0b8a9d1da2e4@hkmax04.170203.xyz:45435?security=tls&sni=hkmax04.170203.xyz&type=tcp&headerType=none# By EbraSha 
+trojan://c966a663-2f23-4270-b347-784ef4720495@v01.gutingting.com:30002?allowInsecure=1&sni=v2tw01.fuqiangren.com# By EbraSha 
+trojan://c966a663-2f23-4270-b347-784ef4720495@v01.gutingting.com:30050?allowInsecure=1&sni=v2sg02.fuqiangren.com# By EbraSha 
+trojan://c966a663-2f23-4270-b347-784ef4720495@v01.gutingting.com:30056?allowInsecure=1&sni=v1kr01.fuqiangren.com# By EbraSha 
+trojan://c966a663-2f23-4270-b347-784ef4720495@v02.gutingting.com:20223?allowInsecure=1&sni=v2sg01.fuqiangren.com# By EbraSha 
+trojan://c966a663-2f23-4270-b347-784ef4720495@v02.gutingting.com:20227?allowInsecure=1&sni=v2uk01.fuqiangren.com# By EbraSha 
+trojan://c966a663-2f23-4270-b347-784ef4720495@v02.gutingting.com:30003?allowInsecure=1&sni=v2tw01.fuqiangren.com# By EbraSha 
+trojan://c966a663-2f23-4270-b347-784ef4720495@v02.gutingting.com:30054?allowInsecure=1&sni=v1jp01.fuqiangren.com# By EbraSha 
+trojan://c966a663-2f23-4270-b347-784ef4720495@v02.gutingting.com:30057?allowInsecure=1&sni=v1kr02.fuqiangren.com# By EbraSha 
+trojan://c9a3a61d-5d49-4158-9e60-6fa32684b122@cm.spacez.cloud:30003?allowInsecure=1# By EbraSha 
+trojan://cQv2PgL1Im@144.217.129.45:37985?allowInsecure=1# By EbraSha 
+trojan://cQv2PgL1Im@amir.greenboys.xyz:37985?allowInsecure=0# By EbraSha 
+trojan://cSD2tExedR5RgGGKtb@os2-1.nrojat.com:443?allowInsecure=1# By EbraSha 
+trojan://ca0c33d0-1c92-11ed-9a11-1239d0255272@id5-trojan.bonds.id:443?allowInsecure=0# By EbraSha 
+trojan://ca2345ba-46e7-3991-b1b7-45d18954caf1@20.24.192.3:20712?security=tls&sni=ssl.ssl12.xyz# By EbraSha 
+trojan://ca2345ba-46e7-3991-b1b7-45d18954caf1@azgy001.xibai6.top:20712# By EbraSha 
+trojan://ca2345ba-46e7-3991-b1b7-45d18954caf1@azgy001.xibai6.top:20712?allowInsecure=0# By EbraSha 
+trojan://ca2345ba-46e7-3991-b1b7-45d18954caf1@azgy001.xibai6.top:20785# By EbraSha 
+trojan://ca2345ba-46e7-3991-b1b7-45d18954caf1@azgy001.xibai6.top:20789?allowInsecure=1# By EbraSha 
+trojan://ca2345ba-46e7-3991-b1b7-45d18954caf1@azgy001.xibai6.top:20790# By EbraSha 
+trojan://ca2345ba-46e7-3991-b1b7-45d18954caf1@azhj001.xibai6.top:20802?allowInsecure=1&sni=ssl.ssl12.xyz# By EbraSha 
+trojan://ca2345ba-46e7-3991-b1b7-45d18954caf1@azhj001.xibai6.top:20804?allowInsecure=1&sni=ssl.ssl12.xyz# By EbraSha 
+trojan://ca2345ba-46e7-3991-b1b7-45d18954caf1@tw.xibai6.top:31008?allowInsecure=1# By EbraSha 
+trojan://ca3a57c6-9bb5-4d19-876d-4552de4bb959@kr1.api-aws.com:443# By EbraSha 
+trojan://ca47c0a4-b948-4770-97d3-d48be3f823fc@16.163.194.6:443?allowInsecure=1&sni=data.amazon-azure.com# By EbraSha 
+trojan://ca47c0a4-b948-4770-97d3-d48be3f823fc@16.163.9.83:443?allowInsecure=1&sni=data.amazon-azure.com# By EbraSha 
+trojan://ca47c0a4-b948-4770-97d3-d48be3f823fc@165.154.253.141:443?allowInsecure=1&sni=data.amazon-azure.com# By EbraSha 
+trojan://ca47c0a4-b948-4770-97d3-d48be3f823fc@165.154.253.65:443?allowInsecure=1&sni=data.amazon-azure.com# By EbraSha 
+trojan://ca47c0a4-b948-4770-97d3-d48be3f823fc@awshk1-data.amazon-azure.com:443?allowInsecure=1&sni=data.amazon-azure.com# By EbraSha 
+trojan://ca47c0a4-b948-4770-97d3-d48be3f823fc@awshk11-data.amazon-azure.com:443?allowInsecure=1&sni=data.amazon-azure.com# By EbraSha 
+trojan://ca47c0a4-b948-4770-97d3-d48be3f823fc@awshk16-data.amazon-azure.com:443?allowInsecure=1&sni=data.amazon-azure.com# By EbraSha 
+trojan://ca47c0a4-b948-4770-97d3-d48be3f823fc@awssg14-data.amazon-azure.com:443?allowInsecure=0&sni=data.amazon-azure.com# By EbraSha 
+trojan://ca47c0a4-b948-4770-97d3-d48be3f823fc@awssg2-tg-data.amazonwebservicess.com:443?allowInsecure=1&sni=data.amazonwebservicess.com# By EbraSha 
+trojan://ca47c0a4-b948-4770-97d3-d48be3f823fc@awssg20-data.amazon-azure.com:443?allowInsecure=1&sni=data.amazon-azure.com# By EbraSha 
+trojan://ca48f855-42ef-3acc-b16c-9c674bc9fc67@qus6t.bcloudv.cyou:20022# By EbraSha 
+trojan://ca7febc2-bb45-4e6d-810e-ab0af6009c4e@scloudtw1-tg-data.amazonwebservicess.com:443?security=tls&type=tcp&headerType=none# By EbraSha 
+trojan://ca7febc2-bb45-4e6d-810e-ab0af6009c4e@scloudtw2-tg-data.amazonwebservicess.com:443?allowInsecure=1&sni=data.amazonwebservicess.com# By EbraSha 
+trojan://ca7febc2-bb45-4e6d-810e-ab0af6009c4e@scloudtw2-tg-data.amazonwebservicess.com:443?security=tls&sni=scloudtw2-tg-data.amazonwebservicess.com&type=tcp&headerType=none# By EbraSha 
+trojan://ca7febc2-bb45-4e6d-810e-ab0af6009c4e@stw10-tg-data.amazonwebservicess.com:443?allowInsecure=1# By EbraSha 
+trojan://ca7febc2-bb45-4e6d-810e-ab0af6009c4e@stw3-tg-data.amazonwebservicess.com:443?allowInsecure=1# By EbraSha 
+trojan://ca7febc2-bb45-4e6d-810e-ab0af6009c4e@stw3-tg-data.amazonwebservicess.com:443?security=tls&type=tcp&headerType=none# By EbraSha 
+trojan://ca7febc2-bb45-4e6d-810e-ab0af6009c4e@stw4-tg-data.amazonwebservicess.com:443?allowInsecure=1# By EbraSha 
+trojan://ca7febc2-bb45-4e6d-810e-ab0af6009c4e@stw7-tg-data.amazonwebservicess.com:443?security=tls&type=tcp&headerType=none# By EbraSha 
+trojan://ca7febc2-bb45-4e6d-810e-ab0af6009c4e@stw8-tg-data.amazonwebservicess.com:443?allowInsecure=1# By EbraSha 
+trojan://ca7febc2-bb45-4e6d-810e-ab0af6009c4e@stw8-tg-data.amazonwebservicess.com:443?security=tls&sni=data.amazonwebservicess.com&type=tcp&headerType=none# By EbraSha 
+trojan://ca7febc2-bb45-4e6d-810e-ab0af6009c4e@stw8-tg-data.amazonwebservicess.com:443?security=tls&type=tcp&headerType=none# By EbraSha 
+trojan://caaacbb-caba-baca-adbc-cbccbbabcaaa@127.0.0.1:8080?security=tls&type=tcp# By EbraSha 
+trojan://caabacb-aacb-caab-adbc-acacbcababbc@127.0.0.1:8080?security=tls&type=tcp# By EbraSha 
+trojan://caabacb-caba-aabc-dcba-ccbbaccbbaaa@127.0.0.1:8080?security=tls&type=tcp# By EbraSha 
+trojan://caabcab-aabc-aabc-dabc-baccbccbabaa@127.0.0.1:8080?security=tls&type=tcp# By EbraSha 
+trojan://caacbba-baca-aabc-cdab-baacbaccabbc@127.0.0.1:8080?security=tls&type=tcp# By EbraSha 
+trojan://cab121ab-da8a-435f-bc51-959a79c956da@kr-s-1.fuckjdieng.uk:50186?allowInsecure=0&sni=kr-s-1.fuckjdieng.uk# By EbraSha 
+trojan://cab121ab-da8a-435f-bc51-959a79c956da@kr-s-1.fuckjdieng.uk:50186?allowInsecure=1&sni=kr-s-1.fuckjdieng.uk# By EbraSha 
+trojan://cab121ab-da8a-435f-bc51-959a79c956da@kr-s-1.fuckjdieng.uk:50186?sni=kr-s-1.fuckjdieng.uk# By EbraSha 
+trojan://cabaabc-baac-bcaa-cdab-bcccbbacbaaa@127.0.0.1:8080?security=tls&type=tcp# By EbraSha 
+trojan://cabacab-cbaa-abac-bcad-ccaababcbbac@127.0.0.1:8080?security=tls&type=tcp# By EbraSha 
+trojan://cad5a49f-14e5-4a05-aae9-c5df8fad394f@172.67.143.250:443/?type=tcp&security=tls&sni=C1wSdm.777162.Xyz# By EbraSha 
+trojan://cae77766-ef3d-499e-a043-67d3f19e7f1d@159.203.188.193:10000?allowInsecure=0&sni=usmax05.170203.xyz# By EbraSha 
+trojan://caonima2022@ml.xxass.ml:443?sni=ml.xxass.ml# By EbraSha 
+trojan://cb1f26aa437d4bfa9b841d28503ce8cc@198.41.220.5:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=6b777a91# By EbraSha 
+trojan://cb39d7ba-9b22-4bf5-b9f7-f1f81baf0509@996ca.996cloud.xyz:443# By EbraSha 
+trojan://cb39d7ba-9b22-4bf5-b9f7-f1f81baf0509@996de.996cloud.xyz:443# By EbraSha 
+trojan://cb39d7ba-9b22-4bf5-b9f7-f1f81baf0509@996hk.996cloud.xyz:443# By EbraSha 
+trojan://cb39d7ba-9b22-4bf5-b9f7-f1f81baf0509@996in.996cloud.xyz:443# By EbraSha 
+trojan://cb39d7ba-9b22-4bf5-b9f7-f1f81baf0509@996jp.996cloud.xyz:443# By EbraSha 
+trojan://cb39d7ba-9b22-4bf5-b9f7-f1f81baf0509@996sg.996cloud.xyz:443# By EbraSha 
+trojan://cb39d7ba-9b22-4bf5-b9f7-f1f81baf0509@996uk.996cloud.xyz:443# By EbraSha 
+trojan://cb39d7ba-9b22-4bf5-b9f7-f1f81baf0509@996us.996cloud.xyz:443# By EbraSha 
+trojan://cb43b7c2-b744-41c5-bcc2-fd7467b332cf@140.238.205.173:443?allowInsecure=1&sni=jamnews.ir# By EbraSha 
+trojan://cb43b7c2-b744-41c5-bcc2-fd7467b332cf@jgwxn3.gaox.ml:443?allowInsecure=0# By EbraSha 
+trojan://cb43b7c2-b744-41c5-bcc2-fd7467b332cf@jgwxn3.gaox.ml:443?allowInsecure=1# By EbraSha 
+trojan://cb4b57f4-f898-3f4e-9478-7ed2a148ac23@kr1.elknode.top:443?allowInsecure=1&sni=kr1.elknode.top# By EbraSha 
+trojan://cb4b57f4-f898-3f4e-9478-7ed2a148ac23@us4.elknode.top:443?allowInsecure=0&sni=us4.elknode.top# By EbraSha 
+trojan://cb6024ff-69c0-4ffb-ae21-4b14357858cb@9s5g03.abzoones.xyz:36211# By EbraSha 
+trojan://cbaabac-baca-cbaa-adcb-abccabbcbaac@127.0.0.1:8080?security=tls&type=tcp# By EbraSha 
+trojan://cbabaac-acab-acba-dbca-cccababbaabc@127.0.0.1:8080?security=tls&type=tcp# By EbraSha 
+trojan://cbbcaaa-baac-abac-cdab-bccabcbaabac@127.0.0.1:8080?security=tls&type=tcp# By EbraSha 
+trojan://cbcaaab-acba-acab-dbca-bccaacbaabcb@127.0.0.1:8080?security=tls&type=tcp# By EbraSha 
+trojan://cc05b267-2e17-4e73-92f0-2cf603aa5997@146.56.179.67:40005?allowInsecure=1# By EbraSha 
+trojan://cc05b267-2e17-4e73-92f0-2cf603aa5997@146.56.179.67:40005?security=tls# By EbraSha 
+trojan://cc16020c-a851-4f63-85cf-fb1e8d0d1c48@tj1.dalazhi.eu.org:443?security=tls&sni=tj1.dalazhi.eu.org&alpn=http%2F1.1&fp=chrome&type=tcp&headerType=none# By EbraSha 
+trojan://cc55e294-b76f-425a-9301-c18afbecaa22@20.239.132.217:443?allowInsecure=1&sni=uk.liangyuandian.top# By EbraSha 
+trojan://cc55e294-b76f-425a-9301-c18afbecaa22@jp.liangyuandian.top:443/?type=tcp&security=tls# By EbraSha 
+trojan://cc55e294-b76f-425a-9301-c18afbecaa22@jp.liangyuandian.top:443?security=tls# By EbraSha 
+trojan://ccaaabb-cbaa-abca-bacd-bbaacacccbba@127.0.0.1:8080?security=tls&type=tcp# By EbraSha 
+trojan://ccbaaab-acba-cbaa-acdb-cacbaccbabba@127.0.0.1:8080?security=tls&type=tcp# By EbraSha 
+trojan://ccbabaa-baac-baca-adcb-accbacbbbcaa@127.0.0.1:8080?security=tls&type=tcp# By EbraSha 
+trojan://cce68a2b-baea-4047-ace4-59eefbda407d@v01.gutingting.com:20221?allowInsecure=1&sni=v2jp01.fuqiangren.com# By EbraSha 
+trojan://cce68a2b-baea-4047-ace4-59eefbda407d@v01.gutingting.com:20222?allowInsecure=1&sni=v2sg01.fuqiangren.com# By EbraSha 
+trojan://cce68a2b-baea-4047-ace4-59eefbda407d@v01.gutingting.com:20224?allowInsecure=1&sni=v2usa01.fuqiangren.com# By EbraSha 
+trojan://cce68a2b-baea-4047-ace4-59eefbda407d@v01.gutingting.com:20226?allowInsecure=1&sni=v2uk01.fuqiangren.com# By EbraSha 

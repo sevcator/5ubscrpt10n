@@ -11,7 +11,8 @@ trojan://avA=NpxA2_yNqY11PT=OrbCXh8C4LdYUeS@38.54.63.105:443?sni=www.cdn-setting
 trojan://avA=NpxA2_yNqY11PT=OrbCXh8C4LdYUeS@38.54.63.105:443?security=tls&sni=www.cdn-setting.click&fp=chrome&type=tcp&headerType=none&path=%2f#%f0%9f%87%bf%f0%9f%87%a6%20ZA%202
 trojan://avA=NpxA2_yNqY11PT=OrbCXh8C4LdYUeS@38.54.63.105:443?sni=www.cdn-setting.click&fp=chrome&type=tcp&path=%2f#%f0%9f%87%bf%f0%9f%87%a6%20ZA%203
 trojan://avA=NpxA2_yNqY11PT=OrbCXh8C4LdYUeS@38.54.63.105:443?type=tcp&security=tls&headerType=none&sni=www.cdn-setting.click&fp=chrome&allowInsecure=1#[openproxylist.com] trojan-ZA
-vless://ebe186c0-1006-4b07-8a84-45deaf0bda23@150.241.74.150:443?security=reality&encryption=none&pbk=vB4lhwE3aZhB3vzphogmjJv1VYNedlCTgd5c1Bka_F0&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=4a43ca#//South Africa/Johannesburg
+trojan://avA=NpxA2_yNqY11PT=OrbCXh8C4LdYUeS@38.54.63.105:443?type=tcp&security=tls&headerType=none&sni=www.cdn-setting.click&fp=chrome&allowInsecure=1#/South Africa
+ss://YWVzLTI1Ni1jZmI6VFBxWDhlZGdiQVVSY0FNYg==@217.30.10.68:9079#//South Africa/Johannesburg
 vmess://eyJ2IjogIjIiLCAicHMiOiAiUmVsYXlf8J+Hv/Cfh6ZaQS3wn4e68J+HuFVTXzE4MCIsICJhZGQiOiAiMTU2LjI1MS4xMzUuMTEiLCAicG9ydCI6IDUzMzAyLCAiYWlkIjogNjQsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCJ9
 vmess://eyJ2IjogIjIiLCAicHMiOiAiUmVsYXlf8J+Hv/Cfh6ZaQS3wn4e68J+HuFVTXzE5NTkiLCAiYWRkIjogIjE1Ni4yNTEuMTM1LjExIiwgInBvcnQiOiA1MzMwMiwgImFpZCI6IDY0LCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQifQ==
 vmess://eyJ2IjogIjIiLCAicHMiOiAiUmVsYXlf8J+Hv/Cfh6ZaQS3wn4ez8J+HsU5MXzE4ODEiLCAiYWRkIjogIjE1Ni4yMjUuNjcuMjExIiwgInBvcnQiOiA0NjQ2NCwgImFpZCI6IDY0LCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICIzY2E5MTJkYS02YWMyLTQxOGYtYjljZi00NWI2ZjY5NDU3OWIifQ==
