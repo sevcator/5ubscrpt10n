@@ -1,6 +1,8 @@
+vless://9a98146a-235c-40ed-9633-a67fe3bf9f18@49.238.238.158:443?mode=packet-up&path=/xn--q9jyb4c&security=tls&encryption=none&extra={"scMaxEachPostBytes":"1000000","scMinPostsIntervalMs":"30","xPaddingBytes":"100-1000"}&insecure=0&host=cloudflare.dns.xn--q9jyb4c&type=xhttp&allowInsecure=0&sni=cloudflare.dns.xn--q9jyb4c#@freenettirSouth KoreaParipark (World Cup buk-ro 60-gil)ping:45.69ms
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@194.14.217.115:989#%F0%9F%87%B7%F0%9F%87%B4RO-194.14.217.115-7907
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#RO%20%20ROSE109
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTYjV5OE5aZTVRR3hUYkt0S0QwSXha@64.7.198.119:26610#RO%20%20ROSE251
+vless://c6783bb7-21cf-4dad-9daf-691bc75f4563@ro-bac-1.azreefs.com:1154?security=reality&encryption=none&pbk=NLPxguNa_NygbJnU74I6Fp0d9YaEwyMRG1eIQBohCjg&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=7ab357d53643bcf5#RO_1761_@Surfboardv2ray
 vless://62747cff-793c-4be6-8bac-254e003132ed@185.126.237.16:443?security=reality&sni=mdundo.com&type=tcp&fp=chrome&pbk=mg27CNAYLf_Ur6787uTVq_RVfKuiM5MVwbReFVDg5ks&sid=190d32b118caf07f# VL-TCP-RLT  RO-185.126.237.16:443
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@194.14.217.115:989#%F0%9F%87%B7%F0%9F%87%B4RO-194.14.217.115-0770
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@194.14.217.115:989#%F0%9F%87%B7%F0%9F%87%B4RO-194.14.217.115-0735
@@ -54,4 +56,3 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+Ht/Cfh7RfUk9f572X6ams5bC85LqaIiwiYWRkIjoiNDUuODUu
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Ht/Cfh7RfUk9f572X6ams5bC85LqaXzIzIiwiYWRkIjoibGVnZW5kZXJ5c2VydmVyc2lybi5kZG5zLm5ldCIsInBvcnQiOjQ0MywiaWQiOiI4YmJkOTFmZS1hMzBiLTRlMjktYmZjNy1jMjhhNDRjMGNiOGYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJjZi10b3BzcGVlZHZ2Mi51ayIsInBhdGgiOiIvY3VycmVudF90aW1lIiwidGxzIjoidGxzIn0=
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggX1JPX+e9l+mprOWwvOS6mi0+8J+HuvCfh7hfVVNf576O5Zu9IiwiYWRkIjoibXRuLmlyY2Yuc3BhY2UiLCJwb3J0IjoiNDQzIiwidHlwZSI6Im5vbmUiLCJpZCI6IjgyM2MzMWRhLTcwMWYtNDgzZC1iMzZlLTg5NmU1Y2YwOTg3YSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZHAyLnNjcHJveHkudG9wL3NoaXJrZXIiLCJob3N0IjoiaXJhbmNlbGxsLmFwcHNhbmRoYWNrMi50ZWNoIiwidGxzIjoidGxzIn0=
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Ht/Cfh7RfUk9f572X6ams5bC85LqaLT7wn4e68J+HuF9VU1/nvo7lm70iLCJhZGQiOiI0NS4xMi4zMC4xOTIiLCJwb3J0Ijo0NDMsImlkIjoiRUIxNzY3MzYtMjlEMC00ODRFLTg0NjQtMjg1NDcwMTNBMTYyIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiS2Fuc2FzLmtvdGljay5zaXRlIiwicGF0aCI6Ii9zcGVlZHRlc3QiLCJ0bHMiOiJ0bHMifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443# RO | 154.46.31.106
