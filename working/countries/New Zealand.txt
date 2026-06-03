@@ -1,7 +1,1 @@
-vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@202.37.33.80:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/sg-melbi&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=cyylr.eu.cc&type=ws&allowInsecure=0&sni=cyylr.eu.cc#NZ_1835_@Surfboardv2ray
-vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@202.37.33.80:443?Telegram=@armindone,@armindone,@armindone,@armindone&alpn=http/1.1&encryption=none&fp=chrome&host=cyylr.eu.cc&path=/sg-melbi&security=tls&sni=cyylr.eu.cc&type=ws#NZ_1836_@Surfboardv2ray
-vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@202.37.33.80:443?Telegram=@armindone,@armindone,@armindone,@armindone&path=/sg-melbi&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=cyylr.eu.cc&fp=chrome&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=cyylr.eu.cc#NZ_1837_@Surfboardv2ray
-vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@202.37.33.80:443?path=/sg-melbi#NZ_1838_@Surfboardv2ray
-vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@202.37.33.80:443?path=/sg-melbi#NZ_1839_@Surfboardv2ray
-vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@202.37.33.80:443?path=/sg-melbi#NZ_1840_@Surfboardv2ray
-vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@202.37.33.80:443?encryption=none&type=ws&host=cyylr.eu.cc&path=/sg-melbi&security=tls&fp=chrome&sni=cyylr.eu.cc&alpn=http/1.1# NZ | 202.37.33.80
+vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@202.37.33.80:443?Telegram=@armindone,@armindone,@armindone,@armindone&path=/sg-melbi&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=cyylr.eu.cc&fp=chrome&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=cyylr.eu.cc#NZ_1790_@Surfboardv2ray
