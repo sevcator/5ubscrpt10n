@@ -5,6 +5,7 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@31.171.153.181:989#%F0%9F%87%A6%F0
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@31.171.153.181:989#%F0%9F%87%A6%F0%9F%87%B1AL-31.171.153.181-0736
 trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?security=tls&sni=ads.x5.ru&type=tcp&headerType=none&path=%2f&allow_insecure=1#%f0%9f%87%a6%f0%9f%87%b1%20AL%201
 trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?security=tls&type=tcp&headerType=none&path=%2f&allow_insecure=1#%f0%9f%87%a6%f0%9f%87%b1%20AL%202
+vless://ae852d97-85f5-45cf-82a4-254eba345480@144.31.131.33:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=djH9iD2QV748ocK-wPH7HvDd03lu88zHhS4G-61w6Dc&security=reality&sid=a120&sni=cdn.cdnjst.org&type=tcp#[openproxylist.com] vless-AL
 vmess://eyJwcyI6ICJcdTVlN2ZcdTRlMWNcdTc3MDFcdTRmNWJcdTVjNzFcdTVlMDItd3c5LjEyMzQ1LmFsIiwgInR5cGUiOiAibm9uZSIsICJhZGQiOiAid3c5LjEyMzQ1LmFsIiwgIm5ldCI6ICJ3cyIsICJwb3J0IjogIjQzMDczIiwgImlkIjogIjViYTU5NDI5LTk5YmEtNDkzYy04NDhjLWI1MjBmMWIzZWRmYyIsICJhaWQiOiAiNCIsICJzY3kiOiAiYXV0byIsICJ0bHMiOiAiZmFsc2UiLCAid3MtcGF0aCI6ICIvYXJldW9rIn0=
 vless://f03d8097-65a9-4d26-bb1c-74041426dcf2@45.89.60.64:443?encryption=none&type=grpc&mode=gun&security=reality&sni=ads.x5.ru&fp=safari&pbk=wSQIBnAc0cYO9JitaNcgZ2LwkTix0_dXVpDjnZxDrCE# AL | 45.89.60.64
 vless://f03d8097-65a9-4d26-bb1c-74041426dcf2@45.89.60.64:8443?encryption=none&type=grpc&mode=gun&security=reality&sni=ads.x5.ru&fp=chrome&pbk=wSQIBnAc0cYO9JitaNcgZ2LwkTix0_dXVpDjnZxDrCE&sid=6ba85179e30d4fc2# AL | 45.89.60.64
