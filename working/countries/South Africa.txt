@@ -16,8 +16,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWbDZzNXdQUVh6VzJ6QUxI@20.164.211.148:443#%f0
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5V2lQNHV4ek1pOVQ0ZXIy@20.164.210.27:443#%f0%9f%87%bf%f0%9f%87%a6%20ZA%206
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#%f0%9f%87%bf%f0%9f%87%a6%20ZA%207
 trojan://avA=NpxA2_yNqY11PT=OrbCXh8C4LdYUeS@38.54.63.105:443?type=tcp&security=tls&headerType=none&sni=www.cdn-setting.click&fp=chrome&allowInsecure=1#[openproxylist.com] trojan-ZA
-trojan://avA=NpxA2_yNqY11PT=OrbCXh8C4LdYUeS@38.54.63.105:443?type=tcp&security=tls&headerType=none&sni=www.cdn-setting.click&fp=chrome&allowInsecure=1#/South Africa
-ss://YWVzLTI1Ni1jZmI6VFBxWDhlZGdiQVVSY0FNYg==@217.30.10.68:9079#//South Africa/Johannesburg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3R20xc2RDU1JXQjQ2Q3JP@20.164.45.116:443#//South Africa/Johannesburg
+trojan://avA=NpxA2_yNqY11PT=OrbCXh8C4LdYUeS@38.54.63.105:443?security=tls&sni=www.cdn-setting.click&path=%2f#/South Africa
 vmess://eyJ2IjogIjIiLCAicHMiOiAiUmVsYXlf8J+Hv/Cfh6ZaQS3wn4e68J+HuFVTXzE4MCIsICJhZGQiOiAiMTU2LjI1MS4xMzUuMTEiLCAicG9ydCI6IDUzMzAyLCAiYWlkIjogNjQsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCJ9
 vmess://eyJ2IjogIjIiLCAicHMiOiAiUmVsYXlf8J+Hv/Cfh6ZaQS3wn4e68J+HuFVTXzE5NTkiLCAiYWRkIjogIjE1Ni4yNTEuMTM1LjExIiwgInBvcnQiOiA1MzMwMiwgImFpZCI6IDY0LCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQifQ==
 vmess://eyJ2IjogIjIiLCAicHMiOiAiUmVsYXlf8J+Hv/Cfh6ZaQS3wn4ez8J+HsU5MXzE4ODEiLCAiYWRkIjogIjE1Ni4yMjUuNjcuMjExIiwgInBvcnQiOiA0NjQ2NCwgImFpZCI6IDY0LCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICIzY2E5MTJkYS02YWMyLTQxOGYtYjljZi00NWI2ZjY5NDU3OWIifQ==
