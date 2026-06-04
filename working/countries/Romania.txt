@@ -1,5 +1,7 @@
 vless://43488128-319e-f480-64ea-0acdc712e2a8@91.199.50.37:443?encryption=none&amp%3Bflow=xtls-rprx-vision&amp%3Bsecurity=reality&amp%3Bsni=www.alibaba.com&amp%3Bfp=chrome&amp%3Bpbk=kkRsTNjRh_XrrTM6eZllllldzoL5Z9IqlBkDtmYLMhw&amp%3Bsid=c906f73d3ba8211f&amp%3Btype=tcp&amp%3BheaderType=none#%F0%9F%87%B7%F0%9F%87%B4%20RO%20%7C%20VLESS%20%7C%20%40v2ray_youtube%20%231
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@194.14.217.115:989#%F0%9F%87%B7%F0%9F%87%B4RO-194.14.217.115-7945
+vless://17e24042-beeb-4fd3-9718-c067842280a9@ro-bac-1.novexcloud.ir:1154?security=reality&type=tcp&headerType=none&path=&host=&sni=yahoo.com&fp=chrome&pbk=NLPxguNa_NygbJnU74I6Fp0d9YaEwyMRG1eIQBohCjg&sid=7ab357d53643bcf5#RO_291_@Surfboardv2ray
+vless://b9dccdab-0f77-4fb7-8949-4d378e92df5c@areal1.greewebservices.ir:2425?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=9b60d3#RO_1899_@Surfboardv2ray
 vless://62747cff-793c-4be6-8bac-254e003132ed@185.126.237.16:443?security=reality&sni=mdundo.com&type=tcp&fp=chrome&pbk=mg27CNAYLf_Ur6787uTVq_RVfKuiM5MVwbReFVDg5ks&sid=190d32b118caf07f# VL-TCP-RLT  RO-185.126.237.16:443
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@194.14.217.115:989#%F0%9F%87%B7%F0%9F%87%B4RO-194.14.217.115-0770
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@194.14.217.115:989#%F0%9F%87%B7%F0%9F%87%B4RO-194.14.217.115-0735
