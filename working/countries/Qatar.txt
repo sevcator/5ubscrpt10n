@@ -1,1 +1,1 @@
-vless://8a18e162-d3af-4154-aa04-81a4c61a012a@FR4.IPSENTER.ORG:443?encryption=none&security=tls&type=ws&headerType=none&path=/&host=d20507eg53pait.cloudfront.net&sni=d20507eg53pait.cloudfront.net&fp=chrome#QA_1221_@Surfboardv2ray
+vless://8a18e162-d3af-4154-aa04-81a4c61a012a@FR4.IPSENTER.ORG:443?encryption=none&security=tls&type=ws&headerType=none&path=/&host=d20507eg53pait.cloudfront.net&sni=d20507eg53pait.cloudfront.net&fp=chrome#QA_1133_@Surfboardv2ray
