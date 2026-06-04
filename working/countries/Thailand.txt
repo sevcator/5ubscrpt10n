@@ -1,11 +1,7 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkN3poMmxNclhOSDUrOCs4cEt6bHhpQ1U5Tk4wMjJpaCt1QXl4ajVkNHFvPQ==@102.129.229.85:31700#%3E%3E%40v2ray_configs_pool%3A%3ATH
 vmess://ewogICAgImFkZCI6ICIxNzMuODIuMjI2LjI3IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiMTczLjgyLjIyNi4yNyIsCiAgICAiaWQiOiAiZWZhMmFiNzYtNTM5ZC00YjZhLTk1NzItMjRiYTcwOWZiODFiIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDIzNjYyLAogICAgInBzIjogIvCfh7nwn4etVEgtMTczLjgyLjIyNi4yNy00MDcxIiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
-vless://3686e17d-3b01-48e3-bbc2-3ec7d141b815@bLiT2.hAmRaHcOrE.iR:719?path=/api/v2/xtrnwqjbkr?ed=2560&security=&encryption=none&host=play.google.com&type=ws#TH_469_@Surfboardv2ray
-vless://3686e17d-3b01-48e3-bbc2-3ec7d141b815@bLiT2.hAmRaHcOrE.iR:719?path=/api/v2/xtrnwqjbkr?ed=2560&security=none&encryption=none&host=play.google.com&type=ws#TH_470_@Surfboardv2ray
-vless://3686e17d-3b01-48e3-bbc2-3ec7d141b815@blit2.hamrahcore.ir:719?security=none&allowInsecure=0&encryption=none&type=ws&host=play.google.com&path=/api/v2/xtrnwqjbkr?ed=2560#TH_471_@Surfboardv2ray
-vless://586db082-dcfc-4599-8b52-af4cf7da8330@blit2.hamrahcore.ir:719?path=/api/v2/xtrnwqjbkr?ed=2560&security=none&encryption=none&host=play.google.com&type=ws#TH_883_@Surfboardv2ray
-vless://586db082-dcfc-4599-8b52-af4cf7da8330@blit2.hamrahcore.ir:719?path=/api/v2/xtrnwqjbkr?ed=2560&security=none&encryption=none&host=play.google.com&type=ws#TH_884_@Surfboardv2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkN3poMmxNclhOSDUrOCs4cEt6bHhpQ1U5Tk4wMjJpaCt1QXl4ajVkNHFvPQ==@102.129.229.85:31700#%f0%9f%87%b9%f0%9f%87%ad%20TH%201
+vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.81.36.237:443?security=reality&encryption=none&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=api.digital-help-prd.autodesk.com#[openproxylist.com] vless-TH
 ss://YWVzLTEyOC1nY206djk0NDNpRWE5Z1d2@104.16.100.23:443?plugin=v2ray-plugin%3Bhost%3Dv1.fjdd.shop%3Btls#Thailand|Github%E6%90%9C%E7%B4%A2TrojanLinks
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkN3poMmxNclhOSDUrOCs4cEt6bHhpQ1U5Tk4wMjJpaCt1QXl4ajVkNHFvPQ@102.129.229.85:31700#//Thailand/Bangkok
 vmess://eyJ2IjogIjIiLCAicHMiOiAiUmVsYXkg8J+HufCfh60gVGhhaWxhbmQoQ2hhdC4uLiIsICJhZGQiOiAiZ3kxLnFrcmVsYXkuY29tIiwgInBvcnQiOiA0NzY4MCwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImE0MWMzNDQ4LWM1YTEtNGFiYS1hZDk0LTdlNjUzODBmZTY5ZSJ9
