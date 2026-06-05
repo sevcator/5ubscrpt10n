@@ -1,9 +1,2 @@
-vless://3b01a777-55e7-49f6-8637-d94ee69607c6@202.37.33.81:443?encryption=none&type=ws&security=tls&path=/id-tksi&host=m.udemy.com.cyylr.eu.cc&sni=m.udemy.com.cyylr.eu.cc&allowInsecure=0#NZ_661_@Surfboardv2ray
-vless://3b01a777-55e7-49f6-8637-d94ee69607c6@202.37.33.81:443?path=/id-tksi&security=tls&encryption=none&host=m.udemy.com.cyylr.eu.cc&type=ws&sni=m.udemy.com.cyylr.eu.cc#NZ_662_@Surfboardv2ray
-vless://3b01a777-55e7-49f6-8637-d94ee69607c6@202.37.33.81:443?path=/id-tksi&security=tls&encryption=none&insecure=0&host=m.udemy.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=m.udemy.com.cyylr.eu.cc#NZ_663_@Surfboardv2ray
-vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@202.37.33.80:443?Telegram=@armindone,@armindone,@armindone,@armindone&alpn=http/1.1&encryption=none&fp=chrome&host=cyylr.eu.cc&path=/sg-melbi&security=tls&sni=cyylr.eu.cc&type=ws#NZ_2364_@Surfboardv2ray
-vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@202.37.33.80:443?encryption=none&type=ws&security=tls&path=/sg-melbi&host=cyylr.eu.cc&sni=cyylr.eu.cc&alpn=http/1.1&fp=chrome&allowInsecure=0#NZ_2366_@Surfboardv2ray
-vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@202.37.33.80:443?encryption=none&type=ws&security=tls&path=/sg-melbi&host=cyylr.eu.cc&sni=cyylr.eu.cc&alpn=http/1.1networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-#NZ_2368_@Surfboardv2ray
-vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@202.37.33.80:443?path=/sg-melbi&security=tls&alpn=http/1.1&encryption=none&host=cyylr.eu.cc&fp=chrome&type=ws&sni=cyylr.eu.cc#NZ_2369_@Surfboardv2ray
 vless://2225c6e0-b549-4999-b0cb-5f1d6050e9b9@varzesh3.com:80?path=%2Fws&security=none&encryption=none&host=nobody.fasterspeed.ir&type=ws#/New Zealand
 vless://cff2c9e5-8403-436e-a60a-48e558453ab8@202.37.33.80:443?path=/&security=tls&encryption=none&host=de1.nagona.top&fp=chrome&type=ws&sni=de1.nagona.top# NZ | 202.37.33.80
