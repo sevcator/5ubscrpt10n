@@ -1,7 +1,6 @@
 trojan://gcuCpQfaiVeDBdWG@211.76.176.97:19128?allowInsecure=1&sni=yazhou10.dynu.net#%F0%9F%87%B9%F0%9F%87%BC_TW_%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE-%3E%F0%9F%87%B8%F0%9F%87%AC_SG_%E6%96%B0%E5%8A%A0%E5%9D%A1
 trojan://gcuCpQfaiVeDBdWG@jpbgp.netvigor.cc:19128?allowInsecure=1&sni=yazhou10.dynu.net#%F0%9F%87%B9%F0%9F%87%BC_TW_%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE-%3E%F0%9F%87%B8%F0%9F%87%AC_SG_%E6%96%B0%E5%8A%A0%E5%9D%A1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzRAcjNtcmNnMDAxMjg2ZWsyLmN5YmVydmVuYS5jb206NTAwOTk=#%F0%9F%87%B9%F0%9F%87%BC_TW_%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE
-trojan://gcuCpQfaiVeDBdWG@jpbgp.netvigor.cc:19128?sni=yazhou10.dynu.net#%F0%9F%87%B9%F0%9F%87%BCTW%E5%8F%B0%E6%B9%BE
 vmess://ewogICAgImFkZCI6ICIxMDMuNjEuMTM5LjEzNyIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiZjhkOTNjZmItM2Q1ZC00NDdjLWE2OTctMTY0OTZkZDc0Njk3IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDIwNTIxLAogICAgInBzIjogIvCfh7nwn4e8VFctMTAzLjYxLjEzOS4xMzctNTQxOCIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyelFvSkh6MjJaYnZoMzd5eFpXSjZKekZ0TGh0dFpDTG9wOFdGZnBjSjQxNjZKQWVudUtUdkR1VW5lYkJuejhQR1BvWExXc0VtMW5remJUbkphaVRzU3g5d1haa3lMM2k@download.riferoser.icu:56594#TW-@VPNine1
 vless://04793d5b-1b79-49fc-b5f9-2e8ce0e3ebc6@hinet2.gzcloud.shop:20519/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=buylite.music.apple.com&fp=chrome&security=reality&pbk=fbABzUObM1ehY0C9V83p34p8ah9w2s4lDrdAiXdzGxI&sid=4b070735#TW
@@ -83,8 +82,6 @@ vmess://eyJhZGQiOiIyMDdjMTNmYi04M2I2LTIwMjEtNzY2Yi02Yzk1ZTU2YTRhMzMuYnVndGlrLmx0
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@185.189.160.105:41632#TW%20%20ROSE58
 vmess://eyJhZGQiOiIxMDMuMTU5LjIwNi4zNSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJlMmU1MTFiMC03ZGVmLTRlMWItZDIzOC02Y2I1MzkxYjJlM2YiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjMxOTQ1IiwicHMiOiJUYWl3YW4gRW1hZ2luZSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInBlYXNvZnQtMCwyLDEyfPCfh7nwn4e8IF9UV1/lj7Dmub4iLA0KICAiYWRkIjogInR3MS5raWRjYy54eXoiLA0KICAicG9ydCI6ICI4NDQzIiwNCiAgImlkIjogImE4OTc0YmVjLTUyNmQtNGI0ZS1hNDZmLWYwZDY2MjZjYTU3NiIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAidHcxLmtpZGNjLnh5eiIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
-vmess://eyJhZGQiOiAidHctMS5xd3Fqc3EudG9wIiwgImFpZCI6IDAsICJob3N0IjogInR3LTEucXdxanNxLnRvcCIsICJpZCI6ICJiMDU0M2EzYi1kNjkwLTNlZDktOWE4MS1mMjRmODUyZTc0ZjciLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogNDQzLCAicHMiOiAiXHVkODNjXHVkZGY5XHVkODNjXHVkZGZjVFdfNTBfQFN1cmZib2FyZHYycmF5IiwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
-vless://04793d5b-1b79-49fc-b5f9-2e8ce0e3ebc6@hinet2.gzcloud.shop:20519/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=buylite.music.apple.com&fp=chrome&security=reality&pbk=fbABzUObM1ehY0C9V83p34p8ah9w2s4lDrdAiXdzGxI&sid=4b070735#TW_169_@Surfboardv2ray
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@61.220.41.143:36633?encryption=none&security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg%40zdyz2#%f0%9f%87%b9%f0%9f%87%bc+TW+%e5%8f%b0%e6%b9%be+55
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@211.22.240.107:30686?encryption=none&security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg%40zdyz2#%f0%9f%87%b9%f0%9f%87%bc+TW+%e5%8f%b0%e6%b9%be+41
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@211.75.74.232:4443?encryption=none&security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg%40zdyz2#%f0%9f%87%b9%f0%9f%87%bc+TW+%e5%8f%b0%e6%b9%be+15
@@ -105,6 +102,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptemVNWUJKWXA0Qm83bkExcVlMdnY3UUc3M2lndEFBODV
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg001286ek2.cybervena.com:50099#%f0%9f%87%b9%f0%9f%87%bc%20TW%202
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg00129437x.cybervena.com:50099#%f0%9f%87%b9%f0%9f%87%bc%20TW%203
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg001287h3p.cybervena.com:50099#%f0%9f%87%b9%f0%9f%87%bc%20TW%204
+trojan://gcuCpQfaiVeDBdWG@jpbgp.netvigor.cc:19128?sni=yazhou10.dynu.net#%F0%9F%87%B9%F0%9F%87%BCTW%E5%8F%B0%E6%B9%BE
 ss://YWVzLTEyOC1nY206b2l3eW00b3ZJNFli@61.224.72.195:443?plugin=v2ray-plugin%3Bhost%3Dt1.kddns.xyz%3Btls#Taiwan|Github%E6%90%9C%E7%B4%A2TrojanLinks
 ss://YWVzLTEyOC1nY206b2l3eW00b3ZJNFli@104.16.88.23:443?plugin=v2ray-plugin%3Bhost%3Dt2.kddns.xyz%3Btls#Taiwan|Github%E6%90%9C%E7%B4%A2TrojanLinks
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzRAcjNtcmNnMDAxMjg2ZWsyLmN5YmVydmVuYS5jb206NTAwOTk=#%5Bermaozi%2Fget_subscribe%5D%F0%9F%87%B9%F0%9F%87%BC_TW_%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE
@@ -308,3 +306,5 @@ vmess://eyJwcyI6ICLwn4e68J+HuC3nvo7lm70tYXdzdXMuYXp6aHVhbmdhcGluZy50dyIsICJhZGQi
 vmess://eyJwcyI6ICLwn4e68J+HuC3nvo7lm70tdXNmaGMuYXp6aHVhbmdhcGluZy50dyIsICJhZGQiOiAidXNmaGMuYXp6aHVhbmdhcGluZy50dyIsICJwb3J0IjogIjgwIiwgInR5cGUiOiAidm1lc3MiLCAiaWQiOiAiNGM0ZTA2NWYtMzYzYi0zYzliLThhNGQtMzEyZjZiOTg0MGQzIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9hZG9iZSIsICJob3N0IjogInVzZmhjLmF6emh1YW5nYXBpbmcudHciLCAidGxzIjogIiIsICJzY3kiOiAiYXV0byJ9
 trojan://d446ca24-80b7-4e4a-8055-e23838e43705@cdnfire.xiaomispeed.com:21102/?type=tcp&security=tls&sni=cdnfire.xiaomispeed.com&allowInsecure=1# TW | 220.130.58.136
 trojan://b574ea88-168d-4504-a62d-fe9a2271d726@green2.cdntencentmusic.com:31103/?type=tcp&security=tls&sni=green2.cdntencentmusic.com&allowInsecure=1# TW | 220.130.58.136
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg001286ek2.cybervena.com:50099# TW | 36.224.177.57
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@nbmrcg0034686rw.cybervena.com:50099# TW | 1.161.244.142

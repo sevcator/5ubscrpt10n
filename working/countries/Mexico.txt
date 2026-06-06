@@ -1,9 +1,6 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YzMxYTY3YjQxYjE4YzI2@89.223.88.33:11201?note=@FreeOnlineVPN# - MX - @FreeOnlineVPN
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@190.103.179.23:989#%F0%9F%87%B2%F0%9F%87%BDMX-190.103.179.23-3792
 vmess://eyJwcyI6ICJcdWQ4M2NcdWRkZjJcdWQ4M2NcdWRkZmQgY29ubmVjdG9uLW14MSIsICJhZGQiOiAibXgxLmNvbm5lY3Rvbi5zdXJmIiwgInBvcnQiOiAiNDQzIiwgImlkIjogImY2MWZiNDk0LTUyMzMtNDE5ZS04NDNkLTE1NjBmNGVhYzY2NyIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJteDEuY29ubmVjdG9uLnN1cmYiLCAic25pIjogIm14MS5jb25uZWN0b24uc3VyZiIsICJwYXRoIjogInZtZXNzIiwgInRscyI6ICJ0bHMiLCAiYWxwbiI6ICJoMixodHRwLzEuMSIsICJhbGxvd0luc2VjdXJlIjogZmFsc2UsICJ2MiI6ICIyIiwgInByb3RvY29sIjogInZtZXNzIn0=
-vless://a6d20e79-d326-42c1-bc20-f4cecc6dc42d@45.134.9.133:8443?encryption=none&security=tls&sni=ul-mexico1.09vpn.com&allowInsecure=true&type=ws&path=/vless/&packetEncoding=xudp#MX_2270_@Surfboardv2ray
-vless://a6d20e79-d326-42c1-bc20-f4cecc6dc42d@ul-mexico1.09vpn.com:8443?encryption=none&security=tls&sni=ul-mexico1.09vpn.com&fp=chrome&insecure=1&type=ws&host=ul-mexico1.09vpn.com&path=/vless/#MX_2271_@Surfboardv2ray
-vless://a6d20e79-d326-42c1-bc20-f4cecc6dc42d@ul-mexico1.09vpn.com:8443?encryption=none&security=tls&type=ws&path=/vless/#MX_2272_@Surfboardv2ray
 trojan://3747000103274291200@grateful-glowworm.treefrog761.one:443#Mexico
 trojan://3747000103274291200@216.238.77.127:443?peer=grateful-glowworm.treefrog761.one#Mexico
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@190.103.179.23:989#%F0%9F%87%B2%F0%9F%87%BDMX-190.103.179.23-0779
