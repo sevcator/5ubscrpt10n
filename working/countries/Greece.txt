@@ -2,4 +2,3 @@ vless://0c8a9f50-51b3-43b5-b1fb-09fc3131a800@91.186.199.129:443?security=tls&typ
 trojan://8r%3C%5B9%27l6hAO%238ZQi@91.186.217.16:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram+@WangCai2&Host=Koma-YT.PAGeS.Dev#%F0%9F%87%AC%F0%9F%87%B7GR-91.186.217.16-1639
 trojan://8r%3C%5B9%27l6hAO%238ZQi@91.186.212.131:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram+@WangCai2&Host=Koma-YT.PAGeS.Dev#%F0%9F%87%AC%F0%9F%87%B7GR-91.186.212.131-1716
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.166.102:989#%F0%9F%87%AC%F0%9F%87%B7GR-192.71.166.102-3449
-vless://5ad38a6c-588b-4b16-8f4e-f217811deda6@fl.gamelistak.com:443?alpn=h2,http/1.1&encryption=none&extra={"scMaxEachPostBytes":"1000000","scMinPostsIntervalMs":"30","xPaddingBytes":"100-1000"}&fp=chrome&host=fl.gamelistak.com&mode=auto&path=/@VPNine1&security=tls&sni=&type=xhttp&x_padding_bytes=100-1000#GR-@VPNine1
