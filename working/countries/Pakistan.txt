@@ -4,3 +4,4 @@ trojan://3747000103274291200@38.60.217.170:443?peer=dynamic-tomcat.treefrog761.o
 trojan://BzOx2R8u59SOipHwhIYW-IMyJePBEiUY-m@149.104.104.101:443?sni=www.registry-monitor.click&fp=chrome&path=%2f#%f0%9f%87%b5%f0%9f%87%b0%20PK%201
 trojan://BzOx2R8u59SOipHwhIYW-IMyJePBEiUY-m@149.104.104.101:443?security=tls&sni=www.registry-monitor.click&path=%2f#%f0%9f%87%b5%f0%9f%87%b0%20PK%202
 trojan://BzOx2R8u59SOipHwhIYW-IMyJePBEiUY-m@149.104.104.101:443?sni=www.registry-monitor.click&path=%2f#%f0%9f%87%b5%f0%9f%87%b0%20PK%203
+trojan://BzOx2R8u59SOipHwhIYW-IMyJePBEiUY-m@149.104.104.101:443?security=tls&sni=www.registry-monitor.click#[openproxylist.com] trojan-PK
