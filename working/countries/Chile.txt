@@ -1,5 +1,8 @@
 trojan://lTs6OZOMoqYAkDEbK10t-tE8KMjuREBW3m@130.94.104.210:443?security=tls&sni=www.cdn-structure.click#%F0%9F%87%A8%F0%9F%87%B1CL-130.94.104.210-0171
+trojan://lTs6OZOMoqYAkDEbK10t-tE8KMjuREBW3m@130.94.104.210:443?security=tls&sni=www.cdn-structure.click#%F0%9F%87%A8%F0%9F%87%B1CL-130.94.104.210-0125
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@190.120.230.9:989#%F0%9F%87%A8%F0%9F%87%B1CL-190.120.230.9-0777
+trojan://lTs6OZOMoqYAkDEbK10t-tE8KMjuREBW3m@130.94.104.210:443?security=tls&sni=www.cdn-structure.click&path=%2f#%f0%9f%87%a8%f0%9f%87%b1%20CL%201
+trojan://lTs6OZOMoqYAkDEbK10t-tE8KMjuREBW3m@130.94.104.210:443?security=tls&sni=www.cdn-structure.click&type=tcp&headerType=none&path=%2f&allow_insecure=0#%f0%9f%87%a8%f0%9f%87%b1%20CL%202
 trojan://lTs6OZOMoqYAkDEbK10t-tE8KMjuREBW3m@130.94.104.210:443?security=tls&sni=www.cdn-structure.click#[openproxylist.com] trojan-CL
 trojan://lTs6OZOMoqYAkDEbK10t-tE8KMjuREBW3m@130.94.104.210:443?security=tls&sni=www.cdn-structure.click#//Chile/Santiago
 vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HuvCfh7ggZ2l0aHViLmNvbS9mcmVlZnEgLSDnvo7lm71DbC4uLiIsICJhZGQiOiAiZC5wZ3lwZ3lrbW9samtsai54eXoiLCAicG9ydCI6ICI0NDMiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAidGxzIiwgImlkIjogImZhNGNiNTI5LTNhYzktNDI2OC1iYjA0LWVkNDI1MzgxMzUwOCIsICJob3N0IjogImQucGd5cGd5a21vbGprbGoueHl6IiwgInBhdGgiOiAiL21SMTdvQkt6WjcifQ==
