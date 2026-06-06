@@ -1,7 +1,5 @@
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.59.177:22231?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=r1.mizulina.top&type=tcp#GE_2148_@Surfboardv2ray
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.59.223:22231?encryption=none&flow=xtls-rprx-vision&security=tls&sni=r1.mizulina.top&type=tcp#GE_2149_@Surfboardv2ray
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.59.223:443?security=tls&alpn=h3,h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision-udp443&sni=r1.mizulina.top#GE_2150_@Surfboardv2ray
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.59.223:443?security=tls&type=tcp&alpn=h3,h2,http/1.1&sni=r1.mizulina.top&fp=chrome&flow=xtls-rprx-vision-udp443&encryption=none#GE_2151_@Surfboardv2ray
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.59.223:22231?encryption=none&flow=xtls-rprx-vision&security=tls&sni=r1.mizulina.top&type=tcp#GE_2182_@Surfboardv2ray
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.59.223:443?security=tls&alpn=h3,h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision-udp443&sni=r1.mizulina.top#GE_2184_@Surfboardv2ray
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?allowInsecure=0&sni=r1.mizulina.top&flow=xtls-rprx-vision-udp443&fp=edge&security=tls#[openproxylist.com] vless-GE
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:443?allowInsecure=0&encryption=none&flow=xtls-rprx-vision&headerType=none&insecure=0&security=tls&sni=r1.mizulina.top&type=tcp#[openproxylist.com] vless-GE
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?allowInsecure=0&sni=r1.mizulina.top&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#[openproxylist.com] vless-GE
