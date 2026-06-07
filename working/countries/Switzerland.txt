@@ -21,11 +21,7 @@ vmess://ewogICAgImFkZCI6ICIxODYuMTkwLjIxNS43NSIsCiAgICAiYWlkIjogMSwKICAgICJob3N0
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@156.146.62.160:443#%F0%9F%87%A8%F0%9F%87%ADCH-156.146.62.160-0728
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@84.17.53.163:80#%F0%9F%87%A8%F0%9F%87%AD_CH_%E7%91%9E%E5%A3%AB
 vless://5b2b6e7a-fc72-4823-9ee5-733ec0b6a882@45.90.57.107:80?encryption=none&security=none&type=ws&host=ch1.v2vless.xyz&path=%2Fvless#Mahsa%2B%3A%2B%F0%9F%87%A8%F0%9F%87%AD%2BSwitzerland
-trojan://duaR-NjjdGGLeZ+W6j=3NY46vZW+zyMD1z@89.125.95.152:11300?sni=www.toughapp.click&fp=chrome&type=tcp&path=%2f#%f0%9f%87%a8%f0%9f%87%ad%20CH%201
-trojan://duaR-NjjdGGLeZ+W6j=3NY46vZW+zyMD1z@89.125.95.152:11300?sni=www.toughapp.click&path=%2f#%f0%9f%87%a8%f0%9f%87%ad%20CH%202
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.161.123:8119#%f0%9f%87%a8%f0%9f%87%ad%20CH%203
 vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@sw1tzerl4nd.gxcore.net:443?security=reality&encryption=none&pbk=127zCnB9vtae6HnpowaSW8eFqflCAaBV0iM1oKHBWwY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sw1tzerl4nd.gxcore.net&sid=a1ab5a56bc42#[openproxylist.com] vless-CH
-trojan://74480619-b6a8-4ab8-94e1-1132fc18b2fa@185.18.250.252:443?path=/au-mt&security=tls&insecure=0&host=unnes.ac.id.r3xxe.eu.cc&type=ws&allowInsecure=0&sni=unnes.ac.id.r3xxe.eu.cc#CH-@VPNine1
 vless://0799a47d-d446-4a20-8e75-441fa899fbb1@104.16.72.70:443?path=%2Fid-pusat&security=tls&encryption=none&insecure=0&host=unnes.ac.id.r3xxe.eu.cc&type=ws&allowInsecure=0&sni=unnes.ac.id.r3xxe.eu.cc#/Switzerland
 vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HqPCfh61DSC00NS45MC41OS4xODYtMzU4NCIsICJhZGQiOiAiNDUuOTAuNTkuMTg2IiwgInBvcnQiOiAxMDAwMCwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiNzIzNWFlOGUtYzExNS0xMWVkLThmYWYtMjM1NmQxNzBlYWYzIiwgInNuaSI6ICIiLCAicGF0aCI6ICIvdnBuamFudGl0In0=
 vmess://eyJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJwcyI6ICJcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgtXHU3ZjhlXHU1NmZkLTM0Y2gubmV0d29ya2xpbmtwcm8ubmV0IiwgIm5ldCI6ICJ3cyIsICJwb3J0IjogIjE1MzU3IiwgImFkZCI6ICIzNGNoLm5ldHdvcmtsaW5rcHJvLm5ldCIsICJza2lwLWNlcnQtdmVyaWZ5IjogInRydWUiLCAidGxzIjogImZhbHNlIiwgInR5cGUiOiAibm9uZSIsICJ1ZHAiOiAidHJ1ZSIsICJpZCI6ICI1MDQ1MmYzZS1mOTA0LTQyYjAtYTIxZi1hNjkwNTUyYmI0ZjYiLCAid3Mtb3B0cyI6ICIiLCAiaGVhZGVycyI6ICIiLCAiaG9zdCI6ICIzNGNoLm5ldHdvcmtsaW5rcHJvLm5ldCIsICJwYXRoIjogIi8ifQ==

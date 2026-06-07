@@ -5,7 +5,6 @@ ss://037e395f-f79d-4d61-bb92-dafcc27e53ba@46.101.57.231:443?path=%2Fesoznjws&sec
 ss://abd3221a-af6d-42b7-9373-dfe3efe6f512@37.202.238.213:2095?encryption=none&security=none&type=tcp&headerType=http&host=Myket.ir#%40digiv2ray-50GB
 vless://037e395f-f79d-4d61-bb92-dafcc27e53ba@46.101.57.231:443?path=%2Fesoznjws&security=tls&encryption=none&type=ws&sni=m.vk.com#United%20Kingdom%20Digital%20Ocean
 vless://abd3221a-af6d-42b7-9373-dfe3efe6f512@37.202.238.213:2095?encryption=none&security=none&type=tcp&headerType=http&host=Myket.ir#%40digiv2ray-50GB
-trojan://humanity@172.64.152.23:443?sni=www.creationlong.org#%F0%9F%87%AC%F0%9F%87%A7GB%E8%8B%B1%E5%9B%BD
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#United+Kingdom
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#United+Kingdom
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080#United+Kingdom
@@ -287,7 +286,6 @@ vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@uk-xh-01.hpdata.click:443?sni=uk-xh
 vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.30:443?allowInsecure=0&sni=it.s3-cloud.xyz&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#GB_speednode_0013
 vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.26:443?allowInsecure=0&sni=it.s3-cloud.xyz&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#GB_speednode_0014
 vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.91:443?allowInsecure=0&sni=it.s3-cloud.xyz&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#GB_speednode_0015
-ss://YWVzLTI1Ni1nY206WWpGaE16a3pPVGxoTkRaaFpESXpNelZpTkdFeVpUQXlaVEJsTVdKaA@kyiv02.npvnot.com:443?prefix=%16%03%01%00%C2%A8%01%01#50GB-%40vasl_bashim
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Mkt2bkducjQvbDNPaVJmNEhiMlEzR01iSzUvSGJUZnpKVy9yS2QvdTI1MD06a0N4aFZERVNaSm1UNHp1WEhDR2RpTzdRZ1hMY0xGYWR6bWFGTHlkYnpGOD0=@51.89.118.24:8080?security=none&type=tcp#@ParsRoute-1000.00GB%F0%9F%93%8A
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.182:443#GB%20%20ROSE02
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.179:443#GB%20%20ROSE03
@@ -420,27 +418,12 @@ vless://1c65bee4-bc54-364c-8988-6a5912fda891@s643.ccgfw.top:443?encryption=none&
 vless://1c65bee4-bc54-364c-8988-6a5912fda891@ipv6s235.ccgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=ipv6s235.ccgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u723829ue122ipv6s235.ccgfw.top&serviceName=&mode=&alpn=#GB%20VLESS-146%20%7C%20free-nodes
 vless://1c65bee4-bc54-364c-8988-6a5912fda891@ipv6s732.ccgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=ipv6s732.ccgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u723829ub3fcipv6s732.ccgfw.top&serviceName=&mode=&alpn=#GB%20VLESS-188%20%7C%20free-nodes
 vless://1c65bee4-bc54-364c-8988-6a5912fda891@s642.ccgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s642.ccgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u723829u4c78s642.ccgfw.top&serviceName=&mode=&alpn=#GB%20VLESS-213%20%7C%20free-nodes
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@admin.c1.webramz.co:443#%f0%9f%87%ac%f0%9f%87%a7%20GB%201
-vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?security=tls&encryption=none&sni=uk1.fromblancwithlove.com&alpn=h2&type=tcp&path=%2f#%f0%9f%87%ac%f0%9f%87%a7%20GB%202
-vless://c83014e0-ad3e-4ebd-9e8f-8f7a1f6088d6@206.189.20.90:27774?type=tcp&path=%2f#%f0%9f%87%ac%f0%9f%87%a7%20GB%203
-vless://c83014e0-ad3e-4ebd-9e8f-8f7a1f6088d6@206.189.20.90:27774?path=%2f#%f0%9f%87%ac%f0%9f%87%a7%20GB%204
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxa1ZyMEtBVElKSTdtd09G@admin.c1.havij.co:443#%f0%9f%87%ac%f0%9f%87%a7%20GB%205
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%f0%9f%87%ac%f0%9f%87%a7%20GB%206
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#%f0%9f%87%ac%f0%9f%87%a7%20GB%207
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.179:443#%f0%9f%87%ac%f0%9f%87%a7%20GB%208
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.181:443#%f0%9f%87%ac%f0%9f%87%a7%20GB%209
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#%f0%9f%87%ac%f0%9f%87%a7%20GB%2010
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#%f0%9f%87%ac%f0%9f%87%a7%20GB%2011
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiWjg3YW1QcGRHN0t1V002MmJLdG0xS0hvb3d1VmpuVjhDS3RxNjUzeW1IY2cyZFBZY1BKZm5hUTYxc3R1QWpyMlppTERhcUg1Nlhwa3hFWXV3RHp6UnJNV2llZWJXR3Q=@185.5.38.111:55988#%f0%9f%87%ac%f0%9f%87%a7%20GB%2012
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#%f0%9f%87%ac%f0%9f%87%a7%20GB%201
+vless://adea61c0-0bb2-4ad3-8dba-7766eebd50f8@31.76.113.249:7443?security=reality&encryption=none&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=be0ce047#[openproxylist.com] vless-GB
 vless://44b3ee72-cffb-4d66-ab7c-3138b9bdeeef@54.36.162.217:443?security=reality&encryption=none&pbk=upTVUrc_t7xF1ULni8pHRDhRES1sT4BDm1r8rugTzyQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speedtest.net&sid=ff815f58c7e77aa9#[openproxylist.com] vless-GB
 vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.51:443?security=reality&encryption=none&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=it.s3-cloud.xyz&sid=7a3f9e2b1c8d4f6a#[openproxylist.com] vless-GB
 vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@31.76.53.0:443?security=reality&encryption=none&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=google.com#[openproxylist.com] vless-GB
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyRW1XUlMxVGtTM1RreEtBcG5yaWhiM2FIakRTWFJ2VDFUMUs5VTJCcnV4cm5wNUE4em1wVHh3d1ROamU2QmtWcW1uOUJnUkY2cHE4cW9SSENmWmRjYWg3QkxianJwVDE@185.5.38.111:55988#GB-@VPNine1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiWjg3YW1QcGRHN0t1V002MmJLdG0xS0hvb3d1VmpuVjhDS3RxNjUzeW1IY2cyZFBZY1BKZm5hUTYxc3R1QWpyMlppTERhcUg1Nlhwa3hFWXV3RHp6UnJNV2llZWJXR3Q@185.5.38.111:55988#GB-@VPNine1
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.179:443#GB-@VPNine1
-trojan://humanity@172.64.152.23:443?allowInsecure=0&sni=www.creationlong.org&ws=1&wspath=%2Fassignment#%F0%9F%87%AC%F0%9F%87%A7%20GB%E8%8B%B1%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-trojan://humanity@172.64.152.23:443?allowInsecure=0&sni=www.calmlunch.com&ws=1&wspath=%2Fassignment#%F0%9F%87%AC%F0%9F%87%A7%20GB%E8%8B%B1%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-trojan://humanity@172.64.152.23:443?allowInsecure=0&sni=www.gossipglove.com&ws=1&wspath=%2Fassignment#%F0%9F%87%AC%F0%9F%87%A7%20GB%E8%8B%B1%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+trojan://humanity@172.64.152.23:443?sni=www.creationlong.org#%F0%9F%87%AC%F0%9F%87%A7GB%E8%8B%B1%E5%9B%BD
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5OTMwMWQ1NS1hNDFmLTQ5MTktOTg2Yi0xNDM1OTk2NTMzYWE@120.238.122.208:50002#UK%2F1|Github%E6%90%9C%E7%B4%A2TrojanLinks
 trojan://M4Z093NUxzTd@35.177.239.227:14812?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#GB|GithubTrojanLinks
 trojan://GbpL4)01b2J9@18.171.154.1:14815?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#GB|GithubTrojanLinks

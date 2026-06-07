@@ -4,9 +4,5 @@ vmess://eyJwcyI6ICJcdWQ4M2NcdWRkZjJcdWQ4M2NcdWRkZmQgY29ubmVjdG9uLW14MSIsICJhZGQi
 trojan://3747000103274291200@grateful-glowworm.treefrog761.one:443#Mexico
 trojan://3747000103274291200@216.238.77.127:443?peer=grateful-glowworm.treefrog761.one#Mexico
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@190.103.179.23:989#%F0%9F%87%B2%F0%9F%87%BDMX-190.103.179.23-0779
-trojan://PtRV8to08i8FMsY.Uw7=yMuIaR3eVTGmvA@149.104.87.182:443?security=tls&sni=www.jewelapp.click&fp=chrome&type=tcp&headerType=none&path=%2f#%f0%9f%87%b2%f0%9f%87%bd%20MX%201
-trojan://PtRV8to08i8FMsY.Uw7=yMuIaR3eVTGmvA@149.104.87.182:443?sni=www.jewelapp.click&type=tcp&path=%2f#%f0%9f%87%b2%f0%9f%87%bd%20MX%202
-trojan://PtRV8to08i8FMsY.Uw7=yMuIaR3eVTGmvA@149.104.87.182:443?sni=www.jewelapp.click&fp=chrome&type=tcp&path=%2f#%f0%9f%87%b2%f0%9f%87%bd%20MX%203
-vless://a6d20e79-d326-42c1-bc20-f4cecc6dc42d@ul-mexico1.09vpn.com:8443?security=tls&encryption=none&sni=ul-mexico1.09vpn.com&fp=chrome&type=ws&host=ul-mexico1.09vpn.com&path=%2fvless%2f&allow_insecure=1#%f0%9f%87%b2%f0%9f%87%bd%20MX%204
 trojan://PtRV8to08i8FMsY.Uw7=yMuIaR3eVTGmvA@149.104.87.182:443?allowInsecure=1&sni=www.jewelapp.click#[openproxylist.com] trojan-MX
 vmess://eyJwcyI6ICJcdWQ4M2NcdWRkZWFcdWQ4M2NcdWRkZjgtXHU2YjI3XHU2ZDMyLW14MS52MnJheXNlcnYuY29tIiwgIlx1NTE0ZFx1OGQzOVx1OGJhMlx1OTYwNVx1NWMzZFx1NTcyOGh0dHBzIjogIiIsICJhZGQiOiAibXgxLnYycmF5c2Vydi5jb20iLCAicG9ydCI6ICI4MCIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiMDFlMTU1NGUtYWViZi00OWU1LWFjMzMtYzEzMTU1ODQwYTVkIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgInRscyI6ICJmYWxzZSIsICJza2lwLWNlcnQtdmVyaWZ5IjogInRydWUiLCAibmV0IjogIndzIiwgIndzLW9wdHMiOiAiIiwgInBhdGgiOiAiL3NzaG9jZWFuIiwgImhlYWRlcnMiOiAiIiwgImhvc3QiOiAibXgxLnYycmF5c2Vydi5jb20iLCAidWRwIjogInRydWUifQ==
