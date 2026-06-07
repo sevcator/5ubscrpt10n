@@ -24,34 +24,14 @@ trojan://humanity@104.18.32.47:443?security=tls&sni=www.calmlunch.com&insecure=0
 trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com&note=@FreeOnlineVPN# - FR - @FreeOnlineVPN
 trojan://humanity@198.62.62.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com# France, Paris | [@Rez1vpn[
 vless://05e09c8a-a3a9-4bd5-acf9-2c3c87bab827@145.239.173.163:443?type=tcp&encryption=none&security=none#test france
-vless://3fa3261f-8f6b-4f5a-8f75-eb39911a0798@185.16.110.59:2082?security=none&type=httpupgrade&host=finhztco.nipytee.info&path=/#FR-@VPNine1
 vless://478dd3f5-550c-4f3f-8848-fe75c21136db@fr-node.prostosetup.org:443?security=reality&encryption=none&pbk=ZSFjVI9pyqawgPY_0shmNRdTdwfBBFWRMPcrKIzyHSw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=509d#France  @V2VODKA_A
 vless://55f7d143-a594-4a91-b030-f227039f85ef@cdg-1.fromblancwithlove.com:8443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0#FR-@VPNine1
-vless://5a23e6b2-3cd3-4475-898e-0885d71da6ec@146.59.159.111:2053?encryption=none&security=tls&sni=us2.wxgqlfx.xyz&type=ws&host=us2.wxgqlfx.xyz&path=/TG@VPNine1&fp=chrome&alpn=http/1.1#FR-@VPNine1
-vless://5a23e6b2-3cd3-4475-898e-0885d71da6ec@152.228.134.48:2053?encryption=none&security=tls&sni=us2.wxgqlfx.xyz&type=ws&host=us2.wxgqlfx.xyz&path=/TG@VPNine1&fp=chrome&alpn=http/1.1#FR-@VPNine1
-vless://5a23e6b2-3cd3-4475-898e-0885d71da6ec@152.228.134.58:8443?encryption=none&security=tls&sni=us2.wxgqlfx.xyz&type=ws&host=us2.wxgqlfx.xyz&path=/TG@VPNine1&fp=chrome&alpn=http/1.1#FR-@VPNine1
-vless://5a23e6b2-3cd3-4475-898e-0885d71da6ec@152.228.135.238:8443?encryption=none&security=tls&sni=us2.wxgqlfx.xyz&type=ws&host=us2.wxgqlfx.xyz&path=/TG@VPNine1&fp=chrome&alpn=http/1.1#FR-@VPNine1
-vless://5a23e6b2-3cd3-4475-898e-0885d71da6ec@152.228.135.44:2053?encryption=none&security=tls&sni=us2.wxgqlfx.xyz&type=ws&host=us2.wxgqlfx.xyz&path=/TG@VPNine1&fp=chrome&alpn=http/1.1#FR-@VPNine1
-vless://5a23e6b2-3cd3-4475-898e-0885d71da6ec@162.19.243.185:8443?encryption=none&security=tls&sni=us2.wxgqlfx.xyz&type=ws&host=us2.wxgqlfx.xyz&path=/TG@VPNine1&fp=chrome&alpn=http/1.1#FR-@VPNine1
-vless://5a23e6b2-3cd3-4475-898e-0885d71da6ec@162.19.79.211:2053?encryption=none&security=tls&sni=us2.wxgqlfx.xyz&type=ws&host=us2.wxgqlfx.xyz&path=/TG@VPNine1&fp=chrome&alpn=http/1.1#FR-@VPNine1
-vless://5a23e6b2-3cd3-4475-898e-0885d71da6ec@51.77.140.9:2053?encryption=none&security=tls&sni=us2.wxgqlfx.xyz&type=ws&host=us2.wxgqlfx.xyz&path=/TG@VPNine1&fp=chrome&alpn=http/1.1#FR-@VPNine1
-vless://5a23e6b2-3cd3-4475-898e-0885d71da6ec@51.91.251.153:443?encryption=none&security=tls&sni=us2.wxgqlfx.xyz&type=ws&host=us2.wxgqlfx.xyz&path=/TG@VPNine1&fp=chrome&alpn=http/1.1#FR-@VPNine1
-vless://5a23e6b2-3cd3-4475-898e-0885d71da6ec@51.91.251.198:8443?encryption=none&security=tls&sni=us2.wxgqlfx.xyz&type=ws&host=us2.wxgqlfx.xyz&path=/TG@VPNine1&fp=chrome&alpn=http/1.1#FR-@VPNine1
-vless://5a23e6b2-3cd3-4475-898e-0885d71da6ec@54.36.98.82:8443?encryption=none&security=tls&sni=us2.wxgqlfx.xyz&type=ws&host=us2.wxgqlfx.xyz&path=/TG@VPNine1&fp=chrome&alpn=http/1.1#FR-@VPNine1
-vless://5a23e6b2-3cd3-4475-898e-0885d71da6ec@57.128.176.90:443?encryption=none&security=tls&sni=us2.wxgqlfx.xyz&type=ws&host=us2.wxgqlfx.xyz&path=/TG@VPNine1&fp=chrome&alpn=http/1.1#FR-@VPNine1
-vless://5a23e6b2-3cd3-4475-898e-0885d71da6ec@57.128.177.203:443?encryption=none&security=tls&sni=us2.wxgqlfx.xyz&type=ws&host=us2.wxgqlfx.xyz&path=/TG@VPNine1&fp=chrome&alpn=http/1.1#FR-@VPNine1
-vless://5a23e6b2-3cd3-4475-898e-0885d71da6ec@57.128.181.151:443?encryption=none&security=tls&sni=us2.wxgqlfx.xyz&type=ws&host=us2.wxgqlfx.xyz&path=/TG@VPNine1&fp=chrome&alpn=http/1.1#FR-@VPNine1
-vless://5a23e6b2-3cd3-4475-898e-0885d71da6ec@57.128.183.108:443?encryption=none&security=tls&sni=us2.wxgqlfx.xyz&type=ws&host=us2.wxgqlfx.xyz&path=/TG@VPNine1&fp=chrome&alpn=http/1.1#FR-@VPNine1
-vless://5a23e6b2-3cd3-4475-898e-0885d71da6ec@57.128.183.108:8443?encryption=none&security=tls&sni=us2.wxgqlfx.xyz&type=ws&host=us2.wxgqlfx.xyz&path=/TG@VPNine1&fp=chrome&alpn=http/1.1#FR-@VPNine1
-vless://5a23e6b2-3cd3-4475-898e-0885d71da6ec@57.128.183.133:8443?encryption=none&security=tls&sni=us2.wxgqlfx.xyz&type=ws&host=us2.wxgqlfx.xyz&path=/TG@VPNine1&fp=chrome&alpn=http/1.1#FR-@VPNine1
-vless://5a23e6b2-3cd3-4475-898e-0885d71da6ec@57.128.183.59:443?encryption=none&security=tls&sni=us2.wxgqlfx.xyz&type=ws&host=us2.wxgqlfx.xyz&path=/TG@VPNine1&fp=chrome&alpn=http/1.1#FR-@VPNine1
 vless://796a3151-67e4-41a6-91ff-52e811000fe8@fra.pandaonline.org:443?security=reality&encryption=none&pbk=t_UyYJCXeQjHMYh0fnK6SinlQ5vkeVy-8yKrkUgVNEE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=#FR-@VPNine1
+vless://7b241232-208d-4d36-857e-913f91b044f4@fr.noooo.win:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=api-6a20f558.noooo.win#FR-@VPNine1
 vless://85dca508-15cc-43fc-8c35-8bc87c8a7858@45.154.96.237:8443?encryption=none&type=tcp&headerType=none&security=reality&fp=chrome&sni=play.google.com&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&sid=6ba85179e30d4fc2#FR-@VPNine1
-vless://9bc83394-a0f1-405d-a122-6d35fd8ce447@fr.lizardshop.org:2053?encryption=none&security=reality&type=grpc&headerType=none&serviceName=xyz&mode=gun&sni=play.google.com&fp=chrome&pbk=r44-29dhInxzD-1JIMYuQMrbhieWsLm00BEHXn-6ggg&sid=6ba85179e30d4fc2#||-France MTN best_internet_iran
 vless://InternetAzadRobot-AliKiller@151.101.192.223:80?mode=auto&path=/&security=&encryption=none&host=InternetAzadRobot07gt745.global.ssl.fastly.net&type=xhttp# France, Roubaix |  | [@Rez1vpn[
 vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@bab-6.site:443?path=/vws/&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=e=#FR-@VPNine1
 vless://b6f29f8d-016e-4f30-b57f-c0cdafab2a40@45.95.233.82:443?security=reality&encryption=none&fm={"fragment":{"length":"50-100","packets":"tlshello","interval":"10-20"}}&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ya.ru&sid=6ba85179e30d4fc2# France (@v2FreeHub) Vless
-vless://c32d4484-7003-468c-8675-7d715b7a7876@162.19.181.86:443?security=reality&encryption=none&pbk=zXzWxfdh3xoXoMbK85CMUi2TNTTTAfuR4RQ5PwMALQ4&headerType=&fp=chrome&spx=/UFnEl06zFZmwJMI&type=tcp&sni=www.google.com&sid=4e3fdd#FR-@VPNine1
 vless://d3d962b1-7fc4-4f34-8292-b57e75cd0316@162.159.153.79:2083?path=/&security=tls&encryption=none&insecure=0&host=purple-water-9854.ipcfchannel.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=purple-water-9854.ipcfchannel.workers.dev#@fr33c0nfig
 vless://d3d962b1-7fc4-4f34-8292-b57e75cd0316@172.64.144.251:2087?path=/&security=tls&encryption=none&insecure=0&host=purple-water-9854.ipcfchannel.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=purple-water-9854.ipcfchannel.workers.dev#@fr33c0nfig
 vless://d3d962b1-7fc4-4f34-8292-b57e75cd0316@198.41.223.184:2096?path=/&security=tls&encryption=none&insecure=0&host=purple-water-9854.ipcfchannel.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=purple-water-9854.ipcfchannel.workers.dev#@fr33c0nfig
@@ -470,24 +450,11 @@ vless://00000000-0000-4000-8000-000000000000@54.178.110.17:4443?encryption=none&
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?encryption=none&flow=xtls-rprx-vision&security=tls&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#FR%E6%B3%95%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:443?encryption=none&flow=xtls-rprx-vision-udp443&security=tls&sni=r1.mizulina.top&fp=edge&insecure=0&allowInsecure=0&type=tcp&headerType=none#FR%E6%B3%95%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 ss://aes-128-gcm%3A6601fb90e9b3@csgfw.top:443#FR%20SS-135%20%7C%20free-nodes
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.4.238:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#FR-@VPNine1
-vless://5a23e6b2-3cd3-4475-898e-0885d71da6ec@135.125.190.99:8443?encryption=none&security=tls&sni=us2.wxgqlfx.xyz&type=ws&host=us2.wxgqlfx.xyz&path=/TG@VPNine1&fp=chrome&alpn=http/1.1#FR-@VPNine1
-vless://5a23e6b2-3cd3-4475-898e-0885d71da6ec@57.128.183.59:8443?encryption=none&security=tls&sni=us2.wxgqlfx.xyz&type=ws&host=us2.wxgqlfx.xyz&path=/TG@VPNine1&fp=chrome&alpn=http/1.1#FR-@VPNine1
-vless://796a3151-67e4-41a6-91ff-52e811000fe8@fra.pandaonline.org:443?security=reality&encryption=none&pbk=t_UyYJCXeQjHMYh0fnK6SinlQ5vkeVy-8yKrkUgVNEE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fra.pandaonline.org#FR-@VPNine1
-vless://87e60810-bb71-41ea-a2a6-f05c8ab903ef@5.196.51.152:54809?security=reality&encryption=none&pbk=06rvKjC9dE_Ndd-dw6B-0zAyEpn-jUs7mcNFAPQ_1G8&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision-udp443&sni=dash.cloudflare.com&sid=b4b3#FR-@V2Ray_Hub1200
-vless://94ae5ad5-8f3e-41bf-9546-99a1543d3cd1@66.201.5.216:443?encryption=none&fp=&pbk=kpEmyVJAZ9sMN_9fo384bqlSbqNZz2TVk7Tpd_9cnFg&security=reality&sid=fad0a8e7&sni=cdnpic.henseful.com&type=grpc#FR-@VPNine1
 vless://103571d2-d1c2-40d1-b156-c5ba2450b86c@em-9.speedmizban.net:2044?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#[openproxylist.com] vless-FR
 vless://35762c02-ff2b-4526-b41b-e96e5d99528b@151.241.228.254:34754?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=eMijZKuJlNEciXbhyzdbewk-ot_JLMZVaA42bxKFcBM&security=reality&sid=c9eb0359fac0c345&sni=yahoo.com&type=tcp#[openproxylist.com] vless-FR
 vless://47c87a37-3d09-4c3d-96fb-91ce3bcae058@62.60.148.226:8080?security=none&encryption=none&host=www.speedtest.com&headerType=http&type=tcp#[openproxylist.com] vless-FR
 vless://3e5da4f6-93c4-4701-911b-1a5091d2430f@213.199.39.156:30001?type=ws&security=none&sni=&fp=chrome&host=&path=/ws#[openproxylist.com] vless-FR
 trojan://YGWIMlg.W1wRWQkRDcKfjZY7sng09aC=Yh@217.69.2.107:443?security=tls&sni=www.weavenet.click#[openproxylist.com] trojan-FR
-ss://YWVzLTI1Ni1nY206RmpHM0lQYm55KzBaWVU0L3AxdlVMUDg0R2NLcEdvWnBXS0FheTE2VmhJdz0=@51.254.128.106:2083#%F0%9F%87%AB%F0%9F%87%B7FR-51.254.128.106-0116
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5NGR2b1cwVGRLUnE=@161.97.68.139:443#%F0%9F%87%AB%F0%9F%87%B7FR-161.97.68.139-0214
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1T2FOQkI3ZGxLWEg=@155.133.130.93:443#%F0%9F%87%AB%F0%9F%87%B7FR-155.133.130.93-0232
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWOHN0WEtzY1Vwa04=@144.91.109.71:443#%F0%9F%87%AB%F0%9F%87%B7FR-144.91.109.71-0234
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyZXZDNFh6QWVta1g=@144.91.109.75:443#%F0%9F%87%AB%F0%9F%87%B7FR-144.91.109.75-0235
-trojan://telegram-id-privatevpns@13.37.4.238:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#FR-@VPNine1
-trojan://YGWIMlg.W1wRWQkRDcKfjZY7sng09aC=Yh@217.69.2.107:443?security=tls&sni=www.weavenet.click#%F0%9F%87%AB%F0%9F%87%B7FR-217.69.2.107-0126
 trojan://(VuRWFIPsAhP@13.38.109.97:14828?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#FR|GithubTrojanLinks
 trojan://jESPFD2DoPwn@13.38.44.244:14796?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#FR|GithubTrojanLinks
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.83:45619?allowInsecure=1&sni=fr.01.naiun.bilibili.com&alpn=http/1.1#%5Bpeasoft%2FNoMoreWalls%5D%F0%9F%87%AB%F0%9F%87%B7FR_3%7C1.5MB%2Fs
@@ -669,20 +636,10 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7cgLeazleWbvS1mcjAxLnBhb3Bhb2Nsb3VkLmN5b3Ui
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7cgLeazleWbvS1mcjAxLnBhb3Bhb2Nsb3VkLmN5b3UiLCJhZGQiOiJmcjAxLnBhb3Bhb2Nsb3VkLmN5b3UiLCJwb3J0IjoiNDQzIiwidHlwZSI6Im5vbmUiLCJpZCI6ImQ2MmExMTZlLWMwMTQtMzNlNS05NDU4LWQxYjZlMjcxZTdhNSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6ImZyMDEuMnl1bi53aW4iLCJ0bHMiOiJ0bHMifQ==
 vmess://eyJhZGQiOiAiZnIwMS5wYW9wYW9jbG91ZC5jeW91IiwgInBvcnQiOiAiNDQzIiwgImlkIjogImQ2MmExMTZlLWMwMTQtMzNlNS05NDU4LWQxYjZlMjcxZTdhNSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAicHMiOiAi8J+Hq/Cfh7ct5rOV5Zu9LWZyMDEucGFvcGFvY2xvdWQuY3lvdSIsICJob3N0IjogImZyMDEuMnl1bi53aW4iLCAicGF0aCI6ICIvdjJyYXkiLCAidGxzIjogInRscyIsICJzbmkiOiAiIiwgInR5cGUiOiAidm1lc3MiLCAic2VydmVyUG9ydCI6IDAsICJuYXRpb24iOiAiIn0=
 vmess://eyJhZGQiOiAiZnIwMS5wYW9wYW9jbG91ZC5jeW91IiwgInBvcnQiOiAiNDQzIiwgImlkIjogIjBmZWI0ZWE5LWJjYWEtMzJjMi1iYmRkLWIzZDEzZGRkYjYxMiIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAicHMiOiAi8J+Hq/Cfh7ct5rOV5Zu9LWZyMDEucGFvcGFvY2xvdWQuY3lvdSIsICJob3N0IjogImZyMDEuMnl1bi53aW4iLCAicGF0aCI6ICIvdjJyYXkiLCAidGxzIjogInRscyIsICJzbmkiOiAiIiwgInR5cGUiOiAidm1lc3MiLCAic2VydmVyUG9ydCI6IDAsICJuYXRpb24iOiAiIn0=
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0# FR | 162.249.126.67
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn9-33.vk-cdnvideo.com:8443?security=tls&encryption=none&headerType=none&type=tcp# FR | 162.249.126.76
 vless://fe48773b-df06-409a-bc61-117cd8fb1eb7@172.232.33.18:443?security=reality&encryption=none&pbk=PTlW40u-tHGDlObhSKFN4tntrfHLgNPlHqg1oYqyY1o&headerType=http&fp=chrome&spx=/&type=tcp&sni=ftp.debian.org&sid=b5ecd44d# FR | 172.232.33.18
 vless://7d7e7469-2e04-46b6-8675-cc7aea3624ad@62.171.188.84:443?security=none&encryption=none&headerType=none&type=tcp# FR | 62.171.188.84
 vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?path=/vless/&security=none&encryption=none&type=ws# FR | 152.228.162.19
-vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@OV-France1.09vpn.com:80?path=/vless/&security=none&encryption=none&type=ws# FR | 152.228.162.19
-vless://13ed6c43-ef38-4d5e-82ca-188a36e2db46@blit333.hamrahcore.ir:719?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&type=ws&path=/api/v2/xtrnwqjbkr?ed=2560&host=play.google.com# FR | 45.10.59.38
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.161.26:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk# FR | 15.237.161.26
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.4.238:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk# FR | 13.37.4.238
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn9-33.vk-cdnvideo.com:8443/?type=tcp&encryption=none&security=tls# FR | 162.249.126.71
 vless://85dca508-15cc-43fc-8c35-8bc87c8a7858@45.154.96.237:8443?encryption=none&type=tcp&headerType=none&security=reality&fp=firefox&sni=play.google.com&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&sid=6ba85179e30d4fc2# FR | 45.154.96.237
-vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443?security=tls&encryption=none&headerType=none&allowinsecure=0&type=tcp&sni=cdg-1.fromblancwithlove.com# FR | 79.127.196.11
-trojan://telegram-id-directvpn@15.237.161.26:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# FR | 15.237.161.26
-trojan://telegram-id-directvpn@13.37.4.238:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# FR | 13.37.4.238
-trojan://telegram-id-privatevpns@15.237.161.26:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# FR | 15.237.161.26
-trojan://telegram-id-privatevpns@13.37.4.238:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# FR | 13.37.4.238
-trojan://telegram-id-v2rayvpnchannel@15.237.161.26:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# FR | 15.237.161.26
-trojan://telegram-id-v2rayvpnchannel@13.37.4.238:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# FR | 13.37.4.238
+vless://2065a8c9-8b3d-4dba-b0ce-90d649aa3da7@greb.loralden.com:443?security=reality&encryption=none&pbk=EUK_ePvEKUGcezQYHqgJ5P462XxLPXPm9CZWGLaL33k&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=greb.loralden.com&sid=3620820fe66d6731# FR | 62.133.62.206
+vless://8449887d7cd055d06646951bc8bc2d08@185.193.28.212:443?path=/@JavidnamanIran/Javid-SHAH-KingRezaPahlavi/&security=tls&encryption=none&insecure=0&host=crm.lotussec.com&type=ws&allowInsecure=0&sni=crm.lotussec.com# FR | 185.193.28.212
