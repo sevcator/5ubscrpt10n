@@ -1,4 +1,4 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxZTZwZUZHNTRGOW40dTN4Mw==@103.125.147.48:51348#%F0%9F%87%B5%F0%9F%87%B0PK-103.125.147.48-8541
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxZTZwZUZHNTRGOW40dTN4Mw==@103.125.147.48:51348#%F0%9F%87%B5%F0%9F%87%B0PK-103.125.147.48-8353
 trojan://3747000103274291200@dynamic-tomcat.treefrog761.one:443#Pakistan
 trojan://3747000103274291200@38.60.217.170:443?peer=dynamic-tomcat.treefrog761.one#Pakistan
 trojan://BzOx2R8u59SOipHwhIYW-IMyJePBEiUY-m@149.104.104.101:443?security=tls&sni=www.registry-monitor.click&path=%2f#%f0%9f%87%b5%f0%9f%87%b0%20PK%201
@@ -13,3 +13,4 @@ trojan://BzOx2R8u59SOipHwhIYW-IMyJePBEiUY-m@149.104.104.101:443?security=tls&sni
 trojan://BzOx2R8u59SOipHwhIYW-IMyJePBEiUY-m@149.104.104.101:443?sni=www.registry-monitor.click&path=%2f#%f0%9f%87%b5%f0%9f%87%b0%20PK%2010
 trojan://BzOx2R8u59SOipHwhIYW-IMyJePBEiUY-m@149.104.104.101:443?security=tls&sni=www.registry-monitor.click&fp=chrome&type=tcp&path=%2f#%f0%9f%87%b5%f0%9f%87%b0%20PK%2011
 trojan://BzOx2R8u59SOipHwhIYW-IMyJePBEiUY-m@149.104.104.101:443?security=tls&sni=www.registry-monitor.click&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=1#%f0%9f%87%b5%f0%9f%87%b0%20PK%2012
+trojan://BzOx2R8u59SOipHwhIYW-IMyJePBEiUY-m@149.104.104.101:443?security=tls&sni=www.registry-monitor.click#[openproxylist.com] trojan-PK
