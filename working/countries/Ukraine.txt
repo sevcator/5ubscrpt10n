@@ -1,8 +1,7 @@
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@5.188.6.8:989#%F0%9F%87%BA%F0%9F%87%A6UA-5.188.6.8-7654
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzaHdvZ2hSaWE=@195.28.182.217:51348#%F0%9F%87%BA%F0%9F%87%A6UA-195.28.182.217-7918
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.180.40:8880?encryption=none&security=none&type=ws&host=vms.lifetime09.workers.dev&path=/?ed=2560#UA_1330_@Surfboardv2ray
-vless://f2afa642-76c6-419f-af1c-45674d8284e7@37.221.64.170:13278?encryption=none&type=grpc&security=reality&serviceName=xyz&authority=yahoo.com&mode=gun&fp=chrome&allowInsecure=1&pbk=lZhnPs3mM0yaBLd2jWaQoX3DVaXz4l-t9SdKr0vUy1U&sid=fb8e0edb66000f28&spx=/#UA_3106_@Surfboardv2ray
-vless://f2afa642-76c6-419f-af1c-45674d8284e7@37.221.64.170:13278?encryption=none&type=grpc&security=reality&serviceName=xyz&authority=yahoo.com&mode=gun&fp=chrome&allowInsecure=1&pbk=lZhnPs3mM0yaBLd2jWaQoX3DVaXz4l-t9SdKr0vUy1U&sid=fb8e0edb66000f28&spx=/#UA_3107_@Surfboardv2ray
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.180.40:8880?encryption=none&security=none&type=ws&host=vms.lifetime09.workers.dev&path=/?ed=2560#UA_1179_@Surfboardv2ray
+vless://f2afa642-76c6-419f-af1c-45674d8284e7@37.221.64.170:13278?encryption=none&type=grpc&security=reality&serviceName=xyz&authority=yahoo.com&mode=gun&fp=chrome&allowInsecure=1&pbk=lZhnPs3mM0yaBLd2jWaQoX3DVaXz4l-t9SdKr0vUy1U&sid=fb8e0edb66000f28&spx=/#UA_2917_@Surfboardv2ray
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@5.188.6.8:989#%F0%9F%87%BA%F0%9F%87%A6UA-5.188.6.8-0740
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@45.80.111.198:443?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#%f0%9f%87%ba%f0%9f%87%a6+UA+%e4%b9%8c%e5%85%8b%e5%85%b0+75
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@45.80.111.38:2096?encryption=none&security=tls&type=ws&sni=juzibaipiao.5112233.xyz&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#%F0%9F%87%BA%F0%9F%87%A6_UA_%E4%B9%8C%E5%85%8B%E5%85%B0_15
@@ -10,7 +9,6 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh7rwn4emX1VBX+S5jOWFi+WFsC0+8J+HqfCf
 trojan://HTrovQkamDxNfaD5@cz5.v2ce.com:443#Relay_%F0%9F%87%BA%F0%9F%87%A6UA-%F0%9F%87%BA%F0%9F%87%A6UA_1189
 trojan://kGrwqmB1nEKUsDwE@v2cross.com.05.v2ce.com:443#Relay_%F0%9F%87%BA%F0%9F%87%A6UA-%F0%9F%87%BA%F0%9F%87%A6UA_962
 trojan://vGWCNNfBHwSY6m6M@v2cross.com.04.v2ce.com:443#Relay_%F0%9F%87%BA%F0%9F%87%A6UA-%F0%9F%87%BA%F0%9F%87%A6UA_1191
-vless://353d1d68-1523-415e-9d89-d14a9a55e253@best2.darkteam.info:443?encryption=none&type=ws&host=speedtest.net&path=/DarkTeam_VPN&security=none#/Ukraine
 vmess://eyJ2IjogIjIiLCAicHMiOiAiUmVsYXlf8J+HuvCfh6ZVQS3wn4e68J+HuFVTXzEzIiwgImFkZCI6ICI0NS44MC4xMTEuNTMiLCAicG9ydCI6IDQ0MywgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICJ0bHMiLCAiaWQiOiAiMGI4NzNjZmYtMTFhYi00NzE2LWM0MWEtMDRmODg2MTM1MDkxIiwgInNuaSI6ICIyMDAuYXF1YWJhemkuc2l0ZSIsICJwYXRoIjogIi9zdXpoaWhhbi5ldS5vcmcvcm9ld2VzdSJ9
 vmess://eyJ2IjogIjIiLCAicHMiOiAiUmVsYXlf8J+HuvCfh6ZVQS3wn4e68J+HuFVTXzIxIiwgImFkZCI6ICI0NS44MC4xMTEuNTMiLCAicG9ydCI6IDQ0MywgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICJ0bHMiLCAiaWQiOiAiMGI4NzNjZmYtMTFhYi00NzE2LWM0MWEtMDRmODg2MTM1MDkxIiwgInNuaSI6ICIyMDAuYXF1YWJhemkuc2l0ZSIsICJwYXRoIjogIi9zdXpoaWhhbi5ldS5vcmcvcm9ld2VzdSJ9
 vmess://eyJ2IjogIjIiLCAicHMiOiAiUmVsYXlf8J+HuvCfh6ZVQS3wn4e68J+HuFVTXzE0NyIsICJhZGQiOiAiNDUuODAuMTExLjUzIiwgInBvcnQiOiA0NDMsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAidGxzIiwgImlkIjogIjBiODczY2ZmLTExYWItNDcxNi1jNDFhLTA0Zjg4NjEzNTA5MSIsICJzbmkiOiAiMjAwLmFxdWFiYXppLnNpdGUiLCAicGF0aCI6ICIvc3V6aGloYW4uZXUub3JnL3JvZXdlc3UifQ==
