@@ -6,11 +6,16 @@ trojan://Masir_Sefid@188.213.130.212:443?security=reality&pbk=w0XepGv1Hk0gBh1Api
 trojan://humanity@212.183.88.136:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@config_NG
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@speedtest.net:80?path=/&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#@config_NG
 vless://03bc875d-0d8e-49b6-9094-89a8159e65ee@91.107.191.12:29376?security=&encryption=none&headerType=none&type=tcp#@config_NG
+vless://07dce2d7-9849-4e22-adb9-36d2763c3b89@snapp.ir:2095?path=/&security=none&encryption=none&host=api.aramonlineshop.ir&type=ws#@config_NG
+vless://128ec06f-0867-4d6e-9c0a-8f1000d4ed85@snapp.ir:2052?path=/Dark-vpn&security=&encryption=none&host=vpn.ksmrx.ir&type=ws#@config_NG
+vless://17186ef5-7a33-4d80-bece-9feb3743532d@forallpanel.srtongston.ir:8880?path=/?ed=2082&security=&encryption=none&host=cdn-pro2.postshup.ir&type=httpupgrade#@config_NG
 vless://6ca8ea5b-e47f-4c19-adee-365456e1e87c@31.56.188.78:7443?security=reality&encryption=none&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mi.com&sid=be0ce047#@config_NG
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca29.myfymain.com:8880?mode=gun&security=&encryption=none&type=grpc#@config_NG
-vless://8eaf5413-3d90-456d-b348-5acedda32c50@confi.sdfklsdflkj.shop:80?security=reality&encryption=none&pbk=he77TJz6fWN6PRCAF-l4RyAVcWlEgzI9Yetccc-tWAw&headerType=none&fp=chrome&spx=/ypFPinnn2Bg4Yq4&type=tcp&sni=www.oracle.com&sid=302c#@Config_NG
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.163:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#@config_NG
+vless://984fac58-576e-42bd-ab99-83db7074a729@199.232.78.159:443?path=/&security=tls&encryption=none&host=bazaryabab.global.ssl.fastly.net&type=ws&sni=default.ssl.fastly.net#@config_NG
+vless://9c04338e-99e4-4d7a-b829-bcbd94bd68c0@31.76.91.38:443?security=reality&encryption=none&pbk=JrqUslsWHHlquFmXxC77DzyRcVSr_avh2FzCV674FVI&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=jp.cdn-global.pro&sid=39a629c6c90bd2eb#@config_NG
 vless://ad6d51ab-2d06-4d41-85b7-da9d703ea4fd@dnn4.avaaaal.ir:2087?path=/720f09dba195549b424f771551162528/workers/services6/view6/Avaal6/production6/settings&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=sv333.avaaal.ir&fp=chrome&type=ws&allowInsecure=0&sni=sv333.avaaal.ir#@config_NG
+vless://d3d046fa-d372-430a-8ed9-083d62c44efb@45.130.125.194:8443?mode=auto&path=/?ed&security=tls&alpn=h3,h2&encryption=none&fp=chrome&type=xhttp&sni=vip.mojaz-persian-music.ir#@config_NG
 vless://e388fffb-03b0-4227-ac2c-2b5cec1f5c34@198.41.222.191:80?path=/&security=&encryption=none&host=leecher56.matinheydri.workers.dev&type=ws#@config_NG
 vless://e65c9135-5c62-4e63-9bec-bca0cdf94f52@167.172.108.83:443?security=reality&encryption=none&pbk=YIwwnfgqZKzbdxD0Mq-PiOmIDPYCvkaptHyN_HzDgFA&headerType=none&fp=chrome&spx=/wkBfIEIhNxYDFMj&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=844282e475538c#@config_NG
 vless://f22b1e81-54ff-4ce5-ad08-53fd874e55b5@188.114.97.6:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=itopp.mgwarrior.ir&fp=chrome&type=ws&allowInsecure=0&sni=itopp.mgwarrior.ir#@config_NG
@@ -83,15 +88,7 @@ vmess://eyJhZGQiOiI5MS4xMDcuMjI1LjE0NiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiaG9zdCI6IiIs
 vmess://eyJhZGQiOiIxMzUuMTgxLjI0OC4xMjkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiIiLCJpZCI6IjZiN2NiYzQxLWZiODAtNDFhOC04ZWI2LWI1YmRiMGU4NjE0NyIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjQ0MyIsInBzIjoiQFYycmF5X05H8J+Hq/Cfh64iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
 vless://92f481b6-ad92-43e4-a683-2bb0aeaa9846@104.17.209.145:80?encryption=none&security=none&sni=dw.alibichareh.dpdns.org&type=ws&host=dw.alibichareh.dpdns.org&path=%2F%3Fed%3D2560#%40V2ray1_Ng
 vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@172.66.132.44:80?encryption=none&security=none&sni=abcd.taraneh.dpdns.org&type=ws&host=abcd.taraneh.dpdns.org&path=%2F%3Fed%3D2560#%40V2ray1_Ng
-vless://045acec8-7d9e-4793-9917-c909a4a70887@104.18.26.90:2087?security=tls&encryption=none&host=djdj.mobomb.ir&type=ws&sni=djdj.mobomb.ir#@config_NG
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.132:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn7-39.vk-cdnvideo.com#@config_NG
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.67:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn7-09.vk-cdnvideo.com#@config_NG
-vless://ba224379-655d-4132-8dd8-935590bf2dbb@irivpn.vixzra.xyz:45244?security=none&encryption=none&headerType=none&type=tcp#@config_NG
-vless://d2fe0660-71fa-4f4b-9dd0-24ba012ea04e@104.21.11.130:2083/?type=ws&path=/er=2048&host=tala.sap-lotmarx.ir&tls=tls&security=tls&alpn=h3,h2,http/1.1&sni=tala.sap-lotmarx.ir&fp=chrome#@config_NG
-vless://d2fe0660-71fa-4f4b-9dd0-24ba012ea04e@188.114.97.6:2083/?type=ws&path=/er=2048&host=tala.sap-lotmarx.ir&tls=tls&security=tls&alpn=h3,h2,http/1.1&sni=tala.sap-lotmarx.ir&fp=chrome#@config_NG
-vless://d2fe0660-71fa-4f4b-9dd0-24ba012ea04e@ci1.navilo.ir:2096/?type=tcp&path=/&host=fast.com&headerType=http&security=none#@config_NG
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@89.116.46.68:443?path=/tsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&type=ws&allowInsecure=0&sni=octopusss4.com#@config_NG
-trojan://Masir_Sefid@84.234.31.111:2083?security=reality&pbk=03be_-tMiVFxrLwXO7TMr4HTN4o68ai5Vd5Y2HeIgBQ&headerType=none&fp=chrome&spx=/hneyujFQP0tu4bn&type=tcp&sni=store.steampowered.com&sid=d67d2e36#@config_NG
+vless://8eaf5413-3d90-456d-b348-5acedda32c50@confi.sdfklsdflkj.shop:80?security=reality&encryption=none&pbk=he77TJz6fWN6PRCAF-l4RyAVcWlEgzI9Yetccc-tWAw&headerType=none&fp=chrome&spx=/ypFPinnn2Bg4Yq4&type=tcp&sni=www.oracle.com&sid=302c#@Config_NG
 vless://Telegram-ipV2Ray-hum@www.speedtest.net:80?encryption=none&host=c.4.www.speedtest.net.zula.ir.zemestanil.iR.&path=%2FTelegram-ipV2Ray%3Fed%3D2048&security=none&type=httpupgrade# | VLESS | @v2ray1_ng | US | 01
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=randomized&host=iRaNSofTwAre85985611.PaGes.Dev&path=%2F3ixeZxIuzmrYVV6J%3Fed%3D2560&security=tls&sni=iRANSOFTWare85985611.PaGes.dEV&type=ws# | VLESS | @v2ray1_ng | US | 02
 vless://--V2RAXX@www.parspack.com:8080?encryption=none&host=WwW.vaRzesh3.Com.Ftp.debian.Org.www.speedtest.net.tabnak.org.&path=%2FV2raxx%3Fed&security=none&type=ws# | VLESS | @v2ray1_ng | US | 03
