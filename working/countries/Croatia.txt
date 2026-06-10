@@ -1,3 +1,5 @@
+vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@46.183.184.60:443?fp=chrome&host=linek.perry.us.kg&path=/read&security=tls&sni=linek.perry.us.kg&type=ws#HR-@VPNine1
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@46.183.184.64:989#%F0%9F%87%AD%F0%9F%87%B7HR-46.183.184.64-7513
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@46.183.184.61:989#%F0%9F%87%AD%F0%9F%87%B7HR-46.183.184.61-7514
+vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@46.183.184.60:443?fp=chrome&host=linek.perry.us.kg&path=/read&security=tls&sni=linek.perry.us.kg&type=ws#HR_766_@Surfboardv2ray
 vless://8346adf1-76ff-41d6-8ca4-044c817a3ec9@5.181.2.112:7610?security=reality&sni=refersion.com&type=grpc&serviceName=mgrpcmn&fp=chrome&pbk=2wBPu3_o03KRu5ujEFZ9cgczdgiR2eLdJTo7ZfAAogo&sid=1923945e10a464a5# VL-GRPC-RLT  HR-5.181.2.112:7610
