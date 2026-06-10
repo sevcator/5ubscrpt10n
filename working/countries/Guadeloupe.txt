@@ -1,3 +1,2 @@
-vless://d0cfc134-447c-4c84-965a-ff5f827c9016@116.203.60.171:8080?security=none&type=tcp#Cpytel.gp-50.00GB
 vless://d0cfc134-447c-4c84-965a-ff5f827c9016@116.203.60.171:8080?security=none&type=tcp#Cpytel.gp-50.00GB%F0%9F%93%8A
 ss://d0cfc134-447c-4c84-965a-ff5f827c9016@116.203.60.171:8080?security=none&type=tcp#Cpytel.gp-50.00GB%F0%9F%93%8A

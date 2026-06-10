@@ -1,1 +1,2 @@
-vless://455cfdc6-9abf-4e40-863f-5ff6cc63457c@107.181.151.241:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FjcEZNQ8t5E4R04_11T6ghsOutdqwKKrelkuadakoQg&security=reality&sid=18e4d2d21241&sni=www.microsoft.com&type=tcp#%5B%F0%9F%87%AB%F0%9F%87%AE%5D%20%5Bvl-re-ra%5D%20%5B260331-013549.936%5D
+vless://c357fdf5-1c83-491f-b8d0-237741344fee@blubank.ir:80?path=/&security=none&encryption=none&host=po.masterdadeh.ir&type=ws#more : @Qara_atayi || bluebank re-spoof
+vless://fce343d5-188f-4a5a-a508-830f39090909@blubank.ir:80?path=/&security=none&encryption=none&host=s3.tehranionliine.ir&type=ws#more : @Qara_atayi || bluebank re-spoof 2
