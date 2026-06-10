@@ -1,2 +1,2 @@
 vless://9c04338e-99e4-4d7a-b829-bcbd94bd68c0@2.27.26.140:443?encryption=none&type=tcp&security=reality&headerType=none&sni=aq.cdn-global.pro&fp=chrome&allowInsecure=1&pbk=HKkU-5UanGjWdmX8E-EGulXMk1BnidkFsVveyyOlTg8&sid=90f9d05bf95cb335&spx=/&flow=xtls-rprx-vision#@V2VODKA_A  Antarctica
-vless://9c04338e-99e4-4d7a-b829-bcbd94bd68c0@2.27.26.140:443?encryption=none&type=tcp&security=reality&headerType=none&sni=aq.cdn-global.pro&fp=chrome&allowInsecure=1&pbk=HKkU-5UanGjWdmX8E-EGulXMk1BnidkFsVveyyOlTg8&sid=90f9d05bf95cb335&spx=/&flow=xtls-rprx-vision#AQ_2187_@Surfboardv2ray
+vless://9c04338e-99e4-4d7a-b829-bcbd94bd68c0@2.27.26.140:443?sni=aq.cdn-global.pro&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%A6%F0%9F%87%B6AQ_1%7C2.6MB/s
