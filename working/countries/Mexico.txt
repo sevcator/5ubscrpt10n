@@ -2,15 +2,13 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YzMxYTY3YjQxYjE4YzI2@89.223.88.33:11201?not
 trojan://PtRV8to08i8FMsY.Uw7=yMuIaR3eVTGmvA@149.104.87.182:443?allowInsecure=1&sni=www.jewelapp.click#%3E%3E%40v2nodes%3A%3AMX
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@190.103.179.23:989#%F0%9F%87%B2%F0%9F%87%BDMX-190.103.179.23-3664
 vmess://eyJwcyI6ICJcdWQ4M2NcdWRkZjJcdWQ4M2NcdWRkZmQgY29ubmVjdG9uLW14MSIsICJhZGQiOiAibXgxLmNvbm5lY3Rvbi5zdXJmIiwgInBvcnQiOiAiNDQzIiwgImlkIjogImY2MWZiNDk0LTUyMzMtNDE5ZS04NDNkLTE1NjBmNGVhYzY2NyIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJteDEuY29ubmVjdG9uLnN1cmYiLCAic25pIjogIm14MS5jb25uZWN0b24uc3VyZiIsICJwYXRoIjogInZtZXNzIiwgInRscyI6ICJ0bHMiLCAiYWxwbiI6ICJoMixodHRwLzEuMSIsICJhbGxvd0luc2VjdXJlIjogZmFsc2UsICJ2MiI6ICIyIiwgInByb3RvY29sIjogInZtZXNzIn0=
-vless://394f6981-a782-4779-9a85-e6cf22935d93@121.127.43.215:8443?encryption=none&security=tls&sni=qro-mx-01.fromblancwithlove.com&type=tcp#MX_757_@Surfboardv2ray
-vless://b4a10cb3-9835-4027-a5d5-9404ec7b1e4e@148.223.138.11:443?encryption=none&security=tls&sni=us2.wxgqlfx.xyz&type=ws&host=us2.wxgqlfx.xyz&path=/TG@VPNine1&fp=chrome&alpn=http/1.1#MX_2561_@Surfboardv2ray
+vless://394f6981-a782-4779-9a85-e6cf22935d93@121.127.43.215:8443?encryption=none&security=tls&sni=qro-mx-01.fromblancwithlove.com&type=tcp#MX_809_@Surfboardv2ray
 trojan://3747000103274291200@grateful-glowworm.treefrog761.one:443#Mexico
 trojan://3747000103274291200@216.238.77.127:443?peer=grateful-glowworm.treefrog761.one#Mexico
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@190.103.179.23:989#%F0%9F%87%B2%F0%9F%87%BDMX-190.103.179.23-0779
-vless://b4a10cb3-9835-4027-a5d5-9404ec7b1e4e@148.223.138.11:443?encryption=none&security=tls&sni=us2.wxgqlfx.xyz&type=ws&host=us2.wxgqlfx.xyz&path=/TG@VPNine1&fp=chrome&alpn=http/1.1#MX-@VPNine1
 trojan://PtRV8to08i8FMsY.Uw7=yMuIaR3eVTGmvA@149.104.87.182:443?sni=www.jewelapp.click&path=%2f#%f0%9f%87%b2%f0%9f%87%bd%20MX%201
 trojan://PtRV8to08i8FMsY.Uw7=yMuIaR3eVTGmvA@149.104.87.182:443?security=tls&sni=www.jewelapp.click&fp=chrome&type=tcp&headerType=none&path=%2f#%f0%9f%87%b2%f0%9f%87%bd%20MX%202
 trojan://PtRV8to08i8FMsY.Uw7=yMuIaR3eVTGmvA@149.104.87.182:443?sni=www.jewelapp.click&fp=chrome&type=tcp&path=%2f#%f0%9f%87%b2%f0%9f%87%bd%20MX%203
 trojan://PtRV8to08i8FMsY.Uw7=yMuIaR3eVTGmvA@149.104.87.182:443?sni=www.jewelapp.click&type=tcp&path=%2f#%f0%9f%87%b2%f0%9f%87%bd%20MX%204
-trojan://PtRV8to08i8FMsY.Uw7=yMuIaR3eVTGmvA@149.104.87.182:443?security=tls&sni=www.jewelapp.click#[openproxylist.com] trojan-MX
+trojan://PtRV8to08i8FMsY.Uw7=yMuIaR3eVTGmvA@149.104.87.182:443?allowInsecure=1&security=tls&sni=www.jewelapp.click#[openproxylist.com] trojan-MX
 vmess://eyJwcyI6ICJcdWQ4M2NcdWRkZWFcdWQ4M2NcdWRkZjgtXHU2YjI3XHU2ZDMyLW14MS52MnJheXNlcnYuY29tIiwgIlx1NTE0ZFx1OGQzOVx1OGJhMlx1OTYwNVx1NWMzZFx1NTcyOGh0dHBzIjogIiIsICJhZGQiOiAibXgxLnYycmF5c2Vydi5jb20iLCAicG9ydCI6ICI4MCIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiMDFlMTU1NGUtYWViZi00OWU1LWFjMzMtYzEzMTU1ODQwYTVkIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgInRscyI6ICJmYWxzZSIsICJza2lwLWNlcnQtdmVyaWZ5IjogInRydWUiLCAibmV0IjogIndzIiwgIndzLW9wdHMiOiAiIiwgInBhdGgiOiAiL3NzaG9jZWFuIiwgImhlYWRlcnMiOiAiIiwgImhvc3QiOiAibXgxLnYycmF5c2Vydi5jb20iLCAidWRwIjogInRydWUifQ==
