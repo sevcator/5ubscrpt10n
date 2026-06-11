@@ -1,3 +1,5 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2dklBR2d4MUpJRzZmY3Y1@40.123.241.140:443#ZA-@VPNine1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzam9uWmN4dWl2SmF4MXVy@40.123.241.140:443#ZA-@VPNine1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#%3E%3E%40FOX_VPN66%3A%3AZA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#%F0%9F%87%BF%F0%9F%87%A6ZA-102.37.156.224-0111
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233#%F0%9F%87%BF%F0%9F%87%A6ZA-102.133.165.160-0113
@@ -7,14 +9,8 @@ trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@212.90.123.130:28443?security=tls#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6bFRtbjVxcmlUdEJ0RHZj@20.164.211.148:443#%F0%9F%87%BF%F0%9F%87%A6ZA-20.164.211.148-4331
 vmess://ewogICAgImFkZCI6ICIxNDAuOTkuMTU3Ljg2IiwKICAgICJhaWQiOiA2NCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL3BhdGgvMTY4OTkzNTI0MzAyNyIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4e/8J+HplpBLTE0MC45OS4xNTcuODYtODA3MyIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 vmess://eyJwb3J0IjoiMzQ0OTciLCJmcCI6InJhbmRvbWl6ZWQiLCJhbHBuIjoiaDIsaHR0cFwvMS4xIiwibmV0IjoidGNwIiwiYWRkIjoidHRsLnVuaXF1ZTY5LmNvbSIsInR5cGUiOiJodHRwIiwicGF0aCI6IlwvQEhvc3NlaW5TdG9yZV9aYVwvQE5FS09fWmEiLCJzbmkiOiJ0dGwudW5pcXVlNjkuY29tIiwicHMiOiIlNDBIb3NzZWluWnRvcmVfWmEiLCJpZCI6Ijg2MGExMjk1LTBkODEtNDAzYy1hMTc5LTk3ZjM5NjQzNzgwOSIsInNjeSI6IiIsInRscyI6InRscyJ9
-vless://2aed6a64-0cf7-0003-acd5-b75774c8cfa3@192.142.12.67:443?encryption=none&type=tcp&security=reality&sni=linkvault.fyi&fp=chrome&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&flow=xtls-rprx-vision#ZA_670_@Surfboardv2ray
-vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@139.84.235.99:443?host=linek.perry.us.kg&path=/ep/tech&security=tls&sni=linek.perry.us.kg&type=ws#ZA_781_@Surfboardv2ray
-vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@139.84.236.69:443?host=linek.perry.us.kg&path=/vip&security=tls&sni=linek.perry.us.kg&type=ws#ZA_782_@Surfboardv2ray
-vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@156.38.157.171:2053?host=linek.perry.us.kg&path=/out&security=tls&sni=linek.perry.us.kg&type=ws#ZA_783_@Surfboardv2ray
-vless://cbc9f9be-bd9c-0003-8439-ec606ea4803f@192.142.12.1:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&sni=gifs-collection.fyi&echfq=none#ZA_2886_@Surfboardv2ray
-vless://cbc9f9be-bd9c-0003-8439-ec606ea4803f@192.142.12.1:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&sni=gifs-collection.fyi&echfq=none#ZA_2887_@Surfboardv2ray
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@41.203.4.34:989#%F0%9F%87%BF%F0%9F%87%A6ZA-41.203.4.34-0751
-ss://YWVzLTEyOC1nY206NjJjNGY0YTctNTI4OS00YTBmLTk4ZjAtNDA3ZGE4MTAzZGMw@didiaosanwan.fkfkd.cn:11696#//South Africa/Johannesburg
+ss://YWVzLTI1Ni1nY206RldyWGN4UFpqSnhBTjg5eExncVkzQWNw@82.102.26.117:44236#//South Africa/Johannesburg
 vmess://eyJ2IjogIjIiLCAicHMiOiAiUmVsYXlf8J+Hv/Cfh6ZaQS3wn4e68J+HuFVTXzE4MCIsICJhZGQiOiAiMTU2LjI1MS4xMzUuMTEiLCAicG9ydCI6IDUzMzAyLCAiYWlkIjogNjQsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCJ9
 vmess://eyJ2IjogIjIiLCAicHMiOiAiUmVsYXlf8J+Hv/Cfh6ZaQS3wn4e68J+HuFVTXzE5NTkiLCAiYWRkIjogIjE1Ni4yNTEuMTM1LjExIiwgInBvcnQiOiA1MzMwMiwgImFpZCI6IDY0LCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQifQ==
 vmess://eyJ2IjogIjIiLCAicHMiOiAiUmVsYXlf8J+Hv/Cfh6ZaQS3wn4ez8J+HsU5MXzE4ODEiLCAiYWRkIjogIjE1Ni4yMjUuNjcuMjExIiwgInBvcnQiOiA0NjQ2NCwgImFpZCI6IDY0LCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICIzY2E5MTJkYS02YWMyLTQxOGYtYjljZi00NWI2ZjY5NDU3OWIifQ==

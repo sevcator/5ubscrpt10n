@@ -3,4 +3,4 @@ vmess://eyJhZGQiOiI0NS45Mi45My4xODQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiIiLCJp
 vmess://eyJhZGQiOiAiNDUuMTIuMzAuNTgiLCAiYWlkIjogIjAiLCAiaG9zdCI6ICJiaWxpcC5nb3Zlcm1lbnRjby5zcGFjZSIsICJpZCI6ICJjZjlhMDAxYi01MDI1LTQ3OTAtOWMyZS0wOWI3OTljNWZjYzciLCAibmV0IjogIndzIiwgInBhdGgiOiAiQHYycmF5bmcxNCIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJAdjJyYXkyNCBcdTI1YjcgUm9tYW5pYSBcdWQ4M2NcdWRkZjdcdWQ4M2NcdWRkZjQiLCAic25pIjogImJpbGlwLmdvdmVybWVudGNvLnNwYWNlIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
 trojan://3747000103274291200@89.39.70.207:443?peer=sunny-jackal.insect388.motorcycles#Romania
 vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.243:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=sub.sbrf-cdn342.ru&fp=qq#Romania
-trojan://humanity@104.16.174.12:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#/Romania
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.168:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn7-09.vk-cdnvideo.com#/Romania
