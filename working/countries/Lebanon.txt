@@ -1,1 +1,1 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.110.96.142:443?allowInsecure=0&sni=sni.latonyamadeline.ndjp.net&type=ws&host=sni.latonyamadeline.ndjp.net&path=/?ed=2560fp=chrome&security=tls#LB_speednode_0036
+vless://0a12381a-e241-4b63-a03c-1a5a45a95977@213.165.56.102:443?allowInsecure=0&sni=freede.aiage.work&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#LB_speednode_0004
