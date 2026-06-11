@@ -11,4 +11,3 @@ vless://6e76f92f-5005-42d8-8c66-ea7ffde3168a@193.233.202.7:443?security=reality&
 vless://8bbf020e-653f-4a82-9900-1214e4e37dab@45.91.55.232:7443?type=tcp&security=reality&sni=rutube.ru&fp=chrome&flow=xtls-rprx-vision&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=be0ce047#MD_1698_@Surfboardv2ray
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@95.164.22.239:2003?allowInsecure=0&sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=/?ed=2560fp=chrome&security=tls#15|MD_speednode_0032
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@95.164.22.239:2003?allowInsecure=0&sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=/?ed=2560fp=chromefp=chrome&security=tls#15|MD_speednode_0033
-vless://838e036b-f229-480b-b0ef-86b1dc711add@193.233.202.1:443?type=tcp&security=reality&fp=chrome&pbk=RCp37oAO4E30SKBraaFaeUXeqvLGS7yH40VHl5a_6RE&sid=87ab&sni=yahoo.com&spx=/#[openproxylist.com] vless-MD
