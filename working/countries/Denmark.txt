@@ -1,11 +1,7 @@
 ss://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?encryption=none&security=none&type=ws&host=45.148.31.0&path=%2F#%F0%9F%87%A9%F0%9F%87%B0Denmark+-%3E+%F0%9F%87%A9%F0%9F%87%B0Denmark+%E2%9A%A1@DeamNet_Proxy
 vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?encryption=none&security=none&type=ws&host=45.148.31.0&path=%2F#%F0%9F%87%A9%F0%9F%87%B0Denmark+-%3E+%F0%9F%87%A9%F0%9F%87%B0Denmark+%E2%9A%A1@DeamNet_Proxy
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.36.27.94:989#%F0%9F%87%A9%F0%9F%87%B0DK-192.36.27.94-3755
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.36.27.116:989#%F0%9F%87%A9%F0%9F%87%B0DK-192.36.27.116-7771
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.36.27.94:989#%F0%9F%87%A9%F0%9F%87%B0DK-192.36.27.94-3781
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.36.27.116:989#%F0%9F%87%A9%F0%9F%87%B0DK-192.36.27.116-7800
 vmess://eyJwcyI6ICJcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZjAgY29ubmVjdG9uLWRrMSIsICJhZGQiOiAiZGsxLmNvbm5lY3Rvbi5zdXJmIiwgInBvcnQiOiAiNDQzIiwgImlkIjogImE4MDhkZWZiLWE2MDAtNGFiYy1hNDg5LWYzZjUwMGMzYjkwMSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJkazEuY29ubmVjdG9uLnN1cmYiLCAic25pIjogImRrMS5jb25uZWN0b24uc3VyZiIsICJwYXRoIjogInZtZXNzIiwgInRscyI6ICJ0bHMiLCAiYWxwbiI6ICJoMixodHRwLzEuMSIsICJhbGxvd0luc2VjdXJlIjogZmFsc2UsICJ2MiI6ICIyIiwgInByb3RvY29sIjogInZtZXNzIn0=
-vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@89.28.236.192:8443?host=linek.perry.us.kg&path=/programs&security=tls&sni=linek.perry.us.kg&type=ws#DK_750_@Surfboardv2ray
-vless://6cb2af25-9d59-43bd-a8fa-682e4898e081@dk.maximum-vpn.com:443?security=reality&encryption=none&pbk=roCvVZ0atQ-_68OSDPuknzHchm6djGzQB4Ydl5n31Fg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com#DK_1237_@Surfboardv2ray
-vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?encryption=none&security=none&type=ws&host=join---appsoonervpn---join---appsoonervpn---join---appsoonervpn---join---appsoonervpn&path=/#DK_3041_@Surfboardv2ray
-vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?path=/&security=none&encryption=none&host=45.148.31.0&type=ws#DK_3043_@Surfboardv2ray
-vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?security=&encryption=none&type=ws&sni=Join---V2rayBaaz---Join---V2rayBaaz---Join---V2rayBaaz#DK_3044_@Surfboardv2ray
-vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?type=ws&encryption=none&path=/&host=join---appsoonervpn---join---appsoonervpn---join---appsoonervpn---join---appsoonervpn&fp=chrome&alpn=http/1.1&headerType=none&allowInsecure=1#DK_3045_@Surfboardv2ray
+vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?encryption=none&security=none&type=ws&host=join---appsoonervpn---join---appsoonervpn---join---appsoonervpn---join---appsoonervpn&path=/#DK_2928_@Surfboardv2ray
+vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?path=/&security=none&encryption=none&host=45.148.31.0&type=ws#DK_2929_@Surfboardv2ray
