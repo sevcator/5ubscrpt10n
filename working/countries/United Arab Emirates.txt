@@ -1,5 +1,4 @@
-vless://52f7f89a-9b85-4a89-815e-38db146b81f4@sv3.zarghamweb.ir:38777?security=tls&type=ws&headerType=&path=/&host=parsi.zarghamportal.ir&sni=parsi.zarghamportal.ir&fp=chrome&alpn=h2,http/1.1#AE-@VPNine1
-vless://853102af-d2e5-4e70-b685-315a36565acc@gr1.milas.click:443?type=grpc&fp=chrome#AE-@VPNine1
+vless://0bb6dff2-0029-4b81-8c81-4fc70fae1ed9@eng14.netliberated.org:443?security=reality&amp%3Bencryption=none&amp%3Bpbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&amp%3Bfp=chrome&amp%3Btype=tcp&amp%3Bflow=xtls-rprx-vision&amp%3Bsni=www.halfords.com#%F0%9F%87%A6%F0%9F%87%AA%20AE%20%7C%20VLESS%20%7C%20%40filterk0sh%20%231
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@109.169.72.249:809#%F0%9F%87%A6%F0%9F%87%AAAE-109.169.72.249-2155
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@109.169.72.249:806#%F0%9F%87%A6%F0%9F%87%AAAE-109.169.72.249-2244
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@109.169.72.249:810#%F0%9F%87%A6%F0%9F%87%AAAE-109.169.72.249-2535
@@ -18,6 +17,8 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+HpvCfh6pfQUVf6Zi/6IGU6YWLLT7wn4es8J+Hp19HQl/oi7Hl
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@181.214.1.242:2053?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#%f0%9f%87%a6%f0%9f%87%aa+AE+%e9%98%bf%e8%81%94%e9%85%8b+74
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@181.214.1.234:2087?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#%f0%9f%87%a6%f0%9f%87%aa+AE+%e9%98%bf%e8%81%94%e9%85%8b+6
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@94.140.0.157:443?encryption=none&security=tls&type=ws&sni=juzibaipiao.5112233.xyz&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#%F0%9F%87%A6%F0%9F%87%AA_AE_%E9%98%BF%E8%81%94%E9%85%8B_30
+vless://52f7f89a-9b85-4a89-815e-38db146b81f4@sv3.zarghamweb.ir:38777?security=tls&type=ws&headerType=&path=/&host=parsi.zarghamportal.ir&sni=parsi.zarghamportal.ir&fp=chrome&alpn=h2,http/1.1#AE-@VPNine1
+vless://853102af-d2e5-4e70-b685-315a36565acc@gr1.milas.click:443?type=grpc&fp=chrome#AE-@VPNine1
 vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@ip2.feywebsite.ir:2096?sni=hhh.hozheen.ir&type=ws&host=hhh.hozheen.ir&path=/ws?ed=2560fp=chrome&security=tls#[openproxylist.com] vless-AE
 trojan://duaR-NjjdGGLeZ+W6j=3NY46vZW+zyMD1z@89.125.95.152:11300?security=tls&sni=www.toughapp.click&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=0#/United Arab Emirates
 vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HpvCfh6pBRS0xMDMuMTUyLjE0Ljg1LTg3MjAiLCAiYWRkIjogInVhZS5pZ2dmYXN0d2ViLmNvbSIsICJwb3J0IjogMzYyMDAsICJhaWQiOiAyLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjllMDgyMmMyLTc1ZWEtNGQzMC04ODk1LTlmZTU5ZGE5OTM1YyIsICJzbmkiOiAiIiwgInBhdGgiOiAiLyJ9

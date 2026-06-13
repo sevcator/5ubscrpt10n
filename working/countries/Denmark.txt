@@ -1,5 +1,6 @@
 ss://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?encryption=none&security=none&type=ws&host=45.148.31.0&path=%2F#%F0%9F%87%A9%F0%9F%87%B0Denmark+-%3E+%F0%9F%87%A9%F0%9F%87%B0Denmark+%E2%9A%A1@DeamNet_Proxy
 vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?encryption=none&security=none&type=ws&host=45.148.31.0&path=%2F#%F0%9F%87%A9%F0%9F%87%B0Denmark+-%3E+%F0%9F%87%A9%F0%9F%87%B0Denmark+%E2%9A%A1@DeamNet_Proxy
+trojan://v2raydia@140.248.69.255:443?mode=auto&path=/v2raydia&security=tls&extra={"xPaddingBytes":"100-1000"}&insecure=1&host=khre.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=1&sni=api.imgur.com#DK-@VPNine1
 vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?path=/&security=none&encryption=none&type=ws#[Kia_net]  DK-1
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.36.27.94:989#%F0%9F%87%A9%F0%9F%87%B0DK-192.36.27.94-3784
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.36.27.116:989#%F0%9F%87%A9%F0%9F%87%B0DK-192.36.27.116-7801
