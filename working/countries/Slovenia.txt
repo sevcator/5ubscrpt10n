@@ -1,4 +1,4 @@
 vless://6897c181-24b1-4880-8660-e6c5c7ee13c7@92.60.78.221:443?security=reality&amp%3Bencryption=none&amp%3Bpbk=pkIWxbuPAasjatPaHnAaTnCxVj1RkDFsJEWpLUTOcWY&amp%3Bfp=chrome&amp%3Btype=tcp&amp%3Bflow=xtls-rprx-vision&amp%3Bsni=www.tradingview.com&amp%3Bsid=9917d2350096#%F0%9F%87%B8%F0%9F%87%AE%20SI%20%7C%20VLESS%20%7C%20%40filterk0sh%20%231
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@192.71.244.150:990#SI%20%20ROSE150
-vless://9e5201b2-5061-413b-b310-36cc6ec590c6@92.42.201.25:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=AYWvVCObGJ_5TnNMGj4z_UDSDzMJ3IcoRgIBCAeUWFs&sni=ads.x5.ru#SI_2181_@Surfboardv2ray
+vless://9e5201b2-5061-413b-b310-36cc6ec590c6@92.42.201.25:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=AYWvVCObGJ_5TnNMGj4z_UDSDzMJ3IcoRgIBCAeUWFs&sni=ads.x5.ru#SI_2246_@Surfboardv2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzaUY5OHhCTDJ2MWk=@135.181.114.242:8478#//South Korea/Ansan-si
