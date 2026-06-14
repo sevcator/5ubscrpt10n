@@ -1,2 +1,2 @@
 trojan://Z3_=ewk_+l1U4OT4usQ5=o2vFfk95yfy1V@130.94.97.11:443?security=tls&sni=www.selectnet.click#%F0%9F%87%AE%F0%9F%87%B6IQ-130.94.97.11-0269
-vless://7b241232-208d-4d36-857e-913f91b044f4@uk.noooo.win:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=edge&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=api-6a20f558.noooo.win# IQ | 196.199.104.131
+vless://7b241232-208d-4d36-857e-913f91b044f4@196.199.104.131:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=api-6a20f558.noooo.win&brand=@Arvand_soul#IQ_1453_@Surfboardv2ray

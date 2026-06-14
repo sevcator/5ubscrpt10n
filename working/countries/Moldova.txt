@@ -8,6 +8,3 @@ vmess://ewogICAgImFkZCI6ICI5NC4xMzEuMTAuNSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0Ijog
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpETTAzOTVMVnF4eWw=@45.145.0.31:51348#%F0%9F%87%B2%F0%9F%87%A9MD-45.145.0.31-7582
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@95.164.22.239:2003?allowInsecure=0&sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=/?ed=2560fp=chrome&security=tls#15|MD_speednode_0032
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@95.164.22.239:2003?allowInsecure=0&sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=/?ed=2560fp=chromefp=chrome&security=tls#15|MD_speednode_0033
-vless://3314aee8-9420-440c-bc3c-a0daa545517b@md.riotvpn.eu:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=avatars.mds.yandex.net&sid=b76dcf9e1183fe1b#MD-@VPNine1
-vless://3314aee8-9420-440c-bc3c-a0daa545517b@md.riotvpn.eu:6443?mode=auto&path=/&security=reality&encryption=none&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&fp=chrome&type=xhttp&sni=avatars.mds.yandex.net&sid=844352756c1fabba#MD-@VPNine1
-vless://3314aee8-9420-440c-bc3c-a0daa545517b@md.riotvpn.eu:8443?mode=multi&security=reality&encryption=none&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&fp=chrome&type=grpc&serviceName=grpc-yandex&sni=avatars.mds.yandex.net&sid=e67fb918ed6b9ffb#MD-@VPNine1
