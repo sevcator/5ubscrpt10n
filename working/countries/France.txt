@@ -539,8 +539,7 @@ vless://a6349c3f-5234-4821-80b4-d99b33f0924d@fr-gt-01.com:8443?flow=xtls-rprx-vi
 vless://a6349c3f-5234-4821-80b4-d99b33f0924d@fr-gt-01.com:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&security=reality&sid=f34818a561dfd1fe&sni=storage.yandex.net&type=tcp#[openproxylist.com] vless-FR
 vmess://eyJhZGQiOiI1MS4yNTQuMTMzLjE1MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZnI1Lm5pZWtvdGluLmRlIiwiaWQiOiJhYzhiY2Y1ZS1iYjU4LTRlOGItYjRlNC01ZmRlYTAxMGE2YzYiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3ZtZXNzIiwicG9ydCI6IjgwIiwicHMiOiJcdWQ4M2NcdWRkZWJcdWQ4M2NcdWRkZjdbb3BlbnByb3h5bGlzdC5jb21dIHZtZXNzLUZSIiwic2N5IjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.87:45619?security=tls&sni=fr.01.naiun.bilibili.com#[openproxylist.com] trojan-FR
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.3:45619?security=tls&sni=fr.01.naiun.bilibili.com#[openproxylist.com] trojan-FR
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.83:45619?security=tls&sni=fr.01.naiun.bilibili.com#[openproxylist.com] trojan-FR
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.92:45619?security=tls&sni=fr.01.naiun.bilibili.com#[openproxylist.com] trojan-FR
 trojan://(VuRWFIPsAhP@13.38.109.97:14828?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#FR|GithubTrojanLinks
 trojan://jESPFD2DoPwn@13.38.44.244:14796?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#FR|GithubTrojanLinks
 vless://7b4b7d4e-7a53-4c0c-bd8e-9f3b1b2c7f21@51.91.158.180:443?security=reality&encryption=none&pbk=wwH_L9FmhJ7AyOBKm9J8YGKdVo1G-QlDEuw5-s3eGEM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=9a4c7d2f8e1b6a3c#/France
