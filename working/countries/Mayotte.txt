@@ -1,4 +1,9 @@
 trojan://8r<[9'l6hAO#8ZQi@104.16.7.70:443?security=tls&sni=Koma-YT.PAGeS.Dev&insecure=1&allowInsecure=1&type=ws&host=Koma-YT.PAGeS.Dev&path=/tr#@SheriffNet
+trojan://8r<[9'l6hAO#8ZQi@104.194.156.228:8443?security=tls&sni=Koma-YT.PAGeS.Dev&typeb=ws&path=/trTelegram+@WangCai2&Host=Koma-YT.PAGeS.Dev#
+trojan://8r<[9'l6hAO#8ZQi@109.248.162.47:2053?security=tls&sni=Koma-YT.PAGeS.Dev&tyjbpe=ws&path=/trTelegram+@WangCai2&Host=Koma-YT.PAGeS.Dev#
+trojan://8r<[9'l6hAO#8ZQi@113.30.188.2:2053?security=htls&sni=Koma-YT.PAGeS.Dev&btyjpe=ws&path=/trTelegram+@WangCai2&Host=Koma-YT.PAGeS.Dev#j
+trojan://8r<[9'l6hAO#8ZQi@13b8.124.50.47:8443?security=tls&snggi=Koma-YT.PAGeS.Dev&typne=ws&path=/trTelegram+@WanjgCai2&Host=Koma-YT.PAGeS.Dev#71114 | Telegram = t.me/SOSkeyNET
+trojan://8r<[9'l6hAO#8ZQi@b109.248.162.47:2053?security=tls&sni=Koma-YT.PAGeS.Dev&tyjbpe=ws&patfth=/trTelegram+@WangCai2&Host=Koma-YT.PAGeS.Dev#71113 | Telegram = t.me/SOSkeyNET
 trojan://8r<[9'l6hAO#8ZQi@104.194.156.228:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram#DE-@VPNine1
 trojan://8r<[9'l6hAO#8ZQi@109.248.162.47:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram#NL-@VPNine1
 trojan://8r<[9'l6hAO#8ZQi@113.30.188.2:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram#NL-@VPNine1
