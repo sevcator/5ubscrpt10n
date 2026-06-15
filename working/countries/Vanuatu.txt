@@ -1,1 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRkdWcjAxOTFVT09PdU5PZWVVVklL@193.233.127.197:20528#Amsterdam,%20NH,%20The%20Netherlands
+vless://598160c6-982d-4b2d-8218-c8ab745f7677@45.206.0.32:8443?security=reality&encryption=none&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=37772edff71b4167# @config_NH
