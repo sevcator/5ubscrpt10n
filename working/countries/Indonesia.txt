@@ -10,16 +10,27 @@ vmess://eyJhZGQiOiI1Ny4xMjkuMjguNjUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9z
 vmess://eyJhZGQiOiI0Ni4yNTAuMjQzLjU2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImE3NWYzZjk1LWFkNGUtNDQ5OC1mYzcyLWRkNzQwZGQwMmJmYyIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTAzOTQiLCJwcyI6IkNoYW5uZWwgaWQ6IEBTaGFkb3dQcm94eTY2IPCfh6zwn4enIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiIxNS4yMDQuMTEuMTkwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjVkN2JmOWUzLTQxNWMtNDBmMy1jNjZkLWE1NGVhMGZkODYwZSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTUzNjEiLCJwcyI6IkNoYW5uZWwgaWQ6IEBTaGFkb3dQcm94eTY28J+HuvCfh7giLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiI1MS4zOC42NC4yMDkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiN2RhNDU3ZGEtZWQwZi00MzdkLWM4MWQtNmMzNTg4NWJiZWEzIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0NDAyMyIsInBzIjoiQ2hhbm5lbCBpZDogQFNoYWRvd1Byb3h5Njbwn4es8J+HpyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VTNwc1Iwc1F1UXhXWG9CSEI0S1REM1lhY3dRd1MyMVh2U0V5OQ@45.129.96.62:41348#Channel id: @ShadowProxy66 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyQ3BJZEF1MW9sd2NPZEdPTXJHNjM3bnNRdWRtRFhRV01MQ24wbw@66.70.190.236:41344#Channel id: @ShadowProxy66 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.58.239:8388#Channel id: @ShadowProxy66 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@20.117.161.38:443#Channel id: @internet_azad_2026 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaejV3Y1hpYzU4RmlxWW1Q@74.234.78.179:443#Channel id: @internet_azad_2026 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplenllSDIyaUdTMVVEZWV3NXp6YlRpbXFlY3JHQktTUzFJc0VxaA@185.246.153.12:31348#Channel id: @ShadowProxy66 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@38.135.24.131:443#Channel id: @ShadowProxy66 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@38.135.24.131:443#Channel id: @internet_azad_2026 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.182:8080#Channel id: @ShadowProxy66 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.182:8080#Channel id: @internet_azad_2026 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.208:8080#Channel id: @internet_azad_2026 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#Channel id: @ShadowProxy66 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.218:8080#Channel id: @ShadowProxy66 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.11:8080#Channel id: @ShadowProxy66 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.11:8080#Channel id: @internet_azad_2026 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080#Channel id: @internet_azad_2026 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.7:8080#Channel id: @internet_azad_2026 
+ss://YWVzLTEyOC1nY206bHZ4dWoxMXg4c2ZndDlndDZtamY@86.106.84.196:13263#Channel id: @ShadowProxy66 
 ss://YWVzLTI1Ni1nY206N051QjBZNW0zYU56a0tNS2xGb013a2lhanN1NkYzNmM5b2s0VktFWm5CND0@162.19.254.232:2083#Channel id: @internet_azad_2026 
 ss://YWVzLTI1Ni1nY206N051QjBZNW0zYU56a0tNS2xGb013a2lhanN1NkYzNmM5b2s0VktFWm5CND0@de5.taskflowhub.org:2083#Channel id: @internet_azad_2026 
+ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@15.204.254.187:12000#Channel id: @ShadowProxy66 
 ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@15.204.254.187:12000#Channel id: @internet_azad_2026 
 ss://YWVzLTI1Ni1nY206ZGFkYTEyMDM@18.169.183.101:80#Channel id: @internet_azad_2026 
 ss://YWVzLTI1Ni1nY206ZGFkYTEyMDM@3.27.212.11:80#Channel id: @internet_azad_2026 
@@ -28,17 +39,22 @@ ss://YWVzLTI1Ni1nY206ZGFkYTEyMDM@34.221.112.206:80#Channel id: @internet_azad_20
 trojan://A4u^p(_UR*F6@www.speedtest.net:443?path=/eyJqdW5rIjoidlhnMXN5OXFUSiIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560&security=tls&alpn=http/1.1&host=027.electrocellco-cf-027.workers.dev&fp=chrome&type=ws&sni=027.ELeCTroCelLco-CF-027.wORkERS.dEv#Channel id: @internet_azad_2026 
 trojan://A4u^p(_UR*F6@www.speedtest.net:443?path=/eyJqdW5rIjoidlhnMXN5OXFUSiIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=027.electrocellco-cf-027.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=027.ELeCTroCelLco-CF-027.wORkERS.dEv#Channel id: @ShadowProxy66 
 trojan://humanity@188.114.96.3:443?path=/assignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#Channel id: @internet_azad_2026 
+trojan://humanity@188.114.96.3:443?path=/assignment&security=tls&host=www.multiplydose.com&fp=chrome&type=ws&sni=www.multiplydose.com#Channel id: @internet_azad_2026 
 trojan://humanity@188.114.96.3:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#Channel id: @ShadowProxy66 
 trojan://humanity@188.114.96.3:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#Channel id: @ShadowProxy66 
 trojan://humanity@188.114.96.3:443?path=/assignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#Channel id: @ShadowProxy66 
 trojan://humanity@188.114.96.3:443?path=/assignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.gossipglove.com#Channel id: @ShadowProxy66 
 trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#Channel id: @internet_azad_2026 
+trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#Channel id: @internet_azad_2026 
 trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#Channel id: @ShadowProxy66 
 trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#Channel id: @ShadowProxy66 
 trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#Channel id: @ShadowProxy66 
 trojan://humanity@www.calmlunch.com:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.calmlunch.com#Channel id: @internet_azad_2026 
+trojan://humanity@www.calmlunch.com:443?path=/assignment&security=tls&host=www.calmlunch.com&type=ws#Channel id: @internet_azad_2026 
+trojan://humanity@www.calmlunch.com:443?path=/assignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#Channel id: @internet_azad_2026 
 trojan://humanity@www.calmlunch.com:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0#Channel id: @ShadowProxy66 
 trojan://humanity@www.calmlunch.com:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#Channel id: @ShadowProxy66 
+trojan://humanity@www.creationlong.org:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.creationlong.org#Channel id: @internet_azad_2026 
 trojan://humanity@www.creationlong.org:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#Channel id: @ShadowProxy66 
 trojan://humanity@www.gossipglove.com:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#Channel id: @ShadowProxy66 
 trojan://humanity@www.host-tracker.com:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#Channel id: @ShadowProxy66 
@@ -47,6 +63,7 @@ trojan://humanity@www.multiplydose.com:443?path=//assignment&security=tls&insecu
 trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#Channel id: @internet_azad_2026 
 trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#Channel id: @ShadowProxy66 
 trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&insecure=1&type=ws&allowInsecure=1#Channel id: @ShadowProxy66 
+trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&type=ws#Channel id: @internet_azad_2026 
 trojan://mitivpn@188.114.97.6:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&host=sdasdfgv.global.ssl.fastly.top.mitivpn-a.site&fp=chrome&type=ws&sni=global.fastly.com.mitivpn-a.site#Channel id: @internet_azad_2026 
 trojan://mitivpn@188.114.97.6:443?path=https://chatgpt.com&security=tls&alpn=http/1.1&host=mitivpn.de.ssl.global.fastly.net.mitivpn.site&fp=chrome&type=ws&sni=2.1.mitivpn.dee.srfsl.gleobal.fastl3y.n3et.mitivpn.site#Channel id: @internet_azad_2026 
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@www.parsvds.com:8080?path=/&security=none&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#Channel id: @internet_azad_2026 
