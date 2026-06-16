@@ -1,5 +1,5 @@
 vless://c24a32f1-b645-47da-98a3-1e7c713229c1@104.18.12.149:8880?path=/api&security=none&encryption=none&host=armenia.chatgpt.com.siasia.ir&type=httpupgrade#Armenia(@proSSH)
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@146.185.248.22:989#%F0%9F%87%A6%F0%9F%87%B2AM-146.185.248.22-8155
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@146.185.248.22:989#%F0%9F%87%A6%F0%9F%87%B2AM-146.185.248.22-8043
 vmess://eyJhZGQiOiAiMTg1LjE2Mi4yMjguMyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJsaWZlLnRudHNlcnZpY2Uuc2hvcCIsICJpZCI6ICIwYWJjMDA3NS1jZWNiLTRiODItZmRhZC1hYWY0YjliN2E0YTMiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjIwODYiLCAicHMiOiAiQHYycmF5MjQgXHUyNWI3IEFybWVuaWEgXHVkODNjXHVkZGU2XHVkODNjXHVkZGYyIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==
 vless://f64cab0a-75a4-44f1-b2f6-8ecc6c73c249@2.27.27.226:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=qoAuuFJ0eK1lAMHIqTt6LniY6qu1GIobrGthBcRHUXM&security=reality&sid=3a4453b8b46a18de&sni=am.buycloud.app&type=tcp#AM_3285_@Surfboardv2ray
 vless://f64cab0a-75a4-44f1-b2f6-8ecc6c73c249@2.27.27.226:443?security=reality&encryption=none&pbk=qoAuuFJ0eK1lAMHIqTt6LniY6qu1GIobrGthBcRHUXM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=am.buycloud.app&sid=3a4453b8b46a18de#AM_3286_@Surfboardv2ray

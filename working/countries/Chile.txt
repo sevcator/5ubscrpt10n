@@ -1,6 +1,8 @@
 vless://7270612b-49f6-4b04-999c-34d8263da767@108.162.195.45:443?encryption=none&host=picassooo.info&path=%2Faymdlws&security=tls&sni=picassooo.info&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ACL
 vless://7270612b-49f6-4b04-999c-34d8263da767@162.159.44.45:443?encryption=none&fp=chrome&host=picassooo.info&path=%2Faymdlws&security=tls&sni=picassooo.info&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ACL
 vless://7270612b-49f6-4b04-999c-34d8263da767@172.64.35.45:443?encryption=none&fp=chrome&host=picassooo.info&path=%2Faymdlws&security=tls&sni=picassooo.info&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ACL
+vless://7270612b-49f6-4b04-999c-34d8263da767@188.114.97.6:443?path=%2Faymdlws&security=tls&encryption=none&insecure=0&host=picassooo.info&type=ws&allowInsecure=0&sni=picassooo.info#%3E%3E%40ShadowsocksM%3A%3ACL
+vless://7270612b-49f6-4b04-999c-34d8263da767@199.181.197.46:443?path=%2Faymdlws&security=tls&encryption=none&insecure=0&host=picassooo.info&fp=chrome&type=ws&allowInsecure=0&sni=picassooo.info#%3E%3E%40ShadowsocksM%3A%3ACL
 vless://7270612b-49f6-4b04-999c-34d8263da767@cosmin.ns.cloudflare.com:443?encryption=none&fp=chrome&host=picassooo.info&path=%2Faymdlws&security=tls&sni=picassooo.info&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ACL
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@154.205.153.107:990#CL%20%20ROSE135
 vmess://eyJhZGQiOiAiMTcyLjY0LjE5NS44MCIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAiZjQ2N2Y0ZGEtMjIyNi00NDhkLWEzMGQtNDYzZWYxMDU0OGFjIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6IDgwODAsICJwcyI6ICJcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZjFDTF80Ml9AU3VyZmJvYXJkdjJyYXkiLCAidGxzIjogIiIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
