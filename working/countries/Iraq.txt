@@ -1,3 +1,2 @@
 trojan://bNpSPq25FqLYblE9xl_Zpaq43o1iEmrcOW@130.94.97.140:443?security=tls&sni=www.static-optimizer.click&path=%2f#%f0%9f%87%ae%f0%9f%87%b6%20IQ%201
 trojan://bNpSPq25FqLYblE9xl_Zpaq43o1iEmrcOW@130.94.97.140:443?security=tls&sni=www.static-optimizer.click&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=1#%f0%9f%87%ae%f0%9f%87%b6%20IQ%202
-vless://8d1803b9-f9ff-4c09-a6d0-aceb98c4a019@de.srv.anti-zapret.com:443?security=reality&encryption=none&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=de.srv.anti-zapret.com&sid=58fbcddfaae3ade9#/Iraq
