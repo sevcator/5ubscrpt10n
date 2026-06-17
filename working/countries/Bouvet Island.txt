@@ -1,1 +1,1 @@
-vless://ec6b78b3-2bf8-4fc0-b7f0-7a20f168d2d3@82.40.62.56:30882?security=&encryption=none&headerType=&type=tcp#Amir-bv614vqs3          https://82.40.62.56:2096/sub/utkkfzd4uwiif39i        
+vless://e8bf51de-efc9-42a4-be50-1a6bc3170c63@147.90.250.39:443?security=reality&encryption=none&pbk=ASjZbGJ9wz6iqDWTyzevzTsbWUze10gviGmIqAC0dQU&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nimbusmega-vault.ru&sid=5e3ab3ab228625#190Mb | RoyaleHosting BV
