@@ -27,33 +27,39 @@ vless://900ca7c5-6c69-4536-b0f8-efa4e3976016@51.79.89.68:443?type=tcp&encryption
 vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@151.101.65.57:80?encryption=none&security=none&type=xhttp&host=shangulin.global.ssl.fastly.net&path=/login&mode=auto#CA_1984_@Surfboardv2ray
 vless://InternetAzadRobot@fastly.com:80?encryption=none&security=none&type=xhttp&host=sv6tignal.global.ssl.fastly.net&path=/tofan&mode=auto#CA_138_@Surfboardv2ray
 vless://Telegram-Parsashonam-12@188.114.97.6:443?encryption=none&security=tls&sni=p4r34m.hendevaneh.sbs&insecure=0&allowInsecure=0&type=xhttp&host=p4r34m.hendevaneh.sbs&path=/p4r34m&mode=auto&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}#CA_2302_@Surfboardv2ray
+vless://dd777f39-2996-4269-b88f-0b64436d0274@23.227.60.12:2096?path=/&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Balpn=h2%2Chttp/1.1&amp%3Bhost=capitalnet.jokerv2ray.store&amp%3Bfp=firefox&amp%3Btype=ws&amp%3Bsni=joinchannel.jokerv2ray.store#%F0%9F%87%A8%F0%9F%87%A6%20CA%20%7C%20VLESS%20%7C%20%40jokerv2ray%20%231
+vless://dd777f39-2996-4269-b88f-0b64436d0274@23.227.60.12:2096?type=ws&amp%3Bpath=/&amp%3Bhost=capitalnet.sameasyou.sbs&amp%3Bsecurity=tls&amp%3Bfp=firefox&amp%3Balpn=h2%2Chttp/1.1&amp%3Bsni=joinchannel.sameasyou.sbs#%F0%9F%87%A8%F0%9F%87%A6%20CA%20%7C%20VLESS%20%7C%20%40jokerv2ray%20%232
+vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?path=/vless/&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Binsecure=0&amp%3Btype=ws&amp%3BallowInsecure=0#%F0%9F%87%A8%F0%9F%87%A6%20CA%20%7C%20VLESS%20%7C%20%40rez1vpn%20%231
 vless://89952144-8ad0-4af7-a334-940df81d820d@vpncustomize2.ddns.net:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=de.pablovpn.pw#%40v2rayng14+++%F0%9F%91%88%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85vless://64253262-ca33-4cc3-d80c-6788cd8a35a5@vpncustomize2.ddns.net:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=ru.verver.cam#%40v2rayng14+++%F0%9F%91%88%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85vless://7a232666-4978-4f2d-82e2-b8fc9431bce8@vpncustomize2.ddns.net:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=it.pablovpn.pw#%40v2rayng14+++%F0%9F%91%88%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85 
 vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fvless%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#%3E%3E%40configshub2%3A%3ACA
 vless://394f6981-a782-4779-9a85-e6cf22935d93@185.156.47.96:8443?encryption=none&security=tls&sni=yyz-ca-01.fromblancwithlove.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ACA
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#%F0%9F%87%A8%F0%9F%87%A6CA-149.22.95.183-0107
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHNXA2d3c0bzY3SEI=@108.181.118.10:8388#%F0%9F%87%A8%F0%9F%87%A6CA-108.181.118.10-0095
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#%F0%9F%87%A8%F0%9F%87%A6CA-149.22.95.183-0107
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@137.184.174.93:8080#%F0%9F%87%A8%F0%9F%87%A6CA-137.184.174.93-0077
 vmess://ewogICAgImFkZCI6ICIyMy4xNjIuMjAwLjIyNyIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2xpbmt2d3MiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+HqPCfh6ZDQS0yMy4xNjIuMjAwLjIyNy02NDAxIiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
 vmess://ewogICAgImFkZCI6ICIxMzQuMTk1LjE5OC4xNDciLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJpbm5hLmNmZCIsCiAgICAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2xpbmt2d3MiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+HqPCfh6ZDQS0xMzQuMTk1LjE5OC4xNDctNjQwMyIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 vmess://ewogICAgImFkZCI6ICIyMy4xNjIuMjAwLjIyNyIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4eo8J+HpkNBLTIzLjE2Mi4yMDAuMjI3LTAxMjYiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@134.195.198.95:8091#%F0%9F%87%A8%F0%9F%87%A6CA-134.195.198.95-0164
 vmess://ewogICAgImFkZCI6ICIxMzQuMTk1LjE5OC4xNDciLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJpbm5hLmNmZCIsCiAgICAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4eo8J+HpkNBLTEzNC4xOTUuMTk4LjE0Ny0wMTI0IiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@134.195.198.95:8091#%F0%9F%87%A8%F0%9F%87%A6CA-134.195.198.95-0164
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@51.161.118.38:801#%F0%9F%87%A8%F0%9F%87%A6CA-51.161.118.38-0054
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@51.161.118.38:812#%F0%9F%87%A8%F0%9F%87%A6CA-51.161.118.38-0053
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.183.126.173:443#%F0%9F%87%A8%F0%9F%87%A6CA-35.183.126.173-0172
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@15.223.5.86:443#%F0%9F%87%A8%F0%9F%87%A6CA-15.223.5.86-0173
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@137.184.174.93:8080#%F0%9F%87%A8%F0%9F%87%A6CA-137.184.174.93-0077
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@51.161.118.38:805#%F0%9F%87%A8%F0%9F%87%A6CA-51.161.118.38-0052
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@51.161.118.38:811#%F0%9F%87%A8%F0%9F%87%A6CA-51.161.118.38-0051
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@85.208.108.20:6379#%F0%9F%87%A8%F0%9F%87%A6CA-85.208.108.20-0197
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@85.208.108.60:8882#%F0%9F%87%A8%F0%9F%87%A6CA-85.208.108.60-0199
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@85.208.108.20:5601#%F0%9F%87%A8%F0%9F%87%A6CA-85.208.108.20-0200
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@85.208.108.18:5001#%F0%9F%87%A8%F0%9F%87%A6CA-85.208.108.18-0202
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@85.208.108.18:7001#%F0%9F%87%A8%F0%9F%87%A6CA-85.208.108.18-0205
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@51.161.118.38:801#%F0%9F%87%A8%F0%9F%87%A6CA-51.161.118.38-0054
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@85.208.108.20:7002#%F0%9F%87%A8%F0%9F%87%A6CA-85.208.108.20-0212
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@52.60.99.199:443#%F0%9F%87%A8%F0%9F%87%A6CA-52.60.99.199-0214
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@85.208.108.20:6679#%F0%9F%87%A8%F0%9F%87%A6CA-85.208.108.20-0217
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@85.208.108.20:6697#%F0%9F%87%A8%F0%9F%87%A6CA-85.208.108.20-0218
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@85.208.108.20:8119#%F0%9F%87%A8%F0%9F%87%A6CA-85.208.108.20-0220
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@85.208.108.20:5000#%F0%9F%87%A8%F0%9F%87%A6CA-85.208.108.20-0221
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@51.161.118.38:812#%F0%9F%87%A8%F0%9F%87%A6CA-51.161.118.38-0053
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@51.161.118.38:805#%F0%9F%87%A8%F0%9F%87%A6CA-51.161.118.38-0052
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@51.161.118.38:806#%F0%9F%87%A8%F0%9F%87%A6CA-51.161.118.38-0050
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@51.161.118.38:808#%F0%9F%87%A8%F0%9F%87%A6CA-51.161.118.38-0049
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@134.195.196.149:5003#%F0%9F%87%A8%F0%9F%87%A6CA-134.195.196.149-0225
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@198.57.27.225:7001#%F0%9F%87%A8%F0%9F%87%A6CA-198.57.27.225-0227
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@198.57.27.225:6379#%F0%9F%87%A8%F0%9F%87%A6CA-198.57.27.225-0228
@@ -67,9 +73,6 @@ ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@198.57.27.225:3306#%F0%9F%87%A8%F0%9F%
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@198.57.27.225:7002#%F0%9F%87%A8%F0%9F%87%A6CA-198.57.27.225-0237
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@85.208.108.20:5001#%F0%9F%87%A8%F0%9F%87%A6CA-85.208.108.20-0243
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@85.208.108.20:8882#%F0%9F%87%A8%F0%9F%87%A6CA-85.208.108.20-0249
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@51.161.118.38:811#%F0%9F%87%A8%F0%9F%87%A6CA-51.161.118.38-0051
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@51.161.118.38:806#%F0%9F%87%A8%F0%9F%87%A6CA-51.161.118.38-0050
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@51.161.118.38:808#%F0%9F%87%A8%F0%9F%87%A6CA-51.161.118.38-0049
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@134.195.196.149:7307#%F0%9F%87%A8%F0%9F%87%A6CA-134.195.196.149-0281
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@196.247.59.154:800#%F0%9F%87%A8%F0%9F%87%A6CA-196.247.59.154-0298
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@85.208.108.61:8008#%F0%9F%87%A8%F0%9F%87%A6CA-85.208.108.61-0401
@@ -1245,7 +1248,6 @@ vless://a6804343-1318-41e9-c76d-bb75b61e0347@99.199.73.53:18716?encryption=none&
 vless://e9aa1485-0b34-42de-bbd0-4012f91f77c6@99.199.73.28:23527?encryption=none&security=none&type=tcp&headerType=http&host=www.speedtest.net#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%A8%F0%9F%87%A6%20CA-99.199.73.28%3A23527
 vless://542f694b-e8bd-4b9e-858c-ccb1c46a3316@www.speedmeter.life:80?encryption=none&security=none&type=ws&host=pamchall.com.&path=%2FMosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2%3Fed%3D2560#%F0%9F%87%A8%F0%9F%87%A6CA_278_%40Surfboardv2ray
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1RERFOFx1RDgzQ1x1RERFNkNBXzlfQFN1cmZib2FyZHYycmF5IiwNCiAgImFkZCI6ICIxMDQuMTcuMTc2LjE3MSIsDQogICJwb3J0IjogIjgwODAiLA0KICAiaWQiOiAiNmNiYzljNzgtMWNiMS01N2Q0LWE5OTktZTJmNGUzNGMxZTAzIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIi0tLSIsDQogICJob3N0IjogImtlN2h6MzZld3otNDUxNTAxNzQ3My5tYXNoYWxsYWhiZXQuY29tIiwNCiAgInBhdGgiOiAiL25hc25ldC9jZG4iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
-vless://77f1f68f-3629-4d93-9014-f18baf20b943@can.wiziii.xyz:2045?encryption=none&security=reality&type=grpc&headerType=none&serviceName=xyz&mode=gun&sni=play.google.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#CA-@VPNine1
 vmess://eyJ2IjpudWxsLCJwcyI6IvCfh6jwn4emIENBIDEiLCJhZGQiOiIxMzQuMTk1LjE5Ni4yMTEiLCJwb3J0IjoxODAwMCwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJhaWQiOiIwIiwic2N5IjpudWxsLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjoiIiwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOm51bGwsImZwIjpudWxsfQ==
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@137.184.174.93:8080#%f0%9f%87%a8%f0%9f%87%a6%20CA%202
 vmess://eyJ2IjpudWxsLCJwcyI6IvCfh6jwn4emIENBIDMiLCJhZGQiOiIyMy4xNjIuMjAwLjE5OCIsInBvcnQiOjE4MDAwLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImFpZCI6IjAiLCJzY3kiOm51bGwsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOiIiLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6bnVsbCwiZnAiOm51bGx9
@@ -1253,20 +1255,6 @@ trojan://BhNAljna1sXjsY.Nqdl0ksXJ1VsGRqXz1V@130.94.114.217:443?security=tls&sni=
 trojan://BhNAljna1sXjsY.Nqdl0ksXJ1VsGRqXz1V@130.94.114.217:443?security=tls&sni=130.94.114.217&path=%2f#%f0%9f%87%a8%f0%9f%87%a6%20CA%205
 trojan://BhNAljna1sXjsY.Nqdl0ksXJ1VsGRqXz1V@130.94.114.217:443?security=tls&sni=130.94.114.217&fp=chrome&type=tcp&headerType=none&path=%2f#%f0%9f%87%a8%f0%9f%87%a6%20CA%206
 trojan://BhNAljna1sXjsY.Nqdl0ksXJ1VsGRqXz1V@130.94.114.217:443?security=tls&path=%2f#%f0%9f%87%a8%f0%9f%87%a6%20CA%207
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@79.127.233.170:990#%F0%9F%87%A8%F0%9F%87%A6CA%E5%8A%A0%E6%8B%BF%E5%A4%A74
-ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@144.217.164.29:12000#%F0%9F%87%A8%F0%9F%87%A6CA%E5%8A%A0%E6%8B%BF%E5%A4%A712
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHNXA2d3c0bzY3SEI@108.181.118.10:8388#CA-@VPNine1
-trojan://4c3164ee-abcf-4091-abea-d1cd4937a68d@store.ubi.com:443?sni=jy.hhllfly.kdns.fr#%F0%9F%87%A8%F0%9F%87%A6CA%E5%8A%A0%E6%8B%BF%E5%A4%A7
-trojan://4c3164ee-abcf-4091-abea-d1cd4937a68d@yx.cloudflare.182682.xyz:443?sni=jy.hhllfly.kdns.fr#%F0%9F%87%A8%F0%9F%87%A6CA%E5%8A%A0%E6%8B%BF%E5%A4%A72
-trojan://4c3164ee-abcf-4091-abea-d1cd4937a68d@www.cnae.top:443?sni=jy.hhllfly.kdns.fr#%F0%9F%87%A8%F0%9F%87%A6CA%E5%8A%A0%E6%8B%BF%E5%A4%A73
-trojan://4c3164ee-abcf-4091-abea-d1cd4937a68d@cf.008500.xyz:443?sni=jy.hhllfly.kdns.fr#%F0%9F%87%A8%F0%9F%87%A6CA%E5%8A%A0%E6%8B%BF%E5%A4%A75
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.45:41943?sni=az.01.naiun.bilibili.com#%F0%9F%87%A8%F0%9F%87%A6CA%E5%8A%A0%E6%8B%BF%E5%A4%A76
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.42:48697?sni=gh.01.naiun.bilibili.com#%F0%9F%87%A8%F0%9F%87%A6CA%E5%8A%A0%E6%8B%BF%E5%A4%A77
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.42:41943?sni=az.01.naiun.bilibili.com#%F0%9F%87%A8%F0%9F%87%A6CA%E5%8A%A0%E6%8B%BF%E5%A4%A78
-trojan://4c3164ee-abcf-4091-abea-d1cd4937a68d@cloudflare.czkcdn.cn:443?sni=jy.hhllfly.kdns.fr#%F0%9F%87%A8%F0%9F%87%A6CA%E5%8A%A0%E6%8B%BF%E5%A4%A79
-trojan://4c3164ee-abcf-4091-abea-d1cd4937a68d@da.mfa.gov.ua:443?sni=jy.hhllfly.kdns.fr#%F0%9F%87%A8%F0%9F%87%A6CA%E5%8A%A0%E6%8B%BF%E5%A4%A710
-trojan://4c3164ee-abcf-4091-abea-d1cd4937a68d@cf.130519.xyz:443?sni=jy.hhllfly.kdns.fr#%F0%9F%87%A8%F0%9F%87%A6CA%E5%8A%A0%E6%8B%BF%E5%A4%A711
-trojan://4c3164ee-abcf-4091-abea-d1cd4937a68d@cdn.9889888.xyz:443?sni=jy.hhllfly.kdns.fr#%F0%9F%87%A8%F0%9F%87%A6CA%E5%8A%A0%E6%8B%BF%E5%A4%A713
 trojan://2qmYr0p4X63t@15.223.118.153:14826?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#CA|GithubTrojanLinks
 trojan://v1eV4PsyDTXI@35.183.17.108:14807?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#CA|GithubTrojanLinks
 trojan://HxQUta02eVg8@3.96.211.215:14787?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#CA|GithubTrojanLinks
@@ -1440,29 +1428,34 @@ vless://eeb20348-23b9-4f42-a7c8-ffc3fb9e4ab0@client.jison.ir:443?type=ws&path=/w
 vless://a1fbffe9-8e5a-5a0e-9333-045d32eccd59@france.cloudpath.live:443?security=reality&encryption=none&pbk=dp4zdTaX89_Ls34gM_x8BSBTx50p4X7asR3H1q_jIn4&headerType=none&fp=chrome&type=tcp&sni=microsoft.com&sid=b00e098b# CA | 172.65.183.98
 vless://AlfredConfig@188.114.97.6:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=alfi.yas-nowin.ir&fp=chrome&type=ws&allowInsecure=0&sni=alfi.yas-nowin.ir# CA | 188.114.97.6
 vless://76a556ba-cec0-4323-81d4-546ea40a360c@chatgpt.com:443?path=/atom88?ed=2560&security=tls&encryption=none&host=atom1.appleidcity.com&type=ws&sni=atom1.appleidcity.com# CA | 104.18.32.47
+vless://36a41d68-7ee1-4eac-80de-76848f5879da@s1.meoshop.ir:2053?encryption=none&security=tls&sni=server.meoshop.ir&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=server.meoshop.ir&path=/&mode=auto# CA | 104.16.7.70
 vless://bcce095a-9f98-4e23-a68c-8bbecb785dcd@104.19.141.3:443?path=/213.35.100.31=47112&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr# CA | 104.19.141.3
 vless://9f135709-60a1-4a9b-b31c-78d326d8752a@188.114.97.6:443?mode=stream-one&path=/assignment----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=www.middle.cc.cd&fp=firefox&type=xhttp&allowInsecure=0&sni=www.middle.cc.cd# CA | 188.114.97.6
 vless://0c34fd9d-879e-4202-8c55-e4ed40da9218@104.24.132.66:80?type=ws&path=/&host=free.kabotar.sbs&security=none# CA | 104.24.132.66
 vless://74b1f2da-0e37-4795-b1df-a2896d5e7cde@172.64.149.54:443?encryption=none&type=xhttp&mode=auto&host=meow.tanvexor.ir&path=/api/?ref=supervoid&security=tls&fp=chrome&sni=meow.tanvexor.ir&alpn=h2,http/1.1# CA | 172.64.149.54
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.20.6.134:80?encryption=none&type=ws&host=vip.yaml7.ggff.net&path=/+@ProxyVPN11&security=none# CA | 104.20.6.134
+vless://06a368f4-e62e-4486-97a1-4c60bb7a0eed@client.jison.ir:443?path=/ws&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=sdt.jison.ir&type=ws&allowInsecure=0&sni=fty.jison.ir# CA | 2606:4700:3033::ac43:d3e0
 vless://4d794980-54c0-4fcb-8def-c2beaecadbad@172.66.47.175:2083?security=tls&encryption=none&type=ws&host=azadnet05.pages.dev&path=/lZU7WqWIDqC1jRn6?ed=2560&sni=azadnet05.pages.dev&fp=chrome# CA | 172.66.47.175
+vless://334b4652-f11d-4f0a-9d26-b5c0fff6c31f@forallpanel.srtongston.ir:8880?encryption=none&type=httpupgrade&host=cdn-pro4.postshup.ir.&path=/?ed=2082&security=none# CA | 104.16.0.30
 vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.43:80?path=/&security=none&encryption=none&host=tt.andishehparenting.com&type=ws# CA | 172.64.146.43
 vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.147.165:80?path=/&security=none&encryption=none&host=tt.andishehparenting.com&type=ws# CA | 172.64.147.165
 vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.0.1:80?path=/&security=none&encryption=none=-@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&host=max-gb1.global.ssl.fastly.net&type=ws# CA | 151.101.0.1
 vless://6a5d1316-c0a6-4963-8ee1-e8b9b5f98c20@188.114.98.0:443?path=/45.76.183.217=49292&security=tls&encryption=none&host=delta090.qzz.io&fp=chrome&type=ws&sni=delta090.qzz.io# CA | 188.114.98.0
 vless://396c904b-4b62-4334-b793-ee25fc0c61cc@172.64.152.23:443?path=/eyJqdW5rIjoiTHczMWlhREZIb0ljUDhoaCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560&security=tls&encryption=none&host=8vmU06cxdz59m931xnREgj8qpnoq1-06.pages.dev&fp=chrome&type=ws&sni=pages.dev# CA | 172.64.152.23
-vless://e0f52d31-566b-437d-9961-1865e38d10fb@cdnjs.com:8880?path=/&security=none&encryption=none&host=up.sourceforge.sbs&type=ws# CA | 104.24.197.20
+vless://e0f52d31-566b-437d-9961-1865e38d10fb@cdnjs.com:8880?path=/&security=none&encryption=none&host=up.sourceforge.sbs&type=ws# CA | 2606:4700:20::ac43:42b1
 vless://7d12caa2-43e0-45d2-8636-08b342615c7b@104.17.72.206:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=clod.pedramhost.shop# CA | 104.17.72.206
 vless://7d12caa2-43e0-45d2-8636-08b342615c7b@172.64.149.54:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=clod.pedramhost.shop# CA | 172.64.149.54
-vless://ecb790d4-36ca-4dfc-a142-b3a395d1c50d@codepen.io:443?path=/ld?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&host=ad1.xiqpanelz.com&fp=chrome&type=ws&sni=ad1.xiqpanelz.com# CA | 104.16.147.32
+vless://ecb790d4-36ca-4dfc-a142-b3a395d1c50d@codepen.io:443?path=/ld?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&host=ad1.xiqpanelz.com&fp=chrome&type=ws&sni=ad1.xiqpanelz.com# CA | 104.16.163.32
+vless://f7e3ff36-276c-4477-b6d4-47257500d869@love.ns.cloudflare.com:80?path=/?ed=3000&security=&encryption=none&host=pon.antalmani.mm.am&type=ws# CA | 108.162.194.119
 vless://DIGIV2RAY@www.speedtest.net:2052?path=/tm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&type=ws# CA | 104.17.147.22
+vless://DIGIV2RAY@www.speedtest.net:2052?path=/tm-Digiv2-__teldIGIv2__-DIGIV&security=none&encryption=none&host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&type=httpupgrade# CA | 104.17.147.22
+vless://9ce7ac33-5004-40ea-8236-15bc2d25a37c@feedback.spotify.com:2096?path=/MaSTeRSeRVeR1-MaSTeRSeRVeR1-MaSTeRSeRVeR1-MaSTeRSeRVeR1-MaSTeRSeRVeR1-MaSTeRSeRVeR1&security=tls&encryption=none&host=mute-math-d272.asadrfgqaz.workers.dev&fp=chrome&type=ws&sni=mute-math-d272.asadrfgqaz.workers.dev# CA | 172.67.131.125
 vless://fa937ff5-89cc-49a4-9bf9-da2b7285070d@104.18.152.231:2053?encryption=none&type=xhttp&mode=auto&host=bulghari.appleseraj.ir&path=/&security=tls&fp=chrome&sni=bulghari.appleseraj.ir&alpn=h2,http/1.1# CA | 104.18.152.231
 vless://5d94178f-4236-4ab1-8e67-755acb2c1ca0@172.64.152.23:2053?path=/NitroServer&security=tls&alpn=http/1.1&encryption=none&insecure=1&host=nitronetwork.nitromobile.online&fp=chrome&type=ws&allowInsecure=1&sni=nitronetwork1.nitromobile.online# CA | 172.64.152.23
 vless://ed767e20-31b7-41f3-81bd-e7a12c527f17@Nitroserverir.nitronetwork.online:2053?path=/Nitroserver&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=nitrobot.nitronetwork.online&fp=chrome&type=ws&allowInsecure=0&sni=nitrobot1.nitronetwork.online# CA | 172.64.149.54
 vless://eb3f5b49-2711-4ae5-a3a3-71645cdf1c67@www.speedtest.net:2086?path=/&security=none&encryption=none&host=testconnection1.iranvatanam.com&type=httpupgrade# CA | 104.17.147.22
 vless://6e16baf3-82cd-4e5e-bfea-5bd4d2253b4f@188.114.97.0:443?encryption=none&security=tls&type=ws&host=telegram.proxie2-tel.workers.dev&path=/eyJqdW5rIjoidXYyRXNUTXEiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&sni=tELEGRAM.prOXIe2-TEL.wOrKErS.DEV&fp=chrome&alpn=http/1.1# CA | 188.114.97.0
-vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?path=/vless/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0# CA | 148.113.196.75
-vless://38b890e9-b864-27d5-8759-0872d520b320@autumn-leaf-474d.tahapassmail.workers.dev:2096?path=/Taha&security=tls&encryption=none&host=autumn-leaf-474d.tahapassmail.workers.dev&fp=chrome&type=ws&sni=autumn-leaf-474d.tahapassmail.workers.dev# CA | 2606:4700:3036::6815:50ec
+vless://38b890e9-b864-27d5-8759-0872d520b320@autumn-leaf-474d.tahapassmail.workers.dev:2096?path=/Taha&security=tls&encryption=none&host=autumn-leaf-474d.tahapassmail.workers.dev&fp=chrome&type=ws&sni=autumn-leaf-474d.tahapassmail.workers.dev# CA | 2606:4700:3032::ac43:bba6
 vless://cda9ae20-f69f-4112-be95-90cdfc7a21ae@172.66.156.81:80?encryption=none&type=ws&host=websocket.network.www.speedtest.net.flutter.dev.russia.pyt.digitalcity5.xyz.skylinkserver.site.vegaskala.com.&path=/&security=none# CA | 172.66.156.81
 vless://57f56a3c-0e10-4fb2-ad70-3db23a572b0f@172.66.156.81:80?encryption=none&type=ws&host=websocket.network.www.speedtest.net.flutter.dev.russia.python.vegaskala.com.Shahin.vegaskala.com.fdf.vegaskala.com.vegafod.com.&path=/&security=none# CA | 172.66.156.81
 vless://qeshmserver@151.101.3.8:80?type=xhttp&mode=auto&host=qeshmserverfree.global.ssl.fastly.net&security=none# CA | 151.101.3.8
@@ -1474,40 +1467,38 @@ vless://turboo-server@188.114.97.6:443?path=/turboo-server&security=tls&alpn=htt
 vless://6787a9ff-7e1b-4708-aea2-b5da6a7ec2f3@104.17.89.154:2083?alpn=h2,http/1.1&encryption=none&extra={"scMaxEachPostBytes":"1000000","scMinPostsIntervalMs":"30","xPaddingBytes":"100-1000"}&fp=chrome&host=rana.bardo-chronos.online&mode=auto&path=/SAFIGH5SS&security=tls&sni=rana.bardo-chronos.online&type=xhttp&x_padding_bytes=100-1000# CA | 104.17.89.154
 vless://252272d5-74df-4e86-b603-5894e9b06ef5@172.67.158.125:443?encryption=none&security=tls&sni=PrO.nImBaHa.InFo&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=ws&host=pro.nimbaha.info&path=/# CA | 172.67.158.125
 vless://900ca7c5-6c69-4536-b0f8-efa4e3976016@51.79.89.68:443?encryption=none&security=none&type=tcp&headerType=none# CA | 51.79.89.68
-vless://9ce7ac33-5004-40ea-8236-15bc2d25a37c@sourceforge.net:2087?path=/v2ngfast---v2ngfast---v2ngfast---v2ngfast---v2ngfast&security=tls&encryption=none&host=small-sound-0d5e.ashimashi1.workers.dev&fp=chrome&type=ws&sni=small-sound-0d5e.ashimashi1.workers.dev# CA | 104.18.13.149
+vless://9ce7ac33-5004-40ea-8236-15bc2d25a37c@sourceforge.net:2087?path=/v2ngfast---v2ngfast---v2ngfast---v2ngfast---v2ngfast&security=tls&encryption=none&host=small-sound-0d5e.ashimashi1.workers.dev&fp=chrome&type=ws&sni=small-sound-0d5e.ashimashi1.workers.dev# CA | 104.18.12.149
 vless://eb568786-bb3f-4f02-a25c-7183e800a0ba@188.114.97.183:2053?path=/bPJ4mgkJbA7CnY7q?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=nOCTYq.pAGES.DEV&fp=randomized&type=ws&sni=nOCTYq.pAGES.DEV# CA | 188.114.97.183
-vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?path=/@Prime_Verse?ed=2560&security=tls&encryption=none&host=MydigiKala.pAges.dEv&type=ws&sni=PaGes.deV# CA | 104.17.148.22
+vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?path=/@Prime_Verse?ed=2560&security=tls&encryption=none&host=MydigiKala.pAges.dEv&type=ws&sni=PaGes.deV# CA | 104.17.147.22
 vless://5854d471-23a6-4c97-a398-95f483f885b0@104.16.7.70:8080?mode=auto&path=/xhttp&security=none&encryption=none&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&host=aziz.carderrr.com.&type=xhttp# CA | 104.16.7.70
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@104.16.71.213:443?path=/tsghdws&security=tls&encryption=none&host=octopusss4.com&fp=chrome&type=ws&sni=octopusss4.com# CA | 104.16.71.213
 vless://d693e9fd-af8d-47e2-9d4f-164b71ce246c@104.16.159.118:2096?encryption=none&security=tls&sni=ez-105ee1.ezaccess166501e.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=ez-105ee1.ezaccess166501e.workers.dev&path=/# CA | 104.16.159.118
 vless://d693e9fd-af8d-47e2-9d4f-164b71ce246c@104.16.159.118:2087?encryption=none&security=tls&sni=ez-105ee1.ezaccess166501e.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=# CA | 104.16.159.118
 vless://aac66ab3-784b-4d51-b1ca-3edb25456209@66.92.161.181:31953?alpn=h2,http/1.1&encryption=none&fp=chrome&host=&path=/&security=tls&sni=&type=ws# CA | 66.92.161.181
-vless://06a368f4-e62e-4486-97a1-4c60bb7a0eed@client.jison.ir:443?type=ws&path=/ws&host=sdt.jison.ir&security=tls&fp=&alpn=h3,h2,http/1.1&sni=fty.jison.ir# CA | 172.67.211.224
-vless://9f135709-60a1-4a9b-b31c-78d326d8752a@188.114.97.6:443?encryption=none&type=xhttp&serviceName=---Telegram@V2rayNGcloud------Telegram@V2rayNGcloud-----Telegram@V2rayNGcloud-----Telegram@V2rayNGcloud-----Telegram@V2rayNGcloud-----Telegram@V2rayNGcloud-----Telegram@V2rayNGcloud-----Telegram@V2rayNGcloud---&security=tls&path=/assignment----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE&host=www.middle.cc.cd&mode=stream-one&sni=www.middle.cc.cd&alpn=h3,h2,http/1.1&fp=firefox&insecure=1&allowInsecure=1# CA | 188.114.97.6
-vless://17c45b20-9128-4eaf-a444-15a394f7e77c@www.speedtest.net:2095?security=none&type=httpupgrade&headerType=&path=/@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-?ed=2048&host=https.ne.google.com.www.speedtest.net.www.speedtest.neet.speedtest.n3.misen.sbs.# CA | 104.17.148.22
-vless://1ebae49b-f302-4301-b67d-d1d67f4e5666@www.speedtest.net:2095?security=none&type=httpupgrade&headerType=&path=/@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-?ed=2048&host=https.ne.google.com.www.speedtest.net.www.speedtest.neet.speedtest.n3.misen.sbs.# CA | 104.17.148.22
+vless://17c45b20-9128-4eaf-a444-15a394f7e77c@www.speedtest.net:2095?security=none&type=httpupgrade&headerType=&path=/@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-?ed=2048&host=https.ne.google.com.www.speedtest.net.www.speedtest.neet.speedtest.n3.misen.sbs.# CA | 104.17.147.22
+vless://1ebae49b-f302-4301-b67d-d1d67f4e5666@www.speedtest.net:2095?security=none&type=httpupgrade&headerType=&path=/@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-?ed=2048&host=https.ne.google.com.www.speedtest.net.www.speedtest.neet.speedtest.n3.misen.sbs.# CA | 104.17.147.22
 vless://089151c6-276a-4292-b8c3-b65ce1193b49@172.66.213.209:2087?path=/&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=testvip1.aattaash.com# CA | 172.66.213.209
 vless://fa937ff5-89cc-49a4-9bf9-da2b7285070d@104.18.152.231:2053?encryption=none&security=tls&sni=bulghari.appleseraj.ir&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=bulghari.appleseraj.ir&path=/&mode=auto# CA | 104.18.152.231
 vless://f7e3ff36-276c-4477-b6d4-47257500d869@104.19.229.21:80?path=/?ed=3000&security=none&encryption=none&host=pon.antalmani.mm.am&type=ws# CA | 104.19.229.21
-vless://820d385f-b6b6-4f94-9348-a6d907d87fb6@216.128.182.197:80?security=&encryption=none&headerType=&type=tcp# CA | 216.128.182.197
-vless://71152717-dc50-4fee-a13d-c6656b51e341@Cd1.postshup.ir:443?encryption=none&type=ws&host=cdn-pro2.postshup.ir.&path=/news&security=tls&fp=chrome&sni=cdn-pro2.postshup.ir.&alpn=h3,h2# CA | 104.16.72.251
+vless://334b4652-f11d-4f0a-9d26-b5c0fff6c31f@forallpanel.srtongston.ir:8880?encryption=none&type=httpupgrade&host=Cdn8-pro.postshup.ir.&path=/?ed=2082&security=none# CA | 104.16.0.30
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@104.16.71.213:443?path=/tsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&fp=chrome&type=ws&allowInsecure=0&sni=octopusss4.com# CA | 104.16.71.213
-vless://1043634e-8d9d-4736-83fa-f14ddc9d464c@188.114.97.6:443?path=id-amz&security=tls&encryption=none&insecure=0&host=dfsuporte.garena.com.ex33r.eu.cc&type=ws&allowInsecure=0&sni=dfsuporte.garena.com.ex33r.eu.cc# CA | 188.114.97.6
 vless://adb2e664-7938-ffc3-2a63-fb7a82c6f701@23.227.39.45:8880?security=none&type=xhttp&headerType=&encryption=none&path=&host=erfan.mmadvip8563.ir# CA | 23.227.39.45
 vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@104.20.6.134:2096?path=/ws&security=tls&encryption=none&insecure=0&host=newgen14.hozheen.ir&type=ws&allowInsecure=0&sni=4dcb0d80784f3081.hozheen.ir# CA | 104.20.6.134
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.16.56:80?path=/ @ProxyVPN11&security=none&encryption=none&host=vip.yaml7.ggff.net&type=ws# CA | 104.18.16.56
 vless://e2c0a0ac-0270-4ebc-acbd-75df71153b0e@104.21.43.168:443?path=/bDUGlAj9BFG7zebG?ed=2560&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=2.lINK-KoN.IR&fp=randomized&type=ws&sni=2.link-kon.ir# CA | 104.21.43.168
 vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.0.1:80?path=/&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws# CA | 151.101.0.1
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=/43.218.77.16=1443&security=tls&encryption=none&insecure=1&host=afrcloud22.mmv.kr&type=ws&allowInsecure=1&sni=ProxyVPN11.afrcloud22.mmv.kr# CA | 104.16.2.90
-vless://fa335d1c-e6d1-48bb-99a3-f06710a29043@afrcloud22.mmv.kr:443?path=/130.185.164.213=8443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr# CA | 172.67.73.14
+vless://fa335d1c-e6d1-48bb-99a3-f06710a29043@afrcloud22.mmv.kr:443?path=/130.185.164.213=8443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr# CA | 104.26.15.21
+vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@172.66.132.44:80?path=/?ed=2560&security=none&encryption=none&host=abcd.taraneh.dpdns.org&type=ws# CA | 172.66.132.44
+vless://29a7b527-e2b9-b5e0-bc7a-6f2c5738ac72@forallpanel.srtongston.ir:443?path=/ws?ed=2560&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=rseydtfygu.teknoplusshop.com.&fp=chrome&type=ws&allowInsecure=0&sni=rseydtfygu.teknoplusshop.com.# CA | 104.16.0.30
+vless://29a7b527-e2b9-b5e0-bc7a-6f2c5738ac72@ar.plusmusical6.ir:443?path=/ws?ed=2560&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=sytuuyucvucu.telephonekadeh.com.&fp=chrome&type=ws&allowInsecure=0&sni=sytuuyucvucu.telephonekadeh.com.# CA | 104.16.0.30
 vless://83adcc98-ac23-4e51-9ae0-788a73fd9939@104.17.163.123:8443?security=tls&alpn=http/1.1&encryption=none&insecure=0&host=vjv62pggz1658fuliaf9lri7rra85l8utox0kjtogve4whop.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=vjv62pggz1658fuliaf9lri7rra85l8utox0kjtogve4whop.zjde5.de5.net# CA | 104.17.163.123
 trojan://humanity@104.16.174.12:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com# CA | 104.16.174.12
 trojan://mitivpn@104.16.72.70:443?path=/index.php/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=gamingdll.ir&fp=chrome&type=ws&allowInsecure=0&sni=gamingdll.ir# CA | 104.16.72.70
-trojan://38b890e9-b864-27d5-8759-0872d520b320@autumn-leaf-474d.tahapassmail.workers.dev:2087?path=/Taha&security=tls&host=autumn-leaf-474d.tahapassmail.workers.dev&fp=chrome&type=ws&sni=autumn-leaf-474d.tahapassmail.workers.dev# CA | 2606:4700:3032::ac43:bba6
 trojan://MiTiVPN@172.67.210.215:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=linkkon-w.ir# CA | 172.67.210.215
-trojan://mitivpn@188.114.97.6:443?path=https://chatgpt.com&security=tls&alpn=http/1.1&fp=chrome&type=ws&sni=wedf.uss.mitivpn.dsech.ss.ssandfdsgx.gloteefghedcalasd.ssl.fastly.net.b5r.ir# CA | 188.114.97.6
-trojan://mitivpn@188.114.97.6:443?path=https://chatgpt.com&security=tls&alpn=http/1.1&fp=chrome&type=ws&sni=weqwdf.fll.mitivpn.dsech.ss.ssandfdsgx.gloteefghedcalasd.ssl.fastly.net.b5r.ir# CA | 188.114.97.6
-trojan://humanity@172.67.200.219:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.calmlunch.com# CA | 172.67.200.219
-trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&insecure=1&type=ws&allowInsecure=1# CA | 104.18.10.110
-trojan://humanity@www.calmlunch.com:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com# CA | 2606:4700::6812:853
+trojan://38b890e9-b864-27d5-8759-0872d520b320@autumn-leaf-474d.tahapassmail.workers.dev:2087?path=/Taha&security=tls&host=autumn-leaf-474d.tahapassmail.workers.dev&fp=chrome&type=ws&sni=autumn-leaf-474d.tahapassmail.workers.dev# CA | 104.21.80.236
+trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&insecure=1&type=ws&allowInsecure=1# CA | 104.18.11.110
+trojan://humanity@www.calmlunch.com:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com# CA | 104.18.8.83
+trojan://humanity@104.16.71.213:443?path=/assignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com# CA | 104.16.71.213
+trojan://humanity@104.18.9.83:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.calmlunch.com# CA | 104.18.9.83
 trojan://mitivpn@188.114.97.6:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&host=de.mitivpn.global.ssl.b5r.ir&fp=chrome&type=ws&sni=b5r.ir# CA | 188.114.97.6
