@@ -1,1 +1,2 @@
-vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@202.37.33.80:443?Telegram=@armindone,@armindone,@armindone,@armindone&path=/sg-melbi&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=cyylr.eu.cc&fp=chrome&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=cyylr.eu.cc#NZ_2785_@Surfboardv2ray
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@114.129.43.30:8880?type=ws&host=vms.lifetime04.workers.dev&path=/#NZ_1400_@Surfboardv2ray
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@114.129.43.30:8880?type=ws&host=vms.lifetime04.workers.dev&path=/#NZ_1401_@Surfboardv2ray
