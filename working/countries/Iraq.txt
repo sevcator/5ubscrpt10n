@@ -1,2 +1,2 @@
-trojan://bNpSPq25FqLYblE9xl_Zpaq43o1iEmrcOW@130.94.97.140:443?security=tls&sni=www.static-optimizer.click&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=1#%f0%9f%87%ae%f0%9f%87%b6%20IQ%201
-trojan://bNpSPq25FqLYblE9xl_Zpaq43o1iEmrcOW@130.94.97.140:443?security=tls&sni=www.static-optimizer.click&path=%2f#%f0%9f%87%ae%f0%9f%87%b6%20IQ%202
+trojan://bNpSPq25FqLYblE9xl_Zpaq43o1iEmrcOW@130.94.97.140:443?security=tls&sni=www.static-optimizer.click&path=%2f#%f0%9f%87%ae%f0%9f%87%b6%20IQ%201
+trojan://bNpSPq25FqLYblE9xl_Zpaq43o1iEmrcOW@130.94.97.140:443?security=tls&sni=www.static-optimizer.click&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=1#%f0%9f%87%ae%f0%9f%87%b6%20IQ%202
