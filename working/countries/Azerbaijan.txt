@@ -1,4 +1,5 @@
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@90081bb25c.node.tro.cac.cab:41943?sni=az.01.naiun.bilibili.com#%F0%9F%87%A6%F0%9F%87%BFAZ%E9%98%BF%E5%A1%9E%E6%8B%9C%E7%96%86
+vless://b8dc50b2-5737-447d-8e1f-92d4287e5b24@baracuda.kupivodku.top:1443?security=reality&encryption=none&pbk=gKAETXwalM7wd8kZAIXLCgmJZskCoe4uZbFS6NMrK1w&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=baracuda.kupivodku.top&sid=0441f3e34348cb45#AZ-@VPNine1
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@94.20.154.26:989#%F0%9F%87%A6%F0%9F%87%BFAZ-94.20.154.26-3788
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@180.149.44.120:989#%F0%9F%87%A6%F0%9F%87%BFAZ-180.149.44.120-7802
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJBei1AUm95YWxwaW5nX2lyNiIsCiAgImFkZCI6ICIxOTMuMTUxLjE1OC4xOTkiLAogICJwb3J0IjogMjI0NDIsCiAgImlkIjogImE4N2E1MDgyLTlhYzYtNDExNy1hOTc5LTZlYTU3N2E0OTU3ZSIsCiAgIm5ldCI6ICJ0Y3AiLAogICJ0eXBlIjogImh0dHAiLAogICJ0bHMiOiAibm9uZSIsCiAgInBhdGgiOiAiLyIsCiAgImhvc3QiOiAidGVsZXdlYmlvbi5jb20iCn0=

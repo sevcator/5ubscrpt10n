@@ -1,5 +1,4 @@
-vless://dc475cd4-81bc-46ff-92f8-5ed003ca590e@devilfullspeed.com:2053?mode=auto&amp%3Bpath=/&amp%3Bsecurity=reality&amp%3Bencryption=mlkem768x25519plus.native.0rtt.AXtkETbAwTM_es9j2j7hbSAI-ScH13wFgdEtVtms_jg&amp%3Bpbk=EU7T0zp5gHz8Bk6g2JGCmajFdWCNtS_8_4H60OvMW20&amp%3Bhost=main.devilfullspeed.com&amp%3Bfp=ios&amp%3Bspx=/NS8eqMbItGaADjI&amp%3Btype=xhttp&amp%3Bsni=play.google.com&amp%3Bsid=1546e5fcebba785e#%F0%9F%87%A6%F0%9F%87%AA%20AE%20%7C%20VLESS%20%7C%20%40red2ray%20%231
-ss://Y2hhY2hhMjAtcG9seTEzMDU6dUV1M3hRTXhCVEwwUFNNYk9tMERSOUVsRXVSY3ZWM3JhQzlsVmpXUDVuND0=@net12.shaygan.site:2095#%F0%9F%87%A6%F0%9F%87%AA%20AE%20%7C%20SS%20%7C%20%40v2raych%20%231
+vless://c413ff8b-6e24-4542-b4c3-b3dd380c3674@212.100.171.202:80?security=reality&encryption=none&pbk=LA79i4zxp3kWO-1vReykdhciV3oil_RV6dn2nAwjjw0&headerType=none&fp=chrome&spx=/34ldhFmjIhoTrmN&type=tcp&flow=xtls-rprx-vision&sni=mail.yahoo.com&sid=eb44ed#AE-@VPNine1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.138.193.6:812#%F0%9F%87%A6%F0%9F%87%AAAE-217.138.193.6-0219
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@109.169.72.249:809#%F0%9F%87%A6%F0%9F%87%AAAE-109.169.72.249-2163
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@109.169.72.249:806#%F0%9F%87%A6%F0%9F%87%AAAE-109.169.72.249-2252

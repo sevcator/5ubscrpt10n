@@ -1,3 +1,4 @@
+vless://3b92d239-7e97-4469-b703-89b475c3fa10@cd1.consolgame.ir:2095?path=/&security=none&encryption=none&host=sapogemi.consolegamenet.ir&type=httpupgrade#BE-@VPNine1
 vless://394f6981-a782-4779-9a85-e6cf22935d93@207.211.214.42:8443?encryption=none&security=tls&sni=bru-be-01.fromblancwithlove.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ABE
 vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.224.12:8443?encryption=none&security=tls&sni=bru-be-01.fromblancwithlove.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ABE
 vmess://ewogICAgImFkZCI6ICIxOTIuMTIxLjE3MC41MiIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiMDhmODcwZWQtNTIwYy00ODNhLWJkZWMtYzQ4ODRhYWQ0NjY1IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDIwNTIyLAogICAgInBzIjogIvCfh6fwn4eqQkUtMTkyLjEyMS4xNzAuNTItNjU2NCIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
