@@ -1,4 +1,4 @@
-vless://141bbdef-a341-4846-aec7-9d6531ff8790@polandflulove.com:446?mode=gun&security=reality&encryption=none&authority=deepl.com&pbk=tsmunuqIZw2IhgiL8uurUVBUhF1eXUg1s3pEjztuRgA&fp=chrome&type=grpc&serviceName=deepl.com&sni=deepl.com&sid=d7abeb515312dc2f#PL-@VPNine1
+vless://618b57fd-6078-4dec-a658-4c031205f8d6@45.194.66.181:62800?mode=gun&security=reality&encryption=none&pbk=i3ZLu0BrMnsEuDUgWoceRnaYMzRVphJE0CiPXmEhE3c&fp=chrome&type=grpc&serviceName=grpc&sni=yandex.ru&sid=63a9b4c563de9906#PL-@VPNine1
 trojan://humanity@104.18.7.147:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#%3E%3E%40FreakConfig%3A%3APL
 trojan://humanity@188.114.97.6:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=1&sni=www.creationlong.org#%3E%3E%40configshub2%3A%3APL
 trojan://humanity@208.103.161.110:443?allowInsecure=1&host=www.creationlong.org&path=%2Fassignment&sni=www.creationlong.org&type=ws#%3E%3E%40oneclickvpnkeys%3A%3APL
@@ -66,8 +66,6 @@ ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@217.30.10.68:9001#%F0%9F%87%B5%F0%
 ss://YWVzLTI1Ni1jZmI6U241QjdqVHFyNzZhQ0pUOA==@217.30.10.68:9097#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-7668
 ss://YWVzLTI1Ni1jZmI6U0JNN1I4ODNqQm1ucWU2Qw==@217.30.10.68:9053#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-7669
 ss://YWVzLTI1Ni1jZmI6RkFkVXZNSlVxNXZEZ0tFcQ==@217.30.10.68:9006#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-7670
-vless://05257864-a357-4891-a16a-abb6bad2e648@151.245.192.223:443?allowInsecure=0&sni=auto.malina24.xyz&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%B5%F0%9F%87%B1PL_1%7C1.2MB/s
-vless://05257864-a357-4891-a16a-abb6bad2e648@151.245.192.222:443?allowInsecure=0&sni=auto.malina24.xyz&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%B5%F0%9F%87%B1PL_2%7C2.0MB/s
 ss://YWVzLTI1Ni1jZmI6SmRtUks5Z01FcUZnczhuUA@217.30.10.70:9003#PL%20%20ROSE35
 ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ@217.30.10.70:9011#PL%20%20ROSE36
 ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ@217.30.10.70:9042#PL%20%20ROSE37
