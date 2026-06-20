@@ -20,7 +20,6 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.180.12.81:989#%F0%9F%87%A6%F0%
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@212.183.88.238:2096?host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&sni=sni.jpmj.dev&type=ws#%F0%9F%87%A6%F0%9F%87%B9_AT_%E5%A5%A5%E5%9C%B0%E5%88%A9
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.180.197.41:8080#%f0%9f%87%a6%f0%9f%87%b9%20AT%201
 trojan://VGBzLm49=M_i02Az30tIeonkQw180t-edg@185.126.236.190:443?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=185.126.236.190#[openproxylist.com] trojan-AT
-trojan://humanity@212.183.88.136:443/?type=ws&amp%3Bhost=www.calmlunch.com&amp%3Bpath=/assignment&amp%3Bsecurity=tls&amp%3Bsni=www.calmlunch.com#%F0%9F%87%A6%F0%9F%87%B9%20AT%20%7C%20TROJAN%20%7C%20%40freeconfigsplus%20%231
 trojan://ZFYOpKqD8uEClpZ2ya83cyCDalwSOYz3F3eCxnBD4eSXNSR5R0aAATj7I3x69g@219.76.13.175:443?security=tls&sni=golang.protocolbuffer.com#/Austria
 vmess://eyJ2IjogIjIiLCAicHMiOiAiUmVsYXkg8J+HpvCfh7kgQXVzdHJpYShDaGF0R1BUKSAwLi4uIiwgImFkZCI6ICIxMTcuMTY0LjE4NS4yMjEiLCAicG9ydCI6ICIxNjMwOCIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImMwMGYyOGM0LTUzMTItMzA0MS04ZGJjLWNiOGQ5Yjk4Zjg2MiJ9
 vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@185.224.3.41:10443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&security=reality&pbk=WeShDM0MdunM6N8btrY8tXlL0GT1Ah-0jcplNQf9FEo&sid=# AT | 185.224.3.41
