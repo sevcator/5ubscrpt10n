@@ -1,2 +1,1 @@
-trojan://bNpSPq25FqLYblE9xl_Zpaq43o1iEmrcOW@130.94.97.140:443?security=tls&sni=www.static-optimizer.click&path=%2f#%f0%9f%87%ae%f0%9f%87%b6%20IQ%201
-trojan://bNpSPq25FqLYblE9xl_Zpaq43o1iEmrcOW@130.94.97.140:443?security=tls&sni=www.static-optimizer.click&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=1#%f0%9f%87%ae%f0%9f%87%b6%20IQ%202
+vless://cf038a28-8f85-41fc-9e86-ba99a3fdd0d9@81.90.29.53:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=-FQM2tUbpiBjwjgla2mwkSkFhFIKQU0FQOvRi0ZD_mY&security=reality&sid=540f5784c2481b5a&sni=mishaduck.duckdns.org&type=tcp#IQ-@VPNine1
