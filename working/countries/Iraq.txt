@@ -1,2 +1,1 @@
 vless://cf038a28-8f85-41fc-9e86-ba99a3fdd0d9@81.90.29.53:8443?allowInsecure=0&sni=mishaduck.duckdns.org&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#IQ_speednode_0010
-vless://cf038a28-8f85-41fc-9e86-ba99a3fdd0d9@81.90.29.53:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=-FQM2tUbpiBjwjgla2mwkSkFhFIKQU0FQOvRi0ZD_mY&security=reality&sid=540f5784c2481b5a&sni=mishaduck.duckdns.org&type=tcp#IQ-@VPNine1
