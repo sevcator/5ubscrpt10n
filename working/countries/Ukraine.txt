@@ -4,6 +4,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzaHdvZ2hSaWE=@195.28.182.217:51348#%F0%9F%87
 vless://394f6981-a782-4779-9a85-e6cf22935d93@143.244.45.50:8443?allowInsecure=0&sni=ams1.fromblancwithlove.com&fp=chrome&security=tls#UA_speednode_0109
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.163:8443?allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com&fp=chrome&security=tls#UA_speednode_0110
 vless://394f6981-a782-4779-9a85-e6cf22935d93@143.244.45.55:8443?allowInsecure=0&sni=ams1.fromblancwithlove.com&fp=chrome&security=tls#UA_speednode_0111
+vless://42e0d02c-b75c-4b9d-bc15-773aa3cbe6bd@194.152.44.21:2052?encryption=none&security=none&type=xhttp&host=cdn3.goofymoofy.com&path=/pabloping&mode=auto#UA_993_@Surfboardv2ray
+vless://42e0d02c-b75c-4b9d-bc15-773aa3cbe6bd@194.152.44.21:2052?encryption=none&security=none&type=xhttp&host=cdn3.goofymoofy.com&path=/pabloping&mode=auto#UA_994_@Surfboardv2ray
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@5.188.6.8:989#%F0%9F%87%BA%F0%9F%87%A6UA-5.188.6.8-0740
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@45.80.111.198:443?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#%f0%9f%87%ba%f0%9f%87%a6+UA+%e4%b9%8c%e5%85%8b%e5%85%b0+75
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@45.80.111.38:2096?encryption=none&security=tls&type=ws&sni=juzibaipiao.5112233.xyz&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#%F0%9F%87%BA%F0%9F%87%A6_UA_%E4%B9%8C%E5%85%8B%E5%85%B0_15
@@ -17,3 +19,4 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiUmVsYXlf8J+HuvCfh6ZVQS3wn4e68J+HuFVTXzE0NyIsICJh
 vmess://eyJ2IjogIjIiLCAicHMiOiAiUmVsYXlf8J+HuvCfh6ZVQS3wn4e68J+HuFVTXzE2NyIsICJhZGQiOiAiNDUuODAuMTExLjUzIiwgInBvcnQiOiA0NDMsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAidGxzIiwgImlkIjogIjBiODczY2ZmLTExYWItNDcxNi1jNDFhLTA0Zjg4NjEzNTA5MSIsICJzbmkiOiAiMjAwLmFxdWFiYXppLnNpdGUiLCAicGF0aCI6ICIvc3V6aGloYW4uZXUub3JnL3JvZXdlc3UifQ==
 vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HuvCfh6ZVQS0xNjguMTE5LjI1NC4yMzQtMTAyMjkiLCAiYWRkIjogIjE2OC4xMTkuMjU0LjIzNCIsICJwb3J0IjogODAsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjQxOTkwYmRjLWRhNzUtNDk2ZC1iYWQzLWFlODIyYWQ4YmU1ZiIsICJzbmkiOiAiIiwgInBhdGgiOiAiL2dyYXBocWwifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hr/Cfh7UgX1VBX+S5jOWFi+WFsC0+8J+Hr/Cfh7VfSlBf5pel5pysIiwiYWRkIjoiNDUuODAuMTExLjUzIiwicG9ydCI6IjQ0MyIsInR5cGUiOiJub25lIiwiaWQiOiIwYjg3M2NmZi0xMWFiLTQ3MTYtYzQxYS0wNGY4ODYxMzUwOTEiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3N1emhpaGFuLmV1Lm9yZy9yb2V3ZXN1IiwiaG9zdCI6IjIwMC5hcXVhYmF6aS5zaXRlIiwidGxzIjoidGxzIn0=
+vless://42e0d02c-b75c-4b9d-bc15-773aa3cbe6bd@194.152.44.21:2052?encryption=none&type=xhttp&path=/pabloping&host=cdn3.goofymoofy.com&mode=auto# UA | 194.152.44.21
