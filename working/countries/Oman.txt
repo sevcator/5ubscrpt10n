@@ -4,5 +4,4 @@ vmess://eyJhZGQiOiI0NS45Mi45My4xODQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiIiLCJp
 vmess://eyJhZGQiOiAiNDUuMTIuMzAuNTgiLCAiYWlkIjogIjAiLCAiaG9zdCI6ICJiaWxpcC5nb3Zlcm1lbnRjby5zcGFjZSIsICJpZCI6ICJjZjlhMDAxYi01MDI1LTQ3OTAtOWMyZS0wOWI3OTljNWZjYzciLCAibmV0IjogIndzIiwgInBhdGgiOiAiQHYycmF5bmcxNCIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJAdjJyYXkyNCBcdTI1YjcgUm9tYW5pYSBcdWQ4M2NcdWRkZjdcdWQ4M2NcdWRkZjQiLCAic25pIjogImJpbGlwLmdvdmVybWVudGNvLnNwYWNlIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
 trojan://3747000103274291200@89.39.70.207:443?peer=sunny-jackal.insect388.motorcycles#Romania
 vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.243:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=sub.sbrf-cdn342.ru&fp=qq#Romania
-ss://YWVzLTEyOC1nY206dGlqc2prM2l3emM2YjEwYXpiMHk=@77.83.247.206:18284#/Romania
-vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.78:8443?allowInsecure=0&sni=ams1.fromblancwithlove.com&fp=chrome&security=tls#//Romania/Bucharest
+vless://c34c6869-e454-4413-a7b2-052ba4a42fd5@uvgl4cjd0475.vtret.com:32567?security=tls&alpn=h2%2Chttp%2F1.1&encryption=mlkem768x25519plus.native.0rtt.84_DMC6q55hqCTwXssF177Z61CfqlI5CwYzYF6UGgG8&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=uvgl4cjd0475.vtret.com#/Romania
