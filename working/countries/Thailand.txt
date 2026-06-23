@@ -1,8 +1,10 @@
 vless://3c52e091-6714-4915-949f-2149fe69951b@116.206.124.228:80?path=%2Fws&security=&encryption=none&host=aIs.SpEeDtEsT.nEt&type=ws#%3E%3E%40ShadowsocksM%3A%3ATH
 vmess://ewogICAgImFkZCI6ICIxNzMuODIuMjI2LjI3IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiMTczLjgyLjIyNi4yNyIsCiAgICAiaWQiOiAiZWZhMmFiNzYtNTM5ZC00YjZhLTk1NzItMjRiYTcwOWZiODFiIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDIzNjYyLAogICAgInBzIjogIvCfh7nwn4etVEgtMTczLjgyLjIyNi4yNy00MDM3IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
-vless://3c52e091-6714-4915-949f-2149fe69951b@116.206.124.228:80?path=/ws&encryption=none&host=aIs.SpEeDtEsT.nEt&type=ws#TH_1043_@Surfboardv2ray
-vless://3c52e091-6714-4915-949f-2149fe69951b@v2ray.simspeedup.com:80?type=ws&path=/ws&host=aIs.SpEeDtEsT.nEt&sni=v2ray.simspeedup.com#TH_1044_@Surfboardv2ray
-vless://85b62084-d81e-52cd-a016-944f261d34a0@45.144.165.11:80?mode=auto&path=/&security=none&encryption=none&host=cJ-sPeEdTeSt.EbB.mY&type=xhttp#TH_1955_@Surfboardv2ray
+vless://3c52e091-6714-4915-949f-2149fe69951b@116.206.124.228:80?encryption=none&security=none&type=ws&host=aIs.SpEeDtEsT.nEt&path=/ws#TH_1050_@Surfboardv2ray
+vless://3c52e091-6714-4915-949f-2149fe69951b@116.206.124.228:80?encryption=none&type=ws&host=aIs.SpEeDtEsT.nEt&path=/ws&security=none#TH_1051_@Surfboardv2ray
+vless://3c52e091-6714-4915-949f-2149fe69951b@v2ray.simspeedup.com:80?type=ws&path=/ws&host=aIs.SpEeDtEsT.nEt&sni=v2ray.simspeedup.com#TH_1052_@Surfboardv2ray
+vless://85b62084-d81e-52cd-a016-944f261d34a0@45.144.165.11:80?mode=auto&path=/&security=none&encryption=none&host=cJ-sPeEdTeSt.EbB.mY&type=xhttp#TH_2024_@Surfboardv2ray
+vless://85b62084-d81e-52cd-a016-944f261d34a0@bm.xq-vpn.com:80?mode=auto&path=/&security=none&encryption=none&type=xhttp#TH_2025_@Surfboardv2ray
 ss://YWVzLTEyOC1nY206djk0NDNpRWE5Z1d2@104.16.100.23:443?plugin=v2ray-plugin%3Bhost%3Dv1.fjdd.shop%3Btls#Thailand|Github%E6%90%9C%E7%B4%A2TrojanLinks
 vless://d3d962b1-7fc4-4f34-8292-b57e75cd0316@162.159.153.79:2083?path=%2F&security=tls&encryption=none&insecure=0&host=purple-water-9854.ipcfchannel.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=purple-water-9854.ipcfchannel.workers.dev#/Thailand
 vmess://eyJ2IjogIjIiLCAicHMiOiAiUmVsYXkg8J+HufCfh60gVGhhaWxhbmQoQ2hhdC4uLiIsICJhZGQiOiAiZ3kxLnFrcmVsYXkuY29tIiwgInBvcnQiOiA0NzY4MCwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImE0MWMzNDQ4LWM1YTEtNGFiYS1hZDk0LTdlNjUzODBmZTY5ZSJ9
