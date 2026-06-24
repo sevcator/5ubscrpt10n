@@ -171,6 +171,7 @@ trojan://telegram-id-privatevpns@13.37.90.19:22222?security=tls&alpn=http/1.1&he
 trojan://telegram-id-privatevpns@13.38.243.57:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@15.237.161.224:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@15.237.241.88:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@35.156.107.253:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@35.181.236.138:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@52.28.80.88:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@52.57.203.89:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)t.me/PrivateVPNs
@@ -216,6 +217,7 @@ vless://9cda451e-0adf-4df1-a5b4-7fec8f363c10@all27.allenshop100.ir:443?security=
 vless://9d1f3567-232f-4a02-bf50-4028f5d9a8ca@94.249.225.126:443?security=reality&encryption=none&pbk=zMuLYURvrPXeNU39XaN9FZN5PUDQdyffei01IugpZwk&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=e32354adc83bd772&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[]t.me/Raiv2mmr
 vless://@Net2ray@45.84.157.122:6666?security=none&encryption=none&headerType=none&type=tcp#@Net2ray Germany                 t.me/Net2ray
 vless://@Net2ray@62.60.184.168:6666?security=none&encryption=none&headerType=none&type=tcp#@Net2ray                  t.me/Net2ray
+vless://@Net2ray@89.144.145.247:6666?security=none&encryption=none&headerType=none&type=tcp#@Net2ray Germany                 t.me/Net2ray
 vless://a2415a12-3f92-4636-9823-9828d3ceb818@72.56.18.179:443/?type=tcp&encryption=none&sni=www.ya.ru&fp=chrome&security=reality&pbk=8xufuXmVTmxmM9SKIN1P6x3CFstZdl1mfSxr_LfOkDQ&sid=2af15d98#  | https://t.me/FREECONFIGSPLUS 
 vless://a5f3e5f5-ffa4-43dd-84b6-20aedd1a843e@37.49.224.32:443?security=reality&encryption=none&pbk=QWxSKVguwUnPvmYaOR4DvxpmVxCJfPEaipbjdAfAbG4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dev.max.ru&sid=c338fe2b01cf271a&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[]t.me/Raiv2mmr
 vless://adcded8e-f148-4948-a2de-51c01d8d26f8@176.223.66.70:2003?security=reality&encryption=none&pbk=0nGh9GsPqY366E57yOAAfkD1F-YfxAtuLV6VHU9BA1s&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=2418ed47b875e923#[]t.me@vmessorg
