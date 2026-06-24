@@ -1,1 +1,1 @@
-vless://cf038a28-8f85-41fc-9e86-ba99a3fdd0d9@81.90.29.53:8443?allowInsecure=0&sni=mishaduck.duckdns.org&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#IQ_speednode_0009
+trojan://d5VIifAZlI.VX459mxBPZ0skFQ2JP6BvHy@130.94.97.33:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#IQ-@VPNine1
