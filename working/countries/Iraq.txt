@@ -1,1 +1,2 @@
 trojan://d5VIifAZlI.VX459mxBPZ0skFQ2JP6BvHy@130.94.97.33:443?security=tls&sni=130.94.97.33&type=tcp&path=%2f#%f0%9f%87%ae%f0%9f%87%b6%20IQ%201
+trojan://d5VIifAZlI.VX459mxBPZ0skFQ2JP6BvHy@130.94.97.33:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#[openproxylist.com] trojan-IQ
