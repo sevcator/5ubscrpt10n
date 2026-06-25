@@ -1,3 +1,4 @@
+vless://31e7fb4e-5006-4ecd-abdc-b27f1be617d0@185.202.113.8:80?encryption=none&host=&path=/&security=none&type=ws#AM-@VPNine1
 vless://8538e089-883b-b50c-d3ed-ebb200000000@www.hcaptcha.com:443?encryption=none&security=tls&sni=cool-sea-001f.join-telegram-w570w.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=cool-sea-001f.join-telegram-w570w.workers.dev&path=/w570w#w570w-Frankfurt am Main 
 vless://8538e089-883b-b50c-d3ed-ebb200000000@www.speedtest.net:443?encryption=none&security=tls&sni=cool-sea-001f.join-telegram-w570w.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=cool-sea-001f.join-telegram-w570w.workers.dev&path=/w570w#w570w-Frankfurt am Main 
 vless://c24a32f1-b645-47da-98a3-1e7c713229c1@104.18.12.149:8880?path=/api&security=none&encryption=none&host=armenia.chatgpt.com.siasia.ir&type=httpupgrade#Armenia(@proSSH)
