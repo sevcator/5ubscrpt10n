@@ -1,5 +1,5 @@
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.244.138:2096?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#CR
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@138.59.16.146:989#%F0%9F%87%A8%F0%9F%87%B7CR-138.59.16.146-9449
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@138.59.16.146:989#%F0%9F%87%A8%F0%9F%87%B7CR-138.59.16.146-9577
 vless://426ca3b3-3607-41b0-b93c-449b02eff9f0@190.93.246.126:2053?path=/&security=tls&encryption=none&insecure=0&host=ez-76629e.maiatsbfhst.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-76629e.maiatsbfhst.workers.dev#CR_1020_@Surfboardv2ray
 vless://426ca3b3-3607-41b0-b93c-449b02eff9f0@190.93.246.126:2082?path=/&security=none&encryption=none&host=ez-76629e.maiatsbfhst.workers.dev&fp=chrome&type=ws&sni=ez-76629e.maiatsbfhst.workers.dev#CR_1021_@Surfboardv2ray
 vless://426ca3b3-3607-41b0-b93c-449b02eff9f0@190.93.246.126:2083?path=/&security=tls&encryption=none&insecure=0&host=ez-76629e.maiatsbfhst.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-76629e.maiatsbfhst.workers.dev#CR_1022_@Surfboardv2ray
