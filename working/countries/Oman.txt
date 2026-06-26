@@ -3,5 +3,4 @@ vmess://eyJhZGQiOiI0NS45Mi45My4xODQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiIiLCJp
 vmess://eyJhZGQiOiAiNDUuMTIuMzAuNTgiLCAiYWlkIjogIjAiLCAiaG9zdCI6ICJiaWxpcC5nb3Zlcm1lbnRjby5zcGFjZSIsICJpZCI6ICJjZjlhMDAxYi01MDI1LTQ3OTAtOWMyZS0wOWI3OTljNWZjYzciLCAibmV0IjogIndzIiwgInBhdGgiOiAiQHYycmF5bmcxNCIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJAdjJyYXkyNCBcdTI1YjcgUm9tYW5pYSBcdWQ4M2NcdWRkZjdcdWQ4M2NcdWRkZjQiLCAic25pIjogImJpbGlwLmdvdmVybWVudGNvLnNwYWNlIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
 trojan://3747000103274291200@89.39.70.207:443?peer=sunny-jackal.insect388.motorcycles#Romania
 vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.243:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=sub.sbrf-cdn342.ru&fp=qq#Romania
-vless://39bd10b8-9234-4171-be41-71ce4dda4573@om.yellowsky.ir:2000?path=/?ed=2560&security=&encryption=none&host=play.google.com&type=ws#OM-@VPNine1
 vless://bc5b801f-49a7-4db7-ac92-a2c57d42d132@93.114.194.84:448?security=reality&sni=www.samsung.com&fp=chrome&pbk=qX6IJfWNN-SNray6xJugb8pCpgY_zjeyCfvq9IUyd3w&sid=e1bdc95c1554c8eb&path=%2f#/Romania
