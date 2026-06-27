@@ -27,6 +27,7 @@ vless://6bd94ee9-3c63-43d2-8f19-31570cfbef25@narcod-ping.numallaf.shop:58978?typ
 vless://Telegram-Parsashonam@ip:443?security=reality&encryption=none&pbk=rd71EGp4BCn3x_hIoaYi5R6GaqF9TIA4F6t5WyOPaXc&headerType=&fp=firefox&spx=/YtQ58V1AZ8fExyr&type=tcp&flow=xtls-rprx-vision&sni=domian&sid=83dc602558# UN | ip
 vless://c8b6a94f-eb38-4b68-9ae7-fadc7d690e16@mariz.kuckenpq.ir:8880?security=&encryption=none&host=zula.ir&headerType=http&type=tcp# UN | mariz.kuckenpq.ir
 vless://c8b6a94f-eb38-4b68-9ae7-fadc7d690e16@dlarm.kuckenpq.ir:8880?security=&encryption=none&host=zula.ir&headerType=http&type=tcp# UN | dlarm.kuckenpq.ir
+vless://78a9bf4f-3bec-48b2-b98f-a3f8151506ac@europeless.duckdns.org:443?security=tls&sni=europeless.duckdns.org&fp=random&type=ws&path=/getupdates&host=europeless.duckdns.org&encryption=none# UN | europeless.duckdns.org
 vless://651a858c-2975-4b96-96b7# UN | 651a858c-2975-4b96-96b7
 vless://2ba86dd7-efb0-45b9-928c-962e73448ae1@test.m610.ir:56527?mode=gun&security=none&encryption=none&type=grpc# UN | test.m610.ir
 vless://c1ea5250-43d6-4f91-8d0f-64ed231cc559@pishgam.sdcards.ir:8080?path=/?ed=2087&security=none&encryption=none&host=pivaz-a.plas-nim.org&type=httpupgrade# UN | pishgam.sdcards.ir
