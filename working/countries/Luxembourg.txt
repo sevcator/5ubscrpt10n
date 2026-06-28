@@ -5,11 +5,6 @@ vmess://ewogICAgImFkZCI6ICIyMy4xMDkuMTM2Ljc0IiwKICAgICJhaWQiOiA2NCwKICAgICJob3N0
 vmess://ewogICAgImFkZCI6ICIxMDcuMTg5LjMxLjQxIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICI5ZTMxMmVmNS02ZDQwLTRmY2ItY2ViMy00YzdhNjliYmUwYjMiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvQEJhY2tkb3JfRmlsdGVyIiwKICAgICJwb3J0IjogMTIzNzgsCiAgICAicHMiOiAi8J+HsfCfh7pMVS0xMDcuMTg5LjMxLjQxLTU3MTkiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@92.38.163.53:989#%F0%9F%87%B1%F0%9F%87%BALU-92.38.163.53-9090
 vmess://eyJhZGQiOiIxODUuMjQ0LjIwOC4xOTYiLCJ2IjoyLCJwcyI6IvCfh7Hwn4e6X0xVX+WNouajruWgoV8yIiwicG9ydCI6IjgwODAiLCJpZCI6ImJkZDIyODQxLWM0ZDItNGFhOC1hY2YyLTk1YWE5MTI1ZjE1OSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwidGxzIjoidGxzIiwicGF0aCI6Ii8ifQ==
-vless://2bbcaede-7820-4a21-8357-c86aec278c4e@107.189.5.203:444?encryption=none&host=play.google.com&path=/A2&security=none&type=ws#LU_705_@Surfboardv2ray
-vless://2bbcaede-7820-4a21-8357-c86aec278c4e@107.189.5.203:444?encryption=none&host=play.google.com&path=/A2&security=none&type=ws#LU_706_@Surfboardv2ray
-vless://2bbcaede-7820-4a21-8357-c86aec278c4e@car2.carcloudsix.site:444?path=/A2&security=none&encryption=none&host=play.google.com&type=ws#LU_707_@Surfboardv2ray
-vless://2bbcaede-7820-4a21-8357-c86aec278c4e@car2.carcloudsix.site:444?path=/A2&security=none&encryption=none&host=play.google.com&type=ws#LU_708_@Surfboardv2ray
-vless://336ab676-47c5-4d11-99a2-29441457e94e@85.234.84.206:443?security=reality&encryption=none&pbk=m0laydpddP-MhAgDbMB_QGrSk4-nrIvDSoIHK_Q8Uy4&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=a796a1f52722b3a5#LU_834_@Surfboardv2ray
 trojan://3778399750324494336@content-shrimp.pigeon031.one:443#Luxembourg
 trojan://3747000103274291200@95.85.93.45:443?peer=simple-coyote.adder289.quest#Luxembourg
 trojan://3747000103274291200@awaited-chicken.adder289.quest:443#Luxembourg
