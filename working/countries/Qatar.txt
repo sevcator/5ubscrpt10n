@@ -1,1 +1,1 @@
-vless://8a18e162-d3af-4154-aa04-81a4c61a012a@FR4.IPSENTER.ORG:443?encryption=none&security=tls&type=ws&headerType=none&path=/&host=d20507eg53pait.cloudfront.net&sni=d20507eg53pait.cloudfront.net&fp=chrome#QA_1133_@Surfboardv2ray
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@156.244.43.22:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=r1.mizulina.top&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#QA-@VPNine1
