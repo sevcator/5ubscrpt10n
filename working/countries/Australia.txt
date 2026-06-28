@@ -1,4 +1,3 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@103.169.142.30:8880?type=ws&host=vms.lifetime38.workers.dev&path=#AU-@VPNine1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4ZnNjU0RjYi1TZUVxcVJiLm9telZHZ1ZnTnBYaDNiQTF1@67.219.106.119:26286#%3E%3E%40shadowproxy66%3A%3AAU
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUV0c3SjFLUjVLc1BhVjVxWkkrcmlldWVLeHhhZlpTcENI@45.77.232.213:15675#%3E%3E%40v2nodes%3A%3AAU
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiSU9vaTVUdUltRzJLY2N4VjctamNBN0Nleit2dW4tY19F@104.156.233.234:27116#%3E%3E%40oneclickvpnkeys%3A%3AAU
