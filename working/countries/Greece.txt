@@ -1,11 +1,7 @@
 trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.119:443?security=tls&headerType=none&type=tcp#%F0%9F%87%AC%F0%9F%87%B7GR%E5%B8%8C%E8%85%8A%201.1MB%2Fs
 trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.105:443?security=tls#%F0%9F%87%AC%F0%9F%87%B7GR%E5%B8%8C%E8%85%8A2
 trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.97:443?security=tls#%F0%9F%87%AC%F0%9F%87%B7GR%E5%B8%8C%E8%85%8A3%20805.4KB%2Fs
-trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.131:443?#%F0%9F%87%AC%F0%9F%87%B7GR%E5%B8%8C%E8%85%8A%203.9MB%2Fs
-trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.93:443?security=tls&type=tcp&sni=92.119.35.93#%F0%9F%87%AC%F0%9F%87%B7GR%E5%B8%8C%E8%85%8A2%203.4MB%2Fs
-trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.71:443?#%F0%9F%87%AC%F0%9F%87%B7GR%E5%B8%8C%E8%85%8A3%203.4MB%2Fs
-trojan://aR9EJWEB2Jp3m6xKJK=Ct7kLyqFSU-iDBR@92.119.35.117:443?#%F0%9F%87%AC%F0%9F%87%B7GR%E5%B8%8C%E8%85%8A4%204.3MB%2Fs
-trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.97:443?security=tls#%F0%9F%87%AC%F0%9F%87%B7GR%E5%B8%8C%E8%85%8A5%203.6MB%2Fs
+vless://a5c05c1e-aa68-443f-8598-09800244bd4b@91.186.216.62:443?encryption=none&type=ws&security=tls&path=/LiL?ed=2560&sni=kingcloud.biack.ir&alpn=h3&fp=chrome&insecure=1&allowInsecure=1#GR-@VPNine1
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.166.102:989#%F0%9F%87%AC%F0%9F%87%B7GR-192.71.166.102-5080
-vless://76c011aa-2303-43c8-98c3-0e5cf7f810ce@82.47.62.2:443?security=reality&encryption=none&pbk=w-dYZr1LgXZrZSJnc7kjXJC3jmC138M_IIp1NsApvlk&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=ign.com&sid=fe2e437f64f2da7a#GR_1539_@Surfboardv2ray
+vless://76c011aa-2303-43c8-98c3-0e5cf7f810ce@82.47.62.2:443?security=reality&encryption=none&pbk=w-dYZr1LgXZrZSJnc7kjXJC3jmC138M_IIp1NsApvlk&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=ign.com&sid=fe2e437f64f2da7a#GR_1529_@Surfboardv2ray
 vless://76c011aa-2303-43c8-98c3-0e5cf7f810ce@82.47.62.2:443?security=reality&encryption=none&pbk=w-dYZr1LgXZrZSJnc7kjXJC3jmC138M_IIp1NsApvlk&headerType=none&fp=qq&spx=/&type=tcp&flow=xtls-rprx-vision&sni=ign.com&sid=fe2e437f64f2da7a# GR | 82.47.62.2
