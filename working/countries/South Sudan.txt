@@ -719,34 +719,36 @@ ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@15.204.87.225:5003#%F0%9F%94%92%20SS-T
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.75.136.108:9101#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%BA%F0%9F%87%B8%20US-38.75.136.108%3A9101
 ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@2.58.87.221:16899#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%BA%F0%9F%87%B8%20US-2.58.87.221%3A16899
 ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@15.204.254.187:12000#[openproxylist.com] ss-GB
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0THVTUWx1V3MzbWVBeTV2T283aWta@80.208.229.172:443#[openproxylist.com] ss-LT
+ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@15.204.254.187:12000#[openproxylist.com] ss-
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0THVTUWx1V3MzbWVBeTV2T283aWta@80.208.229.172:443#[openproxylist.com] ss-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJLWJQM2xGaC5kVEczWGl0RjdYdFZLODNDWjdySTJVdD1u@45.32.122.179:23027#[openproxylist.com] ss-SG
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnV0JnbUtiOEFMMXVSSzBqWjQ0QW9PUGFDNWxWVE9IWm1p@91.108.254.104:13683#[openproxylist.com] ss-GB
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnV0JnbUtiOEFMMXVSSzBqWjQ0QW9PUGFDNWxWVE9IWm1p@91.108.254.104:13683#[openproxylist.com] ss-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyX05SZS0rV1JxMnpWcU1wQ25KdFRFU2xUOFd5ZmZIeUZ5@38.54.80.160:16292#[openproxylist.com] ss-PH
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg001286ek2.cybervena.com:50099#[openproxylist.com] ss-TW
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVazhsZm12aFlueDVySnZYeEtyUnFHUnluZDlnSXBKLmlZ@193.168.175.56:14605#[openproxylist.com] ss-IT
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVazhsZm12aFlueDVySnZYeEtyUnFHUnluZDlnSXBKLmlZ@103.240.147.113:14605#[openproxylist.com] ss-IT
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJSU14Rk15cTNGd3lQZDIxVUdXZ21OSkNBaVlOOW0ydk9v@91.108.254.252:18982#[openproxylist.com] ss-GB
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpid2pOUGN3Z3o1KzFnQ3lpK3JCK25mcXVndzM4Qjd0cVZh@38.180.221.145:17283#[openproxylist.com] ss-BR
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpid2pOUGN3Z3o1KzFnQ3lpK3JCK25mcXVndzM4Qjd0cVZh@38.180.221.143:17283#[openproxylist.com] ss-BR
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@103.106.231.82:5600#[openproxylist.com] ss-AU
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@154.223.16.96:6697#[openproxylist.com] ss-CO
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKeDJIS0pLN2tpdGk4NmU4QW5RSWJY@46.224.2.35:47199#[openproxylist.com] ss-DE
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.61:28061#[openproxylist.com] ss-
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoMkdOUDZ4enNzMHhRNWtmN0JOY0pJ@46.224.2.35:47199#[openproxylist.com] ss-DE
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.80:28061#[openproxylist.com] ss-IN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiSU9vaTVUdUltRzJLY2N4VjctamNBN0Nleit2dW4tY19F@104.156.233.234:27116#[openproxylist.com] ss-AU
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.179:8080#[openproxylist.com] ss-NL
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080#[openproxylist.com] ss-NL
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.208:8080#[openproxylist.com] ss-NL
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080#[openproxylist.com] ss-NL
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.192:8080#[openproxylist.com] ss-NL
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.213:8080#[openproxylist.com] ss-NL
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.189:8080#[openproxylist.com] ss-NL
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.181:8080#[openproxylist.com] ss-NL
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.216:8080#[openproxylist.com] ss-NL
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.207:8080#[openproxylist.com] ss-NL
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.204:8080#[openproxylist.com] ss-NL
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.193:8080#[openproxylist.com] ss-NL
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.212:8080#[openproxylist.com] ss-NL
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.190:8080#[openproxylist.com] ss-NL
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoUmQ9SVhram96TUVLTGVHUl8wcTA5anR3bHk1SjJsYTJP@172.234.202.34:24833#[openproxylist.com] ss-US
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#[openproxylist.com] ss-
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.24.73:443#[openproxylist.com] ss-GB
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#[openproxylist.com] ss-NL
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4ZnNjU0RjYi1TZUVxcVJiLm9telZHZ1ZnTnBYaDNiQTF1@67.219.106.119:26286#[openproxylist.com] ss-AU
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWSmVBamlKNDBGMklsMTdFbHYyODVX@141.227.152.129:8388#[openproxylist.com] ss-NL
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A@140.174.184.5:8388#[openproxylist.com] ss-ES
 ss://YWVzLTI1Ni1nY206MTIz@61.171.92.202:1001#[openproxylist.com] ss-CN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3U0VzdGRtTGhmLWFGS19HOWVhWUhLVF9ZcFNvdjU4Qg@45.10.41.129:51523#[openproxylist.com] ss-RU
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.17:8080#[openproxylist.com] ss-NL
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoa2FzYjVjVnJzNGpFMThqQ0VKeEI0R3I1NWhWR1cyNHkzNWdVOUdJSWV5VDMxRnc@213.226.68.8:31348#[openproxylist.com] ss-DE
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.68.134.191:443#%3a%e7%be%8e%e5%9b%bd-ss-38.68.134.191%3a443-%e5%8f%af%e7%94%a8-%e7%9b%b4%e8%bf%9e-%e4%b8%8d%e6%94%af%e6%8c%81Netflix
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@167.88.63.79:443#%3a%e7%be%8e%e5%9b%bd-ss-167.88.63.79%3a443-%e5%8f%af%e7%94%a8-%e7%9b%b4%e8%bf%9e-%e4%b8%8d%e6%94%af%e6%8c%81Netflix
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@167.88.62.68:443#%3a%e7%be%8e%e5%9b%bd-ss-167.88.62.68%3a443-%e5%8f%af%e7%94%a8-%e7%9b%b4%e8%bf%9e-%e4%b8%8d%e6%94%af%e6%8c%81Netflix

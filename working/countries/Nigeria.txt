@@ -79,7 +79,7 @@ vless://690b6997-198a-49d2-8cef-e4c70efc2288@104.21.75.46:443?path=%2F&security=
 vless://b3bd8d0e-3cbe-4241-a4f1-e3dd0a9e432c@104.16.75.224:443?path=%2Fpage%3D2&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=server-ir-3.ariyuz.org#%3E%3E%40v2ray1_ng%3A%3AXX
 vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@108.162.193.162:443?path=%2Fudfyfws&security=tls&encryption=none&host=octopusss5.info&type=ws&sni=octopusss5.info#%3E%3E%40v2ray1_ng%3A%3ADE
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.17.180.39:443?path=%2F&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#%3E%3E%40v2ray1_ng%3A%3AUS
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.255.123.90:989#%F0%9F%87%B3%F0%9F%87%ACNG-185.255.123.90-9453
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.255.123.90:989#%F0%9F%87%B3%F0%9F%87%ACNG-185.255.123.90-9341
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@8.35.211.241:443?path=%2Ffriend&security=tls&encryption=none&insecure=1&host=pagescm.freen11.cc.cd&fp=chrome&type=ws&allowInsecure=1&sni=pagescm.freen11.cc.cd#@v2ray_ng
 ss://ae0dd58e-e222-40bf-84ae-365a97532737@8.35.211.241:443?path=%2Ffriend&security=tls&encryption=none&insecure=1&host=pagescm.freen11.cc.cd&fp=chrome&type=ws&allowInsecure=1&sni=pagescm.freen11.cc.cd#@v2ray_ng
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@185.255.123.110:990#NG%20%20ROSE144
