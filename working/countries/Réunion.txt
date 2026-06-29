@@ -1,2 +1,1 @@
-vless://c357fdf5-1c83-491f-b8d0-237741344fee@blubank.ir:80?path=/&security=none&encryption=none&host=po.masterdadeh.ir&type=ws#more : @Qara_atayi || bluebank re-spoof
-vless://fce343d5-188f-4a5a-a508-830f39090909@blubank.ir:80?path=/&security=none&encryption=none&host=s3.tehranionliine.ir&type=ws#more : @Qara_atayi || bluebank re-spoof 2
+vless://t-me-V2RayyNGvpn@57.128.108.123:8080?security=reality&encryption=none&pbk=E8xVm7lghDmjDg-TakD5s3LHuX85VtTR4Wnk1yZZ4Gw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.oracle.com&sid=0866#France-RE
