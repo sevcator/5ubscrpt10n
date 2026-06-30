@@ -116,9 +116,6 @@ ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@211.178.105.134:6123#KR%20%20ROSE104
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@27.255.82.135:10727#KR%20%20ROSE197
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInBlYXNvZnQtNnzwn4ew8J+Ht19LUl/pn6nlm70tPvCfh7vwn4ezX1ZOX+i2iuWNly13b3JrZXItaXAiLA0KICAiYWRkIjogIm10bi5yYXlhbmNvbmYudGsiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiM2E0ZDRiNTItODFmZi00YWVhLWE0NTEtOTllZDQ1ODdiZmI0IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJyYXlhbmNvbmYucmF5YW5hbmRpc2htYW5kLndvcmtlcnMuZGV2IiwNCiAgInBhdGgiOiAiLzYud3V4aWFubGl1bGlhbm5nLnh5ejo0NDMvbXA0IiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogInJheWFuY29uZi5yYXlhbmFuZGlzaG1hbmQud29ya2Vycy5kZXYiLA0KICAiYWxwbiI6ICJoMixodHRwLzEuMSIsDQogICJmcCI6ICJpb3MiDQp9
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkFXUy1LciIsDQogICJhZGQiOiAianV6aTEuODJhLnh5eiIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICI2NGMxNGYwZi1iZGM2LTQyZDQtYTBjYy1iYWU0MDI5YmQzOTAiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImp1emkxLjgyYS54eXoiLA0KICAicGF0aCI6ICIvIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiINCn0=
-trojan://GKHWMe2R4qwNcNxu6l3KMkdd@121.178.83.161:26214?sni=vpn1.rnmcnm.com#%F0%9F%87%B0%F0%9F%87%B7KR%E9%9F%A9%E5%9B%BD
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@211.49.57.161:443?sni=hhcm.hhxaf.cc.cd#%F0%9F%87%B0%F0%9F%87%B7KR%E9%9F%A9%E5%9B%BD2
-trojan://GKHWMe2R4qwNcNxu6l3KMkdd@121.180.171.43:11310?sni=vpn1.rnmcnm.com#%F0%9F%87%B0%F0%9F%87%B7KR%E9%9F%A9%E5%9B%BD3
 trojan://3782591447421952000@sincere-stud.adder289.quest:443#South+Korea
 trojan://3747000103274291200@humble-rodent.treefrog761.one:443#South+Korea
 trojan://3747000103274291200@43.202.142.243:443?peer=humble-rodent.treefrog761.one#South+Korea
@@ -231,7 +228,7 @@ vless://9794d18f-9280-3553-a7a5-a23da75aca76@141.164.63.63:443?encryption=none&t
 trojan://t5FsyeQXkNCY6eVGiqBXmPu4..jBEpNbak@38.60.220.65:443?path=%2f#%f0%9f%87%b0%f0%9f%87%b7%20KR%201
 vmess://eyJ2IjpudWxsLCJwcyI6IvCfh7Dwn4e3IEtSIDIiLCJhZGQiOiIxNTIuNjcuMjE4LjM4IiwicG9ydCI6NDQzLCJpZCI6ImI1ZTk0ODBhLWI3YWEtNDBhNC1mOWE3LTUyOTliNWUzNjNiNCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjpudWxsLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6bnVsbCwiZnAiOm51bGx9
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7001#%f0%9f%87%b0%f0%9f%87%b7%20KR%203
-trojan://t5FsyeQXkNCY6eVGiqBXmPu4..jBEpNbak@38.60.220.65:443?allowInsecure=0&security=tls#[openproxylist.com] trojan-KR
+trojan://t5FsyeQXkNCY6eVGiqBXmPu4..jBEpNbak@38.60.220.65:443?security=tls#[openproxylist.com] trojan-KR
 trojan://R5ktplWYd5PU@43.203.193.132:14786?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#KR|GithubTrojanLinks
 trojan://zHckDvqHolUX@3.39.252.238:14825?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#KR|GithubTrojanLinks
 trojan://hFkaShOhZSdh@52.78.143.136:14787?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#KR|GithubTrojanLinks

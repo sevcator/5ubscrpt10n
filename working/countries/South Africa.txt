@@ -8,7 +8,6 @@ vmess://eyJwb3J0IjoiMzQ0OTciLCJmcCI6InJhbmRvbWl6ZWQiLCJhbHBuIjoiaDIsaHR0cFwvMS4x
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@41.203.4.34:989#%F0%9F%87%BF%F0%9F%87%A6ZA-41.203.4.34-0751
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233#%f0%9f%87%bf%f0%9f%87%a6%20ZA%201
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#%f0%9f%87%bf%f0%9f%87%a6%20ZA%202
-vless://43488128-319e-f480-64ea-0acdc712e2a8@139.84.236.5:443?security=reality&encryption=none&pbk=UkoqOh9VtAhhMrlKY3wAmijgjCrLIKMZT-An0NjrHng&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.alibaba.com&sid=8d17b7ebab7b99d7#[openproxylist.com] vless-ZA
 trojan://ks3og6wZ9kH8UJv1bmpvwXbfgDNNaTd1Lk@38.54.64.247:443?type=tcp&security=tls&headerType=none&sni=38.54.64.247&fp=chrome&insecure=1&allowInsecure=1#[openproxylist.com] trojan-ZA
 trojan://0f5e6d9a-49af-4bc0-b04b-503102382144@51.195.219.173:443?security=tls&sni=ukt1.sshocean.net#//South Africa/Johannesburg
 vmess://eyJ2IjogIjIiLCAicHMiOiAiUmVsYXlf8J+Hv/Cfh6ZaQS3wn4e68J+HuFVTXzE4MCIsICJhZGQiOiAiMTU2LjI1MS4xMzUuMTEiLCAicG9ydCI6IDUzMzAyLCAiYWlkIjogNjQsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCJ9
