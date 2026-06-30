@@ -8,8 +8,6 @@ vmess://eyJ2IjoiMiIsInBzIjoiVU4gNzYgVk1TIiwiYWRkIjoiZGUwMS1jZG4uYWlycG9ydC12Mi5j
 vmess://eyJ2IjoiMiIsInBzIjoiVU4gOTEgVk1TIiwiYWRkIjoiZ2l0aHViLnRoYXRmcmVlc2VydmljZXdoaWNoZXZlcnlvbmV1c2UudWsiLCJwb3J0IjoiMjA5NSIsInR5cGUiOiJub25lIiwiaWQiOiI4MjQxN2UxOC03MDIyLTQyMTUtOTk1Mi1mOTJkZWJmYzJlODIiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiJnaXRodWIudGhhdGZyZWVzZXJ2aWNld2hpY2hldmVyeW9uZXVzZS51ayIsInRscyI6IiJ9
 vless://xaw1YH4rtAsEfD7TJSMi5iRq5XMBaWWLxagqTQ6QxozicOrpaHgCobfAYrsVg0ZBSNZ8OMlj2G89gCu26YVgGtcu+uMXq+5d8DUayPzcnLcAwLwXiNrcAAUIJ313/wKC1m04FUeuZkTxkDvBKxeNWRjZ+O4e1Z9+yhb7yBFpHPo=# UN | xaw1YH4rtAsEfD7TJSMi5iRq5XMBaWWLxagqTQ6QxozicOrpaHgCobfAYrsVg0ZBSNZ8OMlj2G89gCu26YVgGtcu+uMXq+5d8DUayPzcnLcAwLwXiNrcAAUIJ313
 vless://xaw1YH4rtAsEfD7TJSMi5iRq5XMBaWWLxagqTQ6QxozicOrpaHgCobfAYrsVg0ZBMEBCxOVCeLT5ge5s6Mc/+dcu+uMXq+5d8DUayPzcnLcAwLwXiNrcAAUIJ313/wKC1m04FUeuZkTxkDvBKxeNWTdJDR3WlCQi9wCOfvZIiI0=# UN | xaw1YH4rtAsEfD7TJSMi5iRq5XMBaWWLxagqTQ6QxozicOrpaHgCobfAYrsVg0ZBMEBCxOVCeLT5ge5s6Mc
-vless://5ad9dd2c-7a04-4213-a28a-e68387c0fded@francer1.jobwebs.ir:2026?encryption=none&type=tcp&headerType=http&host=play.google.com# UN | francer1.jobwebs.ir
-vless://5ad9dd2c-7a04-4213-a28a-e68387c0fded@franced1.jobwebs.ir:56626?encryption=none&type=grpc&security=reality&mode=gun&sni=icloud.com&fp=firefox&insecure=1&allowInsecure=1&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&sid=b7c8604c2d6dbfd6# UN | franced1.jobwebs.ir
 vless://57e4c9a4-2673-40ee-a37a-e12f5623c058@vip-80.f-sub.cfd:1517?security=none&encryption=none&host=JouRNaloFbIgdATA.SpRinGeropEn.coM.&headerType=http&type=tcp# UN | vip-80.f-sub.cfd
 vless://6a5d1316-c0a6-4963-8ee1-e8b9b5f98c20@ercf-ma.rainzone.site:443?path=/45.76.183.217=49292&security=tls&encryption=none&insecure=0&host=delta090.qzz.io&type=ws&allowInsecure=0&sni=delta090.qzz.io# UN | ercf-ma.rainzone.site
 vless://53ec5fd1-fa25-41ff-bd25-fc24ca8e4d24@ert-4.v-sub.site:8880?path=/?ed=2080&security=none&encryption=none&host=norton-vip.cfd&type=httpupgrade# UN | ert-4.v-sub.site
@@ -30,12 +28,6 @@ vless://Telegram-Parsashonam@ip:443?security=reality&encryption=none&pbk=rd71EGp
 vless://c8b6a94f-eb38-4b68-9ae7-fadc7d690e16@mariz.kuckenpq.ir:8880?security=&encryption=none&host=zula.ir&headerType=http&type=tcp# UN | mariz.kuckenpq.ir
 vless://c8b6a94f-eb38-4b68-9ae7-fadc7d690e16@dlarm.kuckenpq.ir:8880?security=&encryption=none&host=zula.ir&headerType=http&type=tcp# UN | dlarm.kuckenpq.ir
 vless://651a858c-2975-4b96-96b7# UN | 651a858c-2975-4b96-96b7
-vless://8f67eced-52fc-483b-b471-681378824a60@snapp.ir:80?encryption=none&security=none&type=ws&host=tr.razmjou.com&path=/# UN | snapp.ir
-vless://aac66ab3-784b-4d51-b1ca-3edb25456209@66.92.161.181:31953?alpn=h2,http/1.1&encryption=none&fp=chrome&host=&path=/&security=tls&sni=&type=ws# UN | 66.92.161.181
-vless://403c1990-0922-43e9-9027-03ef38c92c87@72.56.245.170:40443?security=reality&encryption=none&pbk=Y15uAAl8fpWhma1FIWyZujgRKdwxYaaF4zIyWyu9vSo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=5cc0# UN | 72.56.245.170
-vless://659a9075-d5ab-4fd2-bf34-b37043fae832@104.16.72.70:443?path=/proxyip&security=tls&encryption=none&insecure=0&host=nbhhh.mrcool.kdns.fr&type=ws&allowInsecure=0&sni=nbhhh.mrcool.kdns.fr# UN | 104.16.72.70
-vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=/LiL?ed=2560&security=tls&alpn=h3&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=kingcloud.biack.ir# UN | 192.71.82.2
-vless://7153877e-dab2-4525-fa40-7e3f71dca814@91.107.254.105:2053?security=none&encryption=none&host=fast.com&headerType=http&type=tcp# UN | 91.107.254.105
 vless://c1ea5250-43d6-4f91-8d0f-64ed231cc559@pishgam.sdcards.ir:8080?path=/?ed=2087&security=none&encryption=none&host=pivaz-a.plas-nim.org&type=httpupgrade# UN | pishgam.sdcards.ir
 vless://b43f416d-0bb7-45d9-b3a4-0ccef14f1fbe@simonil.zarghamportal.ir:2095?path=/@iSpeedTopVPN?ed=80&security=none&encryption=none&host=shole.zarghamportal.ir&type=ws# UN | simonil.zarghamportal.ir
 vless://19ceb6c1-09df-479f-9d96-fcf92db6f5ca@de.play98.ir:1993?type=ws&encryption=none&path=/&host=&security=none# UN | de.play98.ir
