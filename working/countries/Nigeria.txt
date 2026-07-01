@@ -90,7 +90,7 @@ vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@news.microsoft.com:443?path=%2Fpoiu
 vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@162.159.38.119:443?path=%2Fsea%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=imblo.fastcitylab-byte.info&type=ws&allowInsecure=0&sni=imblo.fastcitylab-byte.info#v2ray1_ng%20%20VL-WS-N/A%20%20XX%208ms
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@fi.faygo.bot:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#v2ray1_ng%20%20VL-TCP-%20%20XX%20321ms
 vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@141.193.213.21:443?path=%2Fpoiuyws&security=tls&encryption=none&insecure=0&host=amoosamiii.net&type=ws&allowInsecure=0&sni=amoosamiii.net#v2ray1_ng%20%20VL-WS-N/A%20%20XX%2035ms
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.255.123.90:989#%F0%9F%87%B3%F0%9F%87%ACNG-185.255.123.90-9575
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.255.123.90:989#%F0%9F%87%B3%F0%9F%87%ACNG-185.255.123.90-9437
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@8.35.211.241:443?path=%2Ffriend&security=tls&encryption=none&insecure=1&host=pagescm.freen11.cc.cd&fp=chrome&type=ws&allowInsecure=1&sni=pagescm.freen11.cc.cd#@v2ray_ng
 ss://ae0dd58e-e222-40bf-84ae-365a97532737@8.35.211.241:443?path=%2Ffriend&security=tls&encryption=none&insecure=1&host=pagescm.freen11.cc.cd&fp=chrome&type=ws&allowInsecure=1&sni=pagescm.freen11.cc.cd#@v2ray_ng
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@185.255.123.110:990#NG%20%20ROSE144
