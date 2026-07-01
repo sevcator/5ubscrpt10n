@@ -1,3 +1,4 @@
+vmess://eyJhZGQiOiIxNDAuMjM4LjIuMjUwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQxYTcwODlhLTA0MGItNDUzOC04YjhkLTAxMDkwMjQwNWJkZSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiJLUiDwn4ew8J+HtyB8IEBSYXlkaWthbHggfCAyNTk3Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@158.179.174.225:36364?encryption=none&security=tls&sni=ylnhh.cc.cd&insecure=0&allowInsecure=0&type=ws&host=ylnhh.cc.cd&path=/Telegram@WangCai2#KR
 vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@118.42.204.220:12281?encryption=none&security=tls&sni=ylnhh.cc.cd&insecure=0&allowInsecure=0&type=ws&host=ylnhh.cc.cd&path=/Telegram@WangCai2#KR
 vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@119.195.168.105:10973?encryption=none&security=tls&sni=ylnhh.cc.cd&insecure=0&allowInsecure=0&type=ws&host=ylnhh.cc.cd&path=/Telegram@WangCai2#KR
@@ -111,6 +112,11 @@ ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@211.178.105.134:6123#KR%20%20ROSE104
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@27.255.82.135:10727#KR%20%20ROSE197
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInBlYXNvZnQtNnzwn4ew8J+Ht19LUl/pn6nlm70tPvCfh7vwn4ezX1ZOX+i2iuWNly13b3JrZXItaXAiLA0KICAiYWRkIjogIm10bi5yYXlhbmNvbmYudGsiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiM2E0ZDRiNTItODFmZi00YWVhLWE0NTEtOTllZDQ1ODdiZmI0IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJyYXlhbmNvbmYucmF5YW5hbmRpc2htYW5kLndvcmtlcnMuZGV2IiwNCiAgInBhdGgiOiAiLzYud3V4aWFubGl1bGlhbm5nLnh5ejo0NDMvbXA0IiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogInJheWFuY29uZi5yYXlhbmFuZGlzaG1hbmQud29ya2Vycy5kZXYiLA0KICAiYWxwbiI6ICJoMixodHRwLzEuMSIsDQogICJmcCI6ICJpb3MiDQp9
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkFXUy1LciIsDQogICJhZGQiOiAianV6aTEuODJhLnh5eiIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICI2NGMxNGYwZi1iZGM2LTQyZDQtYTBjYy1iYWU0MDI5YmQzOTAiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImp1emkxLjgyYS54eXoiLA0KICAicGF0aCI6ICIvIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiINCn0=
+vless://03d73bc8-01a9-46a7-90b9-3d27065ed328@101.33.75.233:39738?encryption=none&security=tls&sni=c.eoa.ccwu.cc&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=c.eoa.ccwu.cc&path=/#KR_178_@Surfboardv2ray
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@3.36.62.177:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f#KR_570_@Surfboardv2ray
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@54.180.82.126:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f#KR_571_@Surfboardv2ray
+vless://e6d8d743-a9bc-48c9-be99-8f3cc94d16e1@ako.pagate.top:443?encryption=none&flow=xtls-rprx-vision-udp443&type=raw&headerType=none&security=tls&fp=chrome&sni=ako.pagate.top#KR_3791_@Surfboardv2ray
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@158.247.198.196:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&insecure=1&allowInsecure=1&type=ws&host=t1s1.rittbo.kdns.fr&path=/#KR_3933_@Surfboardv2ray
 trojan://3782591447421952000@sincere-stud.adder289.quest:443#South+Korea
 trojan://3747000103274291200@humble-rodent.treefrog761.one:443#South+Korea
 trojan://3747000103274291200@43.202.142.243:443?peer=humble-rodent.treefrog761.one#South+Korea
@@ -231,7 +237,7 @@ vmess://eyJ2IjpudWxsLCJwcyI6IvCfh7Dwn4e3IEtSIDgiLCJhZGQiOiIxNTIuNjcuMjE4LjM4Iiwi
 trojan://t5FsyeQXkNCY6eVGiqBXmPu4..jBEpNbak@38.60.220.65:443?security=tls&sni=38.60.220.65&path=%2f#%f0%9f%87%b0%f0%9f%87%b7%20KR%209
 trojan://t5FsyeQXkNCY6eVGiqBXmPu4..jBEpNbak@38.60.220.65:443?security=tls&type=tcp&headerType=none&path=%2f&allow_insecure=0#%f0%9f%87%b0%f0%9f%87%b7%20KR%2010
 trojan://t5FsyeQXkNCY6eVGiqBXmPu4..jBEpNbak@38.60.220.65:443?security=tls&sni=38.60.220.65&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=0#%f0%9f%87%b0%f0%9f%87%b7%20KR%2011
-trojan://t5FsyeQXkNCY6eVGiqBXmPu4..jBEpNbak@38.60.220.65:443?fp=chrome&security=tls#[openproxylist.com] trojan-KR
+trojan://t5FsyeQXkNCY6eVGiqBXmPu4..jBEpNbak@38.60.220.65:443?allowInsecure=0&security=tls#[openproxylist.com] trojan-KR
 trojan://R5ktplWYd5PU@43.203.193.132:14786?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#KR|GithubTrojanLinks
 trojan://zHckDvqHolUX@3.39.252.238:14825?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#KR|GithubTrojanLinks
 trojan://hFkaShOhZSdh@52.78.143.136:14787?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#KR|GithubTrojanLinks
