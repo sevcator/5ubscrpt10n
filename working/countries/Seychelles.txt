@@ -148,7 +148,7 @@ trojan://kZSruDyvxP@45.130.125.2:443?type=ws&security=tls&path=/da&host=sk.farxm
 trojan://jZKsbuRpEB@45.130.125.2:443?type=ws&security=tls&path=/db&host=sl.farxmode.ir&sni=sl.farxmode.ir&fp=firefox&insecure=0&allowInsecure=0# SC | 45.130.125.2
 trojan://kZSruDyvxP@45.130.125.2:443?path=/da&security=tls&insecure=0&host=sk.farxmode.ir&fp=firefox&type=ws&allowInsecure=0&sni=sk.farxmode.ir# SC | 45.130.125.2
 ss://c35050ce-01ab-45a9-91b8-54cec637d0a8@45.130.125.229:443?path=/udfyfws&security=tls&encryption=none&insecure=0&host=octopusss5.info&type=ws&allowInsecure=0&sni=octopusss5.info# SC | 45.130.125.229
-vless://128d1209-9e9f-4952-9faf-df47ae3648d2@45.130.125.239:2087?security=tls&sni=HlEr2Pz1.maroVentA.infO&type=xhttp&host=HlEr2Pz1.maroVentA.infO&path=%2Fadycon&fp=firefox&allowInsecure=0# VL-XHTTP-TLS  SC-45.130.125.239:2087
 vless://128d1209-9e9f-4952-9faf-df47ae3648d2@45.130.125.239:8443?security=tls&sni=cHzoZ6DR.biGILiJOrDAN.InFo&type=xhttp&host=cHzoZ6DR.biGILiJOrDAN.InFo&path=%2Fadycon&fp=firefox&allowInsecure=0# VL-XHTTP-TLS  SC-45.130.125.239:8443
 vless://128d1209-9e9f-4952-9faf-df47ae3648d2@45.130.125.239:443?security=tls&sni=w8sDmPoC.tRivanorA.inFo&type=xhttp&host=w8sDmPoC.tRivanorA.inFo&path=%2Fadycon&fp=firefox&allowInsecure=0# VL-XHTTP-TLS  SC-45.130.125.239:443
+vless://128d1209-9e9f-4952-9faf-df47ae3648d2@45.130.125.239:2087?security=tls&sni=HlEr2Pz1.maroVentA.infO&type=xhttp&host=HlEr2Pz1.maroVentA.infO&path=%2Fadycon&fp=firefox&allowInsecure=0# VL-XHTTP-TLS  SC-45.130.125.239:2087
 vless://128d1209-9e9f-4952-9faf-df47ae3648d2@45.130.125.239:2096?security=tls&sni=Ori81JnB.BigILIjorDaN.InFo&type=xhttp&host=Ori81JnB.BigILIjorDaN.InFo&path=%2Fadycon&fp=firefox&allowInsecure=0# VL-XHTTP-TLS  SC-45.130.125.239:2096
