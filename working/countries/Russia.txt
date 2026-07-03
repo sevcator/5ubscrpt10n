@@ -303,6 +303,3 @@ vmess://eyJwcyI6ICLwn4em8J+Hti3luIzohYotYW9wLnNzZnJlZS5ydSIsICJhZGQiOiAiYW9wLnNz
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@ru.faygo.bot:443?encryption=none&type=tcp&security=reality&headerType=none&sni=enterprisekitten.com&fp=chrome&insecure=1&allowInsecure=1&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision# RU | 94.242.55.42
 vless://b6083a84-80a5-3e88-9dbb-5c8ef241be3a@158.160.250.45:443?security=reality&encryption=none&pbk=mDtiIWLFPJoPVrDLOCvKn6lvlS8r0TdRO9MxmmdIDmo&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=917fd5a45e8840# RU | 158.160.250.45
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=r1.mizulina.top&type=tcp# RU | 85.234.114.53
-vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@94.242.55.42:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2# RU | 94.242.55.42
-ss://YWVzLTI1Ni1nY206VWt3MmVVaERlVTg1VWxONVkwVlFUM1JTTW1oeU16TnpNR3B0WmpaYVIzVnphbk55V1ZoRmQyNTJkWHA1YkdFMFNHZDBhalZMYlU1cmJWQlRWV0l6ZWc9PQ@109.73.193.143:16224# RU | 109.73.193.143
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBMXRPRnJHU0RUd2xNZEtYVWljZWZ3@217.149.29.48:2050# RU | 217.149.29.48
