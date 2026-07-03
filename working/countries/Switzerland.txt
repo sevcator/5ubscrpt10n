@@ -7,6 +7,9 @@ vmess://ewogICAgImFkZCI6ICIxNDAuMjM4LjIxMi45NSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0
 trojan://SoftNetConnect@37.156.44.215:42549?security=tls#%F0%9F%87%A8%F0%9F%87%ADCH-37.156.44.215-2188
 trojan://8a03bc28-2a33-42c4-be59-30464dbb9954@ch12.yukiss.eu.org:18818?security=tls#%F0%9F%87%A8%F0%9F%87%ADCH-152.67.71.149-3833
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@156.146.62.160:443#%F0%9F%87%A8%F0%9F%87%ADCH-156.146.62.160-5404
+vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.160:8443?sni=storage.yandex.net&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%A8%F0%9F%87%ADCH_1%7C1.7MB/s
+vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.44:8443?allowInsecure=0&sni=storage.yandex.net&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%A8%F0%9F%87%ADCH_2%7C2.3MB/s
+vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.254:8443?sni=storage.yandex.net&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%A8%F0%9F%87%ADCH_3%7C2.0MB/s
 ss://YWVzLTEyOC1nY206cGhpem8wNDZzNG9xc20zM3Nmdm0@86.106.84.198:13265#CH%20%20ROSE86
 ss://YWVzLTEyOC1nY206a2Z1emt3ZGc0b3ludjQ5NWF5d2M@86.106.84.195:13262#CH%20%20ROSE108
 vmess://eyJhZGQiOiJBMkwuR0FNRUNFTlRFUlZJUC5TQlMiLCJhaWQiOiIxIiwiYWxwbiI6IiIsImZwIjoic2FmYXJpIiwiaG9zdCI6Im9waGVsaWEubW9tIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HrPCfh6cgQENIX0EyTCIsInNjeSI6ImF1dG8iLCJzbmkiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEub3BoZWxpYS5tb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
@@ -45,7 +48,6 @@ vmess://ewogICAgImFkZCI6ICIxODYuMTkwLjIxNS43NSIsCiAgICAiYWlkIjogMSwKICAgICJob3N0
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@156.146.62.160:443#%F0%9F%87%A8%F0%9F%87%ADCH-156.146.62.160-0728
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@84.17.53.163:80#%F0%9F%87%A8%F0%9F%87%AD_CH_%E7%91%9E%E5%A3%AB
 vless://5b2b6e7a-fc72-4823-9ee5-733ec0b6a882@45.90.57.107:80?encryption=none&security=none&type=ws&host=ch1.v2vless.xyz&path=%2Fvless#Mahsa%2B%3A%2B%F0%9F%87%A8%F0%9F%87%AD%2BSwitzerland
-vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.224:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=chrome&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&sid=e3d38cee79d4f94c&type=tcp&headerType=none#[openproxylist.com] vless-CH
 vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HqPCfh61DSC00NS45MC41OS4xODYtMzU4NCIsICJhZGQiOiAiNDUuOTAuNTkuMTg2IiwgInBvcnQiOiAxMDAwMCwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiNzIzNWFlOGUtYzExNS0xMWVkLThmYWYtMjM1NmQxNzBlYWYzIiwgInNuaSI6ICIiLCAicGF0aCI6ICIvdnBuamFudGl0In0=
 vmess://eyJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJwcyI6ICJcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgtXHU3ZjhlXHU1NmZkLTM0Y2gubmV0d29ya2xpbmtwcm8ubmV0IiwgIm5ldCI6ICJ3cyIsICJwb3J0IjogIjE1MzU3IiwgImFkZCI6ICIzNGNoLm5ldHdvcmtsaW5rcHJvLm5ldCIsICJza2lwLWNlcnQtdmVyaWZ5IjogInRydWUiLCAidGxzIjogImZhbHNlIiwgInR5cGUiOiAibm9uZSIsICJ1ZHAiOiAidHJ1ZSIsICJpZCI6ICI1MDQ1MmYzZS1mOTA0LTQyYjAtYTIxZi1hNjkwNTUyYmI0ZjYiLCAid3Mtb3B0cyI6ICIiLCAiaGVhZGVycyI6ICIiLCAiaG9zdCI6ICIzNGNoLm5ldHdvcmtsaW5rcHJvLm5ldCIsICJwYXRoIjogIi8ifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh60g55Ge5aOrQ0giLCJhZGQiOiI1LjE4Mi4zNi4xOTkiLCJwb3J0IjoiNjYxNiIsInR5cGUiOiJub25lIiwiaWQiOiI0NTlkMjNmNC1kY2ZkLTRmZWYtOWJhMy1lZjBhZDEwZmMzMzYiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
