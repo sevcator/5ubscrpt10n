@@ -3,7 +3,7 @@ vless://4a836d89-0655-4c77-9702-b47219afaa5d@kim2.wiziii.xyz:2083?encryption=non
 vmess://ewogICAgImFkZCI6ICIxNDEuMTEuMjUyLjY0IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICJiN2IyMzJkMS03OWFlLTRmYjEtOGZkYi02ZjBiZGM4YTQxZWUiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvYjdiMjMyZDEiLAogICAgInBvcnQiOiAyMDYzMCwKICAgICJwcyI6ICLwn4e68J+HplVBLTE0MS4xMS4yNTIuNjQtODQ2MSIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@5.188.6.8:989#%F0%9F%87%BA%F0%9F%87%A6UA-5.188.6.8-9156
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzaHdvZ2hSaWE=@195.28.182.217:51348#%F0%9F%87%BA%F0%9F%87%A6UA-195.28.182.217-9420
-vless://4a836d89-0655-4c77-9702-b47219afaa5d@kim2.wiziii.xyz:2083?mode=auto&path=/&security=tls&encryption=none&insecure=0&host=pin4.jafarparty.lat&fp=chrome&type=xhttp&allowInsecure=0&sni=pin4.jafarparty.lat#UA_1313_@Surfboardv2ray
+vless://4a836d89-0655-4c77-9702-b47219afaa5d@kim2.wiziii.xyz:2083?mode=auto&path=/&security=tls&encryption=none&insecure=0&host=pin4.jafarparty.lat&fp=chrome&type=xhttp&allowInsecure=0&sni=pin4.jafarparty.lat#UA_1312_@Surfboardv2ray
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@5.188.6.8:989#%F0%9F%87%BA%F0%9F%87%A6UA-5.188.6.8-0740
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@45.80.111.198:443?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#%f0%9f%87%ba%f0%9f%87%a6+UA+%e4%b9%8c%e5%85%8b%e5%85%b0+75
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@45.80.111.38:2096?encryption=none&security=tls&type=ws&sni=juzibaipiao.5112233.xyz&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#%F0%9F%87%BA%F0%9F%87%A6_UA_%E4%B9%8C%E5%85%8B%E5%85%B0_15

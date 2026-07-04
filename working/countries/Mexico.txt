@@ -1,10 +1,9 @@
 vmess://ewogICAgImFkZCI6ICIxMzEuMTk2LjI1Mi41OSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiNTgwOTkxMWEtYTE2ZS00M2QzLTkwYjAtMmM5NGNmYzIwMzVlIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDIwNTIxLAogICAgInBzIjogIvCfh7Lwn4e9TVgtMTMxLjE5Ni4yNTIuNTktMDIyOSIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@190.103.179.23:989#%F0%9F%87%B2%F0%9F%87%BDMX-190.103.179.23-5458
 vmess://eyJwcyI6ICJcdWQ4M2NcdWRkZjJcdWQ4M2NcdWRkZmQgY29ubmVjdG9uLW14MSIsICJhZGQiOiAibXgxLmNvbm5lY3Rvbi5zdXJmIiwgInBvcnQiOiAiNDQzIiwgImlkIjogImY2MWZiNDk0LTUyMzMtNDE5ZS04NDNkLTE1NjBmNGVhYzY2NyIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJteDEuY29ubmVjdG9uLnN1cmYiLCAic25pIjogIm14MS5jb25uZWN0b24uc3VyZiIsICJwYXRoIjogInZtZXNzIiwgInRscyI6ICJ0bHMiLCAiYWxwbiI6ICJoMixodHRwLzEuMSIsICJhbGxvd0luc2VjdXJlIjogZmFsc2UsICJ2MiI6ICIyIiwgInByb3RvY29sIjogInZtZXNzIn0=
-vless://T-ME-V2RayyNGvpn@216.238.94.140:2053?security=reality&encryption=none&pbk=v74ad7EBU3cwitC9ErbaEmuQBFUrUkDxJaXzM7y_nHk&headerType=none&fp=chrome&spx=/k6cL9IoX6o89Mfb&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com&sid=957b#MX_2799_@Surfboardv2ray
-vless://f40e17fc-2718-4e4a-ac29-ba7e28dd3164@216.238.94.140:8880?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=none&encryption=none&host=t.codmgiftcp.com&type=ws#MX_4331_@Surfboardv2ray
-vless://f40e17fc-2718-4e4a-ac29-ba7e28dd3164@216.238.94.140:8880?path=/t-me-V2RayyNGvpn&security=none&encryption=none&host=t.codmgiftcp.com&type=ws#MX_4332_@Surfboardv2ray
-vless://f40e17fc-2718-4e4a-ac29-ba7e28dd3164@216.238.94.140:8880?path=/t-me-V2RayyNGvpn&security=none&encryption=none&host=t.codmgiftcp.com&type=ws#MX_4333_@Surfboardv2ray
+vless://T-ME-V2RayyNGvpn@216.238.94.140:2053?security=reality&encryption=none&pbk=v74ad7EBU3cwitC9ErbaEmuQBFUrUkDxJaXzM7y_nHk&headerType=none&fp=chrome&spx=/k6cL9IoX6o89Mfb&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com&sid=957b#MX_2870_@Surfboardv2ray
+vless://f40e17fc-2718-4e4a-ac29-ba7e28dd3164@216.238.94.140:8880?path=/t-me-V2RayyNGvpn&security=none&encryption=none&host=t.codmgiftcp.com&type=ws#MX_4269_@Surfboardv2ray
+vless://f40e17fc-2718-4e4a-ac29-ba7e28dd3164@216.238.94.140:8880?path=/t-me-V2RayyNGvpn&security=none&encryption=none&host=t.codmgiftcp.com&type=ws#MX_4270_@Surfboardv2ray
 trojan://3747000103274291200@grateful-glowworm.treefrog761.one:443#Mexico
 trojan://3747000103274291200@216.238.77.127:443?peer=grateful-glowworm.treefrog761.one#Mexico
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@190.103.179.23:989#%F0%9F%87%B2%F0%9F%87%BDMX-190.103.179.23-0779
