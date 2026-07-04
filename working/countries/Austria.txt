@@ -24,6 +24,6 @@ trojan://BSs5IAVMQdYuykvDsOYZoa6gNPSGBjAbLL@185.126.236.44:443?security=tls&sni=
 trojan://BSs5IAVMQdYuykvDsOYZoa6gNPSGBjAbLL@185.126.236.44:443?security=tls&sni=www.mesaly.click&fp=chrome&type=tcp&path=%2f#%f0%9f%87%a6%f0%9f%87%b9%20AT%2011
 trojan://BSs5IAVMQdYuykvDsOYZoa6gNPSGBjAbLL@185.126.236.44:443?sni=www.mesaly.click&fp=chrome&type=tcp&path=%2f#%f0%9f%87%a6%f0%9f%87%b9%20AT%2012
 trojan://BSs5IAVMQdYuykvDsOYZoa6gNPSGBjAbLL@185.126.236.44:443?sni=www.mesaly.click&fp=chrome&path=%2f#%f0%9f%87%a6%f0%9f%87%b9%20AT%2013
-vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@77.73.131.154:443?type=tcp&headerType=none&security=reality&encryption=none&sni=vindobona.org&fp=firefox&pbk=5GhMSJXQv1wXHVD999YHRRj83m-7VKH8qb_vTxBGbng&sid=08&spx=%2F&flow=xtls-rprx-vision#[openproxylist.com] vless-AT
+vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@77.73.131.154:443?security=reality&encryption=none&pbk=5GhMSJXQv1wXHVD999YHRRj83m-7VKH8qb_vTxBGbng&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=vindobona.org&sid=08#[openproxylist.com] vless-AT
 vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@77.73.131.154:443?security=reality&encryption=none&pbk=5GhMSJXQv1wXHVD999YHRRj83m-7VKH8qb_vTxBGbng&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=vindobona.org&sid=08#/Austria
 vmess://eyJ2IjogIjIiLCAicHMiOiAiUmVsYXkg8J+HpvCfh7kgQXVzdHJpYShDaGF0R1BUKSAwLi4uIiwgImFkZCI6ICIxMTcuMTY0LjE4NS4yMjEiLCAicG9ydCI6ICIxNjMwOCIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImMwMGYyOGM0LTUzMTItMzA0MS04ZGJjLWNiOGQ5Yjk4Zjg2MiJ9
