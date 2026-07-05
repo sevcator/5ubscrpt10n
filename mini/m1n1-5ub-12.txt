@@ -1,41 +1,3 @@
-trojan://bpb-trojan@172.67.209.80:443?sni=403b3611-99Bc-43b7-88D7-26ED5d0825a9-3.pAgeS.Dev&allowInsecure=0# By EbraSha 
-trojan://bpb-trojan@172.67.213.179:443/?type=tcp&security=tls&sni=bpb.my79801.com&allowInsecure=1# By EbraSha 
-trojan://bpb-trojan@172.67.228.31:443/?type=tcp&security=tls&sni=bpb.my79801.com&allowInsecure=1# By EbraSha 
-trojan://bpb-trojan@172.67.238.207:443/?type=tcp&security=tls&sni=bpb.my79801.com&allowInsecure=1# By EbraSha 
-trojan://bpb-trojan@172.67.243.254:443/?type=tcp&security=tls&sni=bpb.my79801.com# By EbraSha 
-trojan://bpb-trojan@172.67.243.254:443/?type=tcp&security=tls&sni=bpb.my79801.com&allowInsecure=1# By EbraSha 
-trojan://bpb-trojan@172.67.246.161:443/?type=tcp&security=tls&sni=bpb.my79801.com# By EbraSha 
-trojan://bpb-trojan@172.67.70.92:443/?type=ws&host=zamim340.ggff.net&path=%2Ftr%3Fed%3D2560&security=tls&sni=zamim340.ggff.net# By EbraSha 
-trojan://bpb-trojan@172.67.75.172:443/?type=tcp&security=tls&sni=g1-21n.PaGes.dEV&allowInsecure=1# By EbraSha 
-trojan://bpb-trojan@173.245.59.182:443?security=tls&type=ws&sni=fcspring.ggff.net&path=/tr?ed&host=fcspring.ggff.net# By EbraSha 
-trojan://bpb-trojan@185.148.104.251:443/?type=tcp&security=tls&sni=bpb.my79801.com# By EbraSha 
-trojan://bpb-trojan@185.159.247.248:443/?type=tcp&security=tls&sni=bpb.my79801.com&allowInsecure=1# By EbraSha 
-trojan://bpb-trojan@185.174.138.239:443/?type=ws&host=bpb.my79801.com&path=%2Ftr&security=tls&sni=bpb.my79801.com&allowInsecure=1# By EbraSha 
-trojan://bpb-trojan@185.176.24.2:443/?type=ws&host=403b3611-99bc-43b7-88d7-26ed5d0825a9-3.pages.dev&security=tls&sni=403B3611-99bc-43B7-88d7-26ed5d0825a9-3.PaGes.deV# By EbraSha 
-trojan://bpb-trojan@185.176.24.2:443?path=%2Ftr9vfP2lflALkJrNsQ%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&host=403b3611-99bc-43b7-88d7-26ed5d0825a9-3.pages.dev&fp=randomized&type=ws&sni=403B3611-99bc-43B7-88d7-26ed5d0825a9-3.PaGes.deV# By EbraSha 
-trojan://bpb-trojan@185.176.24.2:443?path=%2Ftr9vfP2lflALkJrNsQ%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=403b3611-99bc-43b7-88d7-26ed5d0825a9-3.pages.dev&fp=randomized&type=ws&sni=403B3611-99bc-43B7-88d7-26ed5d0825a9-3.PaGes.deV# By EbraSha 
-trojan://bpb-trojan@185.176.24.2:443?security=tls&sni=403B3611-99bc-43B7-88d7-26ed5d0825a9-3.PaGes.deV&type=ws&host=403b3611-99bc-43b7-88d7-26ed5d0825a9-3.pages.dev&path=%2Ftr9vfP2lflALkJrNsQ%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1# By EbraSha 
-trojan://bpb-trojan@185.176.24.2:443?security=tls&type=ws&sni=403B3611-99bc-43B7-88d7-26ed5d0825a9-3.PaGes.deV&path=/tr9vfP2lflALkJrNsQ?ed=2560&host=403b3611-99bc-43b7-88d7-26ed5d0825a9-3.pages.dev# By EbraSha 
-trojan://bpb-trojan@185.238.228.210:443/?type=tcp&security=tls&sni=bpb.my79801.com# By EbraSha 
-trojan://bpb-trojan@185.238.228.210:443/?type=tcp&security=tls&sni=bpb.my79801.com&allowInsecure=1# By EbraSha 
-trojan://bpb-trojan@185.238.228.6:443/?type=tcp&security=tls&sni=403b3611-99bc-43b7-88D7-26Ed5D0825a9-3.PAgeS.dEv# By EbraSha 
-trojan://bpb-trojan@185.238.228.6:443?path=%2FtrLb1imnrxPEhfzfwk%3Fed&security=tls&alpn=h2,http/1.1&host=403b3611-99bc-43b7-88d7-26ed5d0825a9-3.pages.dev&fp=randomized&type=ws&sni=403b3611-99bc-43b7-88D7-26Ed5D0825a9-3.PAgeS.dEv# By EbraSha 
-trojan://bpb-trojan@185.238.228.6:443?security=tls&sni=403b3611-99bc-43b7-88D7-26Ed5D0825a9-3.PAgeS.dEv&type=ws&host=403b3611-99bc-43b7-88d7-26ed5d0825a9-3.pages.dev&path=%2FtrLb1imnrxPEhfzfwk%3Fed&fp=randomized&alpn=h2,http/1.1# By EbraSha 
-trojan://bpb-trojan@188.114.96.16:443/?type=tcp&security=tls&sni=403B3611-99bC-43b7-88D7-26Ed5d0825A9-3.pAgeS.DeV# By EbraSha 
-trojan://bpb-trojan@188.114.96.16:443?security=tls&sni=403B3611-99bC-43b7-88D7-26Ed5d0825A9-3.pAgeS.DeV&type=ws&host=403b3611-99bc-43b7-88d7-26ed5d0825a9-3.pages.dev# By EbraSha 
-trojan://bpb-trojan@188.114.96.16:443?security=tls&type=ws&sni=403B3611-99bC-43b7-88D7-26Ed5d0825A9-3.pAgeS.DeV&host=403b3611-99bc-43b7-88d7-26ed5d0825a9-3.pages.dev# By EbraSha 
-trojan://bpb-trojan@188.114.96.245:443/?type=tcp&security=tls&sni=fcspring.ggff.net# By EbraSha 
-trojan://bpb-trojan@188.114.96.34:443/?type=ws&host=fcspring.ggff.net&path=%2Ftr%3Fed&security=tls&sni=fcspring.ggff.net# By EbraSha 
-trojan://bpb-trojan@188.114.97.123:443/?type=tcp&security=tls&sni=adagio.us.kg# By EbraSha 
-trojan://bpb-trojan@188.114.97.123:443?sni=adagio.us.kg# By EbraSha 
-trojan://bpb-trojan@188.114.97.159:2053?security=tls&sni=BPB-worKEr-pANel1-E4p.PAgES.Dev&type=ws&host=bpb-worker-panel1-e4p.pages.dev&path=%2Ftr9pU4LSFNK5k8URSo%2FZGUucmFkaWNhbGx5LnBybw%3D%3D&alpn=http/1.1# By EbraSha 
-trojan://bpb-trojan@188.114.97.36:443/?type=tcp&security=tls&sni=fcspring.ggff.net# By EbraSha 
-trojan://bpb-trojan@188.114.97.3:443/?type=tcp&security=tls&sni=bPb-WORker-PanEL-aY6.PagEs.Dev# By EbraSha 
-trojan://bpb-trojan@188.114.97.3:443?security=tls&sni=bPb-WORker-PanEL-aY6.PagEs.Dev&type=ws&host=bpb-worker-panel-ay6.pages.dev&path=%2FtrpT7H3Np6SuI5vtkE%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1# By EbraSha 
-trojan://bpb-trojan@188.114.97.88:2053/?type=ws&host=g1-21n.pages.dev&security=tls&sni=G1-21N.paGEs.dev# By EbraSha 
-trojan://bpb-trojan@188.114.98.138:2053/?type=ws&host=g1-21n.pages.dev&security=tls&sni=G1-21N.paGEs.dev# By EbraSha 
-trojan://bpb-trojan@188.114.98.138:2053?security=tls&type=ws&sni=G1-21N.paGEs.dev&path=/traV0kgCnzWDCx27E2/ZGUucmFkaWNhbGx5LnBybw==&host=g1-21n.pages.dev# By EbraSha 
-trojan://bpb-trojan@188.114.98.23:443/?type=tcp&security=tls&sni=fcspring.ggff.net# By EbraSha 
 trojan://bpb-trojan@188.114.98.253:443/?type=ws&host=fcspring.ggff.net&path=%2Ftr%3Fed&security=tls&sni=fcspring.ggff.net# By EbraSha 
 trojan://bpb-trojan@188.114.98.89:443/?type=tcp&security=tls&sni=bpB-woRker-PanEL-AY6.pagEs.dev# By EbraSha 
 trojan://bpb-trojan@188.114.98.89:443?security=tls&sni=bpB-woRker-PanEL-AY6.pagEs.dev&type=ws&host=bpb-worker-panel-ay6.pages.dev&path=%2FtrBLUKS93cpgZZCas5%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1# By EbraSha 
@@ -901,6 +863,7 @@ trojan://d02058f4f819dced@5.44.249.155:3389# By EbraSha
 trojan://d02058f4f819dced@5.44.249.157:3389# By EbraSha 
 trojan://d0298536-d670-4045-bbb1-ddd5ea68683e@104.19.173.68:443?security=tls&sni=azadnet-5vk.pages.dev&type=ws&path=%2Fazadnet-5vk.pages.dev%2F%3Fed%3D2560%26PROT_TYPE%3Dtrojan&fp=randomized# By EbraSha 
 trojan://d0298536-d670-4045-bbb1-ddd5ea68683e@104.19.173.68:443?sni=azadnet-5vk.pages.dev&type=ws&path=/azadnet-5vk.pages.dev/?ed=2560&PROT_TYPE=trojan# By EbraSha 
+trojan://d0298536-d670-4045-bbb1-ddd5ea68683e@104.19.173.68:443?sni=azadnet-5vk.pages.dev&type=ws&path=/azadnet-5vk.pages.dev/?ed=2560&PROT_TYPE=trojan&host=azadnet-5vk.pages.dev# By EbraSha 
 trojan://d0298536-d670-4045-bbb1-ddd5ea68683e@104.19.174.68:443?allowInsecure=0&sni=azadnet-5vk.pages.dev&type=ws&path=/azadnet-5vk.pages.dev/?ed=2560&PROT_TYPE=trojan# By EbraSha 
 trojan://d0298536-d670-4045-bbb1-ddd5ea68683e@104.19.174.68:443?security=tls&sni=azadnet-5vk.pages.dev&type=ws&path=%2Fazadnet-5vk.pages.dev%2F%3Fed%3D2560%26PROT_TYPE%3Dtrojan&fp=randomized# By EbraSha 
 trojan://d0298536-d670-4045-bbb1-ddd5ea68683e@104.19.174.68:443?sni=azadnet-5vk.pages.dev&type=ws&path=/azadnet-5vk.pages.dev/?ed=2560# By EbraSha 
@@ -2089,12 +2052,14 @@ trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.145:443?type=tcp&securit
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.149:443# By EbraSha 
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.149:443/?type=tcp&security=tls# By EbraSha 
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.149:443/?type=tcp&security=tls&sni=185.137.157.149# By EbraSha 
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.149:443?allowInsecure=0# By EbraSha 
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.149:443?allowInsecure=0&sni=185.137.157.149# By EbraSha 
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.149:443?fp=chrome&security=tls&sni=185.137.157.149&type=tcp# By EbraSha 
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.149:443?security=tls# By EbraSha 
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.149:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0# By EbraSha 
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.149:443?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none# By EbraSha 
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.149:443?security=tls&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0&sni=185.137.157.149# By EbraSha 
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.149:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=185.137.157.149# By EbraSha 
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.149:443?security=tls&path=%2f# By EbraSha 
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.149:443?security=tls&path=/# By EbraSha 
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.149:443?security=tls&sni=185.137.157.149&fp=chrome&type=tcp&path=%2f# By EbraSha 
@@ -4276,6 +4241,7 @@ trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@sub.danfeng.eu.org:443?security=tl
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@sub.danfeng.eu.org:443?security=tls&type=ws&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query&sni=tjsp.hhxaf.cc.cd&fp=chrome&sni=tjsp.hhxaf.cc.cd&path=/# By EbraSha 
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@tjsp.hhxaf.cc.cd:443/?type=ws&path=%2F&security=tls# By EbraSha 
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@tjsp.hhxaf.cc.cd:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2F&security=tls&insecure=0&type=ws&allowInsecure=0&sni=# By EbraSha 
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@tjsp.hhxaf.cc.cd:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&allowInsecure=0&path=/&security=tls&sni=&type=ws# By EbraSha 
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@tjsp.hhxaf.cc.cd:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2F&security=tls&insecure=0&type=ws&allowInsecure=0&sni=# By EbraSha 
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@tjsp.hhxaf.cc.cd:443?allowInsecure=0&path=%2F&security=tls&sni=tjsp.hhxaf.cc.cd&type=ws# By EbraSha 
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@tjsp.hhxaf.cc.cd:443?allowInsecure=0&path=/&security=tls&sni=tjsp.hhxaf.cc.cd&type=ws# By EbraSha 
@@ -5044,6 +5010,7 @@ trojan://f922fa0f-3311-4368-85ff-cf65e727c854@104.17.121.43:443?security=tls&sni
 trojan://f922fa0f-3311-4368-85ff-cf65e727c854@104.17.121.43:443?security=tls&sni=space.byu.id.yxls.eu.cc&type=ws&path=/br-orcl&Host=space.byu.id.yxls.eu.cc# By EbraSha 
 trojan://f922fa0f-3311-4368-85ff-cf65e727c854@104.17.121.43:443?security=tls&type=ws&sni=space.byu.id.yxls.eu.cc&path=/br-orcl&host=space.byu.id.yxls.eu.cc# By EbraSha 
 trojan://f922fa0f-3311-4368-85ff-cf65e727c854@104.17.121.43:443?sni=space.byu.id.yxls.eu.cc&allowInsecure=0&path=%2Fbr-orcl&security=tls&type=ws&host=space.byu.id.yxls.eu.cc&insecure=0# By EbraSha 
+trojan://f922fa0f-3311-4368-85ff-cf65e727c854@104.17.121.43:443?sni=space.byu.id.yxls.eu.cc&type=ws&path=%2Fbr-orcl&fp=chrome# By EbraSha 
 trojan://f922fa0f-3311-4368-85ff-cf65e727c854@104.17.121.43:443?type=ws&host=space.byu.id.yxls.eu.cc&path=%2Fbr-orcl&security=tls&sni=space.byu.id.yxls.eu.cc# By EbraSha 
 trojan://f922fa0f-3311-4368-85ff-cf65e727c854@104.18.153.10:443?path=%2Fbr-orcl&security=tls&host=space.byu.id.yxls.eu.cc&type=ws&sni=space.byu.id.yxls.eu.cc# By EbraSha 
 trojan://f922fa0f-3311-4368-85ff-cf65e727c854@104.18.153.10:443?path=%2Fbr-orcl&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc# By EbraSha 
@@ -5068,6 +5035,7 @@ trojan://f922fa0f-3311-4368-85ff-cf65e727c854@141.193.213.30:443?path=/br-orcl&a
 trojan://f922fa0f-3311-4368-85ff-cf65e727c854@141.193.213.30:443?path=/br-orcl&security=tls&host=space.byu.id.yxls.eu.cc&type=ws&sni=space.byu.id.yxls.eu.cc# By EbraSha 
 trojan://f922fa0f-3311-4368-85ff-cf65e727c854@141.193.213.30:443?path=/br-orcl&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc# By EbraSha 
 trojan://f922fa0f-3311-4368-85ff-cf65e727c854@141.193.213.30:443?security=tls&sni=space.byu.id.yxls.eu.cc&type=ws&path=/br-orcl&Host=space.byu.id.yxls.eu.cc# By EbraSha 
+trojan://f922fa0f-3311-4368-85ff-cf65e727c854@141.193.213.30:443?sni=space.byu.id.yxls.eu.cc&type=ws&path=%2Fbr-orcl&fp=chrome# By EbraSha 
 trojan://f922fa0f-3311-4368-85ff-cf65e727c854@141.193.213.30:443?type=ws&host=space.byu.id.yxls.eu.cc&path=%2Fbr-orcl&security=tls&sni=space.byu.id.yxls.eu.cc# By EbraSha 
 trojan://f922fa0f-3311-4368-85ff-cf65e727c854@172.66.171.48:443?fp=chrome&path=%2Fbr-orcl&type=ws# By EbraSha 
 trojan://f922fa0f-3311-4368-85ff-cf65e727c854@172.66.171.48:443?fp=chrome&path=/br-orcl&type=ws# By EbraSha 
@@ -5693,6 +5661,7 @@ trojan://humanity@104.16.174.121:443?security=tls&sni=www.ignitelimit.com&type=w
 trojan://humanity@104.16.174.121:443?security=tls&type=ws&host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com# By EbraSha 
 trojan://humanity@104.16.174.121:443?security=tls&type=ws&host=www.ignitelimit.com&path=/assignment&sni=www.ignitelimit.com# By EbraSha 
 trojan://humanity@104.16.174.121:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment&host=www.ignitelimit.com# By EbraSha 
+trojan://humanity@104.16.174.121:443?sni=www.ignitelimit.com&type=ws&path=%2Fassignment&fp=chrome# By EbraSha 
 trojan://humanity@104.16.174.121:443?type=ws&security=tls&path=%2Fassignment&host=www.ignitelimit.com&sni=www.ignitelimit.com&insecure=0&allowInsecure=0# By EbraSha 
 trojan://humanity@104.16.174.121:443?type=ws&security=tls&path=/assignment&host=www.ignitelimit.com&sni=www.ignitelimit.com&insecure=0&allowInsecure=0# By EbraSha 
 trojan://humanity@104.16.174.124:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com# By EbraSha 
@@ -5773,6 +5742,7 @@ trojan://humanity@104.16.174.33:443/?type=ws&host=www.calmloud.com&path=%2Fassig
 trojan://humanity@104.16.174.33:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com# By EbraSha 
 trojan://humanity@104.16.174.33:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com# By EbraSha 
 trojan://humanity@104.16.174.33:443?sni=www.calmloud.com&type=ws&path=%2Fassignment&alpn=http%2F1.1&fp=chrome# By EbraSha 
+trojan://humanity@104.16.174.33:443?sni=www.calmloud.com&type=ws&path=/assignment&alpn=http/1.1&fp=chrome# By EbraSha 
 trojan://humanity@104.16.174.34:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com# By EbraSha 
 trojan://humanity@104.16.174.34:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com# By EbraSha 
 trojan://humanity@104.16.174.34:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws# By EbraSha 
@@ -5891,6 +5861,7 @@ trojan://humanity@104.16.250.22:443?allowInsecure=1&host=www.gossipglove.com&pat
 trojan://humanity@104.16.250.22:443?allowInsecure=1&host=www.gossipglove.com&path=/assignment&sni=www.gossipglove.com&type=ws# By EbraSha 
 trojan://humanity@104.16.250.22:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com# By EbraSha 
 trojan://humanity@104.16.250.22:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com# By EbraSha 
+trojan://humanity@104.16.250.22:443?sni=www.multiplydose.com&type=ws&path=%2Fassignment&fp=chrome# By EbraSha 
 trojan://humanity@104.16.250.22:443?sni=www.multiplydose.com&type=ws&path=/assignment# By EbraSha 
 trojan://humanity@104.16.6.70:443/?type=ws&host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org&allowInsecure=1# By EbraSha 
 trojan://humanity@104.16.6.70:443?security=tls&sni=www.creationlong.org&insecure=1&allowInsecure=1&type=ws&host=www.creationlong.org&path=/assignment# By EbraSha 
@@ -6015,6 +5986,7 @@ trojan://humanity@104.16.71.213:443?security=tls&sni=www.calmlunch.com&type=ws&p
 trojan://humanity@104.16.71.213:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com# By EbraSha 
 trojan://humanity@104.16.71.213:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment&host=www.calmlunch.com# By EbraSha 
 trojan://humanity@104.16.71.213:443?sni=www.calmlunch.com# By EbraSha 
+trojan://humanity@104.16.71.213:443?sni=www.calmlunch.com&type=ws&path=%2Fassignment&fp=chrome# By EbraSha 
 trojan://humanity@104.16.72.41:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/assignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com# By EbraSha 
 trojan://humanity@104.16.72.41:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com# By EbraSha 
 trojan://humanity@104.16.72.41:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com# By EbraSha 
@@ -6252,6 +6224,7 @@ trojan://humanity@104.17.150.76:443?sni=www.creationlong.org&type=ws&path=/assig
 trojan://humanity@104.17.177.143:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&sni=www.ignitelimit.com&type=ws&path=/assignment&fp=chrome# By EbraSha 
 trojan://humanity@104.17.177.143:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com# By EbraSha 
 trojan://humanity@104.17.177.143:443?path=/assignment&amp%3Bsecurity=tls&amp%3Binsecure=0&amp%3Bhost=www.ignitelimit.com&amp%3Btype=ws&amp%3BallowInsecure=0&amp%3Bsni=www.ignitelimit.com# By EbraSha 
+trojan://humanity@104.17.177.143:443?sni=www.ignitelimit.com&type=ws&path=%2Fassignment&fp=chrome# By EbraSha 
 trojan://humanity@104.17.177.143:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=chrome# By EbraSha 
 trojan://humanity@104.17.223.49:443?sni=www.creationlong.org&type=ws&path=/assignment&alpn=h2,http/1.1&fp=chrome# By EbraSha 
 trojan://humanity@104.17.236.141:443?sni=www.calmloud.com&type=ws&path=%2Fassignment&alpn=http%2F1.1&fp=chrome# By EbraSha 
@@ -6642,6 +6615,7 @@ trojan://humanity@104.18.152.187:443?path=%2Fassignment&security=tls&insecure=0&
 trojan://humanity@104.18.152.187:443?path=/assignment&amp%3Bsecurity=tls&amp%3Binsecure=0&amp%3Bhost=www.ignitelimit.com&amp%3Btype=ws&amp%3BallowInsecure=0&amp%3Bsni=www.ignitelimit.com# By EbraSha 
 trojan://humanity@104.18.152.187:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com# By EbraSha 
 trojan://humanity@104.18.152.187:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com# By EbraSha 
+trojan://humanity@104.18.152.187:443?sni=www.ignitelimit.com&type=ws&path=%2Fassignment&fp=chrome# By EbraSha 
 trojan://humanity@104.18.152.187:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=chrome# By EbraSha 
 trojan://humanity@104.18.152.204:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com# By EbraSha 
 trojan://humanity@104.18.152.204:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment# By EbraSha 
@@ -6651,6 +6625,7 @@ trojan://humanity@104.18.152.204:443?path=/assignment&security=tls&insecure=0&ho
 trojan://humanity@104.18.152.204:443?security=tls&sni=www.ignitelimit.com&type=ws&path=****/assignment****&Host=www.ignitelimit.com# By EbraSha 
 trojan://humanity@104.18.152.204:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com# By EbraSha 
 trojan://humanity@104.18.152.204:443?sni=www.ignitelimit.com# By EbraSha 
+trojan://humanity@104.18.152.204:443?sni=www.ignitelimit.com&type=ws&path=%2Fassignment&fp=chrome# By EbraSha 
 trojan://humanity@104.18.152.204:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=chrome# By EbraSha 
 trojan://humanity@104.18.152.207:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com# By EbraSha 
 trojan://humanity@104.18.152.207:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com# By EbraSha 
@@ -6820,9 +6795,11 @@ trojan://humanity@104.18.152.246:443/?type=ws&host=www.ignitelimit.com&path=%2Fa
 trojan://humanity@104.18.152.246:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com# By EbraSha 
 trojan://humanity@104.18.152.246:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&sni=www.calmloud.com&alpn=http/1.1&fp=chrome&allowinsecure=0&type=ws&host=www.calmloud.com&path=/assignment# By EbraSha 
 trojan://humanity@104.18.152.246:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment# By EbraSha 
+trojan://humanity@104.18.152.246:443?alpn=http%2F1.1&fp=chrome&host=www.calmloud.com&path=%2Fassignment&sni=www.calmloud.com&type=ws# By EbraSha 
+trojan://humanity@104.18.152.246:443?alpn=http/1.1&fp=chrome&host=www.calmloud.com&path=/assignment&sni=www.calmloud.com&type=ws# By EbraSha 
+trojan://humanity@104.18.152.246:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com# By EbraSha 
 trojan://humanity@104.18.152.246:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&host=www.calmloud.com&fp=chrome&type=ws&sni=www.calmloud.com# By EbraSha 
 trojan://humanity@104.18.152.246:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com# By EbraSha 
-trojan://humanity@104.18.152.246:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com# By EbraSha 
 trojan://humanity@104.18.152.246:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com# By EbraSha 
 trojan://humanity@104.18.152.246:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com# By EbraSha 
 trojan://humanity@104.18.152.246:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com# By EbraSha 
@@ -6851,6 +6828,8 @@ trojan://humanity@104.18.152.54:443?path=%2Fassignment&security=tls&alpn=h3%2Ch2
 trojan://humanity@104.18.152.54:443?path=/assignment&security=tls&alpn=h3,h2&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com# By EbraSha 
 trojan://humanity@104.18.152.54:443?security=tls&sni=www.multiplydose.com# By EbraSha 
 trojan://humanity@104.18.152.54:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment# By EbraSha 
+trojan://humanity@104.18.152.54:443?sni=www.multiplydose.com&type=ws&path=%2Fassignment&alpn=h3%2Ch2&fp=chrome# By EbraSha 
+trojan://humanity@104.18.152.54:443?sni=www.multiplydose.com&type=ws&path=/assignment&alpn=h3,h2&fp=chrome# By EbraSha 
 trojan://humanity@104.18.152.73:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com# By EbraSha 
 trojan://humanity@104.18.152.73:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com# By EbraSha 
 trojan://humanity@104.18.152.77:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com# By EbraSha 
@@ -7223,6 +7202,7 @@ trojan://humanity@104.18.8.83:443?security=tls&type=ws&host=www.calmlunch.com&pa
 trojan://humanity@104.18.8.83:443?security=tls&type=ws&path=/assignment# By EbraSha 
 trojan://humanity@104.18.8.83:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment&host=www.calmlunch.com# By EbraSha 
 trojan://humanity@104.18.8.83:443?sni=www.calmlunch.com&fp=chrome&type=ws&path=/assignment# By EbraSha 
+trojan://humanity@104.18.8.83:443?sni=www.calmlunch.com&type=ws&path=%2Fassignment&fp=chrome# By EbraSha 
 trojan://humanity@104.18.8.83:443?sni=www.calmlunch.com&type=ws&path=/assignment# By EbraSha 
 trojan://humanity@104.18.8.83:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome# By EbraSha 
 trojan://humanity@104.18.8.83:443?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com# By EbraSha 
@@ -7482,6 +7462,7 @@ trojan://humanity@104.19.230.21:443?allowInsecure=1&fp=chrome&host=www.multiplyd
 trojan://humanity@104.19.230.21:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com# By EbraSha 
 trojan://humanity@104.19.230.21:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=1&sni=www.multiplydose.com# By EbraSha 
 trojan://humanity@104.19.230.21:443?path=/assignment&security=tls&insecure=1&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=1&sni=www.multiplydose.com# By EbraSha 
+trojan://humanity@104.19.230.21:443?sni=www.multiplydose.com&allowInsecure=1&type=ws&path=%2Fassignment&fp=chrome# By EbraSha 
 trojan://humanity@104.19.64.105:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws# By EbraSha 
 trojan://humanity@104.19.64.105:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com# By EbraSha 
 trojan://humanity@104.19.64.105:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com# By EbraSha 
@@ -7710,6 +7691,7 @@ trojan://humanity@104.25.109.237:443?path=/assignment&security=tls&alpn=h2,http/
 trojan://humanity@104.25.109.237:443?sni=www.calmlunch.com&type=ws&path=/assignment&alpn=h2,http/1.1&fp=chrome# By EbraSha 
 trojan://humanity@104.25.112.190:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com# By EbraSha 
 trojan://humanity@104.25.112.190:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com# By EbraSha 
+trojan://humanity@104.25.112.190:443?sni=www.gossipglove.com&type=ws&path=%2Fassignment&fp=chrome# By EbraSha 
 trojan://humanity@104.26.14.137:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com# By EbraSha 
 trojan://humanity@104.26.14.137:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com%20# By EbraSha 
 trojan://humanity@104.26.14.137:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws# By EbraSha 
@@ -7912,6 +7894,7 @@ trojan://humanity@141.193.213.21:443?Telegram=@GozargahAzad,@GozargahAzad,@Gozar
 trojan://humanity@141.193.213.21:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/assignment&security=tls&alpn=http/1.1&insecure=1&host=www.calmloud.com&type=ws&allowInsecure=1&sni=www.calmloud.com# By EbraSha 
 trojan://humanity@141.193.213.21:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=ws&security=tls&path=/assignment&host=www.calmloud.com&sni=www.calmloud.com&alpn=http/1.1&fp=chrome&allowInsecure=0# By EbraSha 
 trojan://humanity@141.193.213.21:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=ws&security=tls&path=/assignment&host=www.calmloud.com&sni=www.calmloud.com&alpn=http/1.1&insecure=0&allowInsecure=0# By EbraSha 
+trojan://humanity@141.193.213.21:443?allowInsecure=0&alpn=http%2F1.1&host=www.calmloud.com&insecure=0&sni=www.calmloud.com&path=%2Fassignment&security=tls&type=ws# By EbraSha 
 trojan://humanity@141.193.213.21:443?alpn=http%2F1.1&host=www.calmloud.com&path=%2Fassignment&sni=www.calmloud.com&type=ws# By EbraSha 
 trojan://humanity@141.193.213.21:443?alpn=http/1.1&host=www.calmloud.com&path=/assignment&sni=www.calmloud.com&type=ws# By EbraSha 
 trojan://humanity@141.193.213.21:443?host=www.calmloud.com&path=%2Fassignment&sni=www.calmloud.com&type=ws# By EbraSha 
@@ -7970,6 +7953,8 @@ trojan://humanity@141.193.213.30:443?security=tls&sni=www.calmloud.com&alpn=http
 trojan://humanity@141.193.213.30:443?security=tls&sni=www.calmloud.com&alpn=http/1.1&type=ws&host=www.calmloud.com&path=/assignment# By EbraSha 
 trojan://humanity@141.193.213.30:443?security=tls&sni=www.calmloud.com&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=www.calmloud.com&path=%2Fassignment# By EbraSha 
 trojan://humanity@141.193.213.30:443?sni=www.calmloud.com&allowInsecure=1&type=ws&path=/assignment&alpn=http/1.1&fp=chrome# By EbraSha 
+trojan://humanity@141.193.213.30:443?sni=www.calmloud.com&type=ws&path=%2Fassignment&alpn=http%2F1.1&fp=chrome# By EbraSha 
+trojan://humanity@141.193.213.30:443?sni=www.calmloud.com&type=ws&path=/assignment&alpn=http/1.1&fp=chrome# By EbraSha 
 trojan://humanity@141.193.213.30:443?type=ws&security=tls&path=%2Fassignment&host=www.calmloud.com&sni=www.calmloud.com&allowInsecure=1# By EbraSha 
 trojan://humanity@159.112.235.52:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com# By EbraSha 
 trojan://humanity@159.112.235.52:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com# By EbraSha 
@@ -8040,6 +8025,7 @@ trojan://humanity@162.159.195.173:443?path=%2Fassignment&security=tls&alpn=http%
 trojan://humanity@162.159.195.173:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com# By EbraSha 
 trojan://humanity@162.159.195.173:443?security=tls&type=ws&sni=www.calmloud.com&path=/assignment&host=www.calmloud.com# By EbraSha 
 trojan://humanity@162.159.195.173:443?sni=www.calmloud.com&allowInsecure=1&type=ws&path=/assignment&alpn=http/1.1&fp=chrome# By EbraSha 
+trojan://humanity@162.159.195.173:443?sni=www.calmloud.com&type=ws&path=%2Fassignment&alpn=http%2F1.1&fp=chrome# By EbraSha 
 trojan://humanity@162.159.195.173:443?sni=www.calmloud.com&type=ws&path=/assignment&alpn=http/1.1&fp=chrome# By EbraSha 
 trojan://humanity@162.159.253.41:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com# By EbraSha 
 trojan://humanity@162.159.253.41:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com# By EbraSha 
@@ -8092,6 +8078,7 @@ trojan://humanity@165.215.250.14:443?path=%2Fassignment&security=tls&insecure=0&
 trojan://humanity@165.215.250.14:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&fp=chrome&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=1&sni=www.calmlunch.com# By EbraSha 
 trojan://humanity@165.215.250.14:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmlunch.com# By EbraSha 
 trojan://humanity@165.215.250.14:443?path=%2Fassignment&security=tls&insecure=1&host=www.creationlong.org&fp=chrome&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=1&sni=www.creationlong.org# By EbraSha 
+trojan://humanity@165.215.250.14:443?path=%2Fassignment&security=tls&insecure=1&host=www.ignitelimit.com&fp=chrome&type=ws&allowInsecure=1&sni=www.ignitelimit.com# By EbraSha 
 trojan://humanity@165.215.250.14:443?path=/assignment&amp%3Bsecurity=tls&amp%3Bhost=www.ignitelimit.com&amp%3Bfp=chrome&amp%3Btype=ws&amp%3Bsni=www.ignitelimit.com# By EbraSha 
 trojan://humanity@165.215.250.14:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com# By EbraSha 
 trojan://humanity@165.215.250.14:443?path=/assignment&security=tls&host=www.calmlunch.com&fp=chrome&type=ws&sni=www.calmlunch.com# By EbraSha 
@@ -8129,6 +8116,7 @@ trojan://humanity@165.215.250.14:443?sni=www.calmlunch.com&allowInsecure=1&type=
 trojan://humanity@165.215.250.14:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome# By EbraSha 
 trojan://humanity@165.215.250.14:443?sni=www.creationlong.org&allowInsecure=1&type=ws&path=/assignment&fp=chrome# By EbraSha 
 trojan://humanity@165.215.250.14:443?sni=www.ignitelimit.com# By EbraSha 
+trojan://humanity@165.215.250.14:443?sni=www.ignitelimit.com&type=ws&path=%2Fassignment&alpn=http%2F1.1&fp=chrome# By EbraSha 
 trojan://humanity@165.215.250.14:443?sni=www.ignitelimit.com&type=ws&path=/assignment&alpn=http/1.1&fp=chrome# By EbraSha 
 trojan://humanity@165.215.250.14:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=chrome# By EbraSha 
 trojan://humanity@165.215.250.14:443?type=ws&security=tls&path=%2Fassignment&host=www.calmlunch.com&sni=www.calmlunch.com&fp=chrome&allowInsecure=0# By EbraSha 
@@ -8195,6 +8183,7 @@ trojan://humanity@172.64.146.198:443?path=/assignment&security=tls&insecure=0&fp
 trojan://humanity@172.64.146.198:443?security=tls&sni=www.gossipglove.com&alpn=http%2F1.1&type=ws&host=www.gossipglove.com&path=%2Fassignment# By EbraSha 
 trojan://humanity@172.64.146.198:443?security=tls&sni=www.gossipglove.com&alpn=http/1.1&type=ws&host=www.gossipglove.com&path=/assignment# By EbraSha 
 trojan://humanity@172.64.146.198:443?sni=www.gossipglove.com&allowInsecure=1&type=ws&path=/assignment&fp=chrome# By EbraSha 
+trojan://humanity@172.64.146.198:443?sni=www.gossipglove.com&type=ws&path=%2Fassignment&fp=chrome# By EbraSha 
 trojan://humanity@172.64.146.198:443?sni=www.multiplydose.com&type=ws&path=/assignment# By EbraSha 
 trojan://humanity@172.64.146.199:443/?type=ws&host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com&allowInsecure=1# By EbraSha 
 trojan://humanity@172.64.146.199:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws# By EbraSha 
@@ -8303,6 +8292,7 @@ trojan://humanity@172.64.147.210:443?allowInsecure=1&host=www.gossipglove.com&pa
 trojan://humanity@172.64.147.210:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com# By EbraSha 
 trojan://humanity@172.64.147.210:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com# By EbraSha 
 trojan://humanity@172.64.147.210:443?sni=www.gossipglove.com&allowInsecure=1&type=ws&path=/assignment&fp=chrome# By EbraSha 
+trojan://humanity@172.64.147.210:443?sni=www.multiplydose.com&type=ws&path=%2Fassignment&fp=chrome# By EbraSha 
 trojan://humanity@172.64.147.210:443?sni=www.multiplydose.com&type=ws&path=/assignment# By EbraSha 
 trojan://humanity@172.64.147.223:443# By EbraSha 
 trojan://humanity@172.64.147.223:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com# By EbraSha 
@@ -8517,6 +8507,7 @@ trojan://humanity@172.64.152.23:443?security=tls&type=ws&sni=www.multiplydose.co
 trojan://humanity@172.64.152.23:443?sni=www.calmloud.com&allowInsecure=1&type=ws&path=/assignment&fp=chrome# By EbraSha 
 trojan://humanity@172.64.152.23:443?sni=www.calmlunch.com# By EbraSha 
 trojan://humanity@172.64.152.23:443?sni=www.calmlunch.com&peer=www.calmlunch.com&security=tls# By EbraSha 
+trojan://humanity@172.64.152.23:443?sni=www.calmlunch.com&type=ws&path=%2F%252Fassignment&host=www.calmlunch.com# By EbraSha 
 trojan://humanity@172.64.152.23:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome# By EbraSha 
 trojan://humanity@172.64.152.23:443?sni=www.creationlong.org# By EbraSha 
 trojan://humanity@172.64.152.23:443?sni=www.creationlong.org&type=ws&path=/assignment&fp=chrome# By EbraSha 
@@ -8562,6 +8553,7 @@ trojan://humanity@172.64.155.209:443?security=tls&sni=www.gossipglove.com# By Eb
 trojan://humanity@172.64.155.209:443?security=tls&sni=www.gossipglove.com&type=ws&host=www.gossipglove.com&path=%2Fassignment# By EbraSha 
 trojan://humanity@172.64.155.209:443?security=tls&sni=www.gossipglove.com&type=ws&host=www.gossipglove.com&path=/assignment# By EbraSha 
 trojan://humanity@172.64.155.209:443?security=tls&type=ws&sni=www.gossipglove.com&path=/assignment&host=www.gossipglove.com# By EbraSha 
+trojan://humanity@172.64.155.209:443?sni=www.gossipglove.com&type=ws&path=%2Fassignment&fp=chrome# By EbraSha 
 trojan://humanity@172.64.155.209:443?sni=www.gossipglove.com&type=ws&path=/assignment&fp=chrome# By EbraSha 
 trojan://humanity@172.64.155.209:443?type=ws&host=www.gossipglove.com&path=%2Fassignment&security=tls&fp=random&sni=www.gossipglove.com# By EbraSha 
 trojan://humanity@172.64.155.209:443?type=ws&host=www.gossipglove.com&path=/assignment&security=tls&sni=www.gossipglove.com# By EbraSha 
@@ -9292,6 +9284,7 @@ trojan://humanity@188.114.97.6:443?sni=www.calmloud.com&type=ws&path=/assignment
 trojan://humanity@188.114.97.6:443?sni=www.calmlunch.com&type=ws&path=%2Fassignment&fp=chrome# By EbraSha 
 trojan://humanity@188.114.97.6:443?sni=www.creationlong.org# By EbraSha 
 trojan://humanity@188.114.97.6:443?sni=www.creationlong.org&allowInsecure=1&type=ws&path=/assignment&alpn=http/1.1&fp=chrome# By EbraSha 
+trojan://humanity@188.114.97.6:443?sni=www.creationlong.org&type=ws&path=%2Fassignment&fp=chrome# By EbraSha 
 trojan://humanity@188.114.97.6:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=chrome# By EbraSha 
 trojan://humanity@188.114.97.6:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=safari# By EbraSha 
 trojan://humanity@188.114.97.6:443?type=ws&amp%3Bsecurity=tls&amp%3Bpath=/assignment&amp%3Bhost=www.calmloud.com&amp%3Bsni=www.calmloud.com&amp%3Balpn=http/1.1&amp%3Binsecure=1# By EbraSha 
@@ -9449,6 +9442,7 @@ trojan://humanity@188.114.98.0:443?security=tls&type=ws&sni=www.creationlong.org
 trojan://humanity@188.114.98.0:443?sni=www.calmloud.com# By EbraSha 
 trojan://humanity@188.114.98.0:443?sni=www.calmloud.com&type=ws&path=/assignment&fp=ios# By EbraSha 
 trojan://humanity@188.114.98.0:443?sni=www.calmlunch.com# By EbraSha 
+trojan://humanity@188.114.98.0:443?sni=www.calmlunch.com&type=ws&path=%2Fassignment&fp=chrome# By EbraSha 
 trojan://humanity@188.114.98.0:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome# By EbraSha 
 trojan://humanity@188.114.98.0:443?sni=www.creationlong.org# By EbraSha 
 trojan://humanity@188.114.98.0:443?sni=www.creationlong.org&type=ws&path=%2Fassignment&fp=chrome# By EbraSha 
@@ -9467,6 +9461,7 @@ trojan://humanity@188.114.98.0:443?type=ws&security=tls&path=%2Fassignment&host=
 trojan://humanity@188.114.99.0:443/?type=ws&host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com# By EbraSha 
 trojan://humanity@188.114.99.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com# By EbraSha 
 trojan://humanity@188.114.99.0:443?sni=www.gossipglove.com&type=ws&host=www.gossipglove.com&path=/assignment# By EbraSha 
+trojan://humanity@188.114.99.0:443?sni=www.gossipglove.com&type=ws&path=%2Fassignment&host=www.gossipglove.com# By EbraSha 
 trojan://humanity@188.114.99.0:443?sni=www.gossipglove.com&type=ws&path=/assignment&fp=chrome# By EbraSha 
 trojan://humanity@188.114.99.0:443?type=ws&security=tls&path=%252Fassignment&host=www.gossipglove.com&sni=www.gossipglove.com&allowInsecure=1# By EbraSha 
 trojan://humanity@188.114.99.102:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.gossipglove.com&ech=54.mk%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.gossipglove.com# By EbraSha 
@@ -9725,6 +9720,7 @@ trojan://humanity@199.181.197.111:443?path=/assignment&security=tls&alpn=http/1.
 trojan://humanity@199.181.197.111:443?path=/assignment&security=tls&alpn=http/1.1&insecure=1&host=www.calmloud.com&type=ws&allowInsecure=1&sni=www.calmloud.com# By EbraSha 
 trojan://humanity@199.181.197.111:443?security=tls&sni=www.calmloud.com&alpn=http%2F1.1&type=ws&host=www.calmloud.com&path=%2Fassignment# By EbraSha 
 trojan://humanity@199.181.197.111:443?security=tls&sni=www.calmloud.com&alpn=http/1.1&type=ws&host=www.calmloud.com&path=/assignment# By EbraSha 
+trojan://humanity@199.181.197.111:443?sni=www.calmloud.com&allowInsecure=1&type=ws&path=%2Fassignment&alpn=http%2F1.1&fp=chrome# By EbraSha 
 trojan://humanity@199.181.197.111:443?sni=www.calmloud.com&peer=www.calmloud.com&security=tls# By EbraSha 
 trojan://humanity@199.181.197.143:443# By EbraSha 
 trojan://humanity@199.181.197.143:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1# By EbraSha 
@@ -9791,6 +9787,8 @@ trojan://humanity@199.181.197.36:443?security=tls&sni=www.calmloud.com&alpn=http
 trojan://humanity@199.181.197.36:443?security=tls&sni=www.calmloud.com&alpn=http%2F1.1&type=ws&host=www.calmloud.com&path=%2Fassignment# By EbraSha 
 trojan://humanity@199.181.197.36:443?security=tls&sni=www.calmloud.com&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=www.calmloud.com&path=/assignment# By EbraSha 
 trojan://humanity@199.181.197.36:443?security=tls&sni=www.calmloud.com&alpn=http/1.1&type=ws&host=www.calmloud.com&path=/assignment# By EbraSha 
+trojan://humanity@199.181.197.36:443?sni=www.calmloud.com&type=ws&path=%2Fassignment&alpn=http%2F1.1&fp=chrome# By EbraSha 
+trojan://humanity@199.181.197.36:443?sni=www.calmloud.com&type=ws&path=/assignment&alpn=http/1.1&fp=chrome# By EbraSha 
 trojan://humanity@2.144.15.100:40443?path=/assignment&security=tls&insecure=1&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=1&sni=www.creationlong.org# By EbraSha 
 trojan://humanity@2.144.15.100:40443?security=tls&sni=www.creationlong.org&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=www.creationlong.org&path=%2Fassignment# By EbraSha 
 trojan://humanity@2.144.15.100:40443?security=tls&sni=www.creationlong.org&type=ws&host=www.creationlong.org&path=/assignment&fp=chrome&allowInsecure=1# By EbraSha 
@@ -9998,3 +9996,5 @@ trojan://humanity@2.144.7.173:40443?security=tls&sni=www.ignitelimit.com&insecur
 trojan://humanity@2.144.7.209:40443?path=%2Fassignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com# By EbraSha 
 trojan://humanity@2.144.7.209:40443?path=/assignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com# By EbraSha 
 trojan://humanity@2.144.7.209:40443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=/assignment# By EbraSha 
+trojan://humanity@2.144.7.209:40443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=/assignment&allowInsecure=1# By EbraSha 
+trojan://humanity@2.144.7.209:40443?type=ws&host=www.ignitelimit.com&path=/assignment&security=tls&sni=www.ignitelimit.com# By EbraSha 
