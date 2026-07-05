@@ -21,6 +21,8 @@ ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@212.102.38.41:443#%F0%9F%87%A8%F0%9F%8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjeWk0RkRlNEZkclRHM3JVcG5h@195.123.246.15:51348#%F0%9F%87%A8%F0%9F%87%BFCZ-195.123.246.15-9484
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@143.244.58.102:443#%F0%9F%87%A8%F0%9F%87%BFCZ-143.244.58.102-9817
 vless://e3e90161-fe65-443a-a3a4-e0e3a73704ca@95.85.227.25:443?allowInsecure=0&sni=pol1.hatvpn.org&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#CZ_speednode_0002
+vless://2415cbdc-e5fc-453e-91ad-0e2e532afb7c@de4.niekotin.de:80?path=/vless&security=none&encryption=none&host=de4.niekotin.de&type=ws#openvpn-ssh.com-Inikoteslab23cz
+ss://2415cbdc-e5fc-453e-91ad-0e2e532afb7c@de4.niekotin.de:80?path=/vless&security=none&encryption=none&host=de4.niekotin.de&type=ws#openvpn-ssh.com-Inikoteslab23cz
 vless://1e7e0537-c23d-43c2-afd5-4d7753831278@14.102.228.201:2053?encryption=none&security=tls&sni=gw-f1.orgspeed.net&fp=chrome&alpn=h3,h2,http/1.1&insecure=0&allowInsecure=0&type=ws&path=/#CZ_695_@Surfboardv2ray
 vless://1e7e0537-c23d-43c2-afd5-4d7753831278@14.102.228.201:80?encryption=none&security=none&type=xhttp&host=fi-hel-1.chapjavan.ir&path=/&mode=auto#CZ_696_@Surfboardv2ray
 vless://3b715892-8610-4fdc-9086-647b36af5443@ip2.iranphlox.ir:2086?mode=auto&path=/?ed=2082&security=&encryption=none&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&type=xhttp#CZ_965_@Surfboardv2ray

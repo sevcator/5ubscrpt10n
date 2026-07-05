@@ -1,3 +1,4 @@
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@46.183.184.64:989#%F0%9F%87%AD%F0%9F%87%B7HR-46.183.184.64-9254
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@46.183.184.61:989#%F0%9F%87%AD%F0%9F%87%B7HR-46.183.184.61-9255
+vless://497631c4-a1a4-0098-a86a-f42873473bb6@188.190.24.17:8443?sni=auto.quattro-tech.ru&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%AD%F0%9F%87%B7HR_1%7C2.1MB/s
 vless://8346adf1-76ff-41d6-8ca4-044c817a3ec9@5.181.2.112:7610?security=reality&sni=refersion.com&type=grpc&serviceName=mgrpcmn&fp=chrome&pbk=2wBPu3_o03KRu5ujEFZ9cgczdgiR2eLdJTo7ZfAAogo&sid=1923945e10a464a5# VL-GRPC-RLT  HR-5.181.2.112:7610
