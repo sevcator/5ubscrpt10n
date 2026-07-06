@@ -83,8 +83,7 @@ vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@104.16.72.101:443?path=%2Frdfgtws&s
 vless://f75566a5-4744-4806-ac2e-ccaefe1b1080@server.xv98.ir:2044?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#v2ray1_ng%20%20VL-TCP-N/A%20%20XX%20222ms
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=none&encryption=none&headerType=http&type=tcp#v2ray1_ng%20%20VL-TCP-N/A%20%20XX%20163ms
 vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#v2ray1_ng%20%20VL-TCP-%20%20XX%20103ms
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.255.123.90:989#%F0%9F%87%B3%F0%9F%87%ACNG-185.255.123.90-9514
-vless://497631c4-a1a4-006c-a86a-f42873473bb6@167.88.51.241:8443?sni=auto.quattro-tech.ru&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%B3%F0%9F%87%ACNG_1%7C1.7MB/s
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.255.123.90:989#%F0%9F%87%B3%F0%9F%87%ACNG-185.255.123.90-9501
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@8.35.211.241:443?path=%2Ffriend&security=tls&encryption=none&insecure=1&host=pagescm.freen11.cc.cd&fp=chrome&type=ws&allowInsecure=1&sni=pagescm.freen11.cc.cd#@v2ray_ng
 ss://ae0dd58e-e222-40bf-84ae-365a97532737@8.35.211.241:443?path=%2Ffriend&security=tls&encryption=none&insecure=1&host=pagescm.freen11.cc.cd&fp=chrome&type=ws&allowInsecure=1&sni=pagescm.freen11.cc.cd#@v2ray_ng
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkaFVmYzBub1NRRFRMT0FS@20.164.221.1:443#@v2ray_ng
