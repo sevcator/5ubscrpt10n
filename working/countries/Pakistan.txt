@@ -3,3 +3,4 @@ trojan://3747000103274291200@dynamic-tomcat.treefrog761.one:443#Pakistan
 trojan://3747000103274291200@38.60.217.170:443?peer=dynamic-tomcat.treefrog761.one#Pakistan
 trojan://S.ibYdZshHTF-ne.M+.Fznp_-hyFFnCSix@149.104.104.58:443?security=tls&sni=149.104.104.58&type=tcp&path=%2f#%f0%9f%87%b5%f0%9f%87%b0%20PK%201
 trojan://S.ibYdZshHTF-ne.M+.Fznp_-hyFFnCSix@149.104.104.58:443?security=tls&type=tcp&headerType=none&path=%2f&allow_insecure=0#%f0%9f%87%b5%f0%9f%87%b0%20PK%202
+trojan://S.ibYdZshHTF-ne.M+.Fznp_-hyFFnCSix@149.104.104.58:443?security=tls&headerType=none&type=tcp#[openproxylist.com] trojan-PK
