@@ -1,1 +1,1 @@
-vless://3ea0a12e-162e-45b8-b03b-c490d6105091@114.129.43.130:443?path=/&security=tls&encryption=none&insecure=0&host=wa2.mhrnet.com&fp=chrome&type=ws&allowInsecure=0&sni=wa1.mhrnet.com#NZ_1072_@Surfboardv2ray
+vless://3ea0a12e-162e-45b8-b03b-c490d6105091@114.129.43.130:443?path=/&security=tls&encryption=none&insecure=0&host=wa2.mhrnet.com&fp=chrome&type=ws&allowInsecure=0&sni=wa1.mhrnet.com#NZ_1060_@Surfboardv2ray

@@ -1,4 +1,4 @@
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@46.183.184.64:989#%F0%9F%87%AD%F0%9F%87%B7HR-46.183.184.64-9230
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@46.183.184.61:989#%F0%9F%87%AD%F0%9F%87%B7HR-46.183.184.61-9231
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@46.183.184.64:989#%F0%9F%87%AD%F0%9F%87%B7HR-46.183.184.64-9248
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@46.183.184.61:989#%F0%9F%87%AD%F0%9F%87%B7HR-46.183.184.61-9249
 vless://8346adf1-76ff-41d6-8ca4-044c817a3ec9@5.181.2.112:7610?security=reality&sni=refersion.com&type=grpc&serviceName=mgrpcmn&fp=chrome&pbk=2wBPu3_o03KRu5ujEFZ9cgczdgiR2eLdJTo7ZfAAogo&sid=1923945e10a464a5# VL-GRPC-RLT  HR-5.181.2.112:7610
-vless://497631c4-a1a4-0098-a86a-f42873473bb6@188.190.24.17:8443?security=reality&type=tcp&packetEncoding=xudp&sni=auto.quattro-tech.ru&fp=firefox&flow=xtls-rprx-vision&sid=43dcff53849b81e6&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&encryption=none#[openproxylist.com] vless-HR
+vless://497631c4-a1a4-0098-a86a-f42873473bb6@188.190.24.17:8443?security=reality&type=tcp&packetEncoding=xudp&sni=auto.quattro-tech.ru&fp=firefox&flow=xtls-rprx-vision&sid=43dcff53849b81e6&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&encryption=none#%F0%9F%87%AD%F0%9F%87%B7HR_1%7C2.1MB%2Fs%7CP002-260618%2001

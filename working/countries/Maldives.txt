@@ -1,1 +1,1 @@
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@154.85.99.37:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#MV_879_@Surfboardv2ray
+vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@45.130.125.229:443?path=/udfyfws#TELEGRAM-Mv2ray_configs_pools?ed=512&security=tls&encryption=none&insecure=0&host=octopusss5.info&type=ws&allowInsecure=0&sni=octopusss5.info#EPODONIOS
