@@ -5,6 +5,6 @@ vmess://eyJwcyI6ICJcdWQ4M2NcdWRkZjJcdWQ4M2NcdWRkZmQgY29ubmVjdG9uLW14MSIsICJhZGQi
 trojan://3747000103274291200@grateful-glowworm.treefrog761.one:443#Mexico
 trojan://3747000103274291200@216.238.77.127:443?peer=grateful-glowworm.treefrog761.one#Mexico
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@190.103.179.23:989#%F0%9F%87%B2%F0%9F%87%BDMX-190.103.179.23-0779
-trojan://NX7LOtiM.=RdQTq..yxi-dm6OcQrkgE5rg@149.104.87.141:443?security=tls#[openproxylist.com] trojan-MX
+trojan://NX7LOtiM.=RdQTq..yxi-dm6OcQrkgE5rg@149.104.87.141:443?security=tls&sni=149.104.87.141&type=tcp#[openproxylist.com] trojan-MX
 trojan://b8808043-6566-4923-9195-e66bfb553d57@51.38.99.96:443?security=tls&sni=ba24.ir#//Mexico/Mexico City
 vmess://eyJwcyI6ICJcdWQ4M2NcdWRkZWFcdWQ4M2NcdWRkZjgtXHU2YjI3XHU2ZDMyLW14MS52MnJheXNlcnYuY29tIiwgIlx1NTE0ZFx1OGQzOVx1OGJhMlx1OTYwNVx1NWMzZFx1NTcyOGh0dHBzIjogIiIsICJhZGQiOiAibXgxLnYycmF5c2Vydi5jb20iLCAicG9ydCI6ICI4MCIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiMDFlMTU1NGUtYWViZi00OWU1LWFjMzMtYzEzMTU1ODQwYTVkIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgInRscyI6ICJmYWxzZSIsICJza2lwLWNlcnQtdmVyaWZ5IjogInRydWUiLCAibmV0IjogIndzIiwgIndzLW9wdHMiOiAiIiwgInBhdGgiOiAiL3NzaG9jZWFuIiwgImhlYWRlcnMiOiAiIiwgImhvc3QiOiAibXgxLnYycmF5c2Vydi5jb20iLCAidWRwIjogInRydWUifQ==
