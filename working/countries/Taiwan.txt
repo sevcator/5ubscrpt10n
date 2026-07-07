@@ -67,15 +67,14 @@ vless://52faee73-e0fe-4661-992d-67259257170f@45.206.0.68:8443?security=reality&e
 ss://52faee73-e0fe-4661-992d-67259257170f@45.206.0.68:8443?security=reality&encryption=none&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=ea10cd5686751ec5#%40Network_442_Taiwan
 vmess://eyJhZGQiOiI3Y2MwMmFiOS0zNDc4LTE3MzMtZWE5NC0yYjQ1ZDhlMTE1YTAuYnVndGlrLmx0ZCIsInYiOjIsInBzIjoi8J+HufCfh7wgVFcg5Y+w5rm+IDQiLCJwb3J0IjoiODAiLCJpZCI6IjQ2Y2ZjZmUxLWU0NTAtNDU5ZC1hM2FiLTk0MDYwMTFhYjNlYiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6InRtcy5kaW5ndGFsay5jb20iLCJ0bHMiOiIiLCJwYXRoIjoiLyJ9
 vmess://eyJhZGQiOiIyMDdjMTNmYi04M2I2LTIwMjEtNzY2Yi02Yzk1ZTU2YTRhMzMuYnVndGlrLmx0ZCIsInYiOjIsInBzIjoi8J+HufCfh7wgVFcg5Y+w5rm+IDUiLCJwb3J0IjoiODAiLCJpZCI6IjQ2Y2ZjZmUxLWU0NTAtNDU5ZC1hM2FiLTk0MDYwMTFhYjNlYiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6InRtcy5kaW5ndGFsay5jb20iLCJ0bHMiOiIiLCJwYXRoIjoiLyJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YjU2YWVhYS04ZTJkLTRiZGYtYjFkNy0yMzNlY2NhMTVmNTY@namrcg001640lrm.cybervena.com:50099#TW%20%20ROSE58
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg001269pz2.cybervena.com:50099#TW%20%20ROSE59
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@185.189.160.105:41632#TW%20%20ROSE105
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@223.165.4.173:990#TW%20%20ROSE169
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg00129437x.cybervena.com:50099#TW  ROSE160
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@185.189.160.105:41632#TW  ROSE162
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@154.223.20.79:990#TW  ROSE170
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@223.165.4.173:990#TW  ROSE219
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg001286ek2.cybervena.com:50099#TW  ROSE284
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@61.231.25.172:50099#TW  ROSE526
 vmess://eyJhZGQiOiIxMDMuMTU5LjIwNi4zNSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJlMmU1MTFiMC03ZGVmLTRlMWItZDIzOC02Y2I1MzkxYjJlM2YiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjMxOTQ1IiwicHMiOiJUYWl3YW4gRW1hZ2luZSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInBlYXNvZnQtMCwyLDEyfPCfh7nwn4e8IF9UV1/lj7Dmub4iLA0KICAiYWRkIjogInR3MS5raWRjYy54eXoiLA0KICAicG9ydCI6ICI4NDQzIiwNCiAgImlkIjogImE4OTc0YmVjLTUyNmQtNGI0ZS1hNDZmLWYwZDY2MjZjYTU3NiIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAidHcxLmtpZGNjLnh5eiIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
-vless://50668c7e-1325-7314-1626-685d580c48fc@188.253.6.80:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=W215rLzeq2f2CVCVmhEbw715wrMYHK7oPg2F0iotbRA&security=reality&sid=20180cfd&sni=www.asus.com&type=tcp#TW_1542_@Surfboardv2ray
-vless://50668c7e-1325-7314-1626-685d580c48fc@188.253.6.80:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=W215rLzeq2f2CVCVmhEbw715wrMYHK7oPg2F0iotbRA&security=reality&sid=20180cfd&sni=www.asus.com&type=tcp#TW_1543_@Surfboardv2ray
-vless://50668c7e-1325-7314-1626-685d580c48fc@188.253.6.80:443?security=reality&encryption=none&pbk=W215rLzeq2f2CVCVmhEbw715wrMYHK7oPg2F0iotbRA&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.asus.com&sid=20180cfd#TW_1544_@Surfboardv2ray
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@61.220.41.143:36633?encryption=none&security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg%40zdyz2#%f0%9f%87%b9%f0%9f%87%bc+TW+%e5%8f%b0%e6%b9%be+55
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@211.22.240.107:30686?encryption=none&security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg%40zdyz2#%f0%9f%87%b9%f0%9f%87%bc+TW+%e5%8f%b0%e6%b9%be+41
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@211.75.74.232:4443?encryption=none&security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg%40zdyz2#%f0%9f%87%b9%f0%9f%87%bc+TW+%e5%8f%b0%e6%b9%be+15
@@ -87,8 +86,6 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlRX5Y+w5rm+KHlvdXR1YmXpmL/kvJ/np5HmioAp
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInBlYXNvZnQtOSwxMywxNXzwn4e58J+HvF9UV1/lj7Dmub4iLA0KICAiYWRkIjogInR3OTktaGluZXQubXlub2RlczAwMS5vbmUiLA0KICAicG9ydCI6ICI0NDUiLA0KICAiaWQiOiAiNWYwNGRlODQtNmI3ZS0zNTY0LTgyYzItZDJhOTk4MDAyNjI5IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
 trojan://d66013c645b93c5c@211.72.35.158:3389?allowInsecure=1#TW_AzadNet
 trojan://YWVzLTI1Ni1nY206eHBRd3lWNFc1RmRBNk5NQU5KSng3M1VT@2.58.242.43:443?allowInsecure=1#TW_AzadNet%281%29
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg001286ek2.cybervena.com:50099#%f0%9f%87%b9%f0%9f%87%bc%20TW%201
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@61.231.25.172:50099#%f0%9f%87%b9%f0%9f%87%bc%20TW%202
 vmess://ewogICAgImFkZCI6ICIxMDMuNjEuMTM5LjEzNyIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiZjhkOTNjZmItM2Q1ZC00NDdjLWE2OTctMTY0OTZkZDc0Njk3IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDIwNTIxLAogICAgInBzIjogIvCfh7nwn4e8VFctMTAzLjYxLjEzOS4xMzctNTQxOCIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 ss://YWVzLTEyOC1nY206b2l3eW00b3ZJNFli@61.224.72.195:443?plugin=v2ray-plugin%3Bhost%3Dt1.kddns.xyz%3Btls#Taiwan|Github%E6%90%9C%E7%B4%A2TrojanLinks
 ss://YWVzLTEyOC1nY206b2l3eW00b3ZJNFli@104.16.88.23:443?plugin=v2ray-plugin%3Bhost%3Dt2.kddns.xyz%3Btls#Taiwan|Github%E6%90%9C%E7%B4%A2TrojanLinks
