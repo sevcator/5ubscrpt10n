@@ -1,4 +1,4 @@
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.166.102:989#%F0%9F%87%AC%F0%9F%87%B7GR-192.71.166.102-5139
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.166.102:989#%F0%9F%87%AC%F0%9F%87%B7GR-192.71.166.102-5129
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@79.124.7.236:444?security=tls&type=ws&path=/&host=vpn47.cc.cd&packetEncoding=xudp&sni=vpn47.cc.cd&fp=chrome#%F0%9F%87%AC%F0%9F%87%B7GR_1%7C1.1MB%2Fs%7CF003-260618%2001
 vless://3e16b4a3-bce1-47ee-8b9c-359343ae1876@94.241.174.209:8443?security=reality&type=xhttp&path=/&packetEncoding=xudp&sni=www.cdnjs.com&fp=chrome&sid=5d&pbk=gRoN7UaXM6Is394O1zH_128yM-e2jYjuT3kwemTVHyQ&mode=auto&encryption=none#%F0%9F%87%AC%F0%9F%87%B7GR_2%7C3.4MB%2Fs%7CB007-260618%2001
 vless://497631c4-a1a4-0036-a86a-f42873473bb6@212.52.16.50:8443?security=reality&type=tcp&packetEncoding=xudp&sni=auto.quattro-tech.ru&fp=qq&flow=xtls-rprx-vision&sid=43dcff53849b81e6&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&encryption=none#%F0%9F%87%AC%F0%9F%87%B7GR_3%7C2.1MB%2Fs%7CP002-260618%2001
