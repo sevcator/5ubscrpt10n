@@ -1,5 +1,7 @@
 vmess://eyJhZGQiOiI0NS45Mi45My4xODQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiIiLCJpZCI6ImVkOTk2M2YwLWM5ZjctNDRiMC1iYmFkLWI2ODQxY2UzNTc3MyIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjI5NTIiLCJwcyI6IvCfh67wn4e3IEBBdmFhbm5ldCAtIFdvbWFuLExpZmUsRnJlZWRvbSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiAiNDUuMTIuMzAuNTgiLCAiYWlkIjogIjAiLCAiaG9zdCI6ICJiaWxpcC5nb3Zlcm1lbnRjby5zcGFjZSIsICJpZCI6ICJjZjlhMDAxYi01MDI1LTQ3OTAtOWMyZS0wOWI3OTljNWZjYzciLCAibmV0IjogIndzIiwgInBhdGgiOiAiQHYycmF5bmcxNCIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJAdjJyYXkyNCBcdTI1YjcgUm9tYW5pYSBcdWQ4M2NcdWRkZjdcdWQ4M2NcdWRkZjQiLCAic25pIjogImJpbGlwLmdvdmVybWVudGNvLnNwYWNlIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
+vless://7d9fdfb8-829f-46c9-a0ff-cb0b8a5c1bca@om.corecloud.space:42268?path=/&security=none&encryption=none&host=play.google.com&type=httpupgrade#OM_2003_@Surfboardv2ray
+vless://d5536e94-a523-4c40-85ec-f3a3fc444602@muscat.aroonsid.ir:2000?encryption=none&security=none&type=ws&host=play.google.com&path=/?ed=2560#OM_3519_@Surfboardv2ray
 trojan://3747000103274291200@89.39.70.207:443?peer=sunny-jackal.insect388.motorcycles#Romania
 vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.243:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=sub.sbrf-cdn342.ru&fp=qq#Romania
 vless://146eb6cf-a99c-4022-85ca-022cf81502dc@195.74.93.254:443?security=reality&encryption=none&pbk=7ReQIe2kMtP4rCrptgH5glkOM-JGcSAPzHNxOED-Z0s&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=247fd6dab1a34a48#/Romania
