@@ -7,6 +7,8 @@ vmess://ewogICAgImFkZCI6ICIxNDAuMjM4LjIxMi45NSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0
 trojan://SoftNetConnect@37.156.44.215:42549?security=tls#%F0%9F%87%A8%F0%9F%87%ADCH-37.156.44.215-2201
 trojan://8a03bc28-2a33-42c4-be59-30464dbb9954@ch12.yukiss.eu.org:18818?security=tls#%F0%9F%87%A8%F0%9F%87%ADCH-152.67.71.149-3938
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@156.146.62.160:443#%F0%9F%87%A8%F0%9F%87%ADCH-156.146.62.160-5509
+vless://56fde86d-7985-4385-bc75-276b29a70e44@179.237.75.21:443?sni=yahoo.com&type=grpc&serviceName=xyz&fp=chrome&security=tls#%F0%9F%87%A8%F0%9F%87%ADCH_1%7C2.6MB/s
+vless://daff1228-8d1a-4812-a57a-09604faa5e0c@45.195.137.206:8443?sni=storage.yandex.net&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%A8%F0%9F%87%ADCH_2%7C2.3MB/s
 ss://YWVzLTEyOC1nY206cGhpem8wNDZzNG9xc20zM3Nmdm0@86.106.84.198:13265#CH  ROSE144
 ss://YWVzLTEyOC1nY206a2Z1emt3ZGc0b3ludjQ5NWF5d2M@86.106.84.195:13262#CH  ROSE164
 ss://YWVzLTEyOC1nY206bHZ4dWoxMXg4c2ZndDlndDZtamY@86.106.84.196:13263#CH  ROSE572
