@@ -1,3 +1,1 @@
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.166.102:989#%F0%9F%87%AC%F0%9F%87%B7GR-192.71.166.102-5218
-vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@82.47.62.9:443?type=tcp&headerType=none&security=reality&encryption=none&sni=gr.spectrum.vu&fp=chrome&pbk=F8cnKGMVqo_OzSmTsW0Pb8u1qBiFcnGFHuXe_FxIO3w&sid=3b5d7f9a1c2e&flow=xtls-rprx-vision#GR_1927_@Surfboardv2ray
-vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@gr.spectrum.vu:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=F8cnKGMVqo_OzSmTsW0Pb8u1qBiFcnGFHuXe_FxIO3w&sid=3b5d7f9a1c2e&sni=gr.spectrum.vu#GR_1929_@Surfboardv2ray
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.166.102:989#%F0%9F%87%AC%F0%9F%87%B7GR-192.71.166.102-5223
