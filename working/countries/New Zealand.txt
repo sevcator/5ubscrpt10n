@@ -1,1 +1,1 @@
-vless://3ea0a12e-162e-45b8-b03b-c490d6105091@114.129.43.130:443?path=/&security=tls&encryption=none&insecure=0&host=wa2.mhrnet.com&fp=chrome&type=ws&allowInsecure=0&sni=wa1.mhrnet.com#NZ_975_@Surfboardv2ray
+vless://1d16c6e0-1bbe-435b-b661-90043fee999c@114.129.43.123:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=notls.lukongtou.eu.org&path=Telegram-WangCai2&security=tls&sni=notls.lukongtou.eu.org&type=ws#NZ_593_@Surfboardv2ray
