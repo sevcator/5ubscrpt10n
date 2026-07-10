@@ -1,10 +1,10 @@
-vmess://eyJ2IjoiMiIsImFkZCI6IjY2LjE2My4xMTcuNTgiLCJwb3J0IjoiMjIzMjQiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsInRscyI6IiIsImFscG4iOiIiLCJwcyI6IkdCIPCfh6zwn4enIHwgQFJheWRpa2FseCB8IDI1ODIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
+vmess://eyJ2IjoiMiIsImFkZCI6IjY2LjE2My4xMTcuNTgiLCJwb3J0IjoiMjIzMjQiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsInRscyI6IiIsImFscG4iOiIiLCJwcyI6IkdCIPCfh6zwn4enIHwgQFJheWRpa2FseCB8IDI2MDUiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=M84tG1gGw0.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=M84tG1gGw0.SoLeNtRaA.iNfO#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.71.136.139:443?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#GB
 ss://037e395f-f79d-4d61-bb92-dafcc27e53ba@46.101.57.231:443?path=%2Fesoznjws&security=tls&encryption=none&type=ws&sni=m.vk.com#United%20Kingdom%20Digital%20Ocean
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.182:443#United%20Kingdom%20M247
 vless://037e395f-f79d-4d61-bb92-dafcc27e53ba@46.101.57.231:443?path=%2Fesoznjws&security=tls&encryption=none&type=ws&sni=m.vk.com#United%20Kingdom%20Digital%20Ocean
-vmess://eyJ2IjoiMiIsImFkZCI6IjY2LjE2My4xMTcuNTgiLCJwb3J0IjoiMjIzMjQiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsInRscyI6IiIsImFscG4iOiIiLCJwcyI6IkdCIPCfh6zwn4enIHwgQFJheWRpa2FseCB8IDI1ODEiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
+vmess://eyJ2IjoiMiIsImFkZCI6IjY2LjE2My4xMTcuNTgiLCJwb3J0IjoiMjIzMjQiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsInRscyI6IiIsImFscG4iOiIiLCJwcyI6IkdCIPCfh6zwn4enIHwgQFJheWRpa2FseCB8IDI2MDYiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.189:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.189-0144
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.210-0154
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.187:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.187-0160
@@ -527,15 +527,17 @@ vless://9794d18f-9280-3553-a7a5-a23da75aca76@[2a13:29c0:2641:a307:2044:17f:7e80:
 vless://9794d18f-9280-3553-a7a5-a23da75aca76@193.142.59.97:443?encryption=none&type=xhttp&headerType=&fp=firefox&host=s1243.csgfw.top&path=ssp-xhttp&flow=&security=tls&sni=u691611us1243.csgfw.top&serviceName=&mode=&alpn=h2%2Chttp%2F1.1#GB%20VLESS-760%20%7C%20free-nodes
 vless://9794d18f-9280-3553-a7a5-a23da75aca76@[2a13:29c0:fc75:90b0:df84:b8d4:d3aa:1]:443?encryption=none&type=xhttp&headerType=&fp=firefox&host=s1246.csgfw.top&path=ssp-xhttp&flow=&security=tls&sni=u691611us1246.csgfw.top&serviceName=&mode=&alpn=h2%2Chttp%2F1.1#GB%20VLESS-762%20%7C%20free-nodes
 vless://914f97ee-1e5e-475d-9f04-fb93ef8585e7@ppm.nsuex.com:55715?encryption=none&type=tcp&path=%2f#%f0%9f%87%ac%f0%9f%87%a7%20GB%201
+vless://7f547a00-bc25-4512-baeb-5a3983c118d3@chatgpt.com:8443?encryption=none&type=ws&host=uk.hknetapp.com&path=%2F&security=tls&sni=uk.hknetapp.com&alpn=http%2F1.1#[openproxylist.com] vless-GB
+vless://47df3f6c-c3a0-463b-a6a0-ad4e8494c95b@20.0.105.19:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zNtSqVR2dp454rIsJL8qQ-miOuSIP33Koyqc9gUGdV8&security=reality&sid=60bf01f7&sni=www.cloudflare.com&type=tcp#[openproxylist.com] vless-GB
 vless://1ea1b30b-4114-4a5c-bd3a-9637bdae1948@45.86.159.142:2085?encryption=none&security=none&serviceName=vless&type=grpc#[openproxylist.com] vless-GB
 vless://36644091-0cec-47fe-9955-97c3f424baf7@51.89.117.21:443?security=reality&encryption=none&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=98fa0b00d09419f7#[openproxylist.com] vless-GB
-vless://1ea1b30b-4114-4a5c-bd3a-9637bdae1948@45.86.159.136:2085?security=&encryption=none&type=grpc&serviceName=vless#[openproxylist.com] vless-GB
-vless://1ea1b30b-4114-4a5c-bd3a-9637bdae1948@45.86.159.135:2085?security=&encryption=none&type=grpc&serviceName=vless#[openproxylist.com] vless-GB
+vless://1ea1b30b-4114-4a5c-bd3a-9637bdae1948@45.86.159.136:2085?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#[openproxylist.com] vless-GB
+vless://1ea1b30b-4114-4a5c-bd3a-9637bdae1948@45.86.159.135:2085?encryption=none&security=none&serviceName=vless&type=grpc#[openproxylist.com] vless-GB
 vless://52b71b75-4b77-4cec-990b-046ec1938e1f@67.159.56.57:443?security=reality&type=tcp&packetEncoding=xudp&sni=uk.bvps.cloud&fp=chrome&flow=xtls-rprx-vision&sid=60debb3ab744d8ce&pbk=j5qmR8E9er-0n5zZbK6s_SdvYm-tYlraXVYm49ArWS8&encryption=none#[openproxylist.com] vless-GB
-vless://be20f85a-bc04-45f8-b6cf-b8abc5f746ce@51.195.235.8:55025?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.googletagmanager.com&fp=chrome&pbk=w-7OnHTgZcqOMrpIADIVnpAcbyColg9Y9w3BYpFeTg8&sid=06e557c2cc84390f&type=tcp&headerType=none#[openproxylist.com] vless-GB
+vless://be20f85a-bc04-45f8-b6cf-b8abc5f746ce@51.195.235.8:55025?security=reality&encryption=none&pbk=w-7OnHTgZcqOMrpIADIVnpAcbyColg9Y9w3BYpFeTg8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.googletagmanager.com&sid=06e557c2cc84390f#[openproxylist.com] vless-GB
 vless://1ea1b30b-4114-4a5c-bd3a-9637bdae1948@45.86.159.134:2085?type=grpc&serviceName=vless#[openproxylist.com] vless-GB
 vless://367ff772-a8f4-4895-8e99-3702a868f0c6@gbos2.osvp.online:443?encryption=none&fp=chrome&security=tls&serviceName=grpc-api&sni=gbos2.osvp.online&type=grpc#[openproxylist.com] vless-GB
-vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?encryption=none&type=tcp&security=tls&headerType=none&sni=186.190.211.188&insecure=1&allowInsecure=1#[openproxylist.com] vless-GB
+vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=186.190.211.188#[openproxylist.com] vless-GB
 vless://a6704fb4-4874-4e6b-98f4-571b048e3d90@31.77.161.2:8443?security=reality&encryption=none&pbk=4XxjInQuDp4SqaYF03yQ1VY61exkKi9e0RS5-kgyxAE&headerType=none&fp=firefox&type=tcp&sni=prod.de-node-01.security-sbrf.ru&sid=db04ce8bdb8900f1#[openproxylist.com] vless-GB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5OTMwMWQ1NS1hNDFmLTQ5MTktOTg2Yi0xNDM1OTk2NTMzYWE@120.238.122.208:50002#UK%2F1|Github%E6%90%9C%E7%B4%A2TrojanLinks
 trojan://M4Z093NUxzTd@35.177.239.227:14812?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#GB|GithubTrojanLinks
@@ -892,4 +894,4 @@ vless://SoonTeam@72.62.211.211:80?type=grpc&serviceName=@V2RAYNGRAISI,@V2RAYNGRA
 vless://a6704fb4-4874-4e6b-98f4-571b048e3d90@31.77.161.2:8443?security=reality&encryption=none&pbk=4XxjInQuDp4SqaYF03yQ1VY61exkKi9e0RS5-kgyxAE&headerType=none&fp=chrome&type=tcp&sni=prod.de-node-01.security-sbrf.ru&sid=db04ce8bdb8900f1# GB | 31.77.161.2
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443# GB | 141.98.101.178
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443# GB | 20.117.147.93
-vmess://eyJ2IjoiMiIsImFkZCI6IjY2LjE2My4xMTcuNTgiLCJwb3J0IjoiMjIzMjQiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsInRscyI6IiIsImFscG4iOiIiLCJwcyI6IkdCIPCfh6zwn4enIHwgQFJheWRpa2FseCB8IDI1OTQiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
+vmess://eyJ2IjoiMiIsImFkZCI6IjY2LjE2My4xMTcuNTgiLCJwb3J0IjoiMjIzMjQiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsInRscyI6IiIsImFscG4iOiIiLCJwcyI6IkdCIPCfh6zwn4enIHwgQFJheWRpa2FseCB8IDI2NDkiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
