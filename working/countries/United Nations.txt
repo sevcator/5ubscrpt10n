@@ -15,6 +15,7 @@ vless://6a5d1316-c0a6-4963-8ee1-e8b9b5f98c20@ercf-ma.rainzone.site:443?path=/45.
 vless://53ec5fd1-fa25-41ff-bd25-fc24ca8e4d24@ert-4.v-sub.site:8880?path=/?ed=2080&security=none&encryption=none&host=norton-vip.cfd&type=httpupgrade# UN | ert-4.v-sub.site
 vless://e3035fb5-4a77-49ed-8a20-44c95f5de0fe@main.systemgamingirani.ir:2082?path=/?ed=2052&security=none&encryption=none&host=www.speedtest.net.tps.debian.org.gr.systemgamingirani.ir&type=ws# UN | main.systemgamingirani.ir
 vless://dc44076c-fb1a-48ba-8e79-ec913f345576@mtn.venzo.com.tr:2095?path=/hu?ed=2095&security=none&encryption=none&host=0ost.amazon-osishop.ir&type=httpupgrade# UN | mtn.venzo.com.tr
+vless://6aeddf78-bdc7-495f-a44c-be355a73da4e@x1.virgooli.site:443?mode=gun&security=reality&encryption=none&pbk=_Kk5GwRRWH1DInICltj2xRwGvWcGPgg01wVZAZ1QtF0&fp=chrome&spx=/mpfjJPnpwQ9RiJ9&type=grpc&serviceName=@Arshiavpnred_bot&sni=play.google.com&sid=a14c# UN | x1.virgooli.site
 vless://7e74ff43-3a90-48b3-8372-7d92a045c2d4@light-presence.oneeat.co:80?security=none&encryption=none&type=ws&path=/# UN | light-presence.oneeat.co
 vless://47a508c1-2a1f-4af9-8462-b30ec9d188e6@amir.itur.store:48213?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp# UN | amir.itur.store
 vless://ecb790d4-36ca-4dfc-a142-b3a395d1c50d@ad1.xiqpanelz.com:40200?security=&encryption=none&host=ir31.uploadboy.com&headerType=http&type=tcp# UN | ad1.xiqpanelz.com
@@ -29,7 +30,6 @@ vless://Telegram-Parsashonam@ip:443?security=reality&encryption=none&pbk=rd71EGp
 vless://c8b6a94f-eb38-4b68-9ae7-fadc7d690e16@mariz.kuckenpq.ir:8880?security=&encryption=none&host=zula.ir&headerType=http&type=tcp# UN | mariz.kuckenpq.ir
 vless://c8b6a94f-eb38-4b68-9ae7-fadc7d690e16@dlarm.kuckenpq.ir:8880?security=&encryption=none&host=zula.ir&headerType=http&type=tcp# UN | dlarm.kuckenpq.ir
 vless://651a858c-2975-4b96-96b7# UN | 651a858c-2975-4b96-96b7
-vless://681314c5-b3ee-41f1-a959-fa42841f5383@zan.foot8all.ir:11332?encryption=none&security=reality&type=tcp&headerType=none&sni=play.google.com&fp=firefox&pbk=Yozi8V5IYT7TzszTYwxnxMO-RZ93qCRFpgzZYehbqiM&sid=f609acadb18e6c5b&spx=/amn# UN | zan.foot8all.ir
 vless://c1ea5250-43d6-4f91-8d0f-64ed231cc559@pishgam.sdcards.ir:8080?path=/?ed=2087&security=none&encryption=none&host=pivaz-a.plas-nim.org&type=httpupgrade# UN | pishgam.sdcards.ir
 vless://b43f416d-0bb7-45d9-b3a4-0ccef14f1fbe@simonil.zarghamportal.ir:2095?path=/@iSpeedTopVPN?ed=80&security=none&encryption=none&host=shole.zarghamportal.ir&type=ws# UN | simonil.zarghamportal.ir
 vless://546bd638-8aeb-0f83-9a31-8be7c5ce814a@ffdownload.dlc-bazigame.ir:8880?path=/&security=none&encryption=none&host=cdn-nl1.akssoldier.top&type=httpupgrade# UN | ffdownload.dlc-bazigame.ir
@@ -39,7 +39,6 @@ vless://81f57d7b-727a-4499-a29c-9229310db7fe@tttt1.hennessypro.site:4001?securit
 vless://5d2062a4-e636-58af-b488-d6bdbea719bf@tr.kkkl.ir:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api.samsungcloud.com&fp=chrome&pbk=41qm1VGkyODbyc7LvIyXhcG4XUKmTaomF9jDAMEaW3c&sid=03e223bc474c6f1d&type=tcp&headerType=none# UN | tr.kkkl.ir
 vless://5d2062a4-e636-58af-b488-d6bdbea719bf@chefox.kkkl.ir:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=play.google.com&fp=random&pbk=7DQXReCCCModVwZEU9j4QFsWtzEbGNtrRHwMCk2NUD8&sid=C8EF&type=tcp&headerType=none# UN | chefox.kkkl.ir
 vless://b1a9c885-e53b-4b19-b4c7-b259cba543e7@ipo.mastermarly.ir:443?path=/path&security=tls&encryption=none&insecure=0&host=nur-xn.mastermarly.ir&type=ws&allowInsecure=0&sni=nur-xn.mastermarly.ir# UN | ipo.mastermarly.ir
-vless://87a4fec0-04c5-4705-b735-388f92ff01c2@Jslr.milkabebar.ir:50567?flow=xtls-rprx-vision&encryption=none&security=reality&sni=play.google.com&fp=qq&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&sid=9af7c9c0334675be&allowinsecure=0&type=tcp&headerType=none# UN | Jslr.milkabebar.ir
 vless://8f1a15bf-a352-4c32-aee2-957039a6847b@ipbaz.ping-box.com:8443?path=/?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=6nwf5rauksz8126xm.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=6nwf5rauksz8126xm.zjde5.de5.net# UN | ipbaz.ping-box.com
 vless://8f1a15bf-a352-4c32-aee2-957039a6847b@ipbaz.ping-box.com:8443?path=mehrosaboran?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=6nwf5rauksz8126xm.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=6nwf5rauksz8126xm.zjde5.de5.net# UN | ipbaz.ping-box.com
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMzUuMTgwLjI1NS40OjQ0Mw==# UN | YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMzUuMTgwLjI1NS40OjQ0Mw==
