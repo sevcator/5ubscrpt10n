@@ -28,13 +28,8 @@ trojan://telegram-id-privatevpns@52.18.185.28:22222?peer=trojan.burgerip.co.uk&a
 trojan://telegram-id-privatevpns@52.51.17.38:22222?peer=trojan.burgerip.co.uk&alpn=http/1.1#Ireland
 trojan://telegram-id-privatevpns@54.155.76.64:22222?peer=trojan.burgerip.co.uk#Ireland
 trojan://telegram-id-privatevpns@34.252.21.244:22222?type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AE%F0%9F%87%AA_IE_%E7%88%B1%E5%B0%94%E5%85%B0
-trojan://t1k169n5zmvvwn96r9ft@146.70.90.195:57452?security=tls&sni=api-yandex.maps.ru&type=tcp&headerType=none&path=%2f&allow_insecure=1#%f0%9f%87%ae%f0%9f%87%aa%20IE%201
-trojan://t1k169n5zmvvwn96r9ft@146.70.90.198:57452?security=tls&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=1#%f0%9f%87%ae%f0%9f%87%aa%20IE%202
-trojan://t1k169n5zmvvwn96r9ft@146.70.90.197:57452?security=tls&sni=146.70.90.197&type=tcp&headerType=none&path=%2f&allow_insecure=1#%f0%9f%87%ae%f0%9f%87%aa%20IE%203
-trojan://t1k169n5zmvvwn96r9ft@146.70.90.198:57452?sni=146.70.90.198&path=%2f&allow_insecure=1#%f0%9f%87%ae%f0%9f%87%aa%20IE%204
-trojan://t1k169n5zmvvwn96r9ft@146.70.90.198:57452?security=tls&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=1#%f0%9f%87%ae%f0%9f%87%aa%20IE%205
-trojan://t1k169n5zmvvwn96r9ft@146.70.90.198:57452?security=tls&sni=146.70.90.198&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=1#%f0%9f%87%ae%f0%9f%87%aa%20IE%206
-trojan://t1k169n5zmvvwn96r9ft@146.70.90.195:57452?security=tls&sni=api-yandex.maps.ru&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=1#%f0%9f%87%ae%f0%9f%87%aa%20IE%207
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJNlJzU1VJWXJLSHBJMjZK@20.223.152.73:443#%f0%9f%87%ae%f0%9f%87%aa%20IE%201
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ek42V0R3NVdiYWQ3WlZi@20.223.152.73:443#%f0%9f%87%ae%f0%9f%87%aa%20IE%202
 trojan://XG59623478@singular-lark.rooster465.autos:443?allowInsecure=0&sni=singular-lark.rooster465.autos#[openproxylist.com] trojan-IE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ek42V0R3NVdiYWQ3WlZi@20.223.152.73:443#//Ireland/Dublin
 vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HrvCfh6pJRS0zNC4yNDcuNDEuMTI4LTQ4MDMiLCAiYWRkIjogImllLWxzMDMubmIxLmZyIiwgInBvcnQiOiA2NDQ0MywgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICJ0bHMiLCAiaWQiOiAiY2I3MDAxYzctZTQ5NS00MWFjLWI5NDItZjI1ZjYwNTIzNDE0IiwgInNuaSI6ICIiLCAiaG9zdCI6ICJpZS1sczAzLm5iMS5mciIsICJwYXRoIjogIi9jbGllbnRhcmVhIn0=

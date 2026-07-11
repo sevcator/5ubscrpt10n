@@ -1,9 +1,5 @@
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.244.138:2096?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#CR
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@138.59.16.146:989#%F0%9F%87%A8%F0%9F%87%B7CR-138.59.16.146-9876
-vless://764ce064-b6e7-4279-a014-4547883eee15@190.93.246.54:8080?type=ws&security=none&encryption=none&path=/kouroshasli_panel&host=kourosh-asli-ncjeuv.kourosh-gnlroc.workers.dev&headerType=none#CR_1620_@Surfboardv2ray
-vless://9e163d37-7514-4c12-9749-51cc91a31bf0@190.93.247.155:2052?security=none&type=ws&host=1.ftp.debian.org.www.speedtest.net.67.Site.#CR_2358_@Surfboardv2ray
-vless://dd6af632-e4bb-400a-922f-43f75ec89d64@190.93.245.94:443?mode=auto&path=/v1/api/sync/f47ac10b58cc4372a5670e02b2c3d479&security=tls&alpn=h2&encryption=none&insecure=0&host=api-ws-de.nxping.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=api-ws-de.nxping.ir#CR_3373_@Surfboardv2ray
-vless://f47ac10b-58cc-4372-a567-0e02b2c3d479@190.93.245.245:80?type=ws&encryption=none&host=edgetunnelworker.xlz.workers.dev&path=/?ed=2560#CR_3907_@Surfboardv2ray
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@190.93.246.129:443?allowInsecure=0&sni=aw.ylks.xyz&type=ws&host=aw.ylks.xyz&path=/?ed=2048security=tls#15|CR_speednode_0006
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@190.93.244.38:443?allowInsecure=0&sni=aw.ylks.xyz&type=ws&host=aw.ylks.xyz&path=/?ed=2048security=tls#15|CR_speednode_0007
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@190.93.247.124:443?allowInsecure=0&sni=ax.ylks.xyz&type=ws&host=ax.ylks.xyz&path=/?ed=2048security=tls#15|CR_speednode_0008
