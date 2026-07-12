@@ -1,1 +1,1 @@
-vless://37253a6a-2a9b-42bb-992c-b5f1b1ef1791@185.221.199.37:443?security=reality&encryption=none&pbk=3WzSgL8uXA3vE3IHrfdBpJmOO4MYrsWpczDSY_jJRjI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vruaz.mostserv.xyz&sid=226509f017e4c36d#/New Zealand
+trojan://humanity@202.37.33.80:443?sni=www.creationlong.org#%F0%9F%87%B3%F0%9F%87%BFNZ%E6%96%B0%E8%A5%BF%E5%85%B0
