@@ -1,3 +1,4 @@
+vmess://eyJ2IjoiMiIsImFkZCI6IjE2OC4xMzguNDMuNzUiLCJwb3J0IjoiODAiLCJpZCI6IjExYzM2MjdmLTMxZTgtNDY5NS1kZmJkLTM0MDc2ZTJmMWY1ZCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwidGxzIjoiIiwiYWxwbiI6IiIsInBhdGgiOiIvY2N0djEzLm0zdTgiLCJwcyI6IkpQIPCfh6/wn4e1IHwgQFJheWRpa2FseCB8IDI2ODkiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
 vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@202.84.53.85:30816?encryption=none&security=tls&sni=ylnhh.cc.cd&insecure=0&allowInsecure=0&type=ws&host=ylnhh.cc.cd&path=/Telegram@WangCai2#JP
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@151.242.165.136:59124?security=tls&type=ws&path=/danfeng&host=snippet.fgfw.indevs.in&alpn=http/1.1&sni=snippet.fgfw.indevs.in&fp=random#JP
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@103.75.118.144:2053?&security=tls&fp=random&sni=snippet.fgfw.ye.gs&type=ws&headerType=none&host=snippet.fgfw.ye.gs&path=/danfeng#JP
@@ -212,22 +213,18 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@185.172.113.182:811#%F0%9F
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@185.172.113.182:800#%F0%9F%87%AF%F0%9F%87%B5JP-185.172.113.182-9619
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@185.172.113.182:804#%F0%9F%87%AF%F0%9F%87%B5JP-185.172.113.182-9620
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@103.75.118.27:989#%F0%9F%87%AF%F0%9F%87%B5JP-103.75.118.27-10174
-vless://8ce3af34-308f-456c-93a6-e6dff9f03d77@cloudflare-ip.mofashi.ltd:443?sni=zdy.vavava.kdns.fr&type=ws&host=zdy.vavava.kdns.fr&path=/pyip=ProxyIP.CMLiussss.netsecurity=tls#%F0%9F%87%AF%F0%9F%87%B5JP_1%7C3.3MB/s
-vless://8ce3af34-308f-456c-93a6-e6dff9f03d77@cf.877774.xyz:443?sni=zdy.vavava.kdns.fr&type=ws&host=zdy.vavava.kdns.fr&path=/pyip=ProxyIP.CMLiussss.netsecurity=tls#%F0%9F%87%AF%F0%9F%87%B5JP_2%7C4.7MB/s
-vless://4feb7818-dc02-46cd-b985-abf3fdd0cdc5@cfd5.466688.xyz:443?sni=edge-4cb23bf6.pages.dev&type=ws&host=edge-4cb23bf6.pages.dev&path=/@https://t.me/QiangLieTuiJianfp=chrome&security=tls#%F0%9F%87%AF%F0%9F%87%B5JP_3%7C4.0MB/s
-vless://8ce3af34-308f-456c-93a6-e6dff9f03d77@103.170.233.213:443?sni=zdy.vavava.kdns.fr&type=ws&host=zdy.vavava.kdns.fr&path=/pyip=ProxyIP.CMLiussss.netfp=chrome&security=tls#%F0%9F%87%AF%F0%9F%87%B5JP_4%7C2.2MB/s
-vless://07c87117-8472-41f6-bea8-ddcb012b9b41@108.162.198.249:443?sni=edge-267487d0.pages.dev&type=ws&host=edge-267487d0.pages.dev&path=/?ed=2048fp=chrome&security=tls#%F0%9F%87%AF%F0%9F%87%B5JP_5%7C5.0MB/s
-vless://07c87117-8472-41f6-bea8-ddcb012b9b41@162.159.44.22:443?sni=edge-267487d0.pages.dev&type=ws&host=edge-267487d0.pages.dev&path=/?ed=2048fp=chrome&security=tls#%F0%9F%87%AF%F0%9F%87%B5JP_6%7C3.8MB/s
-vless://07c87117-8472-41f6-bea8-ddcb012b9b41@172.64.52.107:443?sni=edge-267487d0.pages.dev&type=ws&host=edge-267487d0.pages.dev&path=/?ed=2048fp=chrome&security=tls#%F0%9F%87%AF%F0%9F%87%B5JP_7%7C4.0MB/s
-vless://4feb7818-dc02-46cd-b985-abf3fdd0cdc5@108.162.198.136:443?sni=edge-4cb23bf6.pages.dev&type=ws&host=edge-4cb23bf6.pages.dev&path=/fp=chrome&security=tls#%F0%9F%87%AF%F0%9F%87%B5JP_8%7C4.9MB/s
-vless://07c87117-8472-41f6-bea8-ddcb012b9b41@172.64.52.94:443?sni=edge-267487d0.pages.dev&type=ws&host=edge-267487d0.pages.dev&path=/?ed=2048fp=chrome&security=tls#%F0%9F%87%AF%F0%9F%87%B5JP_9%7C4.0MB/s
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.183.180.62:443#%F0%9F%87%AF%F0%9F%87%B5JP_10%7C5.5MB/s
-vless://8ce3af34-308f-456c-93a6-e6dff9f03d77@cf.130519.xyz:443?sni=zdy.vavava.kdns.fr&type=ws&host=zdy.vavava.kdns.fr&path=/pyip=ProxyIP.CMLiussss.netfp=chromefp=chromefp=chrome&security=tls#%F0%9F%87%AF%F0%9F%87%B5JP_11%7C3.9MB/s
-vless://8ce3af34-308f-456c-93a6-e6dff9f03d77@www.cnae.top:443?sni=zdy.vavava.kdns.fr&type=ws&host=zdy.vavava.kdns.fr&path=/pyip=ProxyIP.CMLiussss.netfp=chromefp=chromefp=chrome&security=tls#%F0%9F%87%AF%F0%9F%87%B5JP_12%7C4.4MB/s
-vless://8ce3af34-308f-456c-93a6-e6dff9f03d77@54.250.124.53:443?sni=zdy.vavava.kdns.fr&type=ws&host=zdy.vavava.kdns.fr&path=/pyip=ProxyIP.CMLiussss.netfp=chromefp=chromefp=chrome&security=tls#%F0%9F%87%AF%F0%9F%87%B5JP_13%7C4.7MB/s
-vless://8ce3af34-308f-456c-93a6-e6dff9f03d77@cdn.9889888.xyz:443?sni=zdy.vavava.kdns.fr&type=ws&host=zdy.vavava.kdns.fr&path=/pyip=ProxyIP.CMLiussss.netfp=chromefp=chrome&security=tls#%F0%9F%87%AF%F0%9F%87%B5JP_14%7C4.7MB/s
-vless://8ce3af34-308f-456c-93a6-e6dff9f03d77@103.47.186.14:443?sni=zdy.vavava.kdns.fr&type=ws&host=zdy.vavava.kdns.fr&path=/pyip=ProxyIP.CMLiussss.netfp=chrome&security=tls#%F0%9F%87%AF%F0%9F%87%B5JP_15%7C1.8MB/s
-vless://8ce3af34-308f-456c-93a6-e6dff9f03d77@166.88.97.239:443?sni=zdy.vavava.kdns.fr&type=ws&host=zdy.vavava.kdns.fr&path=/pyip=ProxyIP.CMLiussss.netfp=chrome&security=tls#%F0%9F%87%AF%F0%9F%87%B5JP_16%7C3.8MB/s
+vless://00000000-0000-4000-8000-000000000000@103.133.240.115:17416?sni=rolaqoubhqt.bpd67081tsq.ddns-ip.net&type=ws&host=rolaqoubhqt.bpd67081tsq.ddns-ip.net&path=/@Marisa_kristifp=chromesecurity=tls#A%20-%20%F0%9F%87%AF%F0%9F%87%B5%20JP%2001%20TG%3A%20%40nodpai
+vless://00000000-0000-4000-8000-000000000000@140.235.10.14:30003?allowInsecure=1&sni=rolaqoubhqt.bpd67081tsq.ddns-ip.net&type=ws&host=rolaqoubhqt.bpd67081tsq.ddns-ip.net&path=/@Marisa_kristifp=chromesecurity=tls#A%20-%20%F0%9F%87%AF%F0%9F%87%B5%20JP%2002%20TG%3A%20%40nodpai
+vless://00000000-0000-4000-8000-000000000000@138.2.112.117:15807?allowInsecure=1&sni=57vanjkxjo3kejbf4o2iul6z4o.gike.dpdns.org&type=ws&host=57vanjkxjo3kejbf4o2iul6z4o.gike.dpdns.org&path=/@Marisa_kristifp=chrome&security=tls#A%20-%20%F0%9F%87%AF%F0%9F%87%B5%20JP%2003%20TG%3A%20%40nodpai
+vmess://eyJ2IjogIjIiLCAicHMiOiAiQSAtIPCfh6/wn4e1IEpQIDA0IFRHOiBAbm9kcGFpIiwgImFkZCI6ICJndG0tc2ctY2M1NHE3ZDFxMDEuMzY1Y2xvdWQwMjg1LmNvbSIsICJwb3J0IjogNjAwMywgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImEwMzA4NDJhLWQyOWEtNGVhOS1hNzc2LTE0ZmM0YjllMTAyZCJ9
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@176.124.223.30:8880?type=ws&host=vms.lifetime38.workers.dev#A%20-%20%F0%9F%87%AF%F0%9F%87%B5%20JP%2005%20TG%3A%20%40nodpai
+vless://00000000-0000-4000-8000-000000000000@114.204.40.185:30001?sni=9cvs-zyn4r9-6gzdtuo0w.mikuru.ip-ddns.com&type=ws&host=9cvs-zyn4r9-6gzdtuo0w.mikuru.ip-ddns.com&path=/@Marisa_kristifp=chrome&security=tls#A%20-%20%F0%9F%87%AF%F0%9F%87%B5%20JP%2006%20TG%3A%20%40nodpai
+vless://00000000-0000-4000-8000-000000000000@8.219.129.246:7152?sni=9cvs-zyn4r9-6gzdtuo0w.mikuru.ip-ddns.com&type=ws&host=9cvs-zyn4r9-6gzdtuo0w.mikuru.ip-ddns.com&path=/@Marisa_kristifp=chrome&security=tls#A%20-%20%F0%9F%87%AF%F0%9F%87%B5%20JP%2007%20TG%3A%20%40nodpai
+vless://00000000-0000-4000-8000-000000000000@45.143.131.216:42769?allowInsecure=1&sni=57vanjkxjo3kejbf4o2iul6z4o.gike.dpdns.org&type=ws&host=57vanjkxjo3kejbf4o2iul6z4o.gike.dpdns.org&path=/@Marisa_kristifp=chrome&security=tls#B%20-%20%F0%9F%87%AF%F0%9F%87%B5%20JP%2008%20TG%3A%20%40nodpai
+vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+Hr/Cfh7VKUF8xfDIuNE1CL3MiLCAiYWRkIjogInZwczEyMy5rYnhhLnRvcCIsICJwb3J0IjogNDQzLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogInRscyIsICJpZCI6ICJjZDA3ZDZlNi1mNjMxLTQ3NTctYTAzYy1iODcyN2M1NjhjODUiLCAic25pIjogInZwczEyMy5rYnhhLnRvcCIsICJob3N0IjogInZwczEyMy5rYnhhLnRvcCIsICJwYXRoIjogIi8xMjMifQ==
+vless://07c87117-8472-41f6-bea8-ddcb012b9b41@172.64.52.107:443?sni=edge-267487d0.pages.dev&type=ws&host=edge-267487d0.pages.dev&path=/?ed=2048fp=chrome&security=tls#%F0%9F%87%AF%F0%9F%87%B5JP_2%7C3.9MB/s
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.183.180.62:443#%F0%9F%87%AF%F0%9F%87%B5JP_3%7C3.6MB/s
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@52.195.12.64:443#%F0%9F%87%AF%F0%9F%87%B5JP_4%7C2.7MB/s
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTQuMTk5LjE1LjcwOjQ0Mw==#%F0%9F%87%AF%F0%9F%87%B5_JP_%E6%97%A5%E6%9C%AC_6
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@18.183.135.29:443#JP  ROSE129
 vmess://eyAidiIgOiAiMiIsICJwcyIgOiAi4pqhQERlYW1OZXRfUHJveHkg8J+Uu/Cfh6/wn4e1SlAg8J+UuvCfh6/wn4e1SlAg4piRTVROIiwgImFkZCIgOiAiMTQwLjgzLjYzLjM4IiwgInBvcnQiIDogIjI0NDQ1IiwgImlkIiA6ICI5NGM1ZWYzNy00ZDgyLTQ5ZjktYzYyNC1mMDEyNTkzNzRhMTciLCAiYWlkIiA6IDAsICJzY3kiIDogImF1dG8iLCAibmV0IiA6ICJ0Y3AiLCAidHlwZSIgOiAibm9uZSIgfQ==
@@ -391,10 +388,11 @@ trojan://PI36027154@stirred-buck.rooster465.autos:443?security=tls&sni=stirred-b
 trojan://PI36027154@stirred-buck.rooster465.autos:443?sni=stirred-buck.rooster465.autos&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%2012
 trojan://PI36027154@exciting-grizzly.rooster465.autos:443?sni=exciting-grizzly.rooster465.autos&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%2013
 vless://6c8a1ad4-0c04-460d-87e2-507a952ba902@116.206.92.167:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=www.apple.com&fp=chrome&pbk=LP_JNPrfHbQnMK5dYoKr4D6Q8I8yKHK5ygHffJb1hzw&sid=dfde4e821472fb98&type=tcp&headerType=none&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%2014
-trojan://PI36027154@busy-lab.rooster465.autos:443?allowInsecure=0&sni=busy-lab.rooster465.autos#[openproxylist.com] trojan-JP
-trojan://PI36027154@stirred-buck.rooster465.autos:443?allowInsecure=0&sni=stirred-buck.rooster465.autos#[openproxylist.com] trojan-JP
-trojan://PI36027154@faithful-clam.rooster465.autos:443?allowInsecure=0&sni=faithful-clam.rooster465.autos#[openproxylist.com] trojan-JP
-trojan://PI36027154@exciting-grizzly.rooster465.autos:443?allowInsecure=0&sni=exciting-grizzly.rooster465.autos#[openproxylist.com] trojan-JP
+trojan://PI36027154@busy-lab.rooster465.autos:443?security=tls&sni=busy-lab.rooster465.autos#[openproxylist.com] trojan-JP
+trojan://PI36027154@stirred-buck.rooster465.autos:443?security=tls&sni=stirred-buck.rooster465.autos#[openproxylist.com] trojan-JP
+trojan://PI36027154@faithful-clam.rooster465.autos:443?security=tls&sni=faithful-clam.rooster465.autos#[openproxylist.com] trojan-JP
+trojan://PI36027154@exciting-grizzly.rooster465.autos:443?security=tls&sni=exciting-grizzly.rooster465.autos#[openproxylist.com] trojan-JP
+vmess://eyJhZGQiOiIxNTcuODUuMjMwLjI0NyIsImFpZCI6MCwiaG9zdCI6Ind3dy5iaW5nLmNvbSIsImlkIjoiODUzNTdkMzUtNDkyZS00ODE0LTgzNWEtYWJhNGNiN2YwMGFkIiwibmV0Ijoid3MiLCJwYXRoIjoiODUzNTdkMzUtNDkyZS00ODE0LTgzNWEtYWJhNGNiN2YwMGFkLXZtIiwicG9ydCI6MjA1MiwicHMiOiJcdWQ4M2NcdWRkZWZcdWQ4M2NcdWRkZjVbb3BlbnByb3h5bGlzdC5jb21dIHZtZXNzLUpQIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6ImF1dG8ifQ==
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5OTMwMWQ1NS1hNDFmLTQ5MTktOTg2Yi0xNDM1OTk2NTMzYWE@120.238.122.207:50004#JP%2F1|Github%E6%90%9C%E7%B4%A2TrojanLinks
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5OTMwMWQ1NS1hNDFmLTQ5MTktOTg2Yi0xNDM1OTk2NTMzYWE@120.238.122.207:50005#JP%2F2|Github%E6%90%9C%E7%B4%A2TrojanLinks
 vless://7e6d3393-bb84-45c7-9eef-35de95805b7e@142.91.108.139:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=jp.api-yandex.net&fp=firefox&pbk=IOO3P6BDqBjUA0gB4tgpvxrXL6Fit88QgpJ1y6GYyz0&sid=0f4dacf88202e05f&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B570Mb%20%7C%20Leaseweb%20Japan%20KK
