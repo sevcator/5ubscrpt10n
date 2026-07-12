@@ -2,3 +2,4 @@ vmess://eyJhZGQiOiI0NS45Mi45My4xODQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiIiLCJp
 vmess://eyJhZGQiOiAiNDUuMTIuMzAuNTgiLCAiYWlkIjogIjAiLCAiaG9zdCI6ICJiaWxpcC5nb3Zlcm1lbnRjby5zcGFjZSIsICJpZCI6ICJjZjlhMDAxYi01MDI1LTQ3OTAtOWMyZS0wOWI3OTljNWZjYzciLCAibmV0IjogIndzIiwgInBhdGgiOiAiQHYycmF5bmcxNCIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJAdjJyYXkyNCBcdTI1YjcgUm9tYW5pYSBcdWQ4M2NcdWRkZjdcdWQ4M2NcdWRkZjQiLCAic25pIjogImJpbGlwLmdvdmVybWVudGNvLnNwYWNlIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
 trojan://3747000103274291200@89.39.70.207:443?peer=sunny-jackal.insect388.motorcycles#Romania
 vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.243:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=sub.sbrf-cdn342.ru&fp=qq#Romania
+vless://146eb6cf-a99c-4022-85ca-022cf81502dc@195.74.93.254:443?security=reality&encryption=none&pbk=7ReQIe2kMtP4rCrptgH5glkOM-JGcSAPzHNxOED-Z0s&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=247fd6dab1a34a48#/Romania
