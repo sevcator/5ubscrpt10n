@@ -1,1 +1,2 @@
+vless://3ea0a12e-162e-45b8-b03b-c490d6105091@114.129.43.130:443?&security=tls&fp=chrome&sni=wa1.mhrnet.com&type=ws&headerType=none&host=wa1.mhrnet.com&path=/#NZ_876_@Surfboardv2ray
 vless://f9aeba2c-4c68-11f1-8d30-2ddfba49052f@185.143.234.235:8080?path=%2F%3Fed%3D2560&security=none&encryption=none&host=sv-1.jservices.ir&type=ws#/New Zealand
