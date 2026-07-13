@@ -3,6 +3,5 @@ vmess://ewogICAgImFkZCI6ICIxOTMuMjkuMTA3LjIzNyIsCiAgICAiYWlkIjogNjQsCiAgICAiaG9z
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.36.27.94:989#%F0%9F%87%A9%F0%9F%87%B0DK-192.36.27.94-5650
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.36.27.116:989#%F0%9F%87%A9%F0%9F%87%B0DK-192.36.27.116-9594
 vmess://eyJwcyI6ICJcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZjAgY29ubmVjdG9uLWRrMSIsICJhZGQiOiAiZGsxLmNvbm5lY3Rvbi5zdXJmIiwgInBvcnQiOiAiNDQzIiwgImlkIjogImE4MDhkZWZiLWE2MDAtNGFiYy1hNDg5LWYzZjUwMGMzYjkwMSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJkazEuY29ubmVjdG9uLnN1cmYiLCAic25pIjogImRrMS5jb25uZWN0b24uc3VyZiIsICJwYXRoIjogInZtZXNzIiwgInRscyI6ICJ0bHMiLCAiYWxwbiI6ICJoMixodHRwLzEuMSIsICJhbGxvd0luc2VjdXJlIjogZmFsc2UsICJ2MiI6ICIyIiwgInByb3RvY29sIjogInZtZXNzIn0=
-vless://4be7de5f-4ccb-455d-8f73-22d84294c904@book.korzelo.ir:2083?path=/&security=none&encryption=none&host=play.google.com&type=ws#DK_1095_@Surfboardv2ray
-vless://4be7de5f-4ccb-455d-8f73-22d84294c904@book.korzelo.ir:2083?path=/&security=none&encryption=none&host=play.google.com&type=ws#DK_1096_@Surfboardv2ray
-vless://4be7de5f-4ccb-455d-8f73-22d84294c904@book.korzelo.ir:2083?path=/&security=none&encryption=none&host=play.google.com&type=ws#DK_1097_@Surfboardv2ray
+vless://4be7de5f-4ccb-455d-8f73-22d84294c904@book.korzelo.ir:2083?path=/&security=none&encryption=none&host=play.google.com&type=ws#DK_1078_@Surfboardv2ray
+vless://4be7de5f-4ccb-455d-8f73-22d84294c904@book.korzelo.ir:2083?path=/&security=none&encryption=none&host=play.google.com&type=ws#DK_1079_@Surfboardv2ray
