@@ -1,2 +1,6 @@
-vless://d0cfc134-447c-4c84-965a-ff5f827c9016@116.203.60.171:8080?security=none&type=tcp#Cpytel.gp-50.00GB%F0%9F%93%8A
+ss://e4476b85-4986-4c5b-b29a-44010deb2cfe@tel.ArV2ray.host:443?path=%2F&security=tls&encryption=none&host=ws.ArV2ray.fun&type=ws&sni=ws.ArV2ray.fun#%40Gp_Proxy_VPN%20%F0%9F%91%88%DA%AF%D8%B1%D9%88%D9%87%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+ss://d0d42596-ff07-4f6f-9edd-7fbf3e93b8fd@78.153.139.212:777?security=none&encryption=none&host=este.com&headerType=http&type=tcp#HamraheAval+GP+%28%40Outline_Vpn%29
 ss://d0cfc134-447c-4c84-965a-ff5f827c9016@116.203.60.171:8080?security=none&type=tcp#Cpytel.gp-50.00GB%F0%9F%93%8A
+vless://d0d42596-ff07-4f6f-9edd-7fbf3e93b8fd@78.153.139.212:777?security=none&encryption=none&host=este.com&headerType=http&type=tcp#HamraheAval+GP+%28%40Outline_Vpn%29
+vless://d0cfc134-447c-4c84-965a-ff5f827c9016@116.203.60.171:8080?security=none&type=tcp#Cpytel.gp-50.00GB%F0%9F%93%8A
+vless://e4476b85-4986-4c5b-b29a-44010deb2cfe@tel.ArV2ray.host:443?path=%2F&security=tls&encryption=none&host=ws.ArV2ray.fun&type=ws&sni=ws.ArV2ray.fun#%40Gp_Proxy_VPN%20%F0%9F%91%88%DA%AF%D8%B1%D9%88%D9%87%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86

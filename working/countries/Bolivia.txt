@@ -1,1 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@185.93.173.60:990#BO  ROSE181
+ss://4886fac6-a91e-412e-ac36-40a7add73fa4@170.114.45.249:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@free_v2rayy&sni=chanel.clashnv.site#Bo
+vless://4886fac6-a91e-412e-ac36-40a7add73fa4@170.114.45.249:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@free_v2rayy&sni=chanel.clashnv.site#Bo

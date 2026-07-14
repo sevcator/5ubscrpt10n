@@ -1,0 +1,2 @@
+ss://6652c945-e8ba-4308-c36c-26a74a4a07dc@188.121.119.69:14433?type=tcp&path=%2F&host=Fast.com&headerType=http#LIQ%20%7C%20VPN%20(%F0%9F%8E%96%EF%B8%8F)-sl8x5pbk.T
+vless://6652c945-e8ba-4308-c36c-26a74a4a07dc@188.121.119.69:14433?type=tcp&path=%2F&host=Fast.com&headerType=http#LIQ%20%7C%20VPN%20(%F0%9F%8E%96%EF%B8%8F)-sl8x5pbk.T

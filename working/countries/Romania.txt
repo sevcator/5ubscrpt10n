@@ -4,8 +4,6 @@ trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.156:443?security=tls&typ
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.140:443?security=tls&sni=185.137.157.140#%F0%9F%87%B7%F0%9F%87%B4RO%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A4%202.1MB%2Fs
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.135:443?#%F0%9F%87%B7%F0%9F%87%B4RO%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A5
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@194.14.217.115:989#%F0%9F%87%B7%F0%9F%87%B4RO-194.14.217.115-9141
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.180.40:8880?type=ws&host=vms.lifetime09.workers.dev&path=/?ed=2560#A%20-%20%F0%9F%87%B7%F0%9F%87%B4%20RO%2001%20TG%3A%20%40nodpai
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.53.53.30:8880?type=ws&host=vms.lifetime51.workers.dev&path=/#A%20-%20%F0%9F%87%B7%F0%9F%87%B4%20RO%2002%20TG%3A%20%40nodpai
 vless://223d91ac-2eab-446a-ad15-7523a819d055@38.79.154.34:8585?mode=gun&security=reality&encryption=none&pbk=a20AW-pKrDkwITkp3eZ6WC809AYkNqoW1rs4AfLs73Y&fp=chrome&spx=/7GYTKtztVd5R8jQ&type=grpc&sni=stg-eu-images.shop.samsung.com&sid=f880ed2a48#RO_549_@Surfboardv2ray
 vless://cbb4d9c9-6a8f-4acc-9aa1-2974015e0279@portal.seysisi.ir:443?mode=gun&security=reality&encryption=none&pbk=itGRjgYQO-5Y74sh0r2xngsaVVTMwlxlQcEzH7rESTY&fp=chrome&spx=/&type=grpc&sni=play.google.com&sid=78f403c15670ab55#RO_2874_@Surfboardv2ray
 vless://db8c3c80-a025-46f9-bffb-fde63c2e3ac1@38.79.154.34:2020?security=reality&encryption=none&pbk=KWlccWTLW11wEojieRNfg6zezd3KMxPpAkwZ11VNhSM&headerType=none&fp=chrome&spx=/zv8M17VMppA3e9S&type=tcp&flow=xtls-rprx-vision&sni=aparat.com&sid=7e82#RO_3175_@Surfboardv2ray

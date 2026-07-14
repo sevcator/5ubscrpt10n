@@ -1,1 +1,2 @@
-trojan://hCunaKqdEJDBO+3jCrJUSMevXOw9Q_r4Ey@38.60.136.156:443?allowInsecure=0#//Brazil/So Paulo
+ss://9f135709-60a1-4a9b-b31c-78d326d8752a@104.18.152.233:443?security=tls&sni=www.middle.cc.cd&alpn=h3,h2,http/1.1&allowInsecure=1&fp=firefox&type=tcp&encryption=none#so%20you
+vless://9f135709-60a1-4a9b-b31c-78d326d8752a@104.18.152.233:443?security=tls&sni=www.middle.cc.cd&alpn=h3,h2,http/1.1&allowInsecure=1&fp=firefox&type=tcp&encryption=none#so%20you

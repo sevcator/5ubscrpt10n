@@ -1,0 +1,2 @@
+ss://bfa0590b-e20e-4e6e-ba6d-a5c54d8599c2@srv.rayvps.sbs:2095?type=ws&path=%2F&host=cl.rayvps.sbs&security=none#%40Rayvpn_allws-xa4wvq25
+vless://bfa0590b-e20e-4e6e-ba6d-a5c54d8599c2@srv.rayvps.sbs:2095?type=ws&path=%2F&host=cl.rayvps.sbs&security=none#%40Rayvpn_allws-xa4wvq25

@@ -1,1 +1,2 @@
-vless://58806bb1-82dd-48ad-9b29-4eee4ef80640@arvancloud.ir:8080?encryption=none&host=4030m.ir&path=/web&security=none&type=ws#Tunnel-Tel-bm7y7lo7-1.00GB
+ss://0f4dacd7-8f8f-4326-a849-1b1593e8e711@ip.ali.lat:2083?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=temp3.ali.lat&type=ws&allowInsecure=0&sni=temp3.ali.lat#e3bm-%40Fr33C0nfig%20%2F%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20
+vless://0f4dacd7-8f8f-4326-a849-1b1593e8e711@ip.ali.lat:2083?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=temp3.ali.lat&type=ws&allowInsecure=0&sni=temp3.ali.lat#e3bm-%40Fr33C0nfig%20%2F%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20

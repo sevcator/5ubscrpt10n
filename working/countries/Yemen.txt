@@ -1,3 +1,5 @@
+ss://1dc2dc70-54ef-4743-8966-b46b2472326f@mci-join1.servernett.cfd:23149/?type=tcp&encryption=none&flow=#%40Freeconfigv2%7C1596vless://1674ce33-8426-47b3-e484-9b0fa68b4803@172.232.54.200:8585/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.speedtest.net&fp=safari&security=reality&pbk=womHqCuAR68OxrFg8jhVJC3Yd_xn6QmaLLaOvmZhi0k&sid=22#%40Freeconfigv2%7C1591
+vless://1dc2dc70-54ef-4743-8966-b46b2472326f@mci-join1.servernett.cfd:23149/?type=tcp&encryption=none&flow=#%40Freeconfigv2%7C1596vless://1674ce33-8426-47b3-e484-9b0fa68b4803@172.232.54.200:8585/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.speedtest.net&fp=safari&security=reality&pbk=womHqCuAR68OxrFg8jhVJC3Yd_xn6QmaLLaOvmZhi0k&sid=22#%40Freeconfigv2%7C1591
 trojan://telegram-id-directvpn@54.76.45.13:22222?security=tls&sni=trj.rollingnext.co.uk&type=tcp&headerType=none#YD|tg:@Zyw_Channel
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MzYzN2NlYy02OTlkLTRkODctOTlhZi0wNzc2YWM4ODA2MDQ=@service.ouluyun9803.com:20003#YD|TG
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.68.135.112:9101#YD|tg:@Zyw_Channel

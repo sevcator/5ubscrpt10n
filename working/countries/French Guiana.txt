@@ -1,1 +1,2 @@
-vless://f292822f-6db0-4f66-be56-f69ba8587d2c@free.jibjob.mom:8546?type=ws&encryption=none&path=/&host=&security=none#@Internet_freevatanbot2-moty3gf1
+ss://797cf965-fed9-4c84-a9d6-19a5da4598a7@78.46.233.103:59814?type=tcp&path=%2F%40NIM_VPN_ir&host=speedtest.net&headerType=http&security=none#gf9bwjoa
+vless://797cf965-fed9-4c84-a9d6-19a5da4598a7@78.46.233.103:59814?type=tcp&path=%2F%40NIM_VPN_ir&host=speedtest.net&headerType=http&security=none#gf9bwjoa

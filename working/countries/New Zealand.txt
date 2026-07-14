@@ -1,1 +1,4 @@
-vless://f9aeba2c-4c68-11f1-8d30-2ddfba49052f@185.143.234.235:8080?path=%2F%3Fed%3D2560&security=none&encryption=none&host=sv-1.jservices.ir&type=ws#/New Zealand
+ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2QDE4MC4xNDkuMjMxLjExNzozMzk5Mg==#New+Zealand+Host+Universal
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@103.62.49.141:809#New+Zealand+GSL
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW9AMTAzLjYyLjQ5LjE0MTo4MDI=#New+Zealand+GSL
+ss://YWVzLTI1Ni1nY206d3JDYUd0clViemVScVFMZGM4S21rM05kQDE4MC4xNDkuMjMxLjEzOjQ5MTI2#New+Zealand+Host+Universal
