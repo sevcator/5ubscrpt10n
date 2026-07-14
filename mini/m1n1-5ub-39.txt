@@ -1,12 +1,3 @@
-trojan://telegram-id-directvpn@54.91.45.38:22222?security=tls&headerType=none&type=tcp&sni=trj.rollingnext.co.uk# By EbraSha 
-trojan://telegram-id-directvpn@54.93.101.6:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha 
-trojan://telegram-id-directvpn@54.93.126.77:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha 
-trojan://telegram-id-directvpn@54.93.127.236:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha 
-trojan://telegram-id-directvpn@54.93.174.92:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha 
-trojan://telegram-id-directvpn@54.93.35.33:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha 
-trojan://telegram-id-directvpn@54.93.56.163:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha 
-trojan://telegram-id-directvpn@54.93.68.91:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha 
-trojan://telegram-id-directvpn@54.93.70.255:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha 
 trojan://telegram-id-directvpn@63.176.115.216:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha 
 trojan://telegram-id-directvpn@63.176.115.85:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha 
 trojan://telegram-id-directvpn@63.176.121.99:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha 
@@ -2094,6 +2085,7 @@ trojan://telegram-id-privatevpns@35.181.223.66:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@35.181.224.159:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha 
 trojan://telegram-id-privatevpns@35.181.225.239:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha 
 trojan://telegram-id-privatevpns@35.181.228.222:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha 
+trojan://telegram-id-privatevpns@35.181.228.234:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha 
 trojan://telegram-id-privatevpns@35.181.229.245:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha 
 trojan://telegram-id-privatevpns@35.181.231.212:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha 
 trojan://telegram-id-privatevpns@35.181.231.28:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha 
@@ -7238,6 +7230,7 @@ vless://03f996ff-14f3-47b4-b69a-d6aa927f2eef@speedtest.net:80?flow=&type=ws&host
 vless://03fcc618-b93d--6aed-8a38c975d581@186.190.211.188:443?security=tls&encryption=none&insecure=1&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&allowInsecure=1&sni=186.190.211.188# By EbraSha 
 vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&encryption=none&insecure=1&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&allowInsecure=1&sni=# By EbraSha 
 vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?allowInsecure=1&encryption=none&security=tls&sni=186.190.211.188&type=tcp# By EbraSha 
+vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?encryption=none&security=tls&allowInsecure=1&sni=186.190.211.188&insecure=1&headerType=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=tcp# By EbraSha 
 vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?encryption=none&security=tls&sni=186.190.211.188&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none# By EbraSha 
 vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?encryption=none&security=tls&sni=186.190.211.188&insecure=1&allowInsecure=1&type=tcp&headerType=none&host=%2F%3F# By EbraSha 
 vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?encryption=none&security=tls&sni=186.190.211.188&insecure=1&allowInsecure=1&type=tcp&headerType=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI# By EbraSha 
@@ -7264,6 +7257,7 @@ vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?security=tls&en
 vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?security=tls&encryption=none&insecure=1&host=/?mtmvpn&headerType=none&type=tcp&allowInsecure=1&sni=186.190.211.188# By EbraSha 
 vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?security=tls&encryption=none&insecure=1&host=/?mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn&headerType=none&type=tcp&allowInsecure=1&sni=186.190.211.188# By EbraSha 
 vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?security=tls&encryption=none&insecure=1&host=186.190.211.188&headerType=none&type=tcp&allowInsecure=1&sni=186.190.211.188# By EbraSha 
+vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?sni=186.190.211.188&encryption=none&type=tcp&headerType=none&security=tls&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&insecure=1&allowInsecure=1# By EbraSha 
 vless://03fcc618-b93d-6796-6aed-8a38c975d581@45.80.215.68:443?security=tls&encryption=none&host=45.80.215.68&headerType=none&type=tcp&sni=45.80.215.68# By EbraSha 
 vless://03fdd2c2-7459-41b9-9504-ed2ecc1181b6@94.156.155.75:64003?encryption=none&fp=&pbk=dG1suoqzIlJMu_sHTvWy1RK12ZORBro6NrkqdQ6h7iQ&security=reality&serviceName=xraygrpc&sid=fbf3edeea8eabbdc&sni=download.docker.com&type=grpc# By EbraSha 
 vless://03fdf547-02c8-4bf6-8381-bca01016d7bf@free06.tunnely.ru:2096?encryption=none&type=grpc&serviceName=grpc&mode=gun&security=reality&sni=free06.tunnely.ru&fp=firefox&pbk=mChFHtaRmeuO2aDuDPqZvBFaCz6f34sVJIKuJcAR130&sid=2e40144ddc07e8e1# By EbraSha 
@@ -7367,6 +7361,8 @@ vless://043f42f0-861d-4efd-8d36-8fb1a0eef823@dowillwe.soon.it:37665?security=rea
 vless://0440e93c-a9d3-4998-aeaa-d0e2363131e4@172.64.48.201:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=rahammahar.photoazadeh9100.workers.dev&path=%2F&security=tls&sni=rahammahar.photoazadeh9100.workers.dev&type=ws# By EbraSha 
 vless://0440e93c-a9d3-4998-aeaa-d0e2363131e4@172.64.48.201:443?encryption=none&fp=chrome&host=rahammahar.photoazadeh9100.workers.dev&path=%2F&security=tls&sni=rahammahar.photoazadeh9100.workers.dev&type=ws# By EbraSha 
 vless://04413f85-9929-13ea-1f36-08d139734b10@x4g-production-4de6.up.railway.app:443?path=/ws/04413f85-9929-13ea-1f36-08d139734b10&security=tls&alpn=http/1.1&encryption=none&host=x4g-production-4de6.up.railway.app&fp=chrome&type=ws&sni=x4g-production-4de6.up.railway.app# By EbraSha 
+vless://04413f85-9929-13ea-1f36-08d139734b10@x4g-production-4de6.up.railway.app:443?path=/ws/04413f85-9929-13ea-1f36-08d139734b10&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=&fp=chrome&type=ws&allowInsecure=0&sni=# By EbraSha 
+vless://04413f85-9929-13ea-1f36-08d139734b10@x4g-production-4de6.up.railway.app:443?path=/ws/04413f85-9929-13ea-1f36-08d139734b10&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=x4g-production-4de6.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-4de6.up.railway.app# By EbraSha 
 vless://044147c3-c432-4ac7-a31b-76f5e20a0b46@open.chatgpt.com:443?encryption=none&security=tls&type=ws&headerType=none&path=%2FNama%3Fed%3D2048&host=chatipatifinland.vpsino.com&sni=chatipatifinland.vpsino.com&alpn=h2%2Chttp%2F1.1# By EbraSha 
 vless://04415b88-a252-4339-ad23-d8c0326a67e4@141.227.180.39:22293?mode=gun&security=none&encryption=none&authority=JOIN---MTMVPN---JOIN---MTMVPN---JOIN---MTMVPN---JOIN---MTMVPN&type=grpc&serviceName=%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-bia-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E# By EbraSha 
 vless://0444a011-20b6-4590-e35d-5b86fda9018e@89.163.246.92:54761?security=none&encryption=none&headerType=http&type=tcp# By EbraSha 
@@ -9740,6 +9736,7 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.154.82.55:22222?path=%2Ftelegram
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.170.30.213:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=%2Ftelegram-channel-vlessconfig-ws# By EbraSha 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.171.242.155:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk# By EbraSha 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.194.129.81:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk# By EbraSha 
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.195.254.36:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk# By EbraSha 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.229.104.59:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws# By EbraSha 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.246.183.222:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws# By EbraSha 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.246.85.191:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws# By EbraSha 
@@ -9998,3 +9995,6 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.184.74.254:22224?type=ws&securit
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.185.124.176:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk# By EbraSha 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.185.169.158:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk# By EbraSha 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.185.173.123:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk# By EbraSha 
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.185.188.232:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk# By EbraSha 
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.185.199.92:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk# By EbraSha 
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.185.247.94:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk# By EbraSha 
