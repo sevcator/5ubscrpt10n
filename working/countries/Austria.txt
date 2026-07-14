@@ -21,6 +21,9 @@ vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@172.67.163.213:2096?encryption=none
 trojan://humanity@212.183.88.136:443?encryption=none&security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#%F0%9F%87%A6%F0%9F%87%B9Austria+-%3E+%F0%9F%87%AB%F0%9F%87%B7France+%E2%9A%A1@DeamNet_Proxy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3NWRyQUw3UGZDSXdRMnljVXVvRHNWMkxz@212.113.106.243:13022#%F0%9F%87%A6%F0%9F%87%B9AT-212.113.106.243-9080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQMnp4WFBld2xWM0JsZnFxWWlTdGh2dExj@212.113.106.243:12949#%F0%9F%87%A6%F0%9F%87%B9AT-212.113.106.243-9081
+vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@157.173.29.12:443?sni=web.max.ru&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%A6%F0%9F%87%B9AT_1%7C2.5MB/s
+vless://4cbecc04-ea0c-44e7-a9da-8fe952526322@152.53.31.54:16923?sni=api-maps.yandex.ru&type=grpc&serviceName=neurex&fp=firefox&security=tls#%F0%9F%87%A6%F0%9F%87%B9AT_2%7C3.5MB/s
+vless://c8d58c46-bba5-4669-a8e0-234e6ef5be49@152.53.31.54:16923?sni=api-maps.yandex.ru&type=grpc&serviceName=neurex&fp=firefox&security=tls#%F0%9F%87%A6%F0%9F%87%B9AT_3%7C2.0MB/s
 vless://18167dd6-2c24-4f6b-a416-64bac693127a@104.143.0.254:443?encryption=none&security=reality&sni=optim.tildacdn.pub&fp=chrome&pbk=fvpPs49YdpPvrAr7xyminj-wzGaRnB7CRVfYDalewkY&sid=db78dafb7cd886fb&type=grpc&authority=&serviceName=ebl&mode=gun#AT_417_@Surfboardv2ray
 vless://18167dd6-2c24-4f6b-a416-64bac693127a@104.143.0.254:443?mode=gun&security=reality&encryption=none&pbk=fvpPs49YdpPvrAr7xyminj-wzGaRnB7CRVfYDalewkY&fp=chrome&type=grpc&serviceName=ebl&sni=optim.tildacdn.pub&sid=db78dafb7cd886fb#AT_418_@Surfboardv2ray
 vless://18167dd6-2c24-4f6b-a416-64bac693127a@104.143.0.254:443?mode=gun&security=reality&encryption=none&pbk=fvpPs49YdpPvrAr7xyminj-wzGaRnB7CRVfYDalewkY&fp=chrome&type=grpc&serviceName=ebl&sni=optim.tildacdn.pub&sid=db78dafb7cd886fb#AT_419_@Surfboardv2ray
