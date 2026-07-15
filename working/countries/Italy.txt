@@ -43,78 +43,8 @@ vmess://ewogICAgImFkZCI6ICIxNTguMTgwLjIyOC4yMjYiLAogICAgImFpZCI6IDAsCiAgICAiaG9z
 ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2@82.102.26.117:33992#%F0%9F%87%AE%F0%9F%87%B9IT-82.102.26.117-2257
 ss://YWVzLTI1Ni1nY206RldyWGN4UFpqSnhBTjg5eExncVkzQWNw@82.102.26.117:44236#%F0%9F%87%AE%F0%9F%87%B9IT-82.102.26.117-2263
 ss://YWVzLTI1Ni1nY206aGc0OSRXSDg5NDNnMw==@84.33.193.79:18760#%F0%9F%87%AE%F0%9F%87%B9IT-84.33.193.79-0047
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.206.12.40:8880?type=ws&host=vms.lifetime44.workers.dev&path=/?ed=2560&https://t.me/youtube@ZYFXS#A%20-%20%F0%9F%87%AE%F0%9F%87%B9%20IT%2001%20TG%3A%20%40nodpai
-vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@194.55.239.228:6443?sni=api-maps.yandex.ru&flow=xtls-rprx-vision-udp443&fp=qq&security=tls#%F0%9F%87%AE%F0%9F%87%B9IT_1%7C2.0MB/s
-vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@62.152.56.110:6443?sni=api-maps.yandex.ru&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%AE%F0%9F%87%B9IT_2%7C3.2MB/s
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@185.213.20.110:7001#IT  ROSE79
 vmess://ewogICAgImFkZCI6ICIxNTguMTgwLjIyOC4yMjYiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJiZXlvbmRkc3ouY2ZkIiwKICAgICJpZCI6ICI5YjQ1NmMyYS1mMmMxLTQ1ZTEtODdhOS1iNzYyOGIwNGJiMjQiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvbGlua3dzIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfh67wn4e5SVQtMTU4LjE4MC4yMjguMjI2LTE0NjQiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
-vless://1524d56d-4cb5-41e3-8490-15a2611a816e@57.131.18.123:13355?encryption=none&security=none&type=tcp&headerType=none#IT_398_@Surfboardv2ray
-vless://3f298aca-2412-49ac-9f20-235f0e448d31@57.131.19.166:7009?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=f8TgqVBYK3tmhip3lJ-r8D0i6fqEF1Zy-zAfEhS-Cl8&type=tcp&headerType=none#IT_787_@Surfboardv2ray
-vless://3f298aca-2412-49ac-9f20-235f0e448d31@talianaccentclouding.iranlast.com:7009?security=reality&encryption=none&pbk=f8TgqVBYK3tmhip3lJ-r8D0i6fqEF1Zy-zAfEhS-Cl8&headerType=none&fp=chrome&type=tcp&sni=yahoo.com#IT_789_@Surfboardv2ray
-vless://5b053782-5442-4292-9864-25c38f6d56bd@132.243.212.25:443?path=/api-pl&security=none&encryption=mlkem768x25519plus.native.0rtt.7OfqpNn32vxiGtDBEBKrafssSGN--VjL6KnaqC_5qA0.TdLILcJUcfxBZzqSa3tTBwB9x2Z-MHImCOYxTXqisIc7ycN-QgYdwwaBVSNq-Zi_KeiZ0WhMPUiKQ5Iudyu2oYgRAbyuVscbVIQ60itdQqBCsQpFBMoKBtZBTSk9ZRc84MtihYmqjWgZRlknrcO3GSSBLMIzkPGyaGkjNvEU9vBpvGgTQ8oDRPjCAsIQXzt7HWWK9iouKkkc30RXLWUWWtc90Et-BnkR6qqUD7pZzHK7h2eyVEdi5KkcsPRidRSk4tFFNyCXWsko4DGf1TOXshOZZoVuPtmW-5THZKk3cbaXcxJBfgyrSWedW5Ol_FWlETU7QNieunY6LVLBmOq8OaQWm6uuDRVKYAp9bdNuY8MQcQq-prUvtmSgCamggyeeiBnCxrZDAcYiG9dC9xcpYLN8xuafooCxlusxk1AGHBmyPISLA5MqA1ExErmW3OuXqji_vIwVJCAgQQOCHrgqA3duAimZfihbsflXqjWKqEJ45qCrP8AVg1ApAqTCMvWT4zGeDnWR7zeu_DSDm6wmAnA-w1Ix1kma_FpjLvCsXUOgi9s8HsalIMkWl2YnGkcIPaQm9aBp83O3_fSbYNbBVnqcX7ZQsUYvGuqlZTgSQNMk3-LMSrQmKmOmB2oIEAykxvw24pmPtbZ16ooxzANS_GpbfNgw9JeZrNQ_fYEiNmqjMzd0nuehdqDPnSe3XdtO21DE0iDBzoVSEppKcxcfwtCDNTcxMkV_7EwOdRBoV5FtEYSA_1VCapmjsfeGUspqdfwH58eV81q4yACN-8VqixSvzxBU-WTNbuYroaOT8fBYinRvXdsdefRzSxTBKFdhkYyPUpmLorbAktoFbxorqcqJjyoEuhQJcBMRQrI3PZpP7vrO1mMTcvivOXwOYelug2pdOZBbTHdSaHBP4ryvGqg6yZTPtDCZgLsK6szIi7FyWeTJ8ZAns7iKteYRjZgUmfsYYloeuvC-qMbCeKVV1LCC2nZ9UHKt2SJ1a8p4Gfk3FsqZ1HHHHJyWMCiomPkn2HLPk-ZAidohNfyEzrMvWmlz6pcnpqytFWaffHFrgFsIaPO3dmYjKBdkuSFrNhilDThlUwI9sGOPnBg3a_WVV8SWdOef5_VR4ZCjQlfJzGR6V4kvSQUDKUm1obUmY-oHSLLE5mUNFYqrwUxmoxh7BswrwktvGGM8eBIaK5gyegdEeKcWn8YfWauM0JWdyruBeZYLxIFFYZe-zrszFggapgNGMElr0RG2k3MGQ-LAm-nHy_FshcdQqjCCQmN2lkp67aKe3RrKSrIlIshKkZMwZ7owIOmL7zGKgCmzSLKVLPSfqHkBZGmlHZoaDPJPawg6vSYpt5M_d3lmRbMz4IMZvmINqSu1wSFM7PW0aOCLHxpKh0W9bTkwJ0J3N_y7wXQgDfUeE_iUGqKCDeACNDCqbPkGkkuXSzeFfqp_sAAomlwGnQqX-kXLJvJVWPZSkky1JHvFK2CMfqmJHaYaTHypkHCwtnZY11REu8menMxXBHqHCbeG0MIPcnaRL_QTuYyhTh6GHnSk-abEFNgcnzRknlCo2UsYOul-VuqAw4GLt0Q&type=ws#IT_1121_@Surfboardv2ray
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.110:8880?mode=gun&security=&encryption=none&authority=BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#IT_1826_@Surfboardv2ray
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.110:8880?mode=gun&security=none&encryption=none&type=grpc#IT_1828_@Surfboardv2ray
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.116:8880?mode=gun&security=&encryption=none&type=grpc#IT_1830_@Surfboardv2ray
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.120:8880?mode=gun&security=&encryption=none&type=grpc#IT_1833_@Surfboardv2ray
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.120:8880?mode=gun&security=none&encryption=none&type=grpc#IT_1834_@Surfboardv2ray
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.126:8880?security=&encryption=none&type=grpc#IT_1836_@Surfboardv2ray
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.134:8880?mode=gun&security=&encryption=none&type=grpc#IT_1839_@Surfboardv2ray
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.134:8880?mode=gun&security=&encryption=none&type=grpc#IT_1840_@Surfboardv2ray
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.134:8880?mode=gun&security=none&encryption=none&type=grpc#IT_1841_@Surfboardv2ray
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.134:8880?mode=gun&security=none&encryption=none&type=grpc#IT_1842_@Surfboardv2ray
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.36:8880?mode=gun&security=&encryption=none&authority=BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#IT_1844_@Surfboardv2ray
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.36:8880?mode=gun&security=&encryption=none&type=grpc#IT_1845_@Surfboardv2ray
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.36:8880?security=&encryption=none&type=grpc#IT_1846_@Surfboardv2ray
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.165.172:8880?mode=gun&security=none&encryption=none&type=grpc#IT_1852_@Surfboardv2ray
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.165.172:8880?mode=gun&security=none&encryption=none&type=grpc#IT_1853_@Surfboardv2ray
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.221:8880?mode=gun&security=&encryption=none&type=grpc#IT_1858_@Surfboardv2ray
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.221:8880?mode=gun&security=none&encryption=none&type=grpc#IT_1859_@Surfboardv2ray
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.233:8880?mode=gun&security=&encryption=none&authority=v2rayNplus--v2rayNplus--v2rayNplus&type=grpc#IT_1860_@Surfboardv2ray
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.249:8880?mode=gun&security=&encryption=none&type=grpc#IT_1862_@Surfboardv2ray
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.249:8880?mode=gun&security=&encryption=none&type=grpc#IT_1863_@Surfboardv2ray
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.68:8880?mode=gun&security=&encryption=none&type=grpc#IT_1865_@Surfboardv2ray
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.68:8880?mode=gun&security=none&encryption=none&type=grpc#IT_1866_@Surfboardv2ray
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.76:8880?mode=gun&security=&encryption=none&type=grpc#IT_1867_@Surfboardv2ray
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.76:8880?security=&encryption=none&type=grpc#IT_1869_@Surfboardv2ray
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.93:8880?mode=gun&security=none&encryption=none&type=grpc#IT_1870_@Surfboardv2ray
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.167:8880?mode=gun&security=&encryption=none&type=grpc#IT_1872_@Surfboardv2ray
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.167:8880?mode=gun&security=&encryption=none&type=grpc#IT_1873_@Surfboardv2ray
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.188:8880?mode=gun&security=none&encryption=none&type=grpc#IT_1876_@Surfboardv2ray
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.190:8880?encryption=none&security=none&type=grpc#IT_1877_@Surfboardv2ray
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.190:8880?mode=gun&security=&encryption=none&type=grpc#IT_1878_@Surfboardv2ray
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.1:8880?mode=gun&security=&encryption=none&type=grpc#IT_1881_@Surfboardv2ray
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.6:8880?mode=gun&security=none&encryption=none&type=grpc#IT_1882_@Surfboardv2ray
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@ronaldo13.fordnsdirect.shop:8880?encryption=none&security=none&type=grpc#IT_1884_@Surfboardv2ray
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@ronaldo13.fordnsdirect.shop:8880?encryption=none&security=none&type=grpc#IT_1885_@Surfboardv2ray
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@ronaldo17.fordnsdirect.shop:8880?encryption=none&security=none&type=grpc#IT_1886_@Surfboardv2ray
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@ronaldo17.fordnsdirect.shop:8880?encryption=none&security=none&type=grpc#IT_1887_@Surfboardv2ray
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@ronaldo17.fordnsdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc#IT_1888_@Surfboardv2ray
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@ronaldo17.fordnsdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc#IT_1889_@Surfboardv2ray
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@ronaldo17.fordnsdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc#IT_1890_@Surfboardv2ray
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@ronaldo27.fordnsdirect.shop:8880?mode=gun&security=none&encryption=none&authority=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&type=grpc#IT_1891_@Surfboardv2ray
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@ronaldo27.fordnsdirect.shop:8880?mode=gun&security=none&encryption=none&authority=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&type=grpc#IT_1892_@Surfboardv2ray
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@ronaldo27.fordnsdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc#IT_1893_@Surfboardv2ray
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@ronaldo27.fordnsdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc#IT_1894_@Surfboardv2ray
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@ronaldo27.fordnsdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc#IT_1895_@Surfboardv2ray
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca10.speedmeter.shop:8880?mode=gun&security=none&encryption=none&type=grpc#IT_1898_@Surfboardv2ray
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca11.speedmeter.shop:8880?mode=gun&security=&encryption=none&type=grpc#IT_1900_@Surfboardv2ray
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca11.speedmeter.shop:8880?mode=gun&security=none&encryption=none&type=grpc#IT_1901_@Surfboardv2ray
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca11.speedmeter.shop:8880?mode=gun&security=none&encryption=none&type=grpc#IT_1902_@Surfboardv2ray
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca29.speedmeter.shop:8880?security=&encryption=none&type=grpc#IT_1913_@Surfboardv2ray
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca34.mysilipdir.com:8880?mode=gun&security=&encryption=none&type=grpc#IT_1918_@Surfboardv2ray
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca34.mysilipdir.com:8880?mode=gun&security=none&encryption=none&authority=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&type=grpc#IT_1919_@Surfboardv2ray
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca34.mysilipdir.com:8880?mode=gun&security=none&encryption=none&authority=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&type=grpc#IT_1920_@Surfboardv2ray
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca34.mysilipdir.com:8880?mode=gun&security=none&encryption=none&type=grpc#IT_1921_@Surfboardv2ray
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca34.mysilipdir.com:8880?mode=gun&security=none&encryption=none&type=grpc#IT_1922_@Surfboardv2ray
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca38.speedmeter.shop:8880?encryption=none&security=none&type=grpc#IT_1928_@Surfboardv2ray
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca9.speedmeter.shop:8880?mode=gun&security=none&encryption=none&type=grpc#IT_1929_@Surfboardv2ray
-vless://a2415a12-3f92-4636-9823-9828d3ceb818@it-just.dataload-cdn.ru:443?encryption=none&security=reality&sni=www.sony.com&fp=chrome&pbk=lZf2K14GxiyyUM4zovDM20iuvkYQcGrXbPd18F3Jyzo&sid=1ab2&type=tcp&headerType=none&host=it-just.dataload-cdn.ru&path=/#IT_2249_@Surfboardv2ray
-vless://c8794258-7027-4892-8a37-83896207d052@57.131.16.49:2050?security=reality&encryption=none&pbk=CnLETCV02SjuYQ_NIET-Um0iw2YHQ5Smrs4vdnHaMB8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=d2d1dad761fa733c#IT_2778_@Surfboardv2ray
-vless://cbb4d9c9-6a8f-4acc-9aa1-2974015e0279@3.seysisi.ir:443?security=reality&encryption=none&pbk=uavwmT5NFqZs45yG4eV0x_Id0Qmr7oU8CjZCyiU6LSs&headerType=none&fp=chrome&spx=/&type=tcp&sni=play.google.com&sid=3df2abe8c93418a6#IT_2808_@Surfboardv2ray
-vless://cbb4d9c9-6a8f-4acc-9aa1-2974015e0279@3.seysisi.ir:443?security=reality&encryption=none&pbk=uavwmT5NFqZs45yG4eV0x_Id0Qmr7oU8CjZCyiU6LSs&headerType=none&fp=chrome&spx=/&type=tcp&sni=play.google.com&sid=3df2abe8c93418a6#IT_2809_@Surfboardv2ray
-vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.26:443?security=reality&encryption=none&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=it.s3-cloud.xyz&sid=7a3f9e2b1c8d4f6a#IT_3229_@Surfboardv2ray
-vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.30:443?security=reality&encryption=none&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=it.s3-cloud.xyz&sid=7a3f9e2b1c8d4f6a#IT_3230_@Surfboardv2ray
-vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.51:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=it.s3-cloud.xyz&fp=chrome&security=reality&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&sid=7a3f9e2b1c8d4f6a#IT_3231_@Surfboardv2ray
 vmess://eyJ2IjogIjIiLCAiYWRkIjogIjE1Ni43MjQwNjQueHl6IiwgInBvcnQiOiA0NDMsICJpZCI6ICI4YzdjOTI3YS1hYjA4LTQwZTctOGIwMC1mNDc5NDM1OTM0ZGQiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJob3N0IjogIjE1Ni43MjQwNjQueHl6IiwgInBhdGgiOiAiL3JqdG52d3MiLCAidGxzIjogInRscyIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmOUl0YWx5In0=`
 vless://4a60a8e0-b51d-41ae-8500-1b0b6724c6e6@185.247.184.147:2060?security=reality&sni=dash.cloudflare.com&type=grpc&fp=chrome&pbk=1k5jM49Bx5DEAfS5Vpqz93t2XOXk-kwXl0V5Q9jn_WY&sid=f77e5398&alpn=h2%2Chttp%2F1.1# VL-GRPC-RLT  IT-185.247.184.147:2060
 vless://16747acc-95c8-44ba-9b66-3d8a0c035347@147.45.51.16:2096?security=reality&sni=dash.cloudflare.com&type=grpc&fp=firefox&pbk=c3R5_lORnQd1X3A2E0ulHJn396G2X_ZYIs66ldEVQWI&sid=28f58957# VL-GRPC-RLT  IT-147.45.51.16:2096
@@ -123,8 +53,8 @@ trojan://3774827088566296576@destined-cub.treefrog761.one:443#Italy
 vmess://eyJhZGQiOiI0NS45Mi43MC4yMzYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyMjMyNCIsInBzIjoi8J+HrvCfh7kgSXRhbHkgfCBCYXNpYyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2QDgyLjEwMi4yNi4xMTc6MzM5OTI=#adi%7c0703+-+IT_2539
 ss://YWVzLTI1Ni1nY206RldyWGN4UFpqSnhBTjg5eExncVkzQWNwQDgyLjEwMi4yNi4xMTc6NDQyMzY=#adi%7c0703+-+IT_2560
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@ronaldo27.fordnsdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc#[openproxylist.com] vless-IT
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@ronaldo17.fordnsdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc#[openproxylist.com] vless-IT
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@ronaldo27.fordnsdirect.shop:8880?security=&encryption=none&type=grpc#[openproxylist.com] vless-IT
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@ronaldo17.fordnsdirect.shop:8880?encryption=none&security=none&type=grpc#[openproxylist.com] vless-IT
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@ronaldo13.fordnsdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc#[openproxylist.com] vless-IT
 vless://4feb7818-dc02-46cd-b985-abf3fdd0cdc5@164.38.155.13:443?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&insecure=1&host=edge-4cb23bf6.pages.dev&type=ws&allowInsecure=1&sni=edge-4cb23bf6.pages.dev#/Italy
 vmess://eyJwcyI6ICJcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgtXHU3ZjhlXHU1NmZkLWl0MS5jb3UuZ2F5IiwgImFkZCI6ICJpdDEuY291LmdheSIsICJ0eXBlIjogIm5vbmUiLCAiY291bnRyeSI6ICJcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjhVUyIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICJmYzkwOTljNy1iZTQ4LTRkZDUtOGM1YS1mZDZmYTE0ZTc0YzIiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgImh0dHAtb3B0cyI6ICIiLCAiaDItb3B0cyI6ICIiLCAidGxzIjogInRydWUiLCAic2tpcC1jZXJ0LXZlcmlmeSI6ICJ0cnVlIiwgIndzLW9wdHMiOiAiIiwgInBhdGgiOiAiL2l0MT9lZD0yMDQ4In0=

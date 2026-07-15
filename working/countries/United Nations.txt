@@ -36,7 +36,7 @@ vless://b43f416d-0bb7-45d9-b3a4-0ccef14f1fbe@simonil.zarghamportal.ir:2095?path=
 vless://546bd638-8aeb-0f83-9a31-8be7c5ce814a@ffdownload.dlc-bazigame.ir:8880?path=/&security=none&encryption=none&host=cdn-nl1.akssoldier.top&type=httpupgrade# UN | ffdownload.dlc-bazigame.ir
 vless://19ceb6c1-09df-479f-9d96-fcf92db6f5ca@de.play98.ir:1993?type=ws&encryption=none&path=/&host=&security=none# UN | de.play98.ir
 vless://7bbd9383-9b76-4b2f-8d01-a2a0ce1ff3a8@cv.rxteam.xyz:28020?path=/?ed=2048&security=tls&alpn=h3,h2,http/1.1&encryption=none&fp=firefox&type=ws# UN | cv.rxteam.xyz
-vless://7b19a5a7-8bf7-4b37-be3c-3251f9c43241@oop.foot8all.ir:50567?flow=xtls-rprx-vision&encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&sid=29a833ab20778306&allowinsecure=0&type=tcp&headerType=none# UN | oop.foot8all.ir
+vless://8daf8455-c3cc-4717-8e5a-f36c82a9eb2a@soskeynets.norwaylovers.com:2096?path=/moon&security=tls&encryption=none&type=ws&sni=moon.norwaylovers.com# UN | soskeynets.norwaylovers.com
 vless://81f57d7b-727a-4499-a29c-9229310db7fe@tttt1.hennessypro.site:4001?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp# UN | tttt1.hennessypro.site
 vless://5d2062a4-e636-58af-b488-d6bdbea719bf@tr.kkkl.ir:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api.samsungcloud.com&fp=chrome&pbk=41qm1VGkyODbyc7LvIyXhcG4XUKmTaomF9jDAMEaW3c&sid=03e223bc474c6f1d&type=tcp&headerType=none# UN | tr.kkkl.ir
 vless://5d2062a4-e636-58af-b488-d6bdbea719bf@chefox.kkkl.ir:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=play.google.com&fp=random&pbk=7DQXReCCCModVwZEU9j4QFsWtzEbGNtrRHwMCk2NUD8&sid=C8EF&type=tcp&headerType=none# UN | chefox.kkkl.ir

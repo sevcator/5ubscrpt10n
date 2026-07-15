@@ -23,4 +23,3 @@ vless://8148702f-e582-4176-abd9-1b621f4099c0@itconet.ddns.net:2087?type=grpc&ser
 vless://520bb7d2-79f1-40df-bca0-1a5e90e931a3@itconet.ddns.net:2087?type=grpc&serviceName=&security=tls&fp=&alpn=h2%2Chttp%2F1.1&sni=cdn.rayvpn.eu.org#%40RayVPN-GR-CF-test
 vless://fb93e62d-66c0-4f7c-9ae3-be21d4015519@itconet.ddns.net:2087?type=grpc&serviceName=&security=tls&fp=&alpn=h2%2Chttp%2F1.1&sni=itconet.rayvpn.eu.org#%40RayVPN-GR-TESST
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.166.102:989#%F0%9F%87%AC%F0%9F%87%B7GR-192.71.166.102-4800
-vless://0c8a9f50-51b3-43b5-b1fb-09fc3131a800@gwapp-ru01.freenets.store:443?sni=gwapp-ru01.freenets.store&alpn=h2%2Chttp/1.1&flow=xtls-rprx-vision-udp443&security=tls#A%20-%20%F0%9F%87%AC%F0%9F%87%B7%20GR%2001%20TG%3A%20%40nodpai
