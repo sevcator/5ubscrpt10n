@@ -1,4 +1,4 @@
-ss://f7cc7701-f35d-401c-bd5d-c4ceba41b5c3@www.SPeedtest.NeT:80?type=ws&path=%2F%40NIM_VPN_ir&host=xn4oq36ed28d.nimbahaserverrr.sbs.&security=none#hamrah-pc1wf9z2
 ss://0f4448ae-237c-4ea0-d6ac-09c5ca56a705@dark100.viporg12345.info:443?path=%2F&security=tls&encryption=none&host=amir2.darkteamvpn78239.workers.dev&type=ws&sni=amir2.darkteamvpn78239.workers.dev#443-wf43sjha
-vless://0f4448ae-237c-4ea0-d6ac-09c5ca56a705@dark100.viporg12345.info:443?path=%2F&security=tls&encryption=none&host=amir2.darkteamvpn78239.workers.dev&type=ws&sni=amir2.darkteamvpn78239.workers.dev#443-wf43sjha
+ss://f7cc7701-f35d-401c-bd5d-c4ceba41b5c3@www.SPeedtest.NeT:80?type=ws&path=%2F%40NIM_VPN_ir&host=xn4oq36ed28d.nimbahaserverrr.sbs.&security=none#hamrah-pc1wf9z2
 vless://f7cc7701-f35d-401c-bd5d-c4ceba41b5c3@www.SPeedtest.NeT:80?type=ws&path=%2F%40NIM_VPN_ir&host=xn4oq36ed28d.nimbahaserverrr.sbs.&security=none#hamrah-pc1wf9z2
+vless://0f4448ae-237c-4ea0-d6ac-09c5ca56a705@dark100.viporg12345.info:443?path=%2F&security=tls&encryption=none&host=amir2.darkteamvpn78239.workers.dev&type=ws&sni=amir2.darkteamvpn78239.workers.dev#443-wf43sjha

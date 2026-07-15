@@ -1,4 +1,4 @@
-ss://0866dcf5-d9de-4a52-b630-a11ad8e7241e@188.121.125.247:55383?security=&encryption=none&headerType=none&type=tcp#td5cieea
 ss://663e3d47-884a-4df1-9e14-83caf1d32440@104.24.176.7:2096?type=grpc&serviceName=&security=tls&fp=&alpn=h2%2Chttp%2F1.1&sni=tddu.nimserverr.xyz.#td-dkippf39
+ss://0866dcf5-d9de-4a52-b630-a11ad8e7241e@188.121.125.247:55383?security=&encryption=none&headerType=none&type=tcp#td5cieea
 vless://0866dcf5-d9de-4a52-b630-a11ad8e7241e@188.121.125.247:55383?security=&encryption=none&headerType=none&type=tcp#td5cieea
 vless://663e3d47-884a-4df1-9e14-83caf1d32440@104.24.176.7:2096?type=grpc&serviceName=&security=tls&fp=&alpn=h2%2Chttp%2F1.1&sni=tddu.nimserverr.xyz.#td-dkippf39

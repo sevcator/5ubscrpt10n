@@ -1,7 +1,7 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.62:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands,%20Amsterdam%20(Amsterdam-Noord)%20%5BBL%5D%20(6)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.124:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands,%20Amsterdam%20(Amsterdam-Noord)%20%5BBL%5D%20(4)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@131.145.23.4:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom,%20London%20%7C%20%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BBL%5D%20
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands,%20Amsterdam%20(Amsterdam-Noord)%20%5BBL%5D%20(5)
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.62:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands,%20Amsterdam%20(Amsterdam-Noord)%20%5BBL%5D%20(6)
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@131.145.23.4:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom,%20London%20%7C%20%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BBL%5D%20
 trojan://Mitivpn@151.101.56.6:443?security=tls&sni=ssl.fastly.com&fp=chrome&alpn=h2&insecure=0&allowInsecure=0&type=ws&host=4-4-3-mitivpn.global.ssl.fastly.net&path=%2F#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20%5BBL%5D
 trojan://Mitivpn@iranpoems.ir:443?security=tls&sni=www.gamingdll.ir&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=www.gamingdll.ir&path=%2Fusa%3Dmitivpn#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20%5BBL%5D
 trojan://Mitivpn@iranpoems.ir:443?security=tls&sni=cdn.gamingdll.ir&fp=chrome&alpn=h2&insecure=0&allowInsecure=0&type=ws&host=cdn.gamingdll.ir&path=%2Fde#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20%5BBL%5D
