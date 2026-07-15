@@ -1,4 +1,2 @@
-ss://YWVzLTI1Ni1nY206d3JDYUd0clViemVScVFMZGM4S21rM05kQDE4MC4xNDkuMjMxLjEzOjQ5MTI2#New+Zealand+Host+Universal
-ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2QDE4MC4xNDkuMjMxLjExNzozMzk5Mg==#New+Zealand+Host+Universal
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@103.62.49.141:809#New+Zealand+GSL
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW9AMTAzLjYyLjQ5LjE0MTo4MDI=#New+Zealand+GSL
+ss://6202b230-417c-4d8e-b624-0f71afa9c75d@114.129.43.238:2096?path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&type=ws&allowInsecure=1&sni=sni.jpmj.dev#[2626][NZ][0][SS][None][Outline_Vpn][2026-05-24][2026-07-15 09:18]
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@114.129.43.238:2096?path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&type=ws&allowInsecure=1&sni=sni.jpmj.dev#[2631][NZ][0][VLESS][None][Outline_Vpn][2026-05-24][2026-07-15 09:18]
