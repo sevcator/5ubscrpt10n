@@ -172,11 +172,7 @@ vmess://ewogICAgImFkZCI6ICIxNzEuMjIuMTM0LjEyIiwKICAgICJhaWQiOiA2NCwKICAgICJob3N0
 vmess://ewogICAgImFkZCI6ICIxNzEuMjIuMTM0LjEyIiwKICAgICJhaWQiOiA2NCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL3BhdGgvMTY4OTkzNTI0MzAyNyIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4e38J+HulJVLTE3MS4yMi4xMzQuMTItOTMzNyIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWN2ptc0E2UFFzTG4=@146.185.198.44:444#%F0%9F%87%B7%F0%9F%87%BARU-146.185.198.44-9481
 vless://5d02517f-63d5-3e9f-b467-1bcf4d4e25d3@s462.csgfw.top:443?encryption=none&flow=xtls-rprx-vision&security=tls&type=tcp#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF
-vless://01bd15c8-835f-0001-a730-770a0fa505f6@pro-ru-bridge.emrata.top:443?sni=pro-ru-bridge.emrata.top&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%B7%F0%9F%87%BARU_1%7C2.0MB/s
-vless://01bd15c8-835f-4210-a730-770a0fa505f6@213.219.212.30:443?sni=eh.vk.ru&flow=xtls-rprx-vision-udp443&fp=qq&security=tls#%F0%9F%87%B7%F0%9F%87%BARU_2%7C2.4MB/s
-vless://510a7c87-0aa0-4ead-9c9f-6e1700e12b09@ru3.fast-cone.com:443?sni=ru3.fast-cone.com&flow=xtls-rprx-vision-udp443&fp=edge&security=tls#%F0%9F%87%B7%F0%9F%87%BARU_3%7C1.5MB/s
-vless://ee31231d-ae7c-4fc1-a21e-35427ce94e7d@213.219.212.24:443?sni=eh.vk.ru&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%B7%F0%9F%87%BARU_4%7C2.3MB/s
-vless://ee31231d-ae7c-4fc1-a21e-35427ce94e7d@90.156.218.64:443?sni=eh.vk.ru&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%B7%F0%9F%87%BARU_5%7C2.3MB/s
+vless://a8957892-6db0-4310-983b-6f3f5146a584@freenl.aiage.work:443?sni=freenl.aiage.work&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%B7%F0%9F%87%BARU_1%7C2.9MB/s
 trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3U0VzdGRtTGhmLWFGS19HOWVhWUhLVF9ZcFNvdjU4Qg@ru.moktana.app:51523#RU  ROSE45
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3U0VzdGRtTGhmLWFGS19HOWVhWUhLVF9ZcFNvdjU4Qg@45.10.41.129:51523#RU  ROSE89
@@ -389,6 +385,7 @@ vless://f61a4285-7264-4d07-9408-7b9ba1922c26@31.192.238.71:2053?encryption=none&
 vless://4392b776-41a2-4300-b545-a3d2724b605b@92.53.99.72:443?encryption=none&security=reality&sni=cdn.tracker.yandex.net&fp=firefox&pbk=SRHaGdtnkRYMKRlJPAIlk3gXKNH9lEo_qCzF5BOBdB4&sid=bc1aa344&type=xhttp&host=cdn.tracker.yandex.net&path=%2Fstatic%2Fjs%2Fmain.js&mode=auto#RU%E4%BF%84%E7%BD%97%E6%96%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 vless://0c6b632a-cd96-4b74-9b51-151e3b5697db@using.neobo-tooth.ru:2083?type=grpc&serviceName=grpc&fp=chrome&security=tls#RU%20VLESS-133%20%7C%20free-nodes
 vless://8a9fff15-c1d3-4e0f-fdda-dc1c4c2305ca@5.42.107.242:59062?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%B7%F0%9F%87%BA%20RU-5.42.107.242%3A59062
+vless://8c1d69b6-4980-41b4-bd55-44e186897a87@5.35.18.193:1?security=none&encryption=none&headerType=none&type=tcp#[openproxylist.com] vless-RU
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3U0VzdGRtTGhmLWFGS19HOWVhWUhLVF9ZcFNvdjU4Qg==@ru.moktana.app:51523#//Russia/Moscow
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.148.107.40:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=vms.lifetime55.workers.dev&type=ws#/Russia
 vmess://eyJ2IjogIjIiLCAicHMiOiAiUmVsYXlfLfCfh7fwn4e6UlVfMjI2IiwgImFkZCI6ICJydTEubm5ubjIuYnV6eiIsICJwb3J0IjogMjU1NjYsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAidGxzIiwgImlkIjogIjVjMDkzYWFmLTU3M2YtNDBkYy1iNGM2LWIzNjMwNTVmYWU5ZiJ9
