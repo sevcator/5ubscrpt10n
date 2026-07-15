@@ -138,6 +138,7 @@ ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@217.30.10.68:9001#%F0%9F%87%B5%F0%
 ss://YWVzLTI1Ni1jZmI6U241QjdqVHFyNzZhQ0pUOA==@217.30.10.68:9097#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-9061
 ss://YWVzLTI1Ni1jZmI6U0JNN1I4ODNqQm1ucWU2Qw==@217.30.10.68:9053#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-9062
 ss://YWVzLTI1Ni1jZmI6RkFkVXZNSlVxNXZEZ0tFcQ==@217.30.10.68:9006#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-9063
+vless://83f76cc0-ebcd-4805-a408-f6c8e30ff3ee@152.233.43.77:16923?sni=api-maps.yandex.ru&type=grpc&serviceName=neurex&fp=firefox&security=tls#%F0%9F%87%B5%F0%9F%87%B1PL_1%7C2.6MB/s
 ss://YWVzLTI1Ni1jZmI6SmRtUks5Z01FcUZnczhuUA@217.30.10.70:9003#PL  ROSE32
 ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ@217.30.10.70:9011#PL  ROSE33
 ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ@217.30.10.70:9042#PL  ROSE34
@@ -230,53 +231,14 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@war.ssvpnapp.win:57456
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.58:57456#%F0%9F%87%B5%F0%9F%87%B1PL-45.144.48.58-0767
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.63:57456#%F0%9F%87%B5%F0%9F%87%B1PL-45.144.48.63-0386
 vless://f2d78dd4-ec5a-4720-be82-5df263fd5272@146.59.13.37:80?encryption=none&security=none&type=ws&host=pl1.v2vless.xyz&path=%2Fvless#Mahsa%2B%3A%2B%F0%9F%87%B5%F0%9F%87%B1%2BPoland
-trojan://humanity@104.16.147.104:443?sni=www.creationlong.org&type=ws&path=/assignment&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1PL_1%7C2.6MB%2Fs%2001
-trojan://humanity@216.24.57.6:443?sni=www.creationlong.org&type=ws&path=/assignment&alpn=http/1.1&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1PL_2%7C1.2MB%2Fs%2001
-trojan://humanity@188.114.96.3:443?sni=www.creationlong.org&type=ws&path=/assignment&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1PL_3%7C835KB%2Fs%2001
-trojan://humanity@188.114.97.6:443?sni=www.creationlong.org&type=ws&path=/assignment&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1PL_4%7C3.8MB%2Fs%2001
-trojan://humanity@198.202.211.1:443?sni=www.creationlong.org&allowInsecure=1&type=ws&path=/assignment&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1PL_5%7C3.6MB%2Fs%7CB007-260618%2001
-trojan://humanity@172.64.152.23:443?sni=www.creationlong.org&type=ws&path=/%2Fassignment&host=www.creationlong.org#%F0%9F%87%B5%F0%9F%87%B1PL_6%7C3.5MB%2Fs%2001
-trojan://humanity@www.creationlong.org:443?sni=www.creationlong.org&type=ws&path=/assignment&alpn=http/1.1&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1PL_7%7C3.4MB%2Fs%2001
-trojan://humanity@202.37.33.80:443?sni=www.creationlong.org&type=ws&path=/assignment&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1PL_8%7C3.4MB%2Fs%2001
-vless://ea89bb52-cd5e-4b4a-981a-5dbe66c9adcd@31.133.0.240:2053?security=tls&type=ws&path=/lib/tag/mfp=chrome&host=nrfiqiut.vmimv9k58ynejo2errhz.workers.dev&packetEncoding=xudp&sni=nrfiqiut.vmimv9k58ynejo2errhz.workers.dev&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1PL_9%7C2.0MB%2Fs%7CT001-260618%2001
-trojan://humanity@www.creationlong.org:443?sni=www.creationlong.org&type=ws&path=/assignment&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1PL_10%7C3.4MB%2Fs%2001
-trojan://humanity@104.17.121.71:443?sni=www.creationlong.org&type=ws&path=/assignment&alpn=http/1.1&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1PL_11%7C4.2MB%2Fs%2001
-trojan://humanity@104.18.7.147:443?sni=www.creationlong.org&type=ws&path=/assignment&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1PL_12%7C3.9MB%2Fs%2001
-trojan://humanity@104.20.6.134:443?sni=www.creationlong.org&type=ws&path=/assignment&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1PL_13%7C4.1MB%2Fs%7CV006-260618%2001
-trojan://humanity@165.215.250.14:443?sni=www.creationlong.org&type=ws&path=/assignment&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1PL_14%7C1.1MB%2Fs%2001
-trojan://humanity@45.130.125.2:443?sni=Www.cReaTIOnLONG.OrG&type=ws&path=/assignment&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1PL_15%7C2.1MB%2Fs%7CB007-260618%2001
-trojan://humanity@216.24.57.1:443?sni=www.creationlong.org&type=ws&path=/assignment&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1PL_16%7C4.4MB%2Fs%2001
-trojan://humanity@188.114.98.0:443?sni=www.creationlong.org&type=ws&path=/assignment&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1PL_17%7C4.0MB%2Fs%2001
-trojan://humanity@43.169.18.179:443?sni=www.creationlong.org&allowInsecure=1&type=ws&path=/assignment&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1PL_18%7C3.4MB%2Fs%7CA003-260618%2001
-trojan://humanity@81.255.155.10:443?sni=www.creationlong.org&type=ws&path=/assignment&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1PL_19%7C3.3MB%2Fs%7CB007-260618%2001
-trojan://humanity@104.16.80.73:443?sni=www.creationlong.org&type=ws&path=/assignment&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1PL_20%7C4.2MB%2Fs%2001
-trojan://humanity@104.18.139.67:443?sni=www.creationlong.org&type=ws&path=/assignment&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1PL_21%7C3.9MB%2Fs%7CF003-260618%2001
-trojan://humanity@104.16.90.120:443?sni=www.creationlong.org&type=ws&path=/assignment&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1PL_22%7C3.2MB%2Fs%7CF003-260618%2001
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@92.118.205.211:5600#%F0%9F%87%B5%F0%9F%87%B1PL_23%7C2.1MB%2Fs%7CT001-260618%2001
-vless://3ef170be-05d0-479c-9753-aa2f860964ea@153.76.122.225:443?security=reality&type=tcp&packetEncoding=xudp&sni=cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=a1b2c3d4e5f6&pbk=C1hW1bTA9WOacIK-fHHg-HLkDZ3FY7FhEhAyldMSUEA&encryption=none#%F0%9F%87%B5%F0%9F%87%B1PL_24%7C1.1MB%2Fs%7CM002-260618%2001
-trojan://humanity@104.18.32.47:443?sni=www.creationlong.org&allowInsecure=1&type=ws&path=/assignment&alpn=h3,h2,http/1.1&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1PL_25%7C881KB%2Fs%7CS004-260618%2001
-vless://eb528c71-441a-4430-867d-ab63d301d4ee@grif.dns-crypto-yandex.com:443?security=reality&type=grpc&mode=gun&serviceName=grpc&packetEncoding=xudp&sni=grif.dns-crypto-yandex.com&fp=chrome&sid=0e830794d04398&pbk=Bvdy2c0cxotdTPXwX1DXQ2RQDcWdRpNCaABu2tCwhzQ&encryption=none#%F0%9F%87%B5%F0%9F%87%B1PL_26%7C2.9MB%2Fs%7CB007-260618%2001
-vless://ea89bb52-cd5e-4b4a-981a-5dbe66c9adcd@144.31.102.181:443?security=tls&type=ws&path=/topics/channel/acg?ed=2560&host=nrfiqiut.vmimv9k58ynejo2errhz.workers.dev&packetEncoding=xudp&sni=nrfiqiut.vmimv9k58ynejo2errhz.workers.dev&fp=chrome&encryption=none#%F0%9F%87%B5%F0%9F%87%B1PL_27%7C1.7MB%2Fs%7CB007-260618%2001
-trojan://humanity@162.159.38.119:443?sni=www.creationlong.org&type=ws&path=/assignment&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1PL_28%7C4.9MB%2Fs%7CB007-260618%2001
-trojan://humanity@join-telegram-channel.tirexnet.kdns.fr:443?sni=www.creationlong.org&type=ws&path=/assignment&alpn=h3,h2,http/1.1&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1PL_29%7C1.6MB%2Fs%7CB007-260618%2001
-trojan://humanity@104.26.6.159:443?sni=www.creationlong.org&type=ws&path=/assignment&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1PL_30%7C3.4MB%2Fs%7CM002-260618%2001
-trojan://humanity@198.202.211.10:443?sni=www.creationlong.org&type=ws&path=/assignment&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1PL_31%7C3.4MB%2Fs%7CB007-260618%2001
-vless://e258977b-e413-4718-a3af-02d75492c349@94.125.102.52:443?security=tls&type=ws&path=/&host=ww1.aniuge.qzz.io&ed=2095&packetEncoding=xudp&alpn=http/1.1&sni=ww1.aniuge.qzz.io&fp=chrome&encryption=none#%F0%9F%87%B5%F0%9F%87%B1PL_32%7C2.4MB%2Fs%7CB007-260618%2001
-trojan://PI36027154@upright-hamster.rooster465.autos:443?sni=upright-hamster.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1PL_34%7C2.1MB%2Fs%7CC002-260622%2001
-vless://cb784d00-d34a-4389-b938-8717f7b28353@81.90.17.165:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.twitch.tv&fp=chrome&flow=xtls-rprx-vision&sid=3cfee58cb8a3afb3&pbk=6yDF1t-fOKStJLYOZArGjW2MqGsglkpaGIC_fuj79S0#%F0%9F%87%B5%F0%9F%87%B1PL_35%7C753KB%2Fs%7CS004-260618%2001
-trojan://PI36027154@upright-hamster.rooster465.autos:443?sni=upright-hamster.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1PL_36%7C985KB%2Fs%7CS004-260618%2001
-vless://f6a2cd4a-b755-4b9f-b854-40101e28e217@144.31.113.56:58427?security=reality&type=tcp&packetEncoding=xudp&sni=ymail.com&fp=random&flow=xtls-rprx-vision&sid=6a58&pbk=NCqZzVFlyDITdXB28eEHBgHVqlqpllm1BoJ4wImYHl4&encryption=none#%F0%9F%87%B5%F0%9F%87%B1PL_37%7C2.5MB%2Fs%7CM002-260618%2001
-vless://3ef170be-05d0-479c-9753-aa2f860964ea@153.76.122.225:443?security=reality&type=raw&packetEncoding=xudp&sni=cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=a1b2c3d4e5f6&pbk=C1hW1bTA9WOacIK-fHHg-HLkDZ3FY7FhEhAyldMSUEA&encryption=none#%F0%9F%87%B5%F0%9F%87%B1PL_38%7C533KB%2Fs%7CM002-260618%2001
-vless://ef14c532-b69a-4f46-ae29-272f2fdaf673@87.199.199.186:8090?security=none&type=ws&path=/ws&host=rukr.speedload.ru&packetEncoding=xudp#%F0%9F%87%B5%F0%9F%87%B1PL_39%7C3.4MB%2Fs%7CA003-260618%2001
-vless://e806fecb-af6c-4256-94ec-078c5ff3a700@pol3.odavpn.online:8443?security=reality&type=tcp&packetEncoding=xudp&sni=yahoo.com&fp=firefox&flow=xtls-rprx-vision&sid=6c&pbk=7nV8eRuxsZByYJwZp6qufXhuIBnWwSwnm9W9nayPOmU&encryption=none#%F0%9F%87%B5%F0%9F%87%B1PL_40%7C1.8MB%2Fs%7CS001-260618%2001
-vless://735d7945-8748-4a4f-8598-8ccb6aa94bc6@z0gpl.pastilbastani.ir:443?security=none&type=tcp&headerType=http&path=/&host=play.google.com&packetEncoding=xudp&encryption=none#%F0%9F%87%B5%F0%9F%87%B1PL_41%7C551KB%2Fs%7CS004-260618%2001
-vless://e806fecb-af6c-4256-94ec-078c5ff3a700@tw1.serviceoda.ru:443?security=reality&type=tcp&packetEncoding=xudp&sni=api-maps.yandex.ru&fp=qq&flow=xtls-rprx-vision&sid=a29991b068641259&pbk=G9uQu7GdqkkvE6WH0gZ1kfzt2J50s6VgddYnqck5tjw#%F0%9F%87%B5%F0%9F%87%B1PL_42%7C1.8MB%2Fs%7CF003-260618%2001
 trojan://PI36027154@upright-hamster.rooster465.autos:443?sni=upright-hamster.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%b5%f0%9f%87%b1%20PL%201
 vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@144.31.0.100:443?security=reality&encryption=none&pbk=CxMPFpwhcR9Ocp-Xy_1J08mo-atdHKUf58WLOy_XlgM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=vaultivo-hgooe.ru&sid=d9662905#[openproxylist.com] vless-PL
 vless://3ef170be-05d0-479c-9753-aa2f860964ea@153.76.122.225:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=C1hW1bTA9WOacIK-fHHg-HLkDZ3FY7FhEhAyldMSUEA&security=reality&sid=a1b2c3d4e5f6&sni=cloudflare.com&type=tcp#[openproxylist.com] vless-PL
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlBMIiwNCiAgImFkZCI6ICI5Mi4xMTguMjA1LjIwNyIsDQogICJwb3J0IjogIjgwODAiLA0KICAiaWQiOiAiYmRkMjI4NDEtYzRkMi00YWE4LWFjZjItOTVhYTkxMjVmMTU5IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJwbC0yLnRyb2xsZnVubnkubmV0IiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogInBsLTIudHJvbGxmdW5ueS5uZXQiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiY2hyb21lIg0KfQ==
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlBMIiwNCiAgImFkZCI6ICI5Mi4xMTguMjA1LjIyMiIsDQogICJwb3J0IjogIjgwODAiLA0KICAiaWQiOiAiYmRkMjI4NDEtYzRkMi00YWE4LWFjZjItOTVhYTkxMjVmMTU5IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJwbC0zLnRyb2xsZnVubnkubmV0IiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogInBsLTMudHJvbGxmdW5ueS5uZXQiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiY2hyb21lIg0KfQ==
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlBMIiwNCiAgImFkZCI6ICI5Mi4xMTguMjA1LjI2IiwNCiAgInBvcnQiOiAiODA4MCIsDQogICJpZCI6ICJiZGQyMjg0MS1jNGQyLTRhYTgtYWNmMi05NWFhOTEyNWYxNTkiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogInBsLTEudHJvbGxmdW5ueS5uZXQiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAicGwtMS50cm9sbGZ1bm55Lm5ldCIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICJjaHJvbWUiDQp9
+vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?path=%2F&security=none&encryption=none&type=ws#//Poland/Warsaw
+vless://ef3e206d-3cbc-4254-8374-df04fe35a762@31.77.56.199:443?security=reality&encryption=none&pbk=v78yAb9eo19LuR0e08mB_cnAS-QLlvqRkEZoKs7q2mU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=pl.karzino-connected.com&sid=30e530274c0c72cc#/Poland
 vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HtfCfh7FQTC01LjEzMy4xMi42My00Mzk0IiwgImFkZCI6ICI1LjEzMy4xMi42MyIsICJwb3J0IjogNDQzLCAiYWlkIjogNjQsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICJ0bHMiLCAiaWQiOiAiNGQwMjQ3ZTAtZDFkYS00NDRjLTljZGEtOGNjMjBlNGU0NDM1IiwgInNuaSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvcGF0aC8yMjAxMjgwNzExMDAifQ==
 vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HtfCfh7FQTC0xOTQuNjEuMTIxLjczLTIxNTAxIiwgImFkZCI6ICIxOTQuNjEuMTIxLjczIiwgInBvcnQiOiAyMjcyMywgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiNTU4NTRjOGEtYTRiYy00YWNlLWJmNWQtOGFmNzVkNzc0ZjBlIiwgInNuaSI6ICIiLCAicGF0aCI6ICIvIn0=
 vmess://eyJ2IjogIjIiLCAicHMiOiAiTm9kZS1wbC4wcmQubmV0IiwgImFkZCI6ICIxNjIuMTU5LjE0MS4xNDUiLCAicG9ydCI6IDQ0MywgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICJ0bHMiLCAiaWQiOiAiZWJjMmZhMjAtZDE3Zi0xMWVkLWIyMzctMjA1YzZkNWY1ZDc4IiwgInNuaSI6ICJvdXRsb29rLm1pbGFkc2E3NDM1NTkud29ya2Vycy5kZXYiLCAicGF0aCI6ICIvcGwuMHJkLm5ldC9AaG9wZXYycmF5In0=
