@@ -272,29 +272,13 @@ ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6679#%f0%9f%87%b0%f0%9f
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7001#%f0%9f%87%b0%f0%9f%87%b7%20KR%204
 trojan://3632736327@kr04021338.tmdsb.org:1864?sni=kr04021338.tmdsb.org&path=%2f#%f0%9f%87%b0%f0%9f%87%b7%20KR%205
 vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:13672?security=reality&encryption=none&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=48050fab#[openproxylist.com] vless-KR
-trojan://CF68213490@excited-squirrel.rooster465.autos:443?security=tls&sni=excited-squirrel.rooster465.autos#[openproxylist.com] trojan-KR
-trojan://CF68213490@smooth-lark.rooster465.autos:443?security=tls#[openproxylist.com] trojan-KR
-trojan://CF68213490@upward-yak.rooster465.autos:443?security=tls&sni=upward-yak.rooster465.autos#[openproxylist.com] trojan-KR
-trojan://CF68213490@tolerant-stag.rooster465.autos:443?security=tls&sni=tolerant-stag.rooster465.autos#[openproxylist.com] trojan-KR
-trojan://CF68213490@together-impala.rooster465.autos:443?security=tls&sni=together-impala.rooster465.autos#[openproxylist.com] trojan-KR
-trojan://CF68213490@star-bluejay.rooster465.autos:443?security=tls&sni=star-bluejay.rooster465.autos#[openproxylist.com] trojan-KR
-trojan://CF68213490@growing-ram.rooster465.autos:443?security=tls&sni=growing-ram.rooster465.autos#[openproxylist.com] trojan-KR
-trojan://CF68213490@eternal-horse.rooster465.autos:443?security=tls&sni=eternal-horse.rooster465.autos#[openproxylist.com] trojan-KR
-trojan://CF68213490@enormous-whippet.rooster465.autos:443?security=tls&sni=enormous-whippet.rooster465.autos#[openproxylist.com] trojan-KR
-trojan://CF68213490@diverse-thrush.rooster465.autos:443?security=tls&sni=diverse-thrush.rooster465.autos#[openproxylist.com] trojan-KR
-trojan://CF68213490@devoted-zebra.rooster465.autos:443?security=tls&sni=devoted-zebra.rooster465.autos#[openproxylist.com] trojan-KR
-trojan://CF68213490@climbing-frog.rooster465.autos:443?security=tls&sni=climbing-frog.rooster465.autos#[openproxylist.com] trojan-KR
-trojan://CF68213490@clear-heron.rooster465.autos:443?security=tls&sni=clear-heron.rooster465.autos#[openproxylist.com] trojan-KR
-trojan://CF68213490@charming-puma.rooster465.autos:443?security=tls&sni=charming-puma.rooster465.autos#[openproxylist.com] trojan-KR
-trojan://CF68213490@aware-puma.rooster465.autos:443?security=tls&sni=aware-puma.rooster465.autos#[openproxylist.com] trojan-KR
-trojan://CF68213490@aware-lionfish.rooster465.autos:443?security=tls&sni=aware-lionfish.rooster465.autos#[openproxylist.com] trojan-KR
-trojan://CF68213490@awake-satyr.rooster465.autos:443?security=tls&sni=awake-satyr.rooster465.autos#[openproxylist.com] trojan-KR
-trojan://CF68213490@allowing-halibut.rooster465.autos:443?security=tls&sni=allowing-halibut.rooster465.autos#[openproxylist.com] trojan-KR
+trojan://CF68213490@pure-ram.rooster465.autos:443?security=tls&sni=pure-ram.rooster465.autos#[openproxylist.com] trojan-KR
+trojan://CF68213490@gentle-mastiff.rooster465.autos:443?security=tls&sni=gentle-mastiff.rooster465.autos#[openproxylist.com] trojan-KR
+trojan://CF68213490@central-jawfish.rooster465.autos:443?security=tls&sni=central-jawfish.rooster465.autos#[openproxylist.com] trojan-KR
+trojan://CF68213490@helping-shark.rooster465.autos:443?security=tls&sni=helping-shark.rooster465.autos#[openproxylist.com] trojan-KR
 trojan://R5ktplWYd5PU@43.203.193.132:14786?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#KR|GithubTrojanLinks
 trojan://zHckDvqHolUX@3.39.252.238:14825?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#KR|GithubTrojanLinks
 trojan://hFkaShOhZSdh@52.78.143.136:14787?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#KR|GithubTrojanLinks
-trojan://CF68213490@pure-ram.rooster465.autos:443?allowInsecure=0&sni=pure-ram.rooster465.autos#%5Bpeasoft%2FNoMoreWalls%5D%F0%9F%87%B0%F0%9F%87%B7KR_1%7C3.4MB%2Fs
-trojan://CF68213490@pure-ram.rooster465.autos:443?allowInsecure=0#%5Bpeasoft%2FNoMoreWalls%5D%F0%9F%87%B0%F0%9F%87%B7KR_2%7C3.4MB%2Fs
 vmess://ewogICAgImFkZCI6ICIxNTIuNjcuMjE4LjM4IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICJiNWU5NDgwYS1iN2FhLTQwYTQtZjlhNy01Mjk5YjVlMzYzYjQiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfh7Dwn4e3S1ItMTUyLjY3LjIxOC4zOC0wMjMwIiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=#//South Korea/Chuncheon
 vmess://ewogICAgImFkZCI6ICIyMTcuMTQyLjEzOC42MSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiYWMxYjkzM2QtYWZmZi00NDg3LTkzZWYtZjU3MTMwYTU1ZGZmIiwKICAgICJuZXQiOiAiaHR0cCIsCiAgICAicGF0aCI6ICIiLAogICAgInBvcnQiOiA4MCwKICAgICJwcyI6ICLwn4ew8J+Ht0tSLTIxNy4xNDIuMTM4LjYxLTA1MDEiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==#//South Korea/Seoul
 vless://cc3a15eb-0a63-486c-8e12-c7be717ebcd4@132.145.94.80:443?encryption=none&security=tls&sni=BPB005.pAgEs.DeV&type=ws&host=BPB005.pAgEs.DeV&path=%2F5sthz7rskwbjq043%2Fmtuyljy3ljiznc40oq#KR_%E5%88%86%E4%BA%AB%E6%97%A5%E8%AE%B0
@@ -593,4 +577,3 @@ vmess://eyJhZGQiOiAia3IuaWRjbG91ZGhvc3QuZGUiLCAiYWlkIjogMCwgImhvc3QiOiAia3IuaWRj
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HsPCfh7cgS1ItVEVTVCIsImFkZCI6IjE5My4xMjMuMjI2LjIyMyIsInBvcnQiOiIyODI5MCIsInR5cGUiOiJub25lIiwiaWQiOiJmYTNjNWYyMi0yMmZkLTQ1YmItZTVkMy03NGY3NWQ0YjE5ZWEiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0Ijoia3IuaWRjbG91ZGhvc3QuZGUiLCJ0bHMiOiIifQ==
 vmess://eyJwcyI6ICLwn4e68J+HuC3nvo7lm70ta3IyLmN6czEwMDAuY29tIiwgIuWFjei0ueiuoumYheWwveWcqGh0dHBzIjogIiIsICJhZGQiOiAia3IyLmN6czEwMDAuY29tIiwgInBvcnQiOiAiNjYiLCAidHlwZSI6ICJ2bWVzcyIsICJpZCI6ICI4ODIxN2Y1OS1kOTZlLTQ3OGEtODJjOS00MmM0MmMyNzJiZTAiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAidGxzIjogInRydWUiLCAic2tpcC1jZXJ0LXZlcmlmeSI6ICJ0cnVlIiwgInVkcCI6ICJ0cnVlIiwgIm5ldCI6ICJ0Y3AifQ==
 vmess://eyJwcyI6ICJcdWQ4M2NcdWRkZWZcdWQ4M2NcdWRkZjUtXHU2NWU1XHU2NzJjLWtyLmlkY2xvdWRob3N0LmRlIiwgInR5cGUiOiAibm9uZSIsICJhZGQiOiAia3IuaWRjbG91ZGhvc3QuZGUiLCAibmV0IjogIndzIiwgInBvcnQiOiAiODAiLCAiaWQiOiAiYTFlOGY5YTYtZGVlNS00N2ZkLWJiYzktZTkzMDdlMGIwZWUxIiwgImFpZCI6ICI0IiwgInNjeSI6ICJhdXRvIiwgInRscyI6ICJmYWxzZSIsICJ3cy1wYXRoIjogIi8ifQ==
-vmess://eyJ2IjoiMiIsInBzIjoiS1Ig8J+HsPCfh7cgfCBAUmF5ZGlrYWx4IHwgMzM0MiIsImFkZCI6IjE0Ni41Ni4xMTIuMTEwIiwicG9ydCI6ODg4OCwiaWQiOiJlN2MzMDJmMy05MGQ2LTQyZGQtOWQ3ZC05NGEzNjgzYTM3MDciLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiYXV0byIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9
