@@ -1,4 +1,4 @@
-vmess://eyJhZGQiOiIxMjkuMjI2LjE1Ny4yMjAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZDk4NjVkNjMtZDk1Yy00NTRiLWJhMDctOGU4OGI4MzhhODAxIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiNTkxMjEiLCJwcyI6IlNHIPCfh7jwn4esIHwgQFJheWRpa2FseCB8IDMwOTYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiIxMjkuMjI2LjE1Ny4yMjAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZDk4NjVkNjMtZDk1Yy00NTRiLWJhMDctOGU4OGI4MzhhODAxIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiNTkxMjEiLCJwcyI6IlNHIPCfh7jwn4esIHwgQFJheWRpa2FseCB8IDMwODUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
 trojan://b490740312aedb5f9f6b84c7aebd08c0@18.167.116.129:48738?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
 trojan://b490740312aedb5f9f6b84c7aebd08c0@18.167.68.98:48738?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A12
 trojan://BxceQaOe@18.162.62.243:32434?sni=t.me%2Fripaojiedian#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A13
@@ -25,7 +25,7 @@ vless://b2d8093b-f8e7-4a59-a582-96e3224728df@www.dgmcd.cn:443?path=%2F29099%2Fap
 vless://b2d8093b-f8e7-4a59-a582-96e3224728df@www.dgmcd.cn:443?path=%2F29099%2Fapi1&security=tls&encryption=none&insecure=0&host=aron.irandoc.info&fp=firefox&type=ws&allowInsecure=0&sni=sni.irandoc.info#[5518][SG][0][VLESS][None][Outline_ir][2026-07-15][2026-07-16 02:04]
 vless://78294bc4-89a2-4a4e-c116-0cd177fd556d@43.174.246.46:443?path=%2F48831%2Fapi&security=tls&encryption=none&insecure=0&host=a.irandoc.info&fp=firefox&type=ws&allowInsecure=0&sni=sni.irandoc.info#[3181][SG][0][VLESS][None][proxy_mtm][2026-07-15][2026-07-16 02:04]
 vless://e258977b-e413-4718-a3af-02d75492c349@207.148.119.176:8443?alpn=http%2F1.1&ed=2095&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=ww1.aniuge.qzz.io&path=%2F&security=tls&sni=ww1.aniuge.qzz.io&type=ws#[6699][SG][0][VLESS][None][oneclickvpnkeys][2026-07-09][2026-07-16 02:04]
-vmess://eyJhZGQiOiIxMjkuMjI2LjE1Ny4yMjAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZDk4NjVkNjMtZDk1Yy00NTRiLWJhMDctOGU4OGI4MzhhODAxIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiNTkxMjEiLCJwcyI6IlNHIPCfh7jwn4esIHwgQFJheWRpa2FseCB8IDMwODciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiIxMjkuMjI2LjE1Ny4yMjAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZDk4NjVkNjMtZDk1Yy00NTRiLWJhMDctOGU4OGI4MzhhODAxIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiNTkxMjEiLCJwcyI6IlNHIPCfh7jwn4esIHwgQFJheWRpa2FseCB8IDMwOTYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
 trojan://CF68213490@bright-cicada.rooster465.autos:443?security=tls&sni=bright-cicada.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-47.128.246.104-0515
 trojan://CF68213490@moral-basilisk.rooster465.autos:443?security=tls&sni=moral-basilisk.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-18.143.164.105-0506
 trojan://CF68213490@active-hippo.rooster465.autos:443?security=tls&sni=active-hippo.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-18.143.179.167-0520
@@ -353,7 +353,7 @@ trojan://NQ26071394@allowed-moose.rooster465.autos:443?allowInsecure=0&sni=allow
 trojan://NQ26071394@bold-eagle.rooster465.autos:443?allowInsecure=0&sni=bold-eagle.rooster465.autos#[openproxylist.com] trojan-SG
 trojan://NQ26071394@topical-shark.rooster465.autos:443?allowInsecure=0&sni=topical-shark.rooster465.autos#[openproxylist.com] trojan-SG
 trojan://NQ26071394@driving-antelope.rooster465.autos:443?allowInsecure=0&sni=driving-antelope.rooster465.autos#[openproxylist.com] trojan-SG
-vless://aa83d161-1169-494a-a57e-c8d8b327f051@43.159.50.28:443?security=reality&encryption=none&pbk=5KO-p5u_N5i11i_DC49SsSKTW1XvTiYMhg-eMzj3HTw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=0417be28beffdfc1#[openproxylist.com] vless-SG
+vless://aa83d161-1169-494a-a57e-c8d8b327f051@43.159.50.28:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=5KO-p5u_N5i11i_DC49SsSKTW1XvTiYMhg-eMzj3HTw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=0417be28beffdfc1#[openproxylist.com] vless-SG
 trojan://CF68213490@active-hippo.rooster465.autos:443?security=tls&sni=active-hippo.rooster465.autos#[openproxylist.com] trojan-SG
 trojan://CF68213490@grateful-owl.rooster465.autos:443?security=tls&sni=grateful-owl.rooster465.autos#[openproxylist.com] trojan-SG
 trojan://CF68213490@evolving-platypus.rooster465.autos:443?security=tls&sni=evolving-platypus.rooster465.autos#[openproxylist.com] trojan-SG
@@ -362,7 +362,6 @@ trojan://CF68213490@normal-macaque.rooster465.autos:443?security=tls&sni=normal-
 trojan://CF68213490@learning-wren.rooster465.autos:443?security=tls&sni=learning-wren.rooster465.autos#[openproxylist.com] trojan-SG
 trojan://CF68213490@moral-basilisk.rooster465.autos:443?security=tls&sni=moral-basilisk.rooster465.autos#[openproxylist.com] trojan-SG
 trojan://CF68213490@powerful-troll.rooster465.autos:443?security=tls&sni=powerful-troll.rooster465.autos#[openproxylist.com] trojan-SG
-trojan://CF68213490@brief-warthog.rooster465.autos:443?security=tls&sni=brief-warthog.rooster465.autos#[openproxylist.com] trojan-SG
 trojan://CF68213490@musical-terrier.rooster465.autos:443?security=tls&sni=musical-terrier.rooster465.autos#[openproxylist.com] trojan-SG
 trojan://CF68213490@vast-werewolf.rooster465.autos:443?security=tls&sni=vast-werewolf.rooster465.autos#[openproxylist.com] trojan-SG
 trojan://CF68213490@bright-cicada.rooster465.autos:443?security=tls&sni=bright-cicada.rooster465.autos#[openproxylist.com] trojan-SG
@@ -373,7 +372,6 @@ trojan://CF68213490@tight-gator.rooster465.autos:443?security=tls&sni=tight-gato
 trojan://CF68213490@prime-buzzard.rooster465.autos:443?security=tls&sni=prime-buzzard.rooster465.autos#[openproxylist.com] trojan-SG
 trojan://CF68213490@internal-krill.rooster465.autos:443?security=tls&sni=internal-krill.rooster465.autos#[openproxylist.com] trojan-SG
 trojan://CF68213490@relevant-oryx.rooster465.autos:443?security=tls&sni=relevant-oryx.rooster465.autos#[openproxylist.com] trojan-SG
-trojan://CF68213490@sacred-treefrog.rooster465.autos:443?security=tls&sni=sacred-treefrog.rooster465.autos#[openproxylist.com] trojan-SG
 vmess://ewogICAgImFkZCI6ICIyMDIuNzkuMTYxLjE4OCIsCiAgICAiYWlkIjogNjQsCiAgICAiaG9zdCI6ICJ3d3cuMzIyNzgxMTcueHl6IiwKICAgICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvcGF0aC8xNzA3MzMxMzIyMzMiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+HuPCfh6xTRy0yMDIuNzkuMTYxLjE4OC0wOTk2IiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
 trojan://eQlCz7DG3SDT@13.229.126.77:14822?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#SG|GithubTrojanLinks
 trojan://1JAuty9W)9FJ@13.213.30.41:14831?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#SG|GithubTrojanLinks
