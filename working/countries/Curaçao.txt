@@ -1,3 +1,1 @@
-vless://36ddcba8-5d7b-4243-8316-6adb4bfc6b88@88.216.67.230:443?path=/&security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&fp=chrome&type=ws&allowInsecure=0&sni=ez-c8f0f1.ezaccess1990eee.workers.dev#CW_711_@Surfboardv2ray
-vless://97b11ee6-a62a-4e60-839c-de974a155089@88.216.67.197:443?security=tls&sni=ttgju.org&type=ws&host=hj-de.ttgju.org&path=/hajmi?ed=2560&alpn=http/1.1#CW_2135_@Surfboardv2ray
 vmess://eyJ2IjogIjIiLCAicHMiOiAiQERlYW1OZXRf8J+HqPCfh7NUYWknYW4tMjE5Ni0zODAiLCAiYWRkIjogIjE0Mi40LjEwOC41NiIsICJwb3J0IjogNTkxMDksICJhaWQiOiA2NCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0In0=

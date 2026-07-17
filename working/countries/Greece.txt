@@ -1,3 +1,2 @@
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.166.102:989#%F0%9F%87%AC%F0%9F%87%B7GR-192.71.166.102-4739
 vless://59da5351-5151-417d-b2f7-6923848b717e@grek.helper-internet.com:443?flow=xtls-rprx-vision&fp=chrome&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&security=tls&sid=ff776ff77be48b88&sni=grek.helper-internet.com#%F0%9F%87%AC%F0%9F%87%B7_GR_%E5%B8%8C%E8%85%8A
-vless://0c8a9f50-51b3-43b5-b1fb-09fc3131a800@gwapp-ru01.freenets.store:443?sni=gwapp-ru01.freenets.store&alpn=h2%2Chttp/1.1&flow=xtls-rprx-vision-udp443&security=tls#A%20-%20%F0%9F%87%AC%F0%9F%87%B7%20GR%2001%20TG%3A%20%40nodpai
