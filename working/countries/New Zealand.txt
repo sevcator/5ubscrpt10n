@@ -1,2 +1,1 @@
-ss://6202b230-417c-4d8e-b624-0f71afa9c75d@114.129.43.238:2096?path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&type=ws&allowInsecure=1&sni=sni.jpmj.dev#[2626][NZ][0][SS][None][Outline_Vpn][2026-05-24][2026-07-15 09:18]
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@114.129.43.238:2096?path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&type=ws&allowInsecure=1&sni=sni.jpmj.dev#[2631][NZ][0][VLESS][None][Outline_Vpn][2026-05-24][2026-07-15 09:18]
+trojan://humanity@202.37.33.80:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org# NZ | 202.37.33.80
