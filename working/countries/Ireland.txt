@@ -60,7 +60,7 @@ trojan://NQ26071394@correct-starfish.rooster465.autos:443?sni=correct-starfish.r
 trojan://NQ26071394@fun-labrador.rooster465.autos:443?security=tls&sni=fun-labrador.rooster465.autos&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=0#%f0%9f%87%ae%f0%9f%87%aa%20IE%208
 trojan://NQ26071394@funky-opossum.rooster465.autos:443?security=tls&sni=funky-opossum.rooster465.autos&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=0#%f0%9f%87%ae%f0%9f%87%aa%20IE%209
 trojan://XG59623478@3.249.67.252:443?security=tls&sni=singular-lark.rooster465.autos&type=tcp&headerType=none&path=%2f#%f0%9f%87%ae%f0%9f%87%aa%20IE%2010
-trojan://NQ26071394@fun-labrador.rooster465.autos:443?allowInsecure=0&sni=fun-labrador.rooster465.autos#[openproxylist.com] trojan-IE
+trojan://NQ26071394@fun-labrador.rooster465.autos:443?allowInsecure=1&sni=fun-labrador.rooster465.autos#[openproxylist.com] trojan-IE
 trojan://NQ26071394@thankful-piranha.rooster465.autos:443?allowInsecure=1&sni=thankful-piranha.rooster465.autos#[openproxylist.com] trojan-IE
 trojan://NQ26071394@fun-labrador.rooster465.autos:443?allowInsecure=0&sni=fun-labrador.rooster465.autos#%5Bpeasoft%2FNoMoreWalls%5D%F0%9F%87%AE%F0%9F%87%AAIE_1%7C2.2MB%2Fs
 trojan://NQ26071394@fun-labrador.rooster465.autos:443?security=tls&sni=fun-labrador.rooster465.autos#%5Bermaozi%2Fget_subscribe%5D%F0%9F%87%AE%F0%9F%87%AA_IE_%E7%88%B1%E5%B0%94%E5%85%B0
