@@ -1,1 +1,1 @@
-vless://080fad7c-ff4b-499f-ab5d-52d69ea5745a@185.207.197.12:80?encryption=none&host=calm-tree-22b0.215-d2a.workers.dev&path=/pyip=Telegram+@WangCai2&security=none&type=ws#/Marshall Islands
+vless://09a4bf7f-f997-4174-8bef-9fab75aa186e@138.124.52.85:443?encryption=none&flow=xtls-rprx-vision&pbk=K7v4Rsxa-9lBsD_IQrzXREfIME_bFmwELHQAE3Yp1ng&security=reality&sid=b9988c11&sni=www.google.com&type=tcp#/Marshall Islands
