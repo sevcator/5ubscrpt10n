@@ -1,5 +1,5 @@
-trojan://NQ26071394@correct-starfish.rooster465.autos:443?sni=correct-starfish.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE%E7%88%B1%E5%B0%94%E5%85%B0%204.0MB%2Fs
-trojan://NQ26071394@thankful-piranha.rooster465.autos:443?sni=thankful-piranha.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE%E7%88%B1%E5%B0%94%E5%85%B02%204.1MB%2Fs
+trojan://NQ26071394@correct-starfish.rooster465.autos:443?sni=correct-starfish.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE%E7%88%B1%E5%B0%94%E5%85%B0%202.9MB%2Fs
+trojan://NQ26071394@thankful-piranha.rooster465.autos:443?sni=thankful-piranha.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE%E7%88%B1%E5%B0%94%E5%85%B02%202.7MB%2Fs
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJNlJzU1VJWXJLSHBJMjZK@20.223.152.73:443#[6795][IE][0][SS][None][V2rayng_Fast][2026-07-10][2026-07-18 01:56]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJNlJzU1VJWXJLSHBJMjZK@20.223.152.73:443#[6793][IE][0][SS][None][V2rayng_Fast][2026-07-10][2026-07-18 01:57]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1SkZrbm9iUW90RkZZYUZX@20.166.91.10:443#[6682][IE][0][SS][None][proxy_mtm][2026-06-22][2026-07-18 01:57]
@@ -106,6 +106,8 @@ trojan://XG59623478@singular-lark.rooster465.autos:443?sni=singular-lark.rooster
 trojan://XG59623478@singular-lark.rooster465.autos:443?sni=singular-lark.rooster465.autos&path=%2f#%f0%9f%87%ae%f0%9f%87%aa%20IE%2030
 trojan://XG59623478@singular-lark.rooster465.autos:443?security=tls&sni=singular-lark.rooster465.autos&type=tcp&headerType=none&path=%2f&allow_insecure=0#%f0%9f%87%ae%f0%9f%87%aa%20IE%2031
 trojan://NQ26071394@fun-labrador.rooster465.autos:443?security=tls&sni=fun-labrador.rooster465.autos#[openproxylist.com] trojan-IE
+trojan://NQ26071394@funky-opossum.rooster465.autos:443?security=tls&sni=funky-opossum.rooster465.autos#[openproxylist.com] trojan-IE
+trojan://NQ26071394@thankful-piranha.rooster465.autos:443?allowInsecure=0&sni=thankful-piranha.rooster465.autos#[openproxylist.com] trojan-IE
 vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HrvCfh6pJRS0zNC4yNDcuNDEuMTI4LTQ4MDMiLCAiYWRkIjogImllLWxzMDMubmIxLmZyIiwgInBvcnQiOiA2NDQ0MywgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICJ0bHMiLCAiaWQiOiAiY2I3MDAxYzctZTQ5NS00MWFjLWI5NDItZjI1ZjYwNTIzNDE0IiwgInNuaSI6ICIiLCAiaG9zdCI6ICJpZS1sczAzLm5iMS5mciIsICJwYXRoIjogIi9jbGllbnRhcmVhIn0=
 vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HrvCfh6pJRS0zNC4yNDQuNjguMjUxLTIzMzk1LVdvLi4uIiwgImFkZCI6ICIxMDQuMTkuMTQ1Ljk1IiwgInBvcnQiOiA0NDMsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAidGxzIiwgImlkIjogImNiNzAwMWM3LWU0OTUtNDFhYy1iOTQyLWYyNWY2MDUyMzQxNCIsICJzbmkiOiAibWlsYWQyLnN1ZGl6bzc3NDgud29ya2Vycy5kZXYiLCAicGF0aCI6ICIvaWUtbHMwMy5uYjEuZnI6NjQ0NDMvIn0=
 vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HrvCfh6pJRS00Ni4xMzcuMTUuODYtNDgyOS1Xb3JrLi4uIiwgImFkZCI6ICIxMDQuMTkuMTQ1Ljk1IiwgInBvcnQiOiA0NDMsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAidGxzIiwgImlkIjogImQxYmFiZTA4LWY4YWMtNDkwYi1iNjZmLTliZTI3NDY3ZjNjYyIsICJzbmkiOiAibWlsYWQyLnN1ZGl6bzc3NDgud29ya2Vycy5kZXYiLCAicGF0aCI6ICIvYWMyMDg4Lmhlcm9rdWFwcC5jb206NDQzL2QxYmFiZTA4LWY4YWMtNDkwYi1iNjZmLTliZTI3NDY3ZjNjYy12bWVzcyJ9
