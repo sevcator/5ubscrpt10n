@@ -447,9 +447,9 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+Hq/Cfh65GSS05NS4yMTYuMjA3LjIxLTIzNTM1LVdvLi4u
 vless://Tel-HqV2rayNG-HqV2rayNG@hqhqhq.trmas-qo.ir:80?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp# FI | 65.109.211.253
 vless://daa63137-0b76-4752-8041-0ba177eea1bb@ip6-free.shakhle.ir:52525?encryption=none&type=tcp&headerType=http&host=w3.com&path=/&security=none# FI | 2a01:4f9:c010:4531::1
 vless://MIMITDL@65.109.212.53:80?path=/?ed=1024&security=none&encryption=none&host=play.google.com&type=ws# FI | 65.109.212.53
-vless://358f44f0-2686-46c8-9cc6-ec52abd66df4@65.109.219.124:10485?encryption=none&security=none&type=tcp&headerType=none# FI | 65.109.219.124
-vless://f873e94c-0738-442d-92b8-7fccdea6e141@tun.temas-bor.ir:2082?encryption=none&security=none&type=ws&path=/tunx# FI | 46.62.250.164
+vless://f873e94c-0738-442d-92b8-7fccdea6e141@tun.temas-bor.ir:2082?encryption=none&security=none&type=ws&path=/tunx# FI | 95.217.159.175
 vless://7cf961a6-a806-4b87-aabb-9d0ef6a765d6@65.109.219.124:10485?security=none&encryption=none&headerType=none&type=tcp# FI | 65.109.219.124
 vless://a42fdac4-53c7-4a5d-8655-4168eecbe43d@65.109.181.18:27014?security=none&encryption=none&headerType=http&type=tcp# FI | 65.109.181.18
 vless://fe181934-a536-44cc-98cd-d62b9c16ad74@static.41.139.168.204.clients.your-server.de:2087?type=grpc&serviceName=@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,&mode=multi&security=tls&# FI | 204.168.139.41
+vless://358f44f0-2686-46c8-9cc6-ec52abd66df4@65.109.219.124:10485?security=none&encryption=none&headerType=none&type=tcp# FI | 65.109.219.124
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206dVhTZ1cybTRzYmZvWWNrVGJGaUduYVZuUDF5Z0lVTGkxMkxQUXZVWk5qTT06Rk5Xekk0T3dQVE5nQUZaVVVVRmp4MTltNVlmTG8zcU5YdDA3dENRM2xadz0=@65.109.219.124:18269# FI | 65.109.219.124
