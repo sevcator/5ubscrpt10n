@@ -1,2 +1,2 @@
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.166.102:989#%F0%9F%87%AC%F0%9F%87%B7GR-192.71.166.102-4739
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.166.102:989#%F0%9F%87%AC%F0%9F%87%B7GR-192.71.166.102-4891
 vless://c04bf2df-2b7f-44da-a893-3792d3910fd8@gre01.myxasecure.space:443?security=reality&type=tcp&packetEncoding=xudp&sni=gre01.myxasecure.space&fp=qq&flow=xtls-rprx-vision&sid=d67ec5a8fc40ebea&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw#%F0%9F%87%AC%F0%9F%87%B7GR_1%7C1.6MB%2Fs%7CF003-260618%2001
