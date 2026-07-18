@@ -6488,6 +6488,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@184.75.221.134
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6ejBkSGpEZm9hU2FadVJGTEdILWhOZkJBTFNFSlVZRA@194.164.92.198:1234#[openproxylist.com] ss-GB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@146.70.146.222:1080#[openproxylist.com] ss-AT
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@217.138.207.106:1080#[openproxylist.com] ss-FR
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@195.242.213.238:1080#[openproxylist.com] ss-SE
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@185.128.25.44:1080#[openproxylist.com] ss-FR
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.68.134.191:443#%3a%e7%be%8e%e5%9b%bd-ss-38.68.134.191%3a443-%e5%8f%af%e7%94%a8-%e7%9b%b4%e8%bf%9e-%e4%b8%8d%e6%94%af%e6%8c%81Netflix
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@167.88.63.79:443#%3a%e7%be%8e%e5%9b%bd-ss-167.88.63.79%3a443-%e5%8f%af%e7%94%a8-%e7%9b%b4%e8%bf%9e-%e4%b8%8d%e6%94%af%e6%8c%81Netflix
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@167.88.62.68:443#%3a%e7%be%8e%e5%9b%bd-ss-167.88.62.68%3a443-%e5%8f%af%e7%94%a8-%e7%9b%b4%e8%bf%9e-%e4%b8%8d%e6%94%af%e6%8c%81Netflix

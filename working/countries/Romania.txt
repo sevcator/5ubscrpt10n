@@ -28,7 +28,7 @@ vless://ab51054f-de76-4a0f-9f3a-b44c8df86a6c@72.5.42.70:40443?encryption=none&fl
 vless://43488128-319e-f480-64ea-0acdc712e2a8@77.81.98.70:443?security=reality&encryption=none&pbk=kkRsTNjRh_XrrTM6eZllllldzoL5Z9IqlBkDtmYLMhw&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.aliexpress.com&sid=9b4fc5a116efd6c8#[2395][RO][0][VLESS][None][nofiltering2][2026-06-22][2026-07-18 01:57]
 vless://146eb6cf-a99c-4022-85ca-022cf81502dc@93.114.194.131:443?security=reality&encryption=none&pbk=7ReQIe2kMtP4rCrptgH5glkOM-JGcSAPzHNxOED-Z0s&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=247fd6dab1a34a48#[857][RO][0][VLESS][None][marambashi][2026-07-06][2026-07-18 01:57]
 vless://f426626f-a13e-4707-920d-e8feab56d1cc@38.79.154.34:2020?security=reality&encryption=none&pbk=KWlccWTLW11wEojieRNfg6zezd3KMxPpAkwZ11VNhSM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aparat.com&sid=d67b45b38dcea6#[10778][RO][0][VLESS][None][free1_vpn][2026-07-08][2026-07-18 01:56]
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@194.14.217.115:989#%F0%9F%87%B7%F0%9F%87%B4RO-194.14.217.115-9334
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@194.14.217.115:989#%F0%9F%87%B7%F0%9F%87%B4RO-194.14.217.115-9328
 vless://62747cff-793c-4be6-8bac-254e003132ed@185.126.237.16:443?security=reality&sni=mdundo.com&type=tcp&fp=chrome&pbk=mg27CNAYLf_Ur6787uTVq_RVfKuiM5MVwbReFVDg5ks&sid=190d32b118caf07f# VL-TCP-RLT  RO-185.126.237.16:443
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@194.14.217.115:989#%F0%9F%87%B7%F0%9F%87%B4RO-194.14.217.115-0770
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@194.14.217.115:989#%F0%9F%87%B7%F0%9F%87%B4RO-194.14.217.115-0735
