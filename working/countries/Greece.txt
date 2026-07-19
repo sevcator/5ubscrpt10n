@@ -1,1 +1,2 @@
+vless://cca3e5cc-a62b-4877-b2d2-446da5167265@gr.fredomiran.com:443?security=reality&encryption=none&pbk=5vlie1Xxnp4ZhghxvPWZCPLiwxM9CNVuQN0lRz2Gigw&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=f9ffaeacfcf21dc1#GR
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.166.102:989#%F0%9F%87%AC%F0%9F%87%B7GR-192.71.166.102-4863
