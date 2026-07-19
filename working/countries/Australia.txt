@@ -1,7 +1,9 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@103.75.119.38:990#[6708][AU][0][SS][None][free4allVPN][2025-10-23][2026-07-18 01:56]
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@103.75.119.38:990#[6709][AU][0][SS][None][free4allVPN][2025-10-23][2026-07-18 01:57]
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiSU9vaTVUdUltRzJLY2N4VjctamNBN0Nleit2dW4tY19F@104.156.233.234:27116#[6947][AU][0][SS][None][Outline_Vpn][2026-06-29][2026-07-18 01:57]
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiSU9vaTVUdUltRzJLY2N4VjctamNBN0Nleit2dW4tY19F@104.156.233.234:27116#[6946][AU][0][SS][None][Outline_Vpn][2026-06-29][2026-07-18 01:56]
+ss://c98a16e4-0dc5-42f0-b3db-30f04525c123@103.160.204.50:443?path=%2F%3Fed%3D2560&security=tls&alpn=h3&encryption=none&host=vless8-ekh.pages.dev&fp=random&type=ws&sni=vless8-ekh.pages.dev#[7861][AU][0][SS][None][vless_vmess][2025-07-25][2026-07-19 02:08]
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4ZnNjU0RjYi1TZUVxcVJiLm9telZHZ1ZnTnBYaDNiQTF1@67.219.106.119:26286#[5705][AU][0][SS][None][vpnx44][2026-07-07][2026-07-19 02:07]
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4ZnNjU0RjYi1TZUVxcVJiLm9telZHZ1ZnTnBYaDNiQTF1@67.219.106.119:26286#[5704][AU][0][SS][None][vpnx44][2026-07-05][2026-07-19 02:07]
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiSU9vaTVUdUltRzJLY2N4VjctamNBN0Nleit2dW4tY19F@104.156.233.234:27116#[5895][AU][0][SS][None][Outline_Vpn][2026-06-29][2026-07-19 02:08]
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiSU9vaTVUdUltRzJLY2N4VjctamNBN0Nleit2dW4tY19F@104.156.233.234:27116#[5894][AU][0][SS][None][Outline_Vpn][2026-06-29][2026-07-19 02:07]
+vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@103.160.204.50:443?path=%2F%3Fed%3D2560&security=tls&alpn=h3&encryption=none&host=vless8-ekh.pages.dev&fp=random&type=ws&sni=vless8-ekh.pages.dev#[6842][AU][0][VLESS][None][vless_vmess][2025-07-25][2026-07-19 02:08]
 trojan://XG59623478@concise-buck.rooster465.autos:443?security=tls&sni=concise-buck.rooster465.autos#%F0%9F%87%A6%F0%9F%87%BAAU-82.117.225.216-0209
 trojan://XG59623478@stirring-dane.rooster465.autos:443?security=tls&sni=stirring-dane.rooster465.autos#%F0%9F%87%A6%F0%9F%87%BAAU-82.117.225.56-0231
 trojan://KV63147582@selected-bison.rooster465.autos:443?security=tls&sni=selected-bison.rooster465.autos#%F0%9F%87%A6%F0%9F%87%BAAU-87.121.33.171-0250
@@ -58,18 +60,24 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh6bwn4e6QVUtMTcyLjEwNS4yNTUuMTA5LTEz
 trojan://TJCfE7Mx2YcA8kX8zg@au1.chuqiangtou.net:4003?security=tls&type=tcp&headerType=none#%F0%9F%87%A6%F0%9F%87%BAAU-149.50.83.126-0834
 trojan://c2b60d6a-a2f5-40ff-b7f9-f7658abcbf26@jgwxn2.gaox.ml:443#Relay_%F0%9F%87%A6%F0%9F%87%BAAU-%F0%9F%87%A6%F0%9F%87%BAAU_79
 vmess://ewogICJ2IjogMiwKICAicHMiOiAiQHdibmV0X/Cfh6bwn4e6X0FVXzIiLAogICJhZGQiOiAiMTI5LjE1NC40OC4yMjEiLAogICJwb3J0IjogMzczNzIsCiAgImlkIjogIjZmNDQ1NGE5LWU3MzItNDZjNi1jNTBmLTczZjEzZGEzMWY3YiIsCiAgImFpZCI6IDAsCiAgIm5ldCI6ICJ0Y3AiLAogICJob3N0IjogIiIsCiAgInBhdGgiOiAiLyIsCiAgInR5cGUiOiAibm9uZSIsCiAgInRscyI6ICIiLAogICJzbmkiOiAiIiwKICAic2N5IjogImF1dG8iCn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUV0c3SjFLUjVLc1BhVjVxWkkrcmlldWVLeHhhZlpTcENI@45.77.232.213:15675#%F0%9F%87%A6%F0%9F%87%BAAU_1%7C3.1MB%2Fs%7CA003-260618%2001
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiSU9vaTVUdUltRzJLY2N4VjctamNBN0Nleit2dW4tY19F@104.156.233.234:27116#%F0%9F%87%A6%F0%9F%87%BAAU_2%7C2.7MB%2Fs%7CA003-260618%2001
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@103.106.231.82:5600#%F0%9F%87%A6%F0%9F%87%BAAU_3%7C2.3MB%2Fs%7CA003-260618%2001
-trojan://XG59623478@stirring-dane.rooster465.autos:443?sni=stirring-dane.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%A6%F0%9F%87%BAAU_7%7C2.5MB%2Fs%7CC002-260622%2001
-trojan://XG59623478@concise-buck.rooster465.autos:443?sni=concise-buck.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%A6%F0%9F%87%BAAU_6%7C577KB%2Fs%7CC002-260622%2001
-trojan://OD90375861@big-bonefish.rooster465.autos:443?sni=big-bonefish.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%A6%F0%9F%87%BAAU_14%7C2.5MB%2Fs%7CC002-260622%2001
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@103.106.231.82:5600#%F0%9F%87%A6%F0%9F%87%BAAU_1%7C2.5MB%2Fs%7CB007-260618%2001
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiSU9vaTVUdUltRzJLY2N4VjctamNBN0Nleit2dW4tY19F@104.156.233.234:27116#%F0%9F%87%A6%F0%9F%87%BAAU_2%7C2.8MB%2Fs%7CB007-260618%2001
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUV0c3SjFLUjVLc1BhVjVxWkkrcmlldWVLeHhhZlpTcENI@45.77.232.213:15675#%F0%9F%87%A6%F0%9F%87%BAAU_3%7C973KB%2Fs%7CB007-260618%2001
+trojan://XG59623478@stirring-dane.rooster465.autos:443?sni=stirring-dane.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%A6%F0%9F%87%BAAU_8%7C1.5MB%2Fs%7CC002-260622%2001
+trojan://XG59623478@concise-buck.rooster465.autos:443?sni=concise-buck.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%A6%F0%9F%87%BAAU_21%7C3.2MB%2Fs%7CV002-260618%2001
+trojan://OD90375861@big-bonefish.rooster465.autos:443?sni=big-bonefish.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%A6%F0%9F%87%BAAU_14%7C2.4MB%2Fs%7CC002-260622%2001
 trojan://KV63147582@selected-bison.rooster465.autos:443?sni=selected-bison.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%A6%F0%9F%87%BAAU_13%7C2.6MB%2Fs%7CC002-260622%2001
 trojan://OD90375861@selected-bison.rooster465.autos:443?sni=selected-bison.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%A6%F0%9F%87%BAAU_12%7C2.1MB%2Fs%7CC002-260622%2001
-trojan://NQ26071394@wanted-marmoset.rooster465.autos:443?sni=wanted-marmoset.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%A6%F0%9F%87%BAAU_18%7C563KB%2Fs%7CC002-260622%2001
+trojan://NQ26071394@wanted-marmoset.rooster465.autos:443?sni=wanted-marmoset.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%A6%F0%9F%87%BAAU_18%7C3.0MB%2Fs%7CC002-260622%2001
 trojan://NQ26071394@chief-antelope.rooster465.autos:443?sni=chief-antelope.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%A6%F0%9F%87%BAAU_17%7C2.6MB%2Fs%7CC002-260622%2001
-trojan://KV63147582@selected-bison.rooster465.autos:443?sni=selected-bison.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%87%A6%F0%9F%87%BAAU_19%7C2.5MB%2Fs%7CF003-260618%2001
-trojan://OD90375861@big-bonefish.rooster465.autos:443?sni=big-bonefish.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%87%A6%F0%9F%87%BAAU_20%7C2.6MB%2Fs%2001
+trojan://KV63147582@selected-bison.rooster465.autos:443?sni=selected-bison.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%87%A6%F0%9F%87%BAAU_19%7C2.6MB%2Fs%7CF003-260618%2001
+trojan://OD90375861@big-bonefish.rooster465.autos:443?sni=big-bonefish.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%87%A6%F0%9F%87%BAAU_20%7C2.9MB%2Fs%2001
+trojan://PD07395842@fluent-gar.rooster465.autos:443?sni=fluent-gar.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%A6%F0%9F%87%BAAU_28%7C2.2MB%2Fs%7CC002-260622%2001
+trojan://PD07395842@selected-bison.rooster465.autos:443?sni=selected-bison.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%A6%F0%9F%87%BAAU_31%7C2.5MB%2Fs%7CC002-260622%2001
+trojan://PD07395842@big-bonefish.rooster465.autos:443?sni=big-bonefish.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%A6%F0%9F%87%BAAU_29%7C2.7MB%2Fs%7CC002-260622%2001
+trojan://PD07395842@darling-mutt.rooster465.autos:443?sni=darling-mutt.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%A6%F0%9F%87%BAAU_30%7C2.8MB%2Fs%7CC002-260622%2001
+trojan://PD07395842@true-pony.rooster465.autos:443?sni=true-pony.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%A6%F0%9F%87%BAAU_27%7C2.6MB%2Fs%7CC002-260622%2001
+trojan://XG59623478@82.117.225.216:443?sni=concise-buck.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%A6%F0%9F%87%BAAU_32%7C2.0MB%2Fs%7CP002-260618%2001
 trojan://XG59623478@concise-buck.rooster465.autos:443?security=tls&path=%2f#%f0%9f%87%a6%f0%9f%87%ba%20AU%201
 trojan://XG59623478@concise-buck.rooster465.autos:443?sni=concise-buck.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%a6%f0%9f%87%ba%20AU%202
 trojan://XG59623478@stirring-dane.rooster465.autos:443?security=tls&sni=stirring-dane.rooster465.autos&type=tcp&path=%2f#%f0%9f%87%a6%f0%9f%87%ba%20AU%203
@@ -80,7 +88,6 @@ trojan://XG59623478@concise-buck.rooster465.autos:443?security=tls&sni=concise-b
 trojan://XG59623478@concise-buck.rooster465.autos:443?security=tls&sni=concise-buck.rooster465.autos&type=tcp&headerType=none&path=%2f&allow_insecure=0#%f0%9f%87%a6%f0%9f%87%ba%20AU%208
 trojan://XG59623478@stirring-dane.rooster465.autos:443?sni=stirring-dane.rooster465.autos&path=%2f#%f0%9f%87%a6%f0%9f%87%ba%20AU%209
 trojan://XG59623478@stirring-dane.rooster465.autos:443?security=tls&sni=stirring-dane.rooster465.autos&path=%2f#%f0%9f%87%a6%f0%9f%87%ba%20AU%2010
-trojan://XG59623478@concise-buck.rooster465.autos:443?security=tls&sni=concise-buck.rooster465.autos#[openproxylist.com] trojan-AU
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkFVIiwNCiAgImFkZCI6ICIxNzAuNjQuMjMzLjIzNiIsDQogICJwb3J0IjogIjgwODAiLA0KICAiaWQiOiAiYmRkMjI4NDEtYzRkMi00YWE4LWFjZjItOTVhYTkxMjVmMTU5IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJzeWQxLTMudHJvbGxmdW5ueS5uZXQiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAic3lkMS0zLnRyb2xsZnVubnkubmV0IiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogImNocm9tZSINCn0=
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkFVIiwNCiAgImFkZCI6ICIyMDkuMzguMjQuMzgiLA0KICAicG9ydCI6ICI4MDgwIiwNCiAgImlkIjogImJkZDIyODQxLWM0ZDItNGFhOC1hY2YyLTk1YWE5MTI1ZjE1OSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAic3lkMS0xMC50cm9sbGZ1bm55Lm5ldCIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJzeWQxLTEwLnRyb2xsZnVubnkubmV0IiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogImNocm9tZSINCn0=
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkFVIiwNCiAgImFkZCI6ICIxNzAuNjQuMTU1LjEzNCIsDQogICJwb3J0IjogIjgwODAiLA0KICAiaWQiOiAiYmRkMjI4NDEtYzRkMi00YWE4LWFjZjItOTVhYTkxMjVmMTU5IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJzeWQxLTE5LnRyb2xsZnVubnkubmV0IiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogInN5ZDEtMTkudHJvbGxmdW5ueS5uZXQiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiY2hyb21lIg0KfQ==
@@ -91,7 +98,7 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkFVIiwNCiAgImFkZCI6ICIxNzAuNjQuMTQ5Ljcx
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkFVIiwNCiAgImFkZCI6ICIxNzAuNjQuMTQ1LjYiLA0KICAicG9ydCI6ICI4MDgwIiwNCiAgImlkIjogImJkZDIyODQxLWM0ZDItNGFhOC1hY2YyLTk1YWE5MTI1ZjE1OSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAic3lkMS05LnRyb2xsZnVubnkubmV0IiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogInN5ZDEtOS50cm9sbGZ1bm55Lm5ldCIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICJjaHJvbWUiDQp9
 trojan://cc05b267-2e17-4e73-92f0-2cf603aa5997@146.56.179.67:40005?allowInsecure=1#Australia-%e6%be%b3%e5%a4%a7%e5%88%a9%e4%ba%9a
 trojan://57edfecf-5694-4a34-8072-54a4f0636a62@146.56.179.67:40005?allowInsecure=1#Australia-%e6%be%b3%e5%a4%a7%e5%88%a9%e4%ba%9a
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUV0c3SjFLUjVLc1BhVjVxWkkrcmlldWVLeHhhZlpTcENI@45.77.232.213:15675#//Australia/Sydney
+vless://Telegram-%40Cooonfig-%40Cooonfig@65.109.181.154:59849?encryption=none&type=tcp&headerType=http&path=%2F&host=play.google.com#//Australia/Sydney
 vmess://eyJwcyI6ICJcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgtXHU3ZjhlXHU1NmZkLWF1MS5jb3UuZ2F5IiwgImFkZCI6ICJhdTEuY291LmdheSIsICJ0eXBlIjogIm5vbmUiLCAiY291bnRyeSI6ICJcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjhVUyIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICIwYTY2Nzg3NS01NjVhLTQzNzctYTY4NC1hZDA1MjhkMzk3OWUiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgImh0dHAtb3B0cyI6ICIiLCAiaDItb3B0cyI6ICIiLCAidGxzIjogInRydWUiLCAic2tpcC1jZXJ0LXZlcmlmeSI6ICJ0cnVlIiwgIndzLW9wdHMiOiAiIiwgInBhdGgiOiAiL2F1MT9lZD0yMDQ4In0=
 vmess://eyJwcyI6ICJcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgtXHU3ZjhlXHU1NmZkLWF1MS5jb3UuZ2F5IiwgImFkZCI6ICJhdTEuY291LmdheSIsICJ0eXBlIjogIm5vbmUiLCAiY291bnRyeSI6ICJcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjhVUyIsICJwb3J0IjogIjQ0MyIsICJ1ZHAiOiAidHJ1ZSIsICJpZCI6ICI2ZmU3YjYyNC1iZDNiLTQxYjItOGFkNS1iNDM5NjE4OTM1NTEiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgImh0dHAtb3B0cyI6ICIiLCAiaDItb3B0cyI6ICIiLCAidGxzIjogInRydWUiLCAid3Mtb3B0cyI6ICIiLCAicGF0aCI6ICIvYXUxP2VkPTIwNDgiLCAiaGVhZGVycyI6ICIiLCAiaG9zdCI6ICJhdTEuY291LmdheSJ9
 vmess://eyJwcyI6ICJcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgtXHU3ZjhlXHU1NmZkLWF1MS5jb3UuZ2F5IiwgImFkZCI6ICJhdTEuY291LmdheSIsICJ0eXBlIjogIm5vbmUiLCAiY291bnRyeSI6ICJcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjhVUyIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICJkNjNiYzEzOS1lMzA5LTRhNjUtYmI5ZS1jMjdjMzRkMjRiNzIiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInNlcnZlcnBzIjogImF1MS5jb3UuZ2F5IiwgImh0dHAtb3B0cyI6ICIiLCAiaDItb3B0cyI6ICIiLCAidGxzIjogInRydWUiLCAic2tpcC1jZXJ0LXZlcmlmeSI6ICJ0cnVlIiwgIndzLW9wdHMiOiAiIiwgInBhdGgiOiAiL2F1MT9lZD0yMDQ4In0=
