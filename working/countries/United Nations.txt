@@ -31,7 +31,6 @@ vless://Telegram-Parsashonam@ip:443?security=reality&encryption=none&pbk=rd71EGp
 vless://c8b6a94f-eb38-4b68-9ae7-fadc7d690e16@mariz.kuckenpq.ir:8880?security=&encryption=none&host=zula.ir&headerType=http&type=tcp# UN | mariz.kuckenpq.ir
 vless://c8b6a94f-eb38-4b68-9ae7-fadc7d690e16@dlarm.kuckenpq.ir:8880?security=&encryption=none&host=zula.ir&headerType=http&type=tcp# UN | dlarm.kuckenpq.ir
 vless://651a858c-2975-4b96-96b7# UN | 651a858c-2975-4b96-96b7
-vless://7943183f-5c33-4728-8d57-8f18efe6ce25@pan2.mashkestan.com:2087?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp# UN | pan2.mashkestan.com
 vless://c1ea5250-43d6-4f91-8d0f-64ed231cc559@pishgam.sdcards.ir:8080?path=/?ed=2087&security=none&encryption=none&host=pivaz-a.plas-nim.org&type=httpupgrade# UN | pishgam.sdcards.ir
 vless://14400b5d-a218-4ed0-b4a9-d703a3501911@max-ep.443.erangle.ru:14368?path=/&security=tls&encryption=none&insecure=0&host=max-ep.443.erangle.ru&fp=chrome&type=httpupgrade&allowInsecure=0&sni=max-ep.443.erangle.ru# UN | max-ep.443.erangle.ru
 vless://b43f416d-0bb7-45d9-b3a4-0ccef14f1fbe@simonil.zarghamportal.ir:2095?path=/@iSpeedTopVPN?ed=80&security=none&encryption=none&host=shole.zarghamportal.ir&type=ws# UN | simonil.zarghamportal.ir
