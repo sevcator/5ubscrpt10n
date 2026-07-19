@@ -30,12 +30,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsZ2hYM3JjRzdicVNROEw2@128.251.12.23:443#[604
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJNlJzU1VJWXJLSHBJMjZK@20.223.152.73:443#[5768][IE][0][SS][None][V2rayng_Fast][2026-07-10][2026-07-19 02:08]
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.30.89.205:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#[283][IE][0][VLESS][None][Hope_Net][2026-07-18][2026-07-19 02:08]
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.30.89.205:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#[282][IE][0][VLESS][None][Hope_Net][2026-07-18][2026-07-19 02:07]
-trojan://NQ26071394@funky-opossum.rooster465.autos:443?security=tls&sni=funky-opossum.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE-108.131.117.154-0094
-trojan://NQ26071394@fun-labrador.rooster465.autos:443?security=tls&sni=fun-labrador.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE-34.242.69.173-0099
-trojan://OD90375861@wired-tick.rooster465.autos:443?security=tls#%F0%9F%87%AE%F0%9F%87%AAIE-52.212.156.233-5950
-trojan://NQ26071394@correct-starfish.rooster465.autos:443?security=tls&sni=correct-starfish.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE-34.249.41.208-2287
-trojan://NQ26071394@thankful-piranha.rooster465.autos:443?security=tls&sni=thankful-piranha.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE-3.255.100.31-0100
-trojan://XG59623478@3.249.67.252:443?security=tls&sni=singular-lark.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE-3.249.67.252-0535
 trojan://NQ26071394@thankful-piranha.rooster465.autos:443?security=tls&sni=thankful-piranha.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE-3.255.100.31-0158
 trojan://NQ26071394@correct-starfish.rooster465.autos:443?security=tls&sni=correct-starfish.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE-34.249.41.208-0156
 trojan://NQ26071394@fun-labrador.rooster465.autos:443?security=tls&sni=fun-labrador.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE-34.242.69.173-0198
