@@ -28,6 +28,10 @@ ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@143.244.58.102:443#%F0%9F%87%A8%F0%9F%
 vless://e3e90161-fe65-443a-a3a4-e0e3a73704ca@95.85.227.25:443?allowInsecure=0&sni=pol1.hatvpn.org&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#CZ_speednode_0002
 vless://2415cbdc-e5fc-453e-91ad-0e2e532afb7c@de4.niekotin.de:80?path=/vless&security=none&encryption=none&host=de4.niekotin.de&type=ws#openvpn-ssh.com-Inikoteslab23cz
 ss://2415cbdc-e5fc-453e-91ad-0e2e532afb7c@de4.niekotin.de:80?path=/vless&security=none&encryption=none&host=de4.niekotin.de&type=ws#openvpn-ssh.com-Inikoteslab23cz
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.110:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#CZ_2295_@Surfboardv2ray
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0#CZ_2296_@Surfboardv2ray
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1#CZ_2297_@Surfboardv2ray
+vless://e4c5ae87-763c-4df1-ba4f-28de5fd2201c@78.108.57.68:3884?encryption=none&headerType=http&host=Ghatreh.ir&path=/&security=none&type=tcp#CZ_3307_@Surfboardv2ray
 trojan://3747000103274291200@195.133.93.135:443?peer=epic-weasel.treefrog761.one#Czechia
 vless://598b823c-d3fc-4013-aae5-837f10080f7a@api.kinomir.fun:40443?security=reality&type=tcp&packetEncoding=xudp&sni=deepl.com&fp=chrome&flow=xtls-rprx-vision&sid=33e48a03db900ff3&pbk=cZF84xUCciKRXxTA39vNnh0U8CjUZiUSjLzuNTMOzV8&encryption=none#%F0%9F%87%A8%F0%9F%87%BFCZ_1%7C964KB%2Fs%7CB007-260618%2001
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@146.70.222.126:1080#%F0%9F%87%A8%F0%9F%87%BFCZ_2%7C2.0MB%2Fs%7CB007-260618%2001
@@ -48,6 +52,5 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HqPCfh79DWi03Ny43NS4yMzAuMTQ2LTExNTY1IiwgImFk
 vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HqPCfh79DWi00Ni44LjguMTAwLTM5MjUiLCAiYWRkIjogImV1c2VydjdwLmV6ZGRucy50ayIsICJwb3J0IjogODAsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjBiNWFlYjdjLWU0NzctNDg0Zi04OTk5LTYxNzcyYzQzYjQzYyIsICJzbmkiOiAiIiwgInBhdGgiOiAiL2F1ZGlvLndhdiJ9
 vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HqPCfh79DWi00Ni44LjguMTAwLTM4OTMiLCAiYWRkIjogImV1c2VydjlwLmV6ZGRucy50ayIsICJwb3J0IjogODAsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImNhODcwNDgzLWZhN2QtNGY2NC05ODNhLTZlZDQ1NTE0M2FjYSIsICJzbmkiOiAiIiwgInBhdGgiOiAiL2xpdmUifQ==
 vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HqPCfh79DWi00Ni44LjguMTAwLTM5MjIiLCAiYWRkIjogImV1c2VydjE3cC5lemRkbnMudGsiLCAicG9ydCI6IDgwLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICI0YTZjYzRhNi00OTFmLTRhNTgtZmI0NS1iZjg4OGYwYjM4MWYiLCAic25pIjogIiIsICJwYXRoIjogIi92aWRlbyJ9
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0# CZ | 95.133.245.110
-vless://af338e79-8259-4662-a0ff-db6df2414501@xboxgame-dl.com:433?encryption=none&security=reality&sni=xboxgame-dl.com&fp=chrome&pbk=J6v3yhXsfUyoPDmw3Beq9YSxqlW2Ir_5PpULj1xQX2E&sid=8d4981fb6742b104&type=tcp&headerType=none# CZ | 46.8.9.222
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn3-87.vk-cdnvideo.com:8443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=cdn3-87.vk-cdnvideo.com# CZ | 95.133.245.113
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0# CZ | 95.133.245.164
+vless://af338e79-8259-4662-a0ff-db6df2414501@xboxgame-dl.com:433?encryption=none&security=reality&sni=xboxgame-dl.com&fp=chrome&pbk=J6v3yhXsfUyoPDmw3Beq9YSxqlW2Ir_5PpULj1xQX2E&sid=8d4981fb6742b104&type=tcp&headerType=none# CZ | 46.8.9.225
