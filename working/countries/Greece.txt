@@ -1,1 +1,2 @@
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.166.102:989#%F0%9F%87%AC%F0%9F%87%B7GR-192.71.166.102-4835
+vless://c04bf2df-2b7f-44da-a893-3792d3910fd8@gre02.myxasecure.space:443?sni=gre02.myxasecure.space&flow=xtls-rprx-vision-udp443&fp=qq&security=tls#%F0%9F%87%AC%F0%9F%87%B7GR_1%7C2.1MB/s
