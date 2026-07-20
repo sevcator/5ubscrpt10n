@@ -1,7 +1,6 @@
 vless://073d1d50-8478-47bf-a828-7a1b381931d5@www.speedtest.net:443?encryption=none&fp=chrome&host=octopusss.net&path=%2Fodiyfws&security=tls&sni=octopusss.net&type=ws#ar14n24b%20%20VL-WS-N/A%20%20XX%2017ms
 vless://003f8262-28b1-4f80-acd0-af251777a7b8@www.ramito.ir:8443?security=tls&encryption=none&insecure=0&host=n4.zeneco.ir&type=ws&allowInsecure=0&sni=n4.zeneco.ir#ar14n24b%20%20VL-WS-N/A%20%20XX%20down
 vless://073d1d50-8478-47bf-a828-7a1b381931d5@141.11.202.29:443?path=%2Fodiyfws&security=tls&encryption=none&insecure=1&host=octopusss.net&type=ws&allowInsecure=1&sni=octopusss.net#ar14n24b%20%20VL-WS-N/A%20%20XX%205ms
-ss://YWVzLTI1Ni1nY206OTVjM2QxMTQtNTM3MC0zZTU0LTgzMmEtNWE1YWNjNDkyYjli@s.n.y.5.8.z.4.e.d.ar01-ae5.entry.v51124-5.qpon:20028#%F0%9F%87%A6%F0%9F%87%B7AR_1%7C2.0MB/s
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@190.103.176.29:989#%F0%9F%87%A6%F0%9F%87%B7AR-190.103.176.29-0770
 vless://16c6faa4-1162-49ca-acf7-059afdf1ecd3@91.107.189.143:29039?encryption=none&security=none&type=tcp#******@AR14N24b
 vless://c5d39e5e-de2c-4614-af1a-652692097224@179.237.73.189:17931?security=none&encryption=none=-@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&host=tci.ir&headerType=http&type=tcp#******@AR14N24b
