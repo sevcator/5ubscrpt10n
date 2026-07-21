@@ -34,20 +34,20 @@ vless://de8c9038-36a7-43f3-a8d7-6af8f4146345@31.57.28.16:8080?mode=auto&path=%2F
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@it.fifapes.monster:29148?security=&encryption=none&host=it.fifapes.monster%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#[9247][LV][0][VLESS][None][marambashi][2026-07-10][2026-07-21 02:07]
 vless://de8c9038-36a7-43f3-a8d7-6af8f4146345@31.57.28.16:8080?mode=auto&path=%2Fws&security=reality&encryption=none&pbk=opJtSOP5IDRUindFufbrBBdWVWnrNAyfIbPHGnaBW1Y&host=De.emperorr.sbs&fp=chrome&spx=%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2F%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2F%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2F%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2F%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2F%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2F%2FPuLaVPN&type=xhttp&sni=play.google.com&sid=3dc10c875cf37011#[8321][LV][0][VLESS][None][V2rayng_Fast][2026-07-16][2026-07-21 02:07]
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#[9244][LV][0][VLESS][None][marambashi][2026-07-07][2026-07-21 02:07]
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQaGlsRWhnS0pRNTQwTU5LN21Ob2lt@185.135.86.86:51348#%F0%9F%87%B1%F0%9F%87%BBLV-185.135.86.86-9308
-ss://YWVzLTI1Ni1jZmI6R2VyZWdldFI4Y3ZRSHpZcg==@185.135.86.173:9030#%F0%9F%87%B1%F0%9F%87%BBLV-185.135.86.173-9309
-ss://YWVzLTI1Ni1jZmI6ZFUzRFNOUzh3WVBYekVLdw==@185.135.86.173:9029#%F0%9F%87%B1%F0%9F%87%BBLV-185.135.86.173-9310
-ss://YWVzLTI1Ni1jZmI6RVhOM1MzZVFwakU3RUp1OA==@185.135.86.173:9027#%F0%9F%87%B1%F0%9F%87%BBLV-185.135.86.173-9311
-ss://YWVzLTI1Ni1jZmI6WFB0ekE5c0N1ZzNTUFI0Yw==@185.135.86.173:9025#%F0%9F%87%B1%F0%9F%87%BBLV-185.135.86.173-9312
-ss://YWVzLTI1Ni1jZmI6Qk5tQVhYeEFIWXBUUmR6dQ==@185.135.86.173:9020#%F0%9F%87%B1%F0%9F%87%BBLV-185.135.86.173-9313
-ss://YWVzLTI1Ni1jZmI6R0E5S3plRWd2ZnhOcmdtTQ==@185.135.86.173:9019#%F0%9F%87%B1%F0%9F%87%BBLV-185.135.86.173-9314
-ss://YWVzLTI1Ni1jZmI6YTNHRll0MzZTbTgyVnlzOQ==@185.135.86.173:9000#%F0%9F%87%B1%F0%9F%87%BBLV-185.135.86.173-9315
-ss://YWVzLTI1Ni1jZmI6SFNadXlKUWNXZThkeE5kRg==@185.135.86.173:9043#%F0%9F%87%B1%F0%9F%87%BBLV-185.135.86.173-9316
-ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ==@185.135.86.173:9042#%F0%9F%87%B1%F0%9F%87%BBLV-185.135.86.173-9317
-ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg==@185.135.86.173:9041#%F0%9F%87%B1%F0%9F%87%BBLV-185.135.86.173-9318
-ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg==@185.135.86.173:9040#%F0%9F%87%B1%F0%9F%87%BBLV-185.135.86.173-9319
-ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ==@185.135.86.173:9037#%F0%9F%87%B1%F0%9F%87%BBLV-185.135.86.173-9320
-ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg==@185.135.86.173:9031#%F0%9F%87%B1%F0%9F%87%BBLV-185.135.86.173-9321
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQaGlsRWhnS0pRNTQwTU5LN21Ob2lt@185.135.86.86:51348#%F0%9F%87%B1%F0%9F%87%BBLV-185.135.86.86-9227
+ss://YWVzLTI1Ni1jZmI6R2VyZWdldFI4Y3ZRSHpZcg==@185.135.86.173:9030#%F0%9F%87%B1%F0%9F%87%BBLV-185.135.86.173-9228
+ss://YWVzLTI1Ni1jZmI6ZFUzRFNOUzh3WVBYekVLdw==@185.135.86.173:9029#%F0%9F%87%B1%F0%9F%87%BBLV-185.135.86.173-9229
+ss://YWVzLTI1Ni1jZmI6RVhOM1MzZVFwakU3RUp1OA==@185.135.86.173:9027#%F0%9F%87%B1%F0%9F%87%BBLV-185.135.86.173-9230
+ss://YWVzLTI1Ni1jZmI6WFB0ekE5c0N1ZzNTUFI0Yw==@185.135.86.173:9025#%F0%9F%87%B1%F0%9F%87%BBLV-185.135.86.173-9231
+ss://YWVzLTI1Ni1jZmI6Qk5tQVhYeEFIWXBUUmR6dQ==@185.135.86.173:9020#%F0%9F%87%B1%F0%9F%87%BBLV-185.135.86.173-9232
+ss://YWVzLTI1Ni1jZmI6R0E5S3plRWd2ZnhOcmdtTQ==@185.135.86.173:9019#%F0%9F%87%B1%F0%9F%87%BBLV-185.135.86.173-9233
+ss://YWVzLTI1Ni1jZmI6YTNHRll0MzZTbTgyVnlzOQ==@185.135.86.173:9000#%F0%9F%87%B1%F0%9F%87%BBLV-185.135.86.173-9234
+ss://YWVzLTI1Ni1jZmI6SFNadXlKUWNXZThkeE5kRg==@185.135.86.173:9043#%F0%9F%87%B1%F0%9F%87%BBLV-185.135.86.173-9235
+ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ==@185.135.86.173:9042#%F0%9F%87%B1%F0%9F%87%BBLV-185.135.86.173-9236
+ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg==@185.135.86.173:9041#%F0%9F%87%B1%F0%9F%87%BBLV-185.135.86.173-9237
+ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg==@185.135.86.173:9040#%F0%9F%87%B1%F0%9F%87%BBLV-185.135.86.173-9238
+ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ==@185.135.86.173:9037#%F0%9F%87%B1%F0%9F%87%BBLV-185.135.86.173-9239
+ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg==@185.135.86.173:9031#%F0%9F%87%B1%F0%9F%87%BBLV-185.135.86.173-9240
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?encryption=none&type=tcp#%F0%9F%87%B1%F0%9F%87%BB_LV_%E6%8B%89%E8%84%B1%E7%BB%B4%E4%BA%9A-%3E%F0%9F%87%AB%F0%9F%87%AE_FI_%E8%8A%AC%E5%85%B0
 vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#Latvia%20Sia%20Veesp
 ss://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#Latvia%20Sia%20Veesp
@@ -67,7 +67,6 @@ vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.57.93.62:8882?security=none&encr
 vless://ee443a49-47a0-445c-8e2a-c7efbc74f483@46.8.236.129:26140?security=reality&encryption=none&pbk=cEKeWhExRbsgjk8qAd0KvDNnWRK4Sm9NYHH62sdVUH0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=fa893256a458b8a0#LV_2186_@Surfboardv2ray
 vless://eeb6c1bf-5fb4-49b1-bf74-049eb9b06300@31.57.29.46:8443?&type=ws&headerType=none&path=/chunkycorp#LV_2532_@Surfboardv2ray
 vless://eeb6c1bf-5fb4-49b1-bf74-049eb9b06300@31.57.29.46:8443?type=ws&headerType=none&path=/chunkycorp#LV_2533_@Surfboardv2ray
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?encryption=none&type=tcp#configfa%20%20VL-TCP-N/A%20%20LV%20595ms
 trojan://df8ebf95-bd60-4f7e-a505-fe8db5ba3342@youtube.bai-piao-wang-zhe.567568.ml:12337?allowInsecure=1&sni=youtube.bai-piao-wang-zhe.567568.ml#%5BLV2%C2%B7%E5%8E%9F%E7%94%9F%5D+%E7%BE%8E%E5%9B%BD145+%7C+%E4%B8%AD%E8%BD%AC+3
 trojan://AglrNchEnS@youtube.bai-piao-wang-zhe.567568.ml:19568?allowInsecure=1&sni=youtube.bai-piao-wang-zhe.567568.ml#%5BLV2%C2%B7%E5%8E%9F%E7%94%9F%5D+%E7%BE%8E%E5%9B%BD145+%7C+%E4%B8%AD%E8%BD%AC+4
 trojan://df8ebf95-bd60-4f7e-a505-fe8db5ba3342@bai-piao-wang-zhe.us.567568.ml:12337?allowInsecure=1&sni=bai-piao-wang-zhe.us.567568.ml#%5BLV2%C2%B7%E5%8E%9F%E7%94%9F%5D+%E7%BE%8E%E5%9B%BD145+%7C+%E4%B8%AD%E8%BD%AC+5
@@ -78,7 +77,7 @@ vless://7e5964d036b843ff885b86c4d3bfd466@85.159.228.250:25703?security=none&type
 vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@193.28.186.215:443?security=reality&type=raw&packetEncoding=xudp&sni=www.wikihow.com&fp=chrome&flow=xtls-rprx-vision&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&encryption=none#%F0%9F%87%B1%F0%9F%87%BBLV_3%7C2.1MB%2Fs%7CM002-260618%2001
 vless://15e0833c-08ad-47f3-bf80-60c2a47a6774@veesp-fj-vpn-2.concept7.ru:443?security=reality&type=tcp&packetEncoding=xudp&sni=deepl.com&fp=chrome&flow=xtls-rprx-vision&sid=e29c9c180c62&pbk=KEZ93Y9VgoirI18wIpcfS3z8I9GiaiFe-GKqGdEPMmg&encryption=none#%F0%9F%87%B1%F0%9F%87%BBLV_4%7C1.9MB%2Fs%7CB007-260618%2001
 vless://eeb6c1bf-5fb4-49b1-bf74-049eb9b06300@31.57.29.46:8443?&type=ws&headerType=none&path=%2Fchunkycorp#[openproxylist.com] vless-LV
-vless://7e5e2a1d-6234-4ad0-ab9a-4d918368cbd8@90.156.255.166:36100?&packet-encoding=xudp&type=tcp&headerType=none&path=%2F#[openproxylist.com] vless-LV
+vless://7e5e2a1d-6234-4ad0-ab9a-4d918368cbd8@90.156.255.166:36100?security=none&encryption=none&headerType=none&type=tcp#[openproxylist.com] vless-LV
 vless://0115163b-9d69-4748-8b3e-f0abfe991075@217.198.190.20:55992?security=none&encryption=none&headerType=none&type=tcp#//Latvia/Riga
 vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HpvCfh7cg6Zi/5qC55bu3MDF8TFYxfFg1IiwgImFkZCI6ICJiZ3BhcjEuYW1hem9uLWF6dXJlLmNvbSIsICJwb3J0IjogNDQzLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogInRscyIsICJpZCI6ICI5NTcyZTNiYi03ZTY1LTQxNTYtODY3NS01OTY1ZTcxN2M4MzIiLCAic25pIjogImRhdGEuYW1hem9uLWF6dXJlLmNvbSIsICJob3N0IjogImJncGFyMS5hbWF6b24tYXp1cmUuY29tIiwgInBhdGgiOiAiL2ZpbGVzdHJlYW1pbmdzZXJ2aWNlL2ZpbGVzLzIwZjgxM2UyLTAzNmEtNDJhOC05MmUyLWEzYTU1YTBiMjM5YiJ9
 vmess://eyJwcyI6ICJcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgtXHU3ZjhlXHU1NmZkLWx2MS5zaGFyZWNlbnRyZXByby5vcmciLCAidHlwZSI6ICJub25lIiwgImFkZCI6ICJsdjEuc2hhcmVjZW50cmVwcm8ub3JnIiwgIm5ldCI6ICJ3cyIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICIyZTQ5Njc1OC05NTBlLTQ1NDktODg0Mi1kNWVlYzk4ZDlmZGUiLCAiYWlkIjogIjQiLCAic2N5IjogImF1dG8iLCAidGxzIjogInRydWUiLCAid3MtcGF0aCI6ICIvc2hpcmtlciJ9
@@ -145,8 +144,8 @@ vmess://eyJwcyI6ICJcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgtXHU3ZjhlXHU1NmZkLWx2MS5zaGFy
 vmess://eyJwcyI6ICJcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgtXHU3ZjhlXHU1NmZkLWx2Mi5zaGFyZWNlbnRyZXByby5vcmciLCAiYWRkIjogImx2Mi5zaGFyZWNlbnRyZXByby5vcmciLCAicG9ydCI6ICI0NDMiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjgyM2MzMWRhLTcwMWYtNDgzZC1iMzZlLTg5NmU1Y2YwOTg3YSIsICJhaWQiOiAiMCIsICJzY3kiOiAibm9uZSIsICJuZXQiOiAid3MiLCAic2tpcC1jZXJ0LXZlcmlmeSI6ICJ0cnVlIiwgIndzLXBhdGgiOiAiL3NoaXJrZXIiLCAidGxzIjogImZhbHNlIn0=
 vmess://eyJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJwcyI6ICJcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgtXHU3ZjhlXHU1NmZkLWx2MS5zaGFyZWNlbnRyZXByby5vcmciLCAibmV0IjogIndzIiwgInBvcnQiOiAiNDQzIiwgImFkZCI6ICJsdjEuc2hhcmVjZW50cmVwcm8ub3JnIiwgInNraXAtY2VydC12ZXJpZnkiOiAidHJ1ZSIsICJ0bHMiOiAidHJ1ZSIsICJ0eXBlIjogIm5vbmUiLCAidWRwIjogInRydWUiLCAiaWQiOiAiODIzYzMxZGEtNzAxZi00ODNkLWIzNmUtODk2ZTVjZjA5ODdhIiwgIndzLW9wdHMiOiAiIiwgImhlYWRlcnMiOiAiIiwgImhvc3QiOiAibHYxLnNoYXJlY2VudHJlcHJvLm9yZyIsICJwYXRoIjogIi9zaGlya2VyIn0=
 vmess://eyJwcyI6ICJcdWQ4M2NcdWRkZTZcdWQ4M2NcdWRkZjYtXHU2ZTU2XHU1MzU3XHU3NzAxLWx2M29pd2RheHNhb3doZG5qa3p4dy5oanNweXRvLmNuIiwgIlx1NTE0ZFx1OGQzOVx1OGJhMlx1OTYwNVx1NWMzZFx1NTcyOGh0dHBzIjogIiIsICJhZGQiOiAibHYzb2l3ZGF4c2Fvd2hkbmprenh3Lmhqc3B5dG8uY24iLCAicG9ydCI6ICIzMzMzNiIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiNzYxNDljYzEtNmVjMy0zNjEwLWFkNDQtYmNhMTI2ZmJkYmE0IiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgInRscyI6ICJ0cnVlIiwgInNraXAtY2VydC12ZXJpZnkiOiAidHJ1ZSIsICJuZXQiOiAid3MiLCAid3Mtb3B0cyI6ICIiLCAicGF0aCI6ICIvdG50LWF3c3hqcDMiLCAiaGVhZGVycyI6ICIiLCAiaG9zdCI6ICJzZ2tob3dheGF3ZHgudnp3emFzYy5jbiIsICJ1ZHAiOiAidHJ1ZSJ9
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp# LV | 31.57.106.241
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp# LV | 31.56.113.169
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?security=none&encryption=none&headerType=http&type=tcp# LV | 188.215.31.69
 vless://b7725d23-840a-4f8e-993c-69b40424cfc0@91.218.143.194:43798?security=reality&encryption=none&pbk=W3aiFnhZRvZuZP0Zyfy7888t-NbHc0RmMEyFa7fYShU&headerType=none&fp=chrome&spx=/&type=tcp&sni=yahoo.com&sid=f71c22# LV | 91.218.143.194
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?security=none&encryption=none&headerType=http&type=tcp# LV | 213.232.204.128
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp# LV | 31.56.113.242
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?security=none&encryption=none&headerType=http&type=tcp# LV | 46.8.64.27
 vless://1357bb15-4189-d654-d849-969db9e93a4e@95.182.90.187:38389?security=reality&type=tcp&headerType=none&encryption=none&path=&sni=www.speedtest.net&fp=chrome&pbk=6QuxfOrVDGXfdKyAo6Il9d_lHDsQsNeOQ4OAPqFMQXM&sid=763b490397d066f7&spx=/# LV | 95.182.90.187
