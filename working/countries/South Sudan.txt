@@ -5484,7 +5484,6 @@ ss://40beaeee-b92f-41f3-a3e9-552081a9c543@185.229.9.31:49010?mode=gun&security=r
 ss://Telegram-%40Cooonfig-%40Cooonfig@91.107.162.198:12218?encryption=none&type=tcp&headerType=http&path=%2F&host=play.google.com#[5958][UnResolvedDomains][0][SS][None][proxy_kafee][2026-07-20][2026-07-21 02:07]
 ss://eyJhZGQiOiIyMDUuMjM0LjIzMS4zNSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1MGU4MjU4MS1iZDE0LTQ1MjctZjdkNi1lNzgyNGNkMjZmNTciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjMxNDMzIiwicHMiOiJAZGFyZWRldmlsbF80MDQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9<br/><br/>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZmJlYjY2OGY0ODQxNGY2@45.139.24.63:57456#[11361][UnResolvedDomains][0][SS][None][daredevill_404][2024-05-10][2026-07-21 02:07]
 ss://85399fea-2ee3-51b5-ad4e-d8b78a2cf1d9@speedtest.wlftest.xyz:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.speedtest.net&fp=ios&pbk=NT3ozRtEyDjNV_2rUXFAf65Uf52OfdKANpePb3eZQAA&sid=ce&spx=%2F&type=tcp&headerType=none#[4365][UnResolvedDomains][0][SS][None][WomanLifeFreedomVPN][2023-06-23][2026-07-21 02:07]
-vless://612d16de-aebd-4738-829e-533dbfa9e936@new.akinamo.willbe.sinitk.outforyou.ir:20580?sni=play.google.com&encryption=none&sid=d5c1b9&fp=chrome&type=tcp&headerType=none&security=reality&pbk=gqjS9wwxycF16Qf02GDt1UrvdrF_neQgj1Crduo_xB0#@VEGAAS_VPN ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#EPODONIOS
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WVZTWDluTDFYTlpVb0lYTDhQUGthWWlWN3NSWGlLS2l5MkV3YlJvQ1VvQT06THVuRmZqaklSMmdGOGFYSUROZFdzMldRYmcxcmQ2ZXVPSjRhL2pNRTA1ST0=@134.209.177.114:22277?security=none&type=tcp#ss-63na2ll5a
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WVZTWDluTDFYTlpVb0lYTDhQUGthWWlWN3NSWGlLS2l5MkV3YlJvQ1VvQT06THVuRmZqaklSMmdGOGFYSUROZFdzMldRYmcxcmQ2ZXVPSjRhL2pNRTA1ST0=@134.209.177.114:22277?security=none&type=tcp#ss-63na2ll5a  England
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJpcCB2NiDwn4ep8J+HqiA0LXVoZmxlbjAzIiwKICAiYWRkIjogIm1vcGwudjJ0cnkuc2JzIiwKICAicG9ydCI6IDQxMzU4LAogICJpZCI6ICIzOGNiM2JkNS1kNDExLTQ5NTgtOThkYy02YTA5NGY1MjI3MDAiLAogICJzY3kiOiAiYXV0byIsCiAgIm5ldCI6ICJrY3AiLAogICJ0eXBlIjogIm5vbmUiLAogICJ0bHMiOiAibm9uZSIsCiAgInBhdGgiOiAiSEpIanlGRjM0WSIKfQ==ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Z2RDZzlGQWZXSmt1L2dndHJ6NGFwZUtPMGV2ZHVOcHVvMi83TUw2NFpZaz06YzZJYkoxRmpCUWM4RFROa1hyclQrWnVYNElVSHJGVjNpUzUrSVg1bVN6WT0@mopl.v2try.sbs:32062?type=tcp#ip%20v6%20%F0%9F%87%A9%F0%9F%87%AA%205-3axiual4ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206amc1TkpUWloxTW9FajVpS3FtNUtlMDJBTVRFdDlqZXk0V2N1REpST1dCWT06ODJUTzlvTkx3TTQyMUtBeDE3a3Flamd1anJ3RWp2dzhhbHRMUmdGcG16OD0@mhgi.v2try.sbs:10351?type=tcp#ip%20v6%20%F0%9F%87%A9%F0%9F%87%AA%206-2we4v5ct
@@ -6262,27 +6261,17 @@ ss://Y2hhY2hhMjAtcG9seTEzMDU6dWc0RnU3OVNFUkVkRkdsdDJzVXlUNA==@95.164.9.144:2927#
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@15.204.87.225:5003#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%BA%F0%9F%87%B8%20US-15.204.87.225%3A5003
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.75.136.108:9101#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%BA%F0%9F%87%B8%20US-38.75.136.108%3A9101
 ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@2.58.87.221:16899#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%BA%F0%9F%87%B8%20US-2.58.87.221%3A16899
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.174:8080#[openproxylist.com] ss-NL
+vless://612d16de-aebd-4738-829e-533dbfa9e936@new.akinamo.willbe.sinitk.outforyou.ir:20580?sni=play.google.com&encryption=none&sid=d5c1b9&fp=chrome&type=tcp&headerType=none&security=reality&pbk=gqjS9wwxycF16Qf02GDt1UrvdrF_neQgj1Crduo_xB0#@VEGAAS_VPN ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#EPODONIOS
+ss://YWVzLTI1Ni1nY206RU1JcnVGbDZuTjM3TERReENJd3N0RzA5aGFDQmt5anZaVmpXSU1PUTBKaz0@94.183.124.95:82#[openproxylist.com] ss-BG
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg001287h3p.cybervena.com:50099#[openproxylist.com] ss-TW
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg001286ek2.cybervena.com:50099#[openproxylist.com] ss-TW
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.46:8080#[openproxylist.com] ss-NL
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6ejBkSGpEZm9hU2FadVJGTEdILWhOZkJBTFNFSlVZRA==@194.164.92.198:1234#[openproxylist.com] ss-GB
 ss://YWVzLTI1Ni1nY206NjUxMjAzMDk2MTQ3M2YyMQ==@185.198.235.208:20129#[openproxylist.com] ss-IT
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXUjVIbzh2VnFuRGFINDlXTGg5OE5j@130.49.189.158:10792#[openproxylist.com] ss-AL
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6ejBkSGpEZm9hU2FadVJGTEdILWhOZkJBTFNFSlVZRA@68.168.222.210:1234#[openproxylist.com] ss-US
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.48:8080#[openproxylist.com] ss-NL
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@185.226.172.8:8008#[openproxylist.com] ss-DE
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@172.245.235.84:2375#[openproxylist.com] ss-US
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@92.118.205.211:5600#[openproxylist.com] ss-PL
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@172.105.39.124:7002#[openproxylist.com] ss-IN
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@103.106.229.69:9090#[openproxylist.com] ss-SG
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.80:28061#[openproxylist.com] ss-IN
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.181:8080#[openproxylist.com] ss-NL
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080#[openproxylist.com] ss-NL
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.206:8080#[openproxylist.com] ss-NL
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.203:8080#[openproxylist.com] ss-NL
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.193:8080#[openproxylist.com] ss-NL
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.212:8080#[openproxylist.com] ss-NL
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.190:8080#[openproxylist.com] ss-NL
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.49:8080#[openproxylist.com] ss-NL
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@92.118.205.211:5600#[openproxylist.com] ss-PL
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@38.244.132.14:5499#[openproxylist.com] ss-BG
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUV0c3SjFLUjVLc1BhVjVxWkkrcmlldWVLeHhhZlpTcENI@45.77.232.213:15675#[openproxylist.com] ss-AU
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.71:28061#[openproxylist.com] ss-IN
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.68.134.191:443#%3a%e7%be%8e%e5%9b%bd-ss-38.68.134.191%3a443-%e5%8f%af%e7%94%a8-%e7%9b%b4%e8%bf%9e-%e4%b8%8d%e6%94%af%e6%8c%81Netflix
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@167.88.63.79:443#%3a%e7%be%8e%e5%9b%bd-ss-167.88.63.79%3a443-%e5%8f%af%e7%94%a8-%e7%9b%b4%e8%bf%9e-%e4%b8%8d%e6%94%af%e6%8c%81Netflix
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@167.88.62.68:443#%3a%e7%be%8e%e5%9b%bd-ss-167.88.62.68%3a443-%e5%8f%af%e7%94%a8-%e7%9b%b4%e8%bf%9e-%e4%b8%8d%e6%94%af%e6%8c%81Netflix

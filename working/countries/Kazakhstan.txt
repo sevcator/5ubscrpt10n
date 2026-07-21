@@ -53,3 +53,4 @@ trojan://vpn@45.82.14.144:2025?security=none&encryption=none&type=ws&host=wrmelm
 trojan://vpn@45.82.14.144:2025?security=none&fp=chrome&type=ws&host=dns.google.com&path=%2f#%f0%9f%87%b0%f0%9f%87%bf%20KZ%202
 trojan://vpn@45.82.14.144:2025?type=ws&host=dns.google.com&path=%2f#%f0%9f%87%b0%f0%9f%87%bf%20KZ%203
 vless://5ed7b151-b781-4dba-800d-e3f824f1416f@193.124.204.145:49853?security=none&encryption=none&headerType=none&type=tcp#[openproxylist.com] vless-KZ
+vless://2a9ed01e-5455-44b4-a66a-76ee8165f0ac@77.73.232.61:19747?security=reality&%3Bencryption=none&%3Bpbk=ZO9dTeg1slvTXgVsBsaJ1BDvz_YUImTLJjbHs-GdVyM&%3Bfp=chrome&%3Btype=tcp&%3Bsni=yahoo.com&%3Bsid=2001#[openproxylist.com] vless-KZ
