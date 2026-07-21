@@ -1,3 +1,4 @@
 ss://7b175aaa-550a-4048-9437-c59919643cbf@31.22.116.216:2083?security=tls&encryption=none&headerType=none&type=tcp&sni=iylgylvgnvcmhfhmv.mic-mokhaderat-shatel-irancel-digikala.shop#[4009][GR][0][SS][None][v2ray_outlineir][2023-11-30][2026-07-21 02:07]
 vless://7b175aaa-550a-4048-9437-c59919643cbf@31.22.116.216:2083?security=tls&encryption=none&headerType=none&type=tcp&sni=iylgylvgnvcmhfhmv.mic-mokhaderat-shatel-irancel-digikala.shop#[4015][GR][0][VLESS][None][v2ray_outlineir][2023-11-30][2026-07-21 02:07]
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.166.102:989#%F0%9F%87%AC%F0%9F%87%B7GR-192.71.166.102-4818
+vless://0c8a9f50-51b3-43b5-b1fb-09fc3131a800@gwapp-ru01.freenets.store:443?sni=gwapp-ru01.freenets.store&alpn=h2%2Chttp/1.1&flow=xtls-rprx-vision-udp443&security=tls#A%20-%20%F0%9F%87%AC%F0%9F%87%B7%20GR%2001%20TG%3A%20%40nodpai
