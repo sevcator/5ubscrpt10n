@@ -13,7 +13,7 @@ vless://210bf2be-9880-48f5-b8ec-0be15c31b5ba@190.93.246.241:443/?type=grpc&encry
 vless://b31d462b-069c-497f-97d9-b6903e4f7a27@190.93.246.241:2087?security=tls&encryption=none&headerType=none&type=tcp&sni=udp.HiV2ray.cfd#[5347][CR][0][VLESS][None][v2ray_outlineir][2023-12-04][2026-07-22 02:05]
 vless://485c1f72-90bd-4eb1-a692-c3d5eeccec12@190.93.246.241:2096/?type=grpc&encryption=none&flow=&serviceName=%40VPNCUSTOMIZE&security=tls&sni=QvssvpfpV2ray-Soyosha-IranCCrl-mcisk-mtn-mciaoaovpn.SNAPP.monster&alpn=h2#[1826][CR][0][VLESS][None][freeconfigv2][2023-09-28][2026-07-22 02:05]
 vless://4568d3b9-b921-464f-f622-72cc2c8f6754@190.93.246.241:2083/?type=grpc&encryption=none&flow=&serviceName=%40LIGHTNING6&security=tls&sni=lightning6.LiV2ray.top#[1755][CR][0][VLESS][None][freeconfigv2][2023-09-28][2026-07-22 02:05]
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@138.59.16.146:989#%F0%9F%87%A8%F0%9F%87%B7CR-138.59.16.146-9544
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@138.59.16.146:989#%F0%9F%87%A8%F0%9F%87%B7CR-138.59.16.146-8713
 vless://dd6af632-e4bb-400a-922f-43f75ec89d64@190.93.245.94:443?mode=auto&path=/v1/api/sync/f47ac10b58cc4372a5670e02b2c3d479&security=tls&alpn=h2&encryption=none&insecure=0&host=api-ws-de.nxping.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=api-ws-de.nxping.ir#CR_1895_@Surfboardv2ray
 vless://f274050e-885f-4ae2-c703-34fb00000001@190.93.246.37:443?encryption=none&fp=chrome&host=greenhood.greennsda12fseke122fas23131334.workers.dev&path=/sync&security=tls&sni=greenhood.greennsda12fseke122fas23131334.workers.dev&type=ws#CR_2574_@Surfboardv2ray
 vless://fb978279-0a28-4045-8258-e9ab97deaf2b@190.93.244.78:443/?type=ws&encryption=none&flow=&host=ourfast.ccwu.cc&path=/&security=tls&sni=ourfast.ccwu.cc#CR_2679_@Surfboardv2ray
