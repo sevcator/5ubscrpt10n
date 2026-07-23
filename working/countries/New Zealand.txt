@@ -1,3 +1,4 @@
+trojan://humanity@202.37.33.80:443?security=tls&type=ws&sni=www.creationlong.org&path=/assignment&host=www.creationlong.org#%F0%9F%87%B3%F0%9F%87%BFNZ%E6%96%B0%E8%A5%BF%E5%85%B0
 ss://cc752a3e-1537-4e86-bb50-1b897bf7b33c@202.37.33.80:443?encryption=none&type=ws&host=cyylr.eu.cc&path=/sg-melbi&security=tls&fp=chrome&sni=cyylr.eu.cc&alpn=http/1.1#[10372][NZ][0][SS][None][VmessProtocol][2026-05-31][2026-07-23 02:12]
 ss://cc752a3e-1537-4e86-bb50-1b897bf7b33c@202.37.33.80:443?path=%2Fsg-melbi&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=cyylr.eu.cc#[10373][NZ][0][SS][None][Outline_Vpn][2026-05-31][2026-07-23 02:11]
 ss://cc752a3e-1537-4e86-bb50-1b897bf7b33c@202.37.33.80:443?encryption=none&type=ws&host=cyylr.eu.cc&path=/sg-melbi&security=tls&fp=chrome&sni=cyylr.eu.cc&alpn=http/1.1#[10371][NZ][0][SS][None][VmessProtocol][2026-05-31][2026-07-23 02:11]

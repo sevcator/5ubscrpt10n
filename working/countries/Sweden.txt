@@ -518,6 +518,7 @@ vless://2c326e00-d936-42e1-b463-5022c90d4597@se.sv.temas-bor.ir:22024?security=r
 vless://b05346a9-4d13-41a4-8d2a-6b7b64e73ffc@sw01.auragg.org:443?security=reality&type=grpc&mode=gun&serviceName=auragrpc&packetEncoding=xudp&sni=cloudflare.com&fp=chrome&sid=a3d8f1e9b2c7d4e6&pbk=TGJxKbPG8ds2NwK6uhgQURUfVJ01BcRh3Eaoy3dtdGA&encryption=none#%F0%9F%87%B8%F0%9F%87%AASE_8%7C2.6MB%2Fs%7CR002-260618%2001
 vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.221:8443?fp=chrome&security=tls&sni=ams1.fromblancwithlove.com#%F0%9F%87%B8%F0%9F%87%AA_SE_%E7%91%9E%E5%85%B8
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.178.109.158:443?host=sni.111000.dns.army&path=%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&security=tls&sni=sni.111000.dns.army&type=ws#%F0%9F%87%B8%F0%9F%87%AA_SE_%E7%91%9E%E5%85%B8
+vless://b05346a9-4d13-41a4-8d2a-6b7b64e73ffc@sw01.auragg.org:443?security=reality&encryption=none&pbk=TGJxKbPG8ds2NwK6uhgQURUfVJ01BcRh3Eaoy3dtdGA&fp=chrome&type=grpc&serviceName=auragrpc&sni=cloudflare.com&sid=a3d8f1e9b2c7d4e6#[openproxylist.com] vless-SE
 vless://8c8d8180-a2c5-4478-a86e-4117f841e88e@31.192.244.42:12683?security=&allowInsecure=1&type=tcp&encryption=none#[openproxylist.com] vless-SE
 vless://Parsashonam-49@185.146.173.39:8880?encryption=none&host=Search.DigiKala.CYoU.&path=%2F&security=none&type=httpupgrade# | VLESS | @Parsashonam | SE | 01
 vless://Parsashonam-48@185.146.173.39:8880?encryption=none&host=Search.DigiKala.CYoU.&path=%2F&security=none&type=httpupgrade# | VLESS | @Parsashonam | SE | 02
