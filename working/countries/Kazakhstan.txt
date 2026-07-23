@@ -48,16 +48,13 @@ vless://6fdfdb73-51b0-4a14-89a5-c9355a0e0397@178.236.17.86:443?security=reality&
 ss://6fdfdb73-51b0-4a14-89a5-c9355a0e0397@178.236.17.86:443?security=reality&encryption=none&pbk=vCxfuNNmogA1DlPkjvmKb7_hSgXqe4MboPfi2s1JZG0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=b318242471ba4f5b#Kazakhstan_%F0%9F%87%B0%F0%9F%87%BF_%40ConfigV2RayNG_KZ_111
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzOExiSkNnVWlHWGVDS1ZjNjN0SEpQ@94.198.220.183:64674#KZ  ROSE130
 vmess://eyJhZGQiOiI4OS4yMTguMTUuMTAwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImI2NDRjMzljLTk1OWItMTFlZi05NjM2LTM3MDQyMzM2ZDI1OSIsIm5ldCI6IndzIiwicGF0aCI6Ii92cG5qYW50aXQiLCJwb3J0IjoiMTAwMDAiLCJwcyI6IkthemFraHN0YW7wn4ew8J+Hv0B6YWJ1emFfc2hvcCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-vless://5ed7b151-b781-4dba-800d-e3f824f1416f@193.124.204.145:49853?security=none&encryption=none&headerType=none&type=tcp#KZ_781_@Surfboardv2ray
-vless://5ed7b151-b781-4dba-800d-e3f824f1416f@193.124.204.145:49853?security=none&encryption=none&headerType=none&type=tcp#KZ_782_@Surfboardv2ray
-vless://5ed7b151-b781-4dba-800d-e3f824f1416f@193.124.204.145:49853?security=none&encryption=none&headerType=none&type=tcp#KZ_783_@Surfboardv2ray
-vless://5ed7b151-b781-4dba-800d-e3f824f1416f@193.124.204.145:49853?security=none&encryption=none&headerType=none&type=tcp#KZ_784_@Surfboardv2ray
-vless://5ed7b151-b781-4dba-800d-e3f824f1416f@193.124.204.145:49853?security=none&encryption=none&headerType=none&type=tcp#KZ_785_@Surfboardv2ray
-vless://6fdfdb73-51b0-4a14-89a5-c9355a0e0397@178.236.17.86:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=chrome&pbk=vCxfuNNmogA1DlPkjvmKb7_hSgXqe4MboPfi2s1JZG0&sid=b318242471ba4f5b&type=tcp&headerType=none#KZ_862_@Surfboardv2ray
-vless://6fdfdb73-51b0-4a14-89a5-c9355a0e0397@178.236.17.86:443?encryption=none&type=tcp&security=reality&headerType=none&sni=google.com&fp=chrome&insecure=1&allowInsecure=1&pbk=vCxfuNNmogA1DlPkjvmKb7_hSgXqe4MboPfi2s1JZG0&sid=b318242471ba4f5b&flow=xtls-rprx-vision#KZ_863_@Surfboardv2ray
-vless://6fdfdb73-51b0-4a14-89a5-c9355a0e0397@178.236.17.86:443?security=reality&encryption=none&pbk=vCxfuNNmogA1DlPkjvmKb7_hSgXqe4MboPfi2s1JZG0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=b318242471ba4f5b#KZ_864_@Surfboardv2ray
-vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@93.183.87.159:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.engage.edgedoor.ink&fp=chrome&pbk=lFVBai-H5JaIoD75hdP5qETYo7a49yxPiJ06Vi6WyV4&spx=/#KZ_1572_@Surfboardv2ray
-vless://probabblynot-ch@194.76.18.126:2087?alpn=http/1.1&encryption=none&fp=chrome&host=probabblynot.fazelextremeisreal.com&path=/@probabblynot&security=tls&sni=probabblynot.fazelextremeisreal.com&type=ws#KZ_2703_@Surfboardv2ray
+vless://5ed7b151-b781-4dba-800d-e3f824f1416f@193.124.204.145:49853?security=none&encryption=none&headerType=none&type=tcp#KZ_776_@Surfboardv2ray
+vless://5ed7b151-b781-4dba-800d-e3f824f1416f@193.124.204.145:49853?security=none&encryption=none&headerType=none&type=tcp#KZ_777_@Surfboardv2ray
+vless://5ed7b151-b781-4dba-800d-e3f824f1416f@193.124.204.145:49853?security=none&encryption=none&headerType=none&type=tcp#KZ_778_@Surfboardv2ray
+vless://5ed7b151-b781-4dba-800d-e3f824f1416f@193.124.204.145:49853?security=none&encryption=none&headerType=none&type=tcp#KZ_779_@Surfboardv2ray
+vless://6fdfdb73-51b0-4a14-89a5-c9355a0e0397@178.236.17.86:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=chrome&pbk=vCxfuNNmogA1DlPkjvmKb7_hSgXqe4MboPfi2s1JZG0&sid=b318242471ba4f5b&type=tcp&headerType=none#KZ_863_@Surfboardv2ray
+vless://6fdfdb73-51b0-4a14-89a5-c9355a0e0397@178.236.17.86:443?encryption=none&type=tcp&security=reality&headerType=none&sni=google.com&fp=chrome&insecure=1&allowInsecure=1&pbk=vCxfuNNmogA1DlPkjvmKb7_hSgXqe4MboPfi2s1JZG0&sid=b318242471ba4f5b&flow=xtls-rprx-vision#KZ_864_@Surfboardv2ray
+vless://probabblynot-ch@194.76.18.126:2087?alpn=http/1.1&encryption=none&fp=chrome&host=probabblynot.fazelextremeisreal.com&path=/@probabblynot&security=tls&sni=probabblynot.fazelextremeisreal.com&type=ws#KZ_2623_@Surfboardv2ray
 vless://70ef0e6e-0492-4132-a226-1689aff3e3eb@194.76.18.46:8080?security=none&type=httpupgrade&host=mahil1.hal-ma.info&path=/?ed%3D2087# VL-HTTPUPGRADE-NONE  KZ-194.76.18.46:8080
 vless://d0f9437f-3c49-45c6-976b-ebea24158b39@194.76.18.46:2082?security=none&type=httpupgrade&host=finhztco.nipytee.info&path=%2F# VL-HTTPUPGRADE-NONE  KZ-194.76.18.46:2082
 vless://d0f9437f-3c49-45c6-976b-ebea24158b39@194.76.18.237:2082?security=none&type=httpupgrade&host=finhztco.nipytee.info&path=%2F# VL-HTTPUPGRADE-NONE  KZ-194.76.18.237:2082

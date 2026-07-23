@@ -141,10 +141,8 @@ vless://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?security=reali
 vless://511c1563-2cb6-4064-abc6-a59ee49818a8@45.89.105.74:40443?security=reality&encryption=none&pbk=cwmcqsfS7klQlkcoUNuATEk0NiPY-NnRb9z8rCJDQw0&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=88b6#Cyprus_%F0%9F%87%A8%F0%9F%87%BE_%40ConfigV2RayNG_CY_31
 ss://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?security=reality&encryption=none&pbk=TZO1nvxk-x90cL3v9ixowQNC56sQ8k76_KaGU6jczks&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=c2fa#Cyprus%20WorkTitans
 ss://511c1563-2cb6-4064-abc6-a59ee49818a8@45.89.105.74:40443?security=reality&encryption=none&pbk=cwmcqsfS7klQlkcoUNuATEk0NiPY-NnRb9z8rCJDQw0&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=88b6#Cyprus_%F0%9F%87%A8%F0%9F%87%BE_%40ConfigV2RayNG_CY_31
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.85.59.30:8880?encryption=none&host=vms.lifetime58.workers.dev&path=/&security=none&type=ws#CY_803_@Surfboardv2ray
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.85.59.30:8880?encryption=none&host=vms.lifetime58.workers.dev&path=/&security=none&type=ws#CY_804_@Surfboardv2ray
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.85.59.30:8880?encryption=none&host=vms.lifetime58.workers.dev&path=/&security=none&type=ws#CY_805_@Surfboardv2ray
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.85.59.30:8880?encryption=none&host=vms.lifetime58.workers.dev&path=/&security=none&type=ws#CY_806_@Surfboardv2ray
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.85.59.30:8880?encryption=none&host=vms.lifetime58.workers.dev&path=/&security=none&type=ws#CY_796_@Surfboardv2ray
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.85.59.30:8880?encryption=none&host=vms.lifetime58.workers.dev&path=/&security=none&type=ws#CY_797_@Surfboardv2ray
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@213.169.137.221:989#%F0%9F%87%A8%F0%9F%87%BECY-213.169.137.221-0756
 vless://511c1563-2cb6-4064-abc6-a59ee49818a8@45.89.105.74:40443?security=reality&type=tcp&packetEncoding=xudp&sni=deepl.com&fp=chrome&flow=xtls-rprx-vision&sid=88b6&pbk=cwmcqsfS7klQlkcoUNuATEk0NiPY-NnRb9z8rCJDQw0&encryption=none#%F0%9F%87%A8%F0%9F%87%BECY_1%7C995KB%2Fs%7CB007-260618%2001
 vless://c04bf2df-2b7f-44da-a893-3792d3910fd8@cur02.myxasecure.space:443?security=reality&type=raw&packetEncoding=xudp&sni=cur02.myxasecure.space&fp=qq&flow=xtls-rprx-vision&sid=d67ec5a8fc40ebea&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw#%F0%9F%87%A8%F0%9F%87%BECY_2%7C1.1MB%2Fs%7CV001-260618%2001
