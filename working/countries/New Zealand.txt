@@ -10,4 +10,3 @@ trojan://humanity@202.37.33.80:443?path=%2Fassignment&security=tls&insecure=0&ho
 trojan://humanity@202.37.33.80:443?type=ws&security=tls&path=%2Fassignment&host=www.creationlong.org&sni=www.creationlong.org&insecure=0&allowInsecure=0#[1518][NZ][0][TROJAN][None][V2rayCollector][2026-07-20][2026-07-23 02:11]
 trojan://humanity@202.37.33.80:443?security=tls&sni=www.creationlong.org&allowInsecure=1&type=ws&path=/assignment&host=www.creationlong.org#[1516][NZ][0][TROJAN][None][v2ray_vpn_ir][2026-07-19][2026-07-23 02:11]
 trojan://humanity@202.37.33.80:443?security=tls&sni=www.creationlong.org&allowInsecure=1&type=ws&path=/assignment&host=www.creationlong.org#[1517][NZ][0][TROJAN][None][v2ray_vpn_ir][2026-07-19][2026-07-23 02:12]
-trojan://humanity@202.37.33.80:443?security=tls&type=ws&sni=www.creationlong.org&path=/assignment&host=www.creationlong.org#%F0%9F%87%B3%F0%9F%87%BFNZ%E6%96%B0%E8%A5%BF%E5%85%B0
