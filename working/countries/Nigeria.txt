@@ -328,7 +328,7 @@ trojan://humanity@104.16.174.12:443?path=%2Fassignment&security=tls&insecure=0&h
 trojan://4aFbwy5BHa@151.101.34.144:443?mode=auto&path=%2Fdb&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&host=edgezvx.global.ssl.fastly.net&type=xhttp&allowInsecure=0&sni=global.fastly.com#[155][UnResolvedDomains][0][TROJAN][None][v2ray1_ng][2026-07-17][2026-07-23 02:11]
 trojan://-------BanV2ray------@179.237.75.89:36268?mode=gun&security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=firefox&spx=%2F&type=grpc&sni=chi.yahoo.com#[103][UnResolvedDomains][0][TROJAN][None][v2ray1_ng][2026-07-19][2026-07-23 02:11]
 trojan://humanity@104.16.174.12:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#[1180][UnResolvedDomains][0][TROJAN][None][v2ray1_ng][2026-07-18][2026-07-23 02:11]
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.255.123.90:989#%F0%9F%87%B3%F0%9F%87%ACNG-185.255.123.90-8385
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.255.123.90:989#%F0%9F%87%B3%F0%9F%87%ACNG-185.255.123.90-8392
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@8.35.211.241:443?path=%2Ffriend&security=tls&encryption=none&insecure=1&host=pagescm.freen11.cc.cd&fp=chrome&type=ws&allowInsecure=1&sni=pagescm.freen11.cc.cd#@v2ray_ng
 ss://ae0dd58e-e222-40bf-84ae-365a97532737@8.35.211.241:443?path=%2Ffriend&security=tls&encryption=none&insecure=1&host=pagescm.freen11.cc.cd&fp=chrome&type=ws&allowInsecure=1&sni=pagescm.freen11.cc.cd#@v2ray_ng
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkaFVmYzBub1NRRFRMT0FS@20.164.221.1:443#@v2ray_ng
