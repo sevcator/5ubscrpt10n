@@ -5,7 +5,6 @@ vmess://ewogICAgImFkZCI6ICJsbXMudWluLWFudGFzYXJpLmFjLmlkIiwKICAgICJhaWQiOiAwLAog
 trojan://idc117okt@103.176.78.153:443?security=tls#%F0%9F%87%AE%F0%9F%87%A9ID-103.176.78.153-5533
 trojan://274c1b23-2bfe-40ac-943c-ebc1aa044b22@41.216.177.41:443?security=tls#%F0%9F%87%AE%F0%9F%87%A9ID-41.216.177.41-5691
 trojan://idc117okt@103.226.139.201:443?security=tls#%F0%9F%87%AE%F0%9F%87%A9ID-103.226.139.201-7733
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@apibgp.ianai.it.com:34641?allowInsecure=1&sni=iosapps.itunes.apple.com&flow=xtls-rprx-vision-udp443&fp=ios&security=tls#%F0%9F%87%AE%F0%9F%87%A9ID_1%7C3.6MB/s
 vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.168:8443?allowInsecure=1&sni=storage.yandex.net&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#ID_speednode_0009
 vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.13:8443?allowInsecure=1&sni=storage.yandex.net&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#ID_speednode_0010
 vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.203:8443?allowInsecure=1&sni=storage.yandex.net&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#ID_speednode_0011
