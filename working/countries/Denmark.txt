@@ -3,6 +3,7 @@ vmess://ewogICAgImFkZCI6ICIxOTMuMjkuMTA3LjIzNyIsCiAgICAiYWlkIjogNjQsCiAgICAiaG9z
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.36.27.94:989#%F0%9F%87%A9%F0%9F%87%B0DK-192.36.27.94-5274
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.36.27.116:989#%F0%9F%87%A9%F0%9F%87%B0DK-192.36.27.116-8364
 vmess://eyJwcyI6ICJcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZjAgY29ubmVjdG9uLWRrMSIsICJhZGQiOiAiZGsxLmNvbm5lY3Rvbi5zdXJmIiwgInBvcnQiOiAiNDQzIiwgImlkIjogImE4MDhkZWZiLWE2MDAtNGFiYy1hNDg5LWYzZjUwMGMzYjkwMSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJkazEuY29ubmVjdG9uLnN1cmYiLCAic25pIjogImRrMS5jb25uZWN0b24uc3VyZiIsICJwYXRoIjogInZtZXNzIiwgInRscyI6ICJ0bHMiLCAiYWxwbiI6ICJoMixodHRwLzEuMSIsICJhbGxvd0luc2VjdXJlIjogZmFsc2UsICJ2MiI6ICIyIiwgInByb3RvY29sIjogInZtZXNzIn0=
+vless://2c326e00-d936-42e1-b463-5022c90d4597@dk.sv.temas-bor.ir:22007?security=reality&type=tcp&packetEncoding=xudp&sni=login.yahoo.com&fp=chrome&sid=c6e19c434dc87df7&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&encryption=none#%F0%9F%87%A9%F0%9F%87%B0DK_1%7C2.0MB%2Fs%7CB007-260618%2001
 trojan://IQ68037294@whole-perch.rooster465.autos:443?sni=whole-perch.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%a9%f0%9f%87%b0%20DK%201
 trojan://IQ68037294@robust-toucan.rooster465.autos:443?sni=robust-toucan.rooster465.autos&path=%2f#%f0%9f%87%a9%f0%9f%87%b0%20DK%202
 trojan://IQ68037294@main-dragon.rooster465.autos:443?sni=main-dragon.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%a9%f0%9f%87%b0%20DK%203

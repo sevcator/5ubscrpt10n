@@ -1,6 +1,3 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpobzQ1ME1KSEJWZmRnc2prcXcxMkhHYg==@193.0.61.96:51348#[4989][UA][0][SS][None][VPNGate_Config][2023-09-29][2026-07-22 02:05]
-ss://904704c1-b571-47e5-e57f-a3b97017f4b9@195.28.182.4:43407?encryption=none&security=none&type=tcp&headerType=http&host=telewebion.com#[4060][UA][0][SS][None][xrayproxy][2023-05-21][2026-07-22 02:05]
-vless://904704c1-b571-47e5-e57f-a3b97017f4b9@195.28.182.4:43407?encryption=none&security=none&type=tcp&headerType=http&host=telewebion.com#[4063][UA][0][VLESS][None][xrayproxy][2023-05-21][2026-07-22 02:05]
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@5.188.6.8:989#%F0%9F%87%BA%F0%9F%87%A6UA-5.188.6.8-8088
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzaHdvZ2hSaWE=@195.28.182.217:51348#%F0%9F%87%BA%F0%9F%87%A6UA-195.28.182.217-8352
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@5.188.6.8:989#%F0%9F%87%BA%F0%9F%87%A6UA-5.188.6.8-0740
