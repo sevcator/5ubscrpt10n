@@ -22,9 +22,8 @@ vless://210bf2be-9880-48f5-b8ec-0be15c31b5ba@190.93.246.241:443/?type=grpc&encry
 vless://3c671527-9db6-4552-91af-cb7b6d95a7e0@190.93.246.241:443/?type=grpc&encryption=none&flow=&serviceName=%40VPNCUSTOMIZE&security=tls&sni=configforV2rayng.vpncustomize.Website&alpn=h2&fp=chrome#[2354][CR][0][VLESS][None][freeconfigv2][2023-11-01][2026-07-23 02:11]
 vless://5f38ca6e-c26f-4efa-b52d-8cde2484a9b2@190.93.246.219:443?security=tls&encryption=none&headerType=none&type=tcp&sni=fn.AnV2ray.site#[3619][CR][0][VLESS][None][v2ray_outlineir][2023-11-29][2026-07-23 02:12]
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@138.59.16.146:989#%F0%9F%87%A8%F0%9F%87%B7CR-138.59.16.146-8713
-vless://dd6af632-e4bb-400a-922f-43f75ec89d64@190.93.245.94:443?mode=auto&path=/v1/api/sync/f47ac10b58cc4372a5670e02b2c3d479&security=tls&alpn=h2&encryption=none&insecure=0&host=api-ws-de.nxping.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=api-ws-de.nxping.ir#CR_1678_@Surfboardv2ray
-vless://fb978279-0a28-4045-8258-e9ab97deaf2b@190.93.244.78:443/?type=ws&encryption=none&flow=&host=ourfast.ccwu.cc&path=/&security=tls&sni=ourfast.ccwu.cc#CR_2506_@Surfboardv2ray
-vless://fb978279-0a28-4045-8258-e9ab97deaf2b@190.93.244.78:443?encryption=none&host=ourfast.ccwu.cc&path=/&security=tls&sni=ourfast.ccwu.cc&type=ws#CR_2507_@Surfboardv2ray
+vless://dd6af632-e4bb-400a-922f-43f75ec89d64@190.93.245.94:443?mode=auto&path=/v1/api/sync/f47ac10b58cc4372a5670e02b2c3d479&security=tls&alpn=h2&encryption=none&insecure=0&host=api-ws-de.nxping.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=api-ws-de.nxping.ir#CR_1749_@Surfboardv2ray
+vless://fb978279-0a28-4045-8258-e9ab97deaf2b@190.93.244.78:443/?type=ws&encryption=none&flow=&host=ourfast.ccwu.cc&path=/&security=tls&sni=ourfast.ccwu.cc#CR_2676_@Surfboardv2ray
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@190.93.246.129:443?allowInsecure=0&sni=aw.ylks.xyz&type=ws&host=aw.ylks.xyz&path=/?ed=2048security=tls#15|CR_speednode_0006
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@190.93.244.38:443?allowInsecure=0&sni=aw.ylks.xyz&type=ws&host=aw.ylks.xyz&path=/?ed=2048security=tls#15|CR_speednode_0007
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@190.93.247.124:443?allowInsecure=0&sni=ax.ylks.xyz&type=ws&host=ax.ylks.xyz&path=/?ed=2048security=tls#15|CR_speednode_0008
