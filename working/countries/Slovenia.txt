@@ -1,2 +1,1 @@
-vless://fee5bf09-5d07-45e8-9a47-859b06694971@92.42.201.27:8443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ads.x5.ru&pbk=AYWvVCObGJ_5TnNMGj4z_UDSDzMJ3IcoRgIBCAeUWFs&fp=chrome#SI_2672_@Surfboardv2ray
-vless://fee5bf09-5d07-45e8-9a47-859b06694971@92.42.201.27:8443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ads.x5.ru&pbk=AYWvVCObGJ_5TnNMGj4z_UDSDzMJ3IcoRgIBCAeUWFs&fp=chrome#SI_2673_@Surfboardv2ray
+ss://YWVzLTI1Ni1nY206QmRSV0MzOEw1SlVETVRZTk54SkdjVXdC@198.8.92.84:49396#//South Korea/Ansan-si
