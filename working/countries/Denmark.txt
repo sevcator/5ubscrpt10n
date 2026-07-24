@@ -110,4 +110,3 @@ trojan://WG39087154@arriving-hyena.rooster465.autos:443?sni=arriving-hyena.roost
 trojan://WG39087154@flowing-gobbler.rooster465.autos:443?sni=flowing-gobbler.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%a9%f0%9f%87%b0%20DK%20105
 trojan://IQ68037294@109.61.127.34:443?sni=harmless-imp.rooster465.autos&path=%2f#%f0%9f%87%a9%f0%9f%87%b0%20DK%20106
 trojan://WG39087154@darling-emu.rooster465.autos:443?sni=darling-emu.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%a9%f0%9f%87%b0%20DK%20107
-vmess://ewogICAgImFkZCI6ICJpcmFuc2VydmVyLmNvbSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIm5pbmEuYm9uZCIsCiAgICAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2xpbmt2d3MiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+HqfCfh7BESy05MS4yNDcuMTc0LjEtMDk3NiIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
