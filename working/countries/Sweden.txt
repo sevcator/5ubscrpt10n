@@ -405,7 +405,7 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.178.109.158:443?host=sni.111000.d
 vless://c01c2da7-6977-4b53-a493-cda17fa61b4f@176.125.241.103:443?flow=xtls-rprx-vision&security=tls&sni=3cx.com&fp=firefox&pbk=0x63_7Sha2MEQnTqWxtrMsypbwAuQhR7w9OdTP7pEn0&sid=9433f344374b00cf&path=%2f#%f0%9f%87%b8%f0%9f%87%aa%20SE%201
 vless://8c8d8180-a2c5-4478-a86e-4117f841e88e@31.192.244.42:12683?encryption=none&path=%2f#%f0%9f%87%b8%f0%9f%87%aa%20SE%202
 vless://d7fc372d-c057-43ce-8070-9b96abbc60f3@swg.raketa-balance.com:443?security=reality&encryption=none&pbk=Q8SjY3b6H8hnsg2TVIgNpnoQ2zjOacm727EJkEIPSkg&fp=firefox&type=grpc&serviceName=grpc-service&sni=swg.raketa-balance.com&sid=6c6082a2223c1d03#[openproxylist.com] vless-SE
-vless://f7e0e597-636e-4550-9f54-6ab1c0e8cf49@62.60.231.42:2053?security=reality&encryption=none&pbk=Xx3r5KsSKa1I8O3avmwMbgXOWj_-MqiqzTO_7BzBxyU&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com&sid=58c5b3ee013bdc8f#[openproxylist.com] vless-SE
+vless://f7e0e597-636e-4550-9f54-6ab1c0e8cf49@62.60.231.42:2053?security=reality&encryption=none&pbk=Xx3r5KsSKa1I8O3avmwMbgXOWj_-MqiqzTO_7BzBxyU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com&sid=58c5b3ee013bdc8f#[openproxylist.com] vless-SE
 vless://d3aebc17-a731-40fb-a755-aac1a4cf80f2@95.181.167.171:9090?security=none&encryption=none&headerType=none&type=tcp#//Sweden/Stockholm
 vless://Parsashonam-49@185.146.173.39:8880?encryption=none&host=Search.DigiKala.CYoU.&path=%2F&security=none&type=httpupgrade# | VLESS | @Parsashonam | SE | 01
 vless://Parsashonam-48@185.146.173.39:8880?encryption=none&host=Search.DigiKala.CYoU.&path=%2F&security=none&type=httpupgrade# | VLESS | @Parsashonam | SE | 02
