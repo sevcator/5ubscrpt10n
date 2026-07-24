@@ -16,6 +16,7 @@ vless://6a5d1316-c0a6-4963-8ee1-e8b9b5f98c20@ercf-ma.rainzone.site:443?path=/45.
 vless://53ec5fd1-fa25-41ff-bd25-fc24ca8e4d24@ert-4.v-sub.site:8880?path=/?ed=2080&security=none&encryption=none&host=norton-vip.cfd&type=httpupgrade# UN | ert-4.v-sub.site
 vless://e3035fb5-4a77-49ed-8a20-44c95f5de0fe@main.systemgamingirani.ir:2082?path=/?ed=2052&security=none&encryption=none&host=www.speedtest.net.tps.debian.org.gr.systemgamingirani.ir&type=ws# UN | main.systemgamingirani.ir
 vless://dc44076c-fb1a-48ba-8e79-ec913f345576@mtn.venzo.com.tr:2095?path=/hu?ed=2095&security=none&encryption=none&host=0ost.amazon-osishop.ir&type=httpupgrade# UN | mtn.venzo.com.tr
+vless://0bd0838b-684b-43a0-8a1c-19b79c80ec81@anipanel.alphanistam.ir:7326?security=reality&encryption=none&pbk=UQPZ09IzbcH0QtWGBQWlXInQ0d0FnfOz6wRdWvgxe3Y&headerType=none&fp=chrome&type=tcp&sni=anipanel.alphanistam.ir&sid=ca9310c5654fa333# UN | anipanel.alphanistam.ir
 vless://7e74ff43-3a90-48b3-8372-7d92a045c2d4@light-presence.oneeat.co:80?security=none&encryption=none&type=ws&path=/# UN | light-presence.oneeat.co
 vless://47a508c1-2a1f-4af9-8462-b30ec9d188e6@amir.itur.store:48213?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp# UN | amir.itur.store
 vless://ecb790d4-36ca-4dfc-a142-b3a395d1c50d@ad1.xiqpanelz.com:40200?security=&encryption=none&host=ir31.uploadboy.com&headerType=http&type=tcp# UN | ad1.xiqpanelz.com
@@ -36,12 +37,10 @@ vless://OjVlZWNiMzRmLWM5MDUtNGM3Ny1iN2ZiLWQ4MzBiNDUxY2QxMUAxNDEuMTMzLjE3Mi4yMjI6
 vless://651a858c-2975-4b96-96b7# UN | 651a858c-2975-4b96-96b7
 vless://0a8b6d36-b4e8-4e9b-ae7d-8c513a99e4cd@direct21287.bazargani98.org:443?alpn=h2,http/1.1&encryption=mlkem768x25519plus.native.0rtt.UK5ti376y30NHMFvVHP36DH57i2nVz-48HZpTX4MdxY&fp=chrome&host=direct21287.bazargani98.org&path=/&security=tls&sni=&type=ws# UN | direct21287.bazargani98.org
 vless://a76c8ca9-4355-4a86-b09d-5471a870d1d0@kovirabest3.kovira2.ir:13424?path=/&security=none&encryption=none&host=chatgpt.com&type=ws# UN | kovirabest3.kovira2.ir
-vless://a76c8ca9-4355-4a86-b09d-5471a870d1d0@kovirabest3.kovira2.ir:13424?encryption=none&security=none&type=ws&host=chatgpt.com&path=/# UN | kovirabest3.kovira2.ir
 vless://c1ea5250-43d6-4f91-8d0f-64ed231cc559@pishgam.sdcards.ir:8080?path=/?ed=2087&security=none&encryption=none&host=pivaz-a.plas-nim.org&type=httpupgrade# UN | pishgam.sdcards.ir
 vless://14400b5d-a218-4ed0-b4a9-d703a3501911@max-ep.443.erangle.ru:14368?path=/&security=tls&encryption=none&insecure=0&host=max-ep.443.erangle.ru&fp=chrome&type=httpupgrade&allowInsecure=0&sni=max-ep.443.erangle.ru# UN | max-ep.443.erangle.ru
 vless://b43f416d-0bb7-45d9-b3a4-0ccef14f1fbe@simonil.zarghamportal.ir:2095?path=/@iSpeedTopVPN?ed=80&security=none&encryption=none&host=shole.zarghamportal.ir&type=ws# UN | simonil.zarghamportal.ir
 vless://546bd638-8aeb-0f83-9a31-8be7c5ce814a@ffdownload.dlc-bazigame.ir:8880?path=/&security=none&encryption=none&host=cdn-nl1.akssoldier.top&type=httpupgrade# UN | ffdownload.dlc-bazigame.ir
-vless://9b1d65b5-ede6-49f1-8c6e-8d15bb76da61@out.mamad-imnix.ir:3044?security=reality&encryption=none&pbk=kSR18CNj6e3pYOGXrUJWYHyYHyrc9imttzMwYus0PkU&headerType=none&fp=chrome&type=tcp&sni=www.samsung.com:443&sid=020ec8fa5086ffc4# UN | out.mamad-imnix.ir
 vless://19ceb6c1-09df-479f-9d96-fcf92db6f5ca@de.play98.ir:1993?type=ws&encryption=none&path=/&host=&security=none# UN | de.play98.ir
 vless://7bbd9383-9b76-4b2f-8d01-a2a0ce1ff3a8@cv.rxteam.xyz:28020?path=/?ed=2048&security=tls&alpn=h3,h2,http/1.1&encryption=none&fp=firefox&type=ws# UN | cv.rxteam.xyz
 vless://81f57d7b-727a-4499-a29c-9229310db7fe@tttt1.hennessypro.site:4001?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp# UN | tttt1.hennessypro.site
