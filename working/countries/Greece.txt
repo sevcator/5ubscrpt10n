@@ -1,1 +1,3 @@
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.166.102:989#%F0%9F%87%AC%F0%9F%87%B7GR-192.71.166.102-4937
+ss://7b175aaa-550a-4048-9437-c59919643cbf@31.22.116.216:2083?security=tls&encryption=none&headerType=none&type=tcp&sni=iylgylvgnvcmhfhmv.mic-mokhaderat-shatel-irancel-digikala.shop#[3030][GR][0][SS][None][v2ray_outlineir][2023-11-30][2026-07-25 02:07]
+vless://7b175aaa-550a-4048-9437-c59919643cbf@31.22.116.216:2083?security=tls&encryption=none&headerType=none&type=tcp&sni=iylgylvgnvcmhfhmv.mic-mokhaderat-shatel-irancel-digikala.shop#[3032][GR][0][VLESS][None][v2ray_outlineir][2023-11-30][2026-07-25 02:07]
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.166.102:989#%F0%9F%87%AC%F0%9F%87%B7GR-192.71.166.102-4829

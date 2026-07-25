@@ -1,129 +1,81 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsZ2hYM3JjRzdicVNROEw2@128.251.12.23:443#[5035][IE][0][SS][None][v2ray1_ng][2026-07-16][2026-07-24 02:08]
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsZ2hYM3JjRzdicVNROEw2@128.251.12.23:443#[5036][IE][0][SS][None][v2ray1_ng][2026-07-17][2026-07-24 02:08]
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsZ2hYM3JjRzdicVNROEw2@128.251.12.23:443#[5038][IE][0][SS][None][Outline_ir][2026-07-17][2026-07-24 02:08]
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMTdGZzl6cGdwVlM0REdF@20.166.58.64:443#[4691][IE][0][SS][None][v2rayNG_Matsuri][2026-07-21][2026-07-24 02:08]
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMTdGZzl6cGdwVlM0REdF@20.166.58.64:443#[4685][IE][0][SS][None][v2ray1_ng][2026-07-20][2026-07-24 02:08]
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMTdGZzl6cGdwVlM0REdF@20.166.58.64:443#[4687][IE][0][SS][None][Outline_ir][2026-07-20][2026-07-24 02:08]
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJNlJzU1VJWXJLSHBJMjZK@20.223.152.73:443#[4791][IE][0][SS][None][free1_vpn][2026-07-10][2026-07-24 02:08]
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkTkprWFNhYVVMM0pXejRi@20.166.92.240:443#[4918][IE][0][SS][None][ShadowProxy66][2026-07-22][2026-07-24 02:08]
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsZ2hYM3JjRzdicVNROEw2@128.251.12.23:443#[5039][IE][0][SS][None][proxy_mtm][2026-07-17][2026-07-24 02:08]
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMTdGZzl6cGdwVlM0REdF@20.166.58.64:443#[4683][IE][0][SS][None][free1_vpn][2026-07-20][2026-07-24 02:08]
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkTkprWFNhYVVMM0pXejRi@20.107.197.108:443#[4915][IE][0][SS][None][Outline_ir][2026-07-22][2026-07-24 02:08]
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@84.247.48.78:1080#[4865][IE][0][SS][None][free1_vpn][2026-07-17][2026-07-24 02:08]
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@84.247.48.78:1080#[4866][IE][0][SS][None][v2ray1_ng][2026-07-17][2026-07-24 02:08]
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkTkprWFNhYVVMM0pXejRi@20.107.197.108:443#[4917][IE][0][SS][None][proxy_kafee][2026-07-22][2026-07-24 02:08]
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMTdGZzl6cGdwVlM0REdF@20.166.58.64:443#[4686][IE][0][SS][None][v2ray1_ng][2026-07-21][2026-07-24 02:08]
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1N01CaG5EMWtNOEdod2VZ@128.251.12.23:443#[4725][IE][0][SS][None][free1_vpn][2026-07-17][2026-07-24 02:08]
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMTdGZzl6cGdwVlM0REdF@20.166.58.64:443#[4688][IE][0][SS][None][Outline_ir][2026-07-21][2026-07-24 02:08]
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsZ2hYM3JjRzdicVNROEw2@128.251.12.23:443#[5034][IE][0][SS][None][free1_vpn][2026-07-17][2026-07-24 02:08]
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkTkprWFNhYVVMM0pXejRi@20.107.197.108:443#[4916][IE][0][SS][None][Outline_ir][2026-07-23][2026-07-24 02:08]
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMTdGZzl6cGdwVlM0REdF@20.166.58.64:443#[4689][IE][0][SS][None][prrofile_purple][2026-07-20][2026-07-24 02:08]
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1N01CaG5EMWtNOEdod2VZ@128.251.12.23:443#[4727][IE][0][SS][None][proxy_mtm][2026-07-17][2026-07-24 02:08]
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJNlJzU1VJWXJLSHBJMjZK@20.223.152.73:443#[4792][IE][0][SS][None][vpnx44][2026-07-10][2026-07-24 02:08]
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMTdGZzl6cGdwVlM0REdF@20.166.58.64:443#[4690][IE][0][SS][None][vpnx44][2026-07-20][2026-07-24 02:08]
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1N01CaG5EMWtNOEdod2VZ@128.251.12.23:443#[4726][IE][0][SS][None][v2ray1_ng][2026-07-17][2026-07-24 02:08]
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsZ2hYM3JjRzdicVNROEw2@128.251.12.23:443#[5037][IE][0][SS][None][mehrosaboran][2026-07-17][2026-07-24 02:08]
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMTdGZzl6cGdwVlM0REdF@20.166.58.64:443#[4684][IE][0][SS][None][free1_vpn][2026-07-21][2026-07-24 02:08]
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1N01CaG5EMWtNOEdod2VZ@128.251.12.23:443#[4688][IE][0][SS][None][free1_vpn][2026-07-17][2026-07-25 02:07]
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZzVGTUtpQlM3THcxb29X@52.236.93.73:443#[4623][IE][0][SS][None][proxy_mtm][2026-07-19][2026-07-25 02:07]
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMTdGZzl6cGdwVlM0REdF@20.166.58.64:443#[4654][IE][0][SS][None][prrofile_purple][2026-07-20][2026-07-25 02:07]
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsZ2hYM3JjRzdicVNROEw2@128.251.12.23:443#[4970][IE][0][SS][None][v2ray1_ng][2026-07-16][2026-07-25 02:07]
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsZ2hYM3JjRzdicVNROEw2@128.251.12.23:443#[4971][IE][0][SS][None][v2ray1_ng][2026-07-17][2026-07-25 02:07]
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMTdGZzl6cGdwVlM0REdF@20.166.58.64:443#[4648][IE][0][SS][None][free1_vpn][2026-07-20][2026-07-25 02:07]
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzQ3cyYmhSWm1KaHBtZ3JM@4.210.67.30:443#[5128][IE][0][SS][None][ConfigsHUB][2026-07-25][2026-07-25 02:07]
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsZ2hYM3JjRzdicVNROEw2@128.251.12.23:443#[4974][IE][0][SS][None][proxy_mtm][2026-07-17][2026-07-25 02:07]
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJNlJzU1VJWXJLSHBJMjZK@20.223.152.73:443#[4753][IE][0][SS][None][free1_vpn][2026-07-10][2026-07-25 02:07]
+ss://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@166.1.221.72:18888?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=%2F%3Fed%3D2560&fp=random&alpn=h3#[922][IE][0][SS][None][Hope_Net][2026-07-24][2026-07-25 02:07]
+ss://0cd25ad8-8b62-4943-9bab-96941b1d9401@188.211.233.228:443?security=reality&encryption=none&pbk=QQZQVGy8uV4JSgPJ6a8jA56bptsSifntKDJjhSvOl2I&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=musicboss.eu&sid=197e9c7abe#[427][IE][0][SS][None][v2rayNG_Matsuri][2026-07-20][2026-07-25 02:07]
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1N01CaG5EMWtNOEdod2VZ@128.251.12.23:443#[4690][IE][0][SS][None][proxy_mtm][2026-07-17][2026-07-25 02:07]
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkTkprWFNhYVVMM0pXejRi@20.107.197.108:443#[4848][IE][0][SS][None][Outline_ir][2026-07-23][2026-07-25 02:07]
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMTdGZzl6cGdwVlM0REdF@20.166.58.64:443#[4653][IE][0][SS][None][Outline_ir][2026-07-21][2026-07-25 02:07]
+ss://0cd25ad8-8b62-4943-9bab-96941b1d9401@188.211.233.228:443?security=reality&encryption=none&pbk=QQZQVGy8uV4JSgPJ6a8jA56bptsSifntKDJjhSvOl2I&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=musicboss.eu&sid=197e9c7abe#[428][IE][0][SS][None][marambashi][2026-07-20][2026-07-25 02:07]
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJNlJzU1VJWXJLSHBJMjZK@20.223.152.73:443#[4754][IE][0][SS][None][vpnx44][2026-07-10][2026-07-25 02:07]
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsZ2hYM3JjRzdicVNROEw2@128.251.12.23:443#[4969][IE][0][SS][None][free1_vpn][2026-07-17][2026-07-25 02:07]
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMTdGZzl6cGdwVlM0REdF@20.166.58.64:443#[4650][IE][0][SS][None][v2ray1_ng][2026-07-20][2026-07-25 02:07]
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsZ2hYM3JjRzdicVNROEw2@128.251.12.23:443#[4973][IE][0][SS][None][Outline_ir][2026-07-17][2026-07-25 02:07]
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMTdGZzl6cGdwVlM0REdF@20.166.58.64:443#[4651][IE][0][SS][None][v2ray1_ng][2026-07-21][2026-07-25 02:07]
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMTdGZzl6cGdwVlM0REdF@20.166.58.64:443#[4649][IE][0][SS][None][free1_vpn][2026-07-21][2026-07-25 02:07]
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkTkprWFNhYVVMM0pXejRi@20.107.197.108:443#[4847][IE][0][SS][None][Outline_ir][2026-07-22][2026-07-25 02:07]
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkTkprWFNhYVVMM0pXejRi@20.107.197.108:443#[4849][IE][0][SS][None][proxy_kafee][2026-07-22][2026-07-25 02:07]
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzQ3cyYmhSWm1KaHBtZ3JM@4.210.67.30:443#[5127][IE][0][SS][None][Outline_ir][2026-07-25][2026-07-25 02:07]
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1N01CaG5EMWtNOEdod2VZ@128.251.12.23:443#[4689][IE][0][SS][None][v2ray1_ng][2026-07-17][2026-07-25 02:07]
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZzVGTUtpQlM3THcxb29X@52.236.93.73:443#[4622][IE][0][SS][None][v2ray1_ng][2026-07-19][2026-07-25 02:07]
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2Wmhyb1ZhMFVqUlNVbDA2@23.100.50.48:443#[4609][IE][0][SS][None][nofiltering2][2026-07-14][2026-07-25 02:07]
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMTdGZzl6cGdwVlM0REdF@20.166.58.64:443#[4652][IE][0][SS][None][Outline_ir][2026-07-20][2026-07-25 02:07]
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMTdGZzl6cGdwVlM0REdF@20.166.58.64:443#[4655][IE][0][SS][None][vpnx44][2026-07-20][2026-07-25 02:07]
+ss://0cd25ad8-8b62-4943-9bab-96941b1d9401@188.211.233.228:443?security=reality&encryption=none&pbk=QQZQVGy8uV4JSgPJ6a8jA56bptsSifntKDJjhSvOl2I&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=musicboss.eu&sid=197e9c7abe#[426][IE][0][SS][None][v2ray1_ng][2026-07-20][2026-07-25 02:07]
+ss://eyJhZGQiOiAiMjMuMjI3LjM4LjgiLCAiYWlkIjogMCwgImhvc3QiOiAiaXA1LTEwLmZyZWVncmFkZWx5Lnh5eiIsICJpZCI6ICJlOWUzY2MxMy1kYjQ4LTRjYzEtOGMyNC03NjI2NDM5YTUzMzkiLCAibmV0IjogIndzIiwgInBhdGgiOiAiZ2l0aHViLmNvbS9BbHZpbjk5OTkiLCAicG9ydCI6IDIwODYsICJwcyI6ICJASG9wZV9OZXQtam9pbi11cy1vbi1UZWxlZ3JhbSIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9<br/><br/>vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@166.1.221.72:18888?type=ws&encryption=none&host=pages.teasalo.cloudns.org&path=%2F%3Fed%3D2560&security=tls&sni=pages.teasalo.cloudns.org&alpn=h3&fp=random#[8740][IE][0][SS][None][Hope_Net][2026-07-24][2026-07-25 02:07]
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMTdGZzl6cGdwVlM0REdF@20.166.58.64:443#[4656][IE][0][SS][None][v2rayNG_Matsuri][2026-07-21][2026-07-25 02:07]
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZzVGTUtpQlM3THcxb29X@52.236.93.73:443#[4621][IE][0][SS][None][free1_vpn][2026-07-19][2026-07-25 02:07]
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsZ2hYM3JjRzdicVNROEw2@128.251.12.23:443#[4972][IE][0][SS][None][mehrosaboran][2026-07-17][2026-07-25 02:07]
+vless://0cd25ad8-8b62-4943-9bab-96941b1d9401@188.211.233.228:443?security=reality&encryption=none&pbk=QQZQVGy8uV4JSgPJ6a8jA56bptsSifntKDJjhSvOl2I&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=musicboss.eu&sid=197e9c7abe#[424][IE][0][VLESS][None][marambashi][2026-07-20][2026-07-25 02:07]
+vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@166.1.221.72:18888?type=ws&encryption=none&host=pages.teasalo.cloudns.org&path=%2F%3Fed%3D2560&security=tls&sni=pages.teasalo.cloudns.org&alpn=h3&fp=random#[921][IE][0][VLESS][None][Hope_Net][2026-07-24][2026-07-25 02:07]
+vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@166.1.221.72:18888?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=%2F%3Fed%3D2560&fp=random&alpn=h3#[920][IE][0][VLESS][None][Hope_Net][2026-07-24][2026-07-25 02:07]
+vless://0cd25ad8-8b62-4943-9bab-96941b1d9401@188.211.233.228:443?security=reality&encryption=none&pbk=QQZQVGy8uV4JSgPJ6a8jA56bptsSifntKDJjhSvOl2I&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=musicboss.eu&sid=197e9c7abe#[422][IE][0][VLESS][None][v2ray1_ng][2026-07-20][2026-07-25 02:07]
+vless://0cd25ad8-8b62-4943-9bab-96941b1d9401@188.211.233.228:443?security=reality&encryption=none&pbk=QQZQVGy8uV4JSgPJ6a8jA56bptsSifntKDJjhSvOl2I&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=musicboss.eu&sid=197e9c7abe#[423][IE][0][VLESS][None][v2rayNG_Matsuri][2026-07-20][2026-07-25 02:07]
 trojan://XG59623478@3.249.67.252:443?security=tls&sni=singular-lark.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE-3.249.67.252-0234
 trojan://NQ26071394@fun-labrador.rooster465.autos:443?security=tls&sni=fun-labrador.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE-34.242.69.173-0101
 trojan://IQ68037294@moving-wren.rooster465.autos:443?security=tls&sni=moving-wren.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE-34.253.182.161-0094
 trojan://IQ68037294@adapting-ghost.rooster465.autos:443?security=tls&sni=adapting-ghost.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE-108.130.91.15-0092
-vmess://ewogICAgImFkZCI6ICIxODUuMTA4LjEyOC42MCIsCiAgICAiYWlkIjogNjQsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogIjVhYWIzOTM2LTE2ZDctNDM3Ny04YzMzLTBkNzdmMmQyOTVlZSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+HrvCfh6pJRS0xODUuMTA4LjEyOC42MC0wNDY1IiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
-trojan://NQ26071394@tops-marlin.rooster465.autos:443?security=tls&sni=tops-marlin.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE-3.255.155.50-0504
-trojan://NQ26071394@108.131.117.154:443?security=tls&sni=funky-opossum.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE-108.131.117.154-0517
-trojan://OD90375861@18.202.244.191:443?security=tls&sni=fit-calf.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE-18.202.244.191-0518
-trojan://ON38567014@witty-stallion.rooster465.autos:443?security=tls&sni=witty-stallion.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE-52.210.154.11-0523
-vmess://ewogICAgImFkZCI6ICIxODUuMTA4LjEyOC41NyIsCiAgICAiYWlkIjogNjQsCiAgICAiaG9zdCI6ICJ3d3cuMTQ2MDExNzYueHl6IiwKICAgICJpZCI6ICI1YWFiMzkzNi0xNmQ3LTQzNzctOGMzMy0wZDc3ZjJkMjk1ZWUiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvcGF0aC8xOTEwMTkwNzI5MjciLAogICAgInBvcnQiOiAzMDAwMCwKICAgICJwcyI6ICLwn4eu8J+HqklFLTE4NS4xMDguMTI4LjU3LTExMDgiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
-vmess://ewogICAgImFkZCI6ICIxODUuMTA4LjEyOC4xMzciLAogICAgImFpZCI6IDY0LAogICAgImhvc3QiOiAid3d3LjE0NjAxMTc2Lnh5eiIsCiAgICAiaWQiOiAiNWFhYjM5MzYtMTZkNy00Mzc3LThjMzMtMGQ3N2YyZDI5NWVlIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL3BhdGgvMzAwMDIyMTEzMzI5IiwKICAgICJwb3J0IjogMzAwMDAsCiAgICAicHMiOiAi8J+HrvCfh6pJRS0xODUuMTA4LjEyOC4xMzctMTU0MCIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
-ss://YWVzLTI1Ni1nY206V0N1ejd5cmZaU0NRUVhTTnJ0R1B6MkhU@146.70.48.53:50168#%F0%9F%87%AE%F0%9F%87%AAIE-146.70.48.53-2404
-trojan://telegram-id-privatevpns@3.253.67.209:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE-3.253.67.209-2935
-trojan://telegram-id-privatevpns@54.78.157.126:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE-54.78.157.126-2960
-vmess://ewogICAgImFkZCI6ICI0NS4xMzEuMjQ4LjIyOCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiYWMwMjczNjItYzk4OC00NjcwLWY3OGYtMDIxYjViZTZmNGUzIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDU5MTAyLAogICAgInBzIjogIvCfh67wn4eqSUUtNDUuMTMxLjI0OC4yMjgtODE5NiIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
-vmess://ewogICAgImFkZCI6ICI0NS4xMzEuMjQ4LjIyOCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiYWMwMjczNjItYzk4OC00NjcwLWY3OGYtMDIxYjViZTZmNGUzIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDU5MTAyLAogICAgInBzIjogIvCfh67wn4eqSUUtNDUuMTMxLjI0OC4yMjgtODE5OCIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
-vmess://ewogICAgImFkZCI6ICI0NS4xMzEuMjQ4LjE0MCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiNTU3ZTUzMmUtZGU0YS00YjNlLTlmYjItNWQzNTVjY2I1ZGE5IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDUwMDY4LAogICAgInBzIjogIvCfh67wn4eqSUUtNDUuMTMxLjI0OC4xNDAtODE5OSIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
-vmess://ewogICAgImFkZCI6ICI0NS4xMzEuMjQ4LjE0MCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiNTU3ZTUzMmUtZGU0YS00YjNlLTlmYjItNWQzNTVjY2I1ZGE5IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDUwMDY4LAogICAgInBzIjogIvCfh67wn4eqSUUtNDUuMTMxLjI0OC4xNDAtODIwMSIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
-trojan://telegram-id-directvpn@34.253.231.7:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE-34.253.231.7-8247
-trojan://telegram-id-directvpn@34.253.231.7:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE-34.253.231.7-8249
-trojan://telegram-id-privatevpns@3.252.69.131:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE-3.252.69.131-8264
-trojan://telegram-id-privatevpns@3.249.15.72:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE-3.249.15.72-8266
-trojan://telegram-id-privatevpns@3.249.15.72:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE-3.249.15.72-8268
+trojan://XG59623478@3.249.67.252:443?security=tls&sni=singular-lark.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE-3.249.67.252-0242
+vmess://ewogICAgImFkZCI6ICIxODUuMTA4LjEyOC42MCIsCiAgICAiYWlkIjogNjQsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogIjVhYWIzOTM2LTE2ZDctNDM3Ny04YzMzLTBkNzdmMmQyOTVlZSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+HrvCfh6pJRS0xODUuMTA4LjEyOC42MC0wNDMyIiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
+vmess://ewogICAgImFkZCI6ICJ4ci0xLmhlcm9rdWFwcC5jb20iLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJ4ci0xLmhlcm9rdWFwcC5jb20iLAogICAgImlkIjogIjE3YWY3NmUxLWE1ZDctNDFhYi1hZTg3LWI0OGYxODUwNzVkMSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8xN2FmNzZlMS1hNWQ3LTQxYWItYWU4Ny1iNDhmMTg1MDc1ZDEtdm1lc3MiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+HrvCfh6pJRS0zNC4yNDEuMTE1LjY3LTA1MzgiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
+vmess://ewogICAgImFkZCI6ICIxODUuMTA4LjEyOC41NyIsCiAgICAiYWlkIjogNjQsCiAgICAiaG9zdCI6ICJ3d3cuMTQ2MDExNzYueHl6IiwKICAgICJpZCI6ICI1YWFiMzkzNi0xNmQ3LTQzNzctOGMzMy0wZDc3ZjJkMjk1ZWUiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvcGF0aC8xOTEwMTkwNzI5MjciLAogICAgInBvcnQiOiAzMDAwMCwKICAgICJwcyI6ICLwn4eu8J+HqklFLTE4NS4xMDguMTI4LjU3LTEwMDMiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
+vmess://ewogICAgImFkZCI6ICIxODUuMTA4LjEyOC4xMzciLAogICAgImFpZCI6IDY0LAogICAgImhvc3QiOiAid3d3LjE0NjAxMTc2Lnh5eiIsCiAgICAiaWQiOiAiNWFhYjM5MzYtMTZkNy00Mzc3LThjMzMtMGQ3N2YyZDI5NWVlIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL3BhdGgvMzAwMDIyMTEzMzI5IiwKICAgICJwb3J0IjogMzAwMDAsCiAgICAicHMiOiAi8J+HrvCfh6pJRS0xODUuMTA4LjEyOC4xMzctMTQyOCIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
+ss://YWVzLTI1Ni1nY206V0N1ejd5cmZaU0NRUVhTTnJ0R1B6MkhU@146.70.48.53:50168#%F0%9F%87%AE%F0%9F%87%AAIE-146.70.48.53-2294
+trojan://telegram-id-privatevpns@3.253.67.209:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE-3.253.67.209-2825
+trojan://telegram-id-privatevpns@54.78.157.126:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE-54.78.157.126-2850
+vmess://ewogICAgImFkZCI6ICI0NS4xMzEuMjQ4LjIyOCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiYWMwMjczNjItYzk4OC00NjcwLWY3OGYtMDIxYjViZTZmNGUzIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDU5MTAyLAogICAgInBzIjogIvCfh67wn4eqSUUtNDUuMTMxLjI0OC4yMjgtODA3NCIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
+vmess://ewogICAgImFkZCI6ICI0NS4xMzEuMjQ4LjIyOCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiYWMwMjczNjItYzk4OC00NjcwLWY3OGYtMDIxYjViZTZmNGUzIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDU5MTAyLAogICAgInBzIjogIvCfh67wn4eqSUUtNDUuMTMxLjI0OC4yMjgtODA3NiIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
+vmess://ewogICAgImFkZCI6ICI0NS4xMzEuMjQ4LjE0MCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiNTU3ZTUzMmUtZGU0YS00YjNlLTlmYjItNWQzNTVjY2I1ZGE5IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDUwMDY4LAogICAgInBzIjogIvCfh67wn4eqSUUtNDUuMTMxLjI0OC4xNDAtODA3NyIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
+vmess://ewogICAgImFkZCI6ICI0NS4xMzEuMjQ4LjE0MCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiNTU3ZTUzMmUtZGU0YS00YjNlLTlmYjItNWQzNTVjY2I1ZGE5IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDUwMDY4LAogICAgInBzIjogIvCfh67wn4eqSUUtNDUuMTMxLjI0OC4xNDAtODA3OSIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
+trojan://telegram-id-directvpn@34.253.231.7:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE-34.253.231.7-8125
+trojan://telegram-id-directvpn@34.253.231.7:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE-34.253.231.7-8127
+trojan://telegram-id-privatevpns@3.252.69.131:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE-3.252.69.131-8142
+trojan://telegram-id-privatevpns@3.249.15.72:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE-3.249.15.72-8144
+trojan://telegram-id-privatevpns@3.249.15.72:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE-3.249.15.72-8146
 vmess://eyJhZGQiOiJmMi5tYXJ5YW0xOTAwLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJhZmU1NzU1Ny1kZjI0LTQzZTUtOWNlYS01ZDJhY2MyY2FkMDgiLCJuZXQiOiJncnBjIiwicGF0aCI6IiIsInBvcnQiOiI4NDQzIiwicHMiOiLCru+4j/Cfkbnwn4eu8J+HqiBJcmVsYW5kIF8gQGZyZWVjb25maWcwMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiZ3VuIiwidiI6IjIifQ==
 vmess://eyAidiIgOiAiMiIsICJwcyIgOiAi4pqhQERlYW1OZXRfUHJveHkg8J+Uu/Cfh67wn4eqSUUg8J+UuvCfh67wn4eqSUUg4piRQURTTCIsICJhZGQiIDogIjg1LjE1OS4yMjkuODgiLCAicG9ydCIgOiAiODQ0MyIsICJpZCIgOiAiYWZlNTc1NTctZGYyNC00M2U1LTljZWEtNWQyYWNjMmNhZDA4IiwgImFpZCIgOiAwLCAic2N5IiA6ICJhdXRvIiwgIm5ldCIgOiAiZ3JwYyIsICJ0eXBlIiA6ICJndW4iLCAicGF0aCIgOiAiIiB9
 vmess://eyJhZGQiOiAiMzQuMjUzLjE4NS4yNDQiLCAiYWlkIjogIjAiLCAiaG9zdCI6ICIiLCAiaWQiOiAiN2NiNzI4ODMtOTYzNS00NmViLTg1MzEtOGQ2OTc5MjdmZjA0IiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICIxMTExMSIsICJwcyI6ICJAdjJyYXkyNCBcdTI1YjcgSXJlbGFuZCBcdWQ4M2NcdWRkZWVcdWQ4M2NcdWRkZWEiLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
 vmess://eyJhZGQiOiAiMzQuMjUzLjE4NS4yNDQiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjdjYjcyODgzLTk2MzUtNDZlYi04NTMxLThkNjk3OTI3ZmYwNCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMTExMTEiLCAicHMiOiAiQHYycmF5MjQgXHUyNWI3IElyZWxhbmQgXHVkODNjXHVkZGVlXHVkODNjXHVkZGVhIiwgInNjeSI6ICJhZXMtMTI4LWdjbSIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
-vless://0cd25ad8-8b62-4943-9bab-96941b1d9401@188.211.233.228:443?security=reality&encryption=none&pbk=QQZQVGy8uV4JSgPJ6a8jA56bptsSifntKDJjhSvOl2I&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=musicboss.eu&sid=197e9c7abe#IE_193_@Surfboardv2ray
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@176.34.223.237:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#IE_100_@Surfboardv2ray
+vless://0cd25ad8-8b62-4943-9bab-96941b1d9401@188.211.233.228:443?security=reality&encryption=none&pbk=QQZQVGy8uV4JSgPJ6a8jA56bptsSifntKDJjhSvOl2I&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=musicboss.eu&sid=197e9c7abe#IE_211_@Surfboardv2ray
+vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@166.1.221.72:18888?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=/?ed=2560&fp=chrome&alpn=h3#IE_369_@Surfboardv2ray
+vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@166.1.221.72:18888?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=/?ed=2560&fp=chrome&alpn=h3#IE_370_@Surfboardv2ray
 vless://e4527384-4f20-4378-95dc-403996f12588@85.159.229.88:2087?security=reality&sni=dash.cloudflare.com&type=grpc&fp=firefox&pbk=GicA8fPbS9LksttApqa8gzOstomRFncKNoYGLCOqQF8&sid=fc805835# VL-GRPC-RLT  IE-85.159.229.88:2087
 trojan://telegram-id-privatevpns@46.137.78.71:22222?peer=trojan.burgerip.co.uk&alpn=http/1.1#Ireland
 trojan://telegram-id-privatevpns@52.18.185.28:22222?peer=trojan.burgerip.co.uk&alpn=http/1.1#Ireland
 trojan://telegram-id-privatevpns@52.51.17.38:22222?peer=trojan.burgerip.co.uk&alpn=http/1.1#Ireland
 trojan://telegram-id-privatevpns@54.155.76.64:22222?peer=trojan.burgerip.co.uk#Ireland
 trojan://telegram-id-privatevpns@34.252.21.244:22222?type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AE%F0%9F%87%AA_IE_%E7%88%B1%E5%B0%94%E5%85%B0
-trojan://OD90375861@wired-tick.rooster465.autos:443?sni=wired-tick.rooster465.autos&type=tcp#%F0%9F%87%AE%F0%9F%87%AAIE_1%7C871KB%2Fs%2001
-trojan://NQ26071394@thankful-piranha.rooster465.autos:443?sni=thankful-piranha.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%AAIE_34%7C1.7MB%2Fs%7CB007-260618%2001
-trojan://OD90375861@52.212.156.233:443?sni=wired-tick.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%AAIE_3%7C648KB%2Fs%2001
-trojan://NQ26071394@fun-labrador.rooster465.autos:443?sni=fun-labrador.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%AAIE_28%7C564KB%2Fs%7CA004-260618%2001
-trojan://NQ26071394@funky-opossum.rooster465.autos:443?sni=funky-opossum.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%AAIE_29%7C1.2MB%2Fs%7CA004-260618%2001
-trojan://NQ26071394@correct-starfish.rooster465.autos:443?sni=correct-starfish.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%AAIE_8%7C1.9MB%2Fs%2001
-trojan://PD07395842@above-rabbit.rooster465.autos:443?sni=above-rabbit.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%AAIE_44%7C1004KB%2Fs%7CC002-260622%2001
-trojan://OD90375861@wired-tick.rooster465.autos:443?sni=wired-tick.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%AAIE_53%7C1014KB%2Fs%7CM002-260618%2001
-trojan://NQ26071394@tops-marlin.rooster465.autos:443?sni=tops-marlin.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%AAIE_33%7C2.0MB%2Fs%7CB007-260618%2001
-trojan://PD07395842@fit-calf.rooster465.autos:443?sni=fit-calf.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%AAIE_12%7C521KB%2Fs%2001
-trojan://ON38567014@witty-stallion.rooster465.autos:443?sni=witty-stallion.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%AAIE_32%7C1.1MB%2Fs%7CB007-260618%2001
-trojan://ON38567014@endless-crappie.rooster465.autos:443?sni=endless-crappie.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%AAIE_14%7C547KB%2Fs%2001
-trojan://IQ68037294@moving-wren.rooster465.autos:443?sni=moving-wren.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%AAIE_15%7C1.7MB%2Fs%7CA003-260618%2001
-trojan://NQ26071394@correct-starfish.rooster465.autos:443?sni=correct-starfish.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%AAIE_18%7C1.2MB%2Fs%7CA004-260618%2001
-trojan://OD90375861@fit-calf.rooster465.autos:443?sni=fit-calf.rooster465.autos&type=raw&fp=chrome#%F0%9F%87%AE%F0%9F%87%AAIE_19%7C983KB%2Fs%7CA004-260618%2001
-trojan://NQ26071394@34.249.41.208:443?sni=correct-starfish.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%AAIE_57%7C1.4MB%2Fs%7CB007-260618%2001
-trojan://NQ26071394@3.255.155.50:443?sni=tops-marlin.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%AAIE_56%7C666KB%2Fs%7CB007-260618%2001
-trojan://NQ26071394@34.242.69.173:443?sni=fun-labrador.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%AAIE_58%7C611KB%2Fs%7CB007-260618%2001
-trojan://NQ26071394@correct-starfish.rooster465.autos:443?sni=correct-starfish.rooster465.autos&type=raw&fp=chrome#%F0%9F%87%AE%F0%9F%87%AAIE_25%7C519KB%2Fs%7CA004-260618%2001
-trojan://XG59623478@singular-lark.rooster465.autos:443?sni=singular-lark.rooster465.autos&type=raw&fp=chrome#%F0%9F%87%AE%F0%9F%87%AAIE_26%7C632KB%2Fs%7CA004-260618%2001
-trojan://OD90375861@wired-tick.rooster465.autos:443?sni=wired-tick.rooster465.autos&type=raw&fp=chrome#%F0%9F%87%AE%F0%9F%87%AAIE_27%7C1.8MB%2Fs%7CA004-260618%2001
-trojan://XG59623478@3.249.67.252:443?sni=singular-lark.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%AAIE_30%7C625KB%2Fs%7CA004-260618%2001
-trojan://ON38567014@vast-turkey.rooster465.autos:443?sni=vast-turkey.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%AAIE_31%7C1.2MB%2Fs%7CB007-260618%2001
-trojan://IQ68037294@moving-wren.rooster465.autos:443?sni=moving-wren.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%AAIE_35%7C975KB%2Fs%2001
-trojan://IQ68037294@tops-marlin.rooster465.autos:443?sni=tops-marlin.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%AAIE_36%7C1.4MB%2Fs%2001
-trojan://IQ68037294@witty-stallion.rooster465.autos:443?sni=witty-stallion.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%AAIE_48%7C690KB%2Fs%7CC002-260622%2001
-trojan://IQ68037294@wired-tick.rooster465.autos:443?sni=wired-tick.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%AAIE_38%7C574KB%2Fs%2001
-trojan://IQ68037294@thankful-piranha.rooster465.autos:443?sni=thankful-piranha.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%AAIE_47%7C1.1MB%2Fs%7CC002-260622%2001
-trojan://IQ68037294@correct-starfish.rooster465.autos:443?sni=correct-starfish.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%AAIE_45%7C621KB%2Fs%7CC002-260622%2001
-trojan://IQ68037294@key-gnat.rooster465.autos:443?sni=key-gnat.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%AAIE_46%7C1.4MB%2Fs%7CC002-260622%2001
-trojan://IQ68037294@funky-opossum.rooster465.autos:443?sni=funky-opossum.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%AAIE_49%7C1.9MB%2Fs%7CC002-260622%2001
-vless://412d7fbe-7474-4f1d-86c6-7eebdc628f72@mci.pictureiran.ir:2087?security=tls&type=xhttp&path=/&host=ireland.alfather.ir&packetEncoding=xudp&sni=ireland.alfather.ir&fp=chrome&mode=auto&encryption=none#%F0%9F%87%AE%F0%9F%87%AAIE_43%7C996KB%2Fs%7CC002-260622%2001
-trojan://IQ68037294@vast-turkey.rooster465.autos:443?sni=vast-turkey.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%AAIE_50%7C1.0MB%2Fs%7CC002-260622%2001
-trojan://ON38567014@fit-calf.rooster465.autos:443?sni=fit-calf.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%AAIE_51%7C981KB%2Fs%7CC002-260622%2001
-trojan://IQ68037294@fun-labrador.rooster465.autos:443?sni=fun-labrador.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%AAIE_52%7C1.1MB%2Fs%7CC002-260622%2001
-trojan://IQ68037294@adapting-ghost.rooster465.autos:443?sni=adapting-ghost.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%AAIE_54%7C995KB%2Fs%7CA001-260618%2001
-trojan://NQ26071394@3.255.100.31:443?sni=thankful-piranha.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%AAIE_55%7C1.0MB%2Fs%7CM002-260618%2001
-trojan://ON38567014@108.131.197.101:443?sni=endless-crappie.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%AAIE_59%7C2.0MB%2Fs%7CM002-260618%2001
-trojan://ON38567014@52.208.138.36:443?sni=vast-turkey.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%AAIE_60%7C957KB%2Fs%7CM002-260618%2001
-trojan://WG39087154@above-rabbit.rooster465.autos:443?sni=above-rabbit.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%AAIE_61%7C1.2MB%2Fs%2001
-trojan://WG39087154@wired-tick.rooster465.autos:443?sni=wired-tick.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%AAIE_75%7C531KB%2Fs%7CC002-260622%2001
-trojan://WG39087154@endless-crappie.rooster465.autos:443?sni=endless-crappie.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%AAIE_63%7C1.1MB%2Fs%2001
-trojan://WG39087154@key-gnat.rooster465.autos:443?sni=key-gnat.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%AAIE_72%7C1.6MB%2Fs%7CC002-260622%2001
-trojan://WG39087154@thankful-piranha.rooster465.autos:443?sni=thankful-piranha.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%AAIE_68%7C1.7MB%2Fs%7CC002-260622%2001
-trojan://IQ68037294@moving-wren.rooster465.autos:443?sni=moving-wren.rooster465.autos&type=raw&fp=chrome#%F0%9F%87%AE%F0%9F%87%AAIE_66%7C1.8MB%2Fs%7CM002-260618%2001
-trojan://WG39087154@witty-stallion.rooster465.autos:443?sni=witty-stallion.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%AAIE_67%7C514KB%2Fs%7CC002-260622%2001
-trojan://WG39087154@funky-opossum.rooster465.autos:443?sni=funky-opossum.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%AAIE_69%7C607KB%2Fs%7CC002-260622%2001
-trojan://WG39087154@fun-labrador.rooster465.autos:443?sni=fun-labrador.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%AAIE_70%7C1.8MB%2Fs%7CC002-260622%2001
-trojan://WG39087154@moving-wren.rooster465.autos:443?sni=moving-wren.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%AAIE_71%7C2.0MB%2Fs%7CC002-260622%2001
-trojan://WG39087154@tops-marlin.rooster465.autos:443?sni=tops-marlin.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%AAIE_73%7C1.4MB%2Fs%7CC002-260622%2001
-trojan://PD07395842@54.216.163.119:443?sni=above-rabbit.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%AAIE_74%7C1.9MB%2Fs%7CC002-260622%2001
-trojan://ON38567014@52.210.154.11:443?sni=witty-stallion.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%AAIE_76%7C880KB%2Fs%7CC002-260622%2001
-trojan://IQ68037294@34.253.182.161:443?sni=moving-wren.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%AAIE_77%7C1.6MB%2Fs%7CC002-260622%2001
-trojan://XG59623478@singular-lark.rooster465.autos:443?sni=singular-lark.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%AAIE_78%7C1.5MB%2Fs%7CM002-260618%2001
-trojan://FC60532879@equal-lamb.rooster465.autos:443?sni=equal-lamb.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%AAIE_79%7C1.3MB%2Fs%2001
-trojan://FC60532879@singular-lark.rooster465.autos:443?sni=singular-lark.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%AAIE_80%7C549KB%2Fs%2001
-trojan://FC60532879@endless-crappie.rooster465.autos:443?sni=endless-crappie.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%AAIE_81%7C895KB%2Fs%2001
-trojan://FC60532879@grateful-unicorn.rooster465.autos:443?sni=grateful-unicorn.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%AAIE_82%7C1.9MB%2Fs%2001
-trojan://FC60532879@sincere-bulldog.rooster465.autos:443?sni=sincere-bulldog.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%AAIE_83%7C1.5MB%2Fs%2001
-trojan://FC60532879@key-gnat.rooster465.autos:443?sni=key-gnat.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%AAIE_84%7C1.3MB%2Fs%2001
-trojan://FC60532879@wired-tick.rooster465.autos:443?sni=wired-tick.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%AAIE_85%7C914KB%2Fs%2001
-trojan://FC60532879@vast-turkey.rooster465.autos:443?sni=vast-turkey.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%AAIE_86%7C907KB%2Fs%2001
-trojan://t1k169n5zmvvwn96r9ft@146.70.90.198:57452?allow_insecure=1&allowInsecure=1&insecure=1&sni=146.70.90.198#%F0%9F%87%AE%F0%9F%87%AA_IE_%E7%88%B1%E5%B0%94%E5%85%B0
-trojan://XG59623478@3.249.67.252:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=singular-lark.rooster465.autos#//Ireland/Dublin
 vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HrvCfh6pJRS0zNC4yNDcuNDEuMTI4LTQ4MDMiLCAiYWRkIjogImllLWxzMDMubmIxLmZyIiwgInBvcnQiOiA2NDQ0MywgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICJ0bHMiLCAiaWQiOiAiY2I3MDAxYzctZTQ5NS00MWFjLWI5NDItZjI1ZjYwNTIzNDE0IiwgInNuaSI6ICIiLCAiaG9zdCI6ICJpZS1sczAzLm5iMS5mciIsICJwYXRoIjogIi9jbGllbnRhcmVhIn0=
 vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HrvCfh6pJRS0zNC4yNDQuNjguMjUxLTIzMzk1LVdvLi4uIiwgImFkZCI6ICIxMDQuMTkuMTQ1Ljk1IiwgInBvcnQiOiA0NDMsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAidGxzIiwgImlkIjogImNiNzAwMWM3LWU0OTUtNDFhYy1iOTQyLWYyNWY2MDUyMzQxNCIsICJzbmkiOiAibWlsYWQyLnN1ZGl6bzc3NDgud29ya2Vycy5kZXYiLCAicGF0aCI6ICIvaWUtbHMwMy5uYjEuZnI6NjQ0NDMvIn0=
 vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HrvCfh6pJRS00Ni4xMzcuMTUuODYtNDgyOS1Xb3JrLi4uIiwgImFkZCI6ICIxMDQuMTkuMTQ1Ljk1IiwgInBvcnQiOiA0NDMsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAidGxzIiwgImlkIjogImQxYmFiZTA4LWY4YWMtNDkwYi1iNjZmLTliZTI3NDY3ZjNjYyIsICJzbmkiOiAibWlsYWQyLnN1ZGl6bzc3NDgud29ya2Vycy5kZXYiLCAicGF0aCI6ICIvYWMyMDg4Lmhlcm9rdWFwcC5jb206NDQzL2QxYmFiZTA4LWY4YWMtNDkwYi1iNjZmLTliZTI3NDY3ZjNjYy12bWVzcyJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HrvCfh6pfSUVf54ix5bCU5YWwX+adpea6kDtra3p1aS5jb20o5b+r5Zi056eR5oqAKV8xM18xMyIsImFkZCI6IjMuMjQ5Ljc4LjMwIiwicG9ydCI6MTExMTEsImlkIjoiN2NiNzI4ODMtOTYzNS00NmViLTg1MzEtOGQ2OTc5MjdmZjA0IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidGxzIjoiIn0=
 vless://Ai@amirjam000-amirjam.hf.space:443?path=/ws/Ai&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=amirjam000-amirjam.hf.space&fp=chrome&type=ws&allowInsecure=0&sni=amirjam000-amirjam.hf.space# IE | 34.249.163.21
+vmess://ewogICAgImFkZCI6ICIxODUuMTA4LjEyOC4xMzciLAogICAgImFpZCI6IDY0LAogICAgImhvc3QiOiAid3d3LjE0NjAxMTc2Lnh5eiIsCiAgICAiaWQiOiAiNWFhYjM5MzYtMTZkNy00Mzc3LThjMzMtMGQ3N2YyZDI5NWVlIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL3BhdGgvMzAwMDIyMTEzMzI5IiwKICAgICJwb3J0IjogMzAwMDAsCiAgICAicHMiOiAi8J+HrvCfh6pJRS0xODUuMTA4LjEyOC4xMzctMTU0MCIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
+vmess://ewogICAgImFkZCI6ICI0NS4xMzEuMjQ4LjIyOCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiYWMwMjczNjItYzk4OC00NjcwLWY3OGYtMDIxYjViZTZmNGUzIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDU5MTAyLAogICAgInBzIjogIvCfh67wn4eqSUUtNDUuMTMxLjI0OC4yMjgtODE5NiIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
