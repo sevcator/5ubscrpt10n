@@ -81,4 +81,8 @@ https://raw.githubusercontent.com/sevcator/5ubscrpt10n/main/mini/m1n1-5ub-60.txt
 https://raw.githubusercontent.com/sevcator/5ubscrpt10n/main/mini/m1n1-5ub-61.txt
 https://raw.githubusercontent.com/sevcator/5ubscrpt10n/main/mini/m1n1-5ub-62.txt
 https://raw.githubusercontent.com/sevcator/5ubscrpt10n/main/mini/m1n1-5ub-63.txt
+https://raw.githubusercontent.com/sevcator/5ubscrpt10n/main/mini/m1n1-5ub-64.txt
+https://raw.githubusercontent.com/sevcator/5ubscrpt10n/main/mini/m1n1-5ub-65.txt
+https://raw.githubusercontent.com/sevcator/5ubscrpt10n/main/mini/m1n1-5ub-66.txt
+https://raw.githubusercontent.com/sevcator/5ubscrpt10n/main/mini/m1n1-5ub-67.txt
 ```
