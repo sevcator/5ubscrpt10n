@@ -1,12 +1,14 @@
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.166.102:989#%F0%9F%87%AC%F0%9F%87%B7GR-192.71.166.102-5021
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.22.116.155:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2fp#GR_501_@Surfboardv2ray
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.166.102:989#%F0%9F%87%AC%F0%9F%87%B7GR-192.71.166.102-4953
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.22.116.155:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2fp#GR_531_@Surfboardv2ray
 ss://aes-256-cfb:f8f7aCzcPKbsF8p3@192.71.166.100:989#%F0%9F%9A%AB%F0%9F%87%AC%F0%9F%87%B7%20GR%20192.71.166.100%20%E2%97%88%20tcp%3A989%20%E2%97%88%20SYNAPSECOM%20S.A.%20Provider%20of%20Telecommunications%20and%20Internet%20Services%20%2F%20EDIS%20%E2%97%88%2094b31
 ss://aes-256-cfb:f8f7aCzcPKbsF8p3@192.71.166.102:989#%F0%9F%9A%AB%F0%9F%87%AC%F0%9F%87%B7%20GR%20192.71.166.102%20%E2%97%88%20tcp%3A989%20%E2%97%88%20SYNAPSECOM%20S.A.%20Provider%20of%20Telecommunications%20and%20Internet%20Services%20%2F%20EDIS%20%E2%97%88%20566a5
 ss://chacha20-ietf-poly1305:f8f7aCzcPKbsF8p3@151.236.29.225:990#%F0%9F%87%AC%F0%9F%87%B7%20GR%20151.236.29.225%20%E2%97%88%20tcp%3A990%20%E2%97%88%20SYNAPSECOM%20S.A.%20Provider%20of%20Telecommunications%20and%20Internet%20Services%20%2F%20EDIS%20%E2%97%88%20e6136
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.22.116.155:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2fp#GR_501_@Surfboardv2ray
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.22.116.155:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2fp#GR_522_@Surfboardv2ray
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.22.116.155:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2fp#GR_532_@Surfboardv2ray
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.22.116.155:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2fp#GR_517_@Surfboardv2ray
 vless://7b175aaa-550a-4048-9437-c59919643cbf@31.22.116.216:2083?security=tls&encryption=none&headerType=none&type=tcp&sni=iylgylvgnvcmhfhmv.mic-mokhaderat-shatel-irancel-digikala.shop#[3032][GR][0][VLESS][None][v2ray_outlineir][2023-11-30][2026-07-25 02:07]
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.166.102:989#%F0%9F%87%AC%F0%9F%87%B7GR-192.71.166.102-5021
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.166.102:989#%F0%9F%87%AC%F0%9F%87%B7GR-192.71.166.102-4964
 ss://7b175aaa-550a-4048-9437-c59919643cbf@31.22.116.216:2083?security=tls&encryption=none&headerType=none&type=tcp&sni=iylgylvgnvcmhfhmv.mic-mokhaderat-shatel-irancel-digikala.shop#[3030][GR][0][SS][None][v2ray_outlineir][2023-11-30][2026-07-25 02:07]
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.166.102:989#%F0%9F%87%AC%F0%9F%87%B7GR-192.71.166.102-4829
