@@ -17,7 +17,7 @@ vmess://eyJhZGQiOiJrZXJpbS5pbXBlcnZhc2VjLmluZm8iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZw
 vmess://eyJhZGQiOiIxNTYuMjI1LjY3LjQ4IiwiYWlkIjoiNjQiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIzY2E5MTJkYS02YWMyLTQxOGYtYjljZi00NWI2ZjY5NDU3OWIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQ4MTIzIiwicHMiOiJOby4wMShAQW1tYXJfVGFyYXopIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==2
 vmess://eyJhZGQiOiIxNTYuMjQ1LjguODQiLCJhaWQiOiI2NCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImQ3NzM1MDU4LTFkYWMtNDYxOC05OWZmLTBhYTA0NDFlYzJkNyIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDgxMjMiLCJwcyI6Ik5vLjA0KEBBbW1hcl9UYXJheikiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ95
 vmess://eyJhZGQiOiIxNTYuMjI1LjY3LjQ4IiwiYWlkIjoiNjQiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIzY2E5MTJkYS02YWMyLTQxOGYtYjljZi00NWI2ZjY5NDU3OWIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQ4MTIzIiwicHMiOiJOby4wMShAQW1tYV9UYXJheikiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ92
-vless://1f29762d-3f23-4207-9e39-f774de5d49ba@89.185.81.252:8443?encryption=none&security=none&serviceName=grpc&type=grpc#NO_369_@Surfboardv2ray
+vless://1f29762d-3f23-4207-9e39-f774de5d49ba@89.185.81.252:8443?encryption=none&security=none&serviceName=grpc&type=grpc#NO_372_@Surfboardv2ray
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.90.61.153:989#%F0%9F%87%B3%F0%9F%87%B4NO-185.90.61.153-0816
 ss://aes-256-cfb:f8f7aCzcPKbsF8p3@185.213.23.226:989#%F0%9F%9A%AB%F0%9F%87%B3%F0%9F%87%B4%20NO%20185.213.23.226%20%E2%97%88%20tcp%3A989%20%E2%97%88%20BrainStorm%20Network%2C%20Inc%20%2F%20Oneprovider.com%20%E2%97%88%20eb2a3
 ss://chacha20-ietf-poly1305:k7xW6N5SAVpgeqi1wd7s7yxD7S8PxaehUM5W8apHrQi3pSoDRXScoAPk8SVa4mKbvRjrgENU3dUgzTgp9T3rrXinaDe4CXYk@mx2.drawnrisha.one:55988#%F0%9F%87%B3%F0%9F%87%B4%20NO%20185.5.38.111%20%E2%97%88%20tcp%3A55988%20%E2%97%88%20ITM%20NORD%20%2F%20NordicVM%20%E2%97%88%200d492
@@ -124,6 +124,7 @@ ss://chacha20-ietf-poly1305:XJLSHUkevoRHmidSp5xeGd8gwuBBBTTp1yVYCg6kYBA2FgJbMwGj
 ss://chacha20-ietf-poly1305:2Lu9pb1Zi8fNWkqFSLaPpZ2bzFjCp2WbRgxWV3Ek1iJ8HuthqcXMjveoMKsiKtCBwQiB2AtzPt6NUtZtneCt64mFiVvFo63v@mx2.drawnrisha.one:55988#%F0%9F%87%B3%F0%9F%87%B4%20NO%20185.5.38.111%20%E2%97%88%20tcp%3A55988%20%E2%97%88%20ITM%20NORD%20%2F%20NordicVM%20%E2%97%88%20faab6
 ss://chacha20-ietf-poly1305:2A1BYU7JRBQmYUssD4ihsuS9hehEZGec5NghiRbWaMPemeAQqMWfUjfVPRZGQ4eZh5UMiVJDc7QzkdjmHHqhFWxF7UACad57@mx2.drawnrisha.one:55988#%F0%9F%87%B3%F0%9F%87%B4%20NO%20185.5.38.111%20%E2%97%88%20tcp%3A55988%20%E2%97%88%20ITM%20NORD%20%2F%20NordicVM%20%E2%97%88%20fefef
 vless://1f29762d-3f23-4207-9e39-f774de5d49ba@89.185.81.252:8443?type=grpc&headerType=none&security=none&encryption=none&serviceName=grpc#%F0%9F%87%B3%F0%9F%87%B4%20%20Norway%20%20%5B01%5D%20%20MIFA
+vless://1f29762d-3f23-4207-9e39-f774de5d49ba@89.185.81.252:8443?encryption=none&security=none&serviceName=grpc&type=grpc#NO_369_@Surfboardv2ray
 vless://1f29762d-3f23-4207-9e39-f774de5d49ba@89.185.81.252:8443?encryption=none&security=none&serviceName=grpc&type=grpc#NO_376_@Surfboardv2ray
 vless://1f29762d-3f23-4207-9e39-f774de5d49ba@89.185.81.252:8443?encryption=none&security=none&serviceName=grpc&type=grpc#NO_407_@Surfboardv2ray
 vless://1f29762d-3f23-4207-9e39-f774de5d49ba@89.185.81.252:8443?encryption=none&security=none&serviceName=grpc&type=grpc#NO_384_@Surfboardv2ray
