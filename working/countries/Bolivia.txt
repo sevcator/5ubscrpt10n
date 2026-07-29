@@ -1,2 +1,1 @@
-ss://4886fac6-a91e-412e-ac36-40a7add73fa4@170.114.45.249:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@free_v2rayy&sni=chanel.clashnv.site#Bo
-vless://4886fac6-a91e-412e-ac36-40a7add73fa4@170.114.45.249:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@free_v2rayy&sni=chanel.clashnv.site#Bo
+ss://chacha20-ietf-poly1305:f8f7aCzcPKbsF8p3@185.93.173.218:990#%F0%9F%87%A7%F0%9F%87%B4%20BO%20185.93.173.218%20%E2%97%88%20tcp%3A990%20%E2%97%88%20BrainStorm%20Network%2C%20Inc%20%2F%20Oneprovider.com%20%E2%97%88%201384e

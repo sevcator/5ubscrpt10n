@@ -1,1 +1,2 @@
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@193.227.99.249:443?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#%f0%9f%87%b2%f0%9f%87%b9+MT+%e9%a9%ac%e8%80%b3%e4%bb%96+70
+ss://aes-256-cfb:f8f7aCzcPKbsF8p3@171.22.254.17:989#%F0%9F%9A%AB%F0%9F%87%B2%F0%9F%87%B9%20MT%20171.22.254.17%20%E2%97%88%20tcp%3A989%20%E2%97%88%20Melita%20Limited%20%2F%20HostingB2B%20%E2%97%88%207221a
