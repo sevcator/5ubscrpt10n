@@ -81,7 +81,6 @@ trojan://telegram-id-privatevpns@52.18.185.28:22222?peer=trojan.burgerip.co.uk&a
 trojan://telegram-id-privatevpns@52.51.17.38:22222?peer=trojan.burgerip.co.uk&alpn=http/1.1#Ireland
 trojan://telegram-id-privatevpns@54.155.76.64:22222?peer=trojan.burgerip.co.uk#Ireland
 trojan://telegram-id-privatevpns@34.252.21.244:22222?type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AE%F0%9F%87%AA_IE_%E7%88%B1%E5%B0%94%E5%85%B0
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@84.247.48.78:1080# IE | 84.247.48.78
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqR21sTEcyM0ZkTVZ0d0Fx@4.210.66.168:443# IE | 4.210.66.168
 vless://0cd25ad8-8b62-4943-9bab-96941b1d9401@188.211.233.228:443?security=reality&encryption=none&pbk=QQZQVGy8uV4JSgPJ6a8jA56bptsSifntKDJjhSvOl2I&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=musicboss.eu&sid=197e9c7abe#IE_210_@Surfboardv2ray
 vless://0cd25ad8-8b62-4943-9bab-96941b1d9401@188.211.233.228:443?security=reality&encryption=none&pbk=QQZQVGy8uV4JSgPJ6a8jA56bptsSifntKDJjhSvOl2I&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=musicboss.eu&sid=197e9c7abe#IE_219_@Surfboardv2ray
@@ -160,6 +159,7 @@ trojan://telegram-id-privatevpns@3.252.69.131:22222?security=tls&sni=trj.rolling
 trojan://telegram-id-privatevpns@3.249.15.72:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE-3.249.15.72-8144
 trojan://telegram-id-privatevpns@3.249.15.72:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE-3.249.15.72-8146
 trojan://XG59623478@3.249.67.252:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=singular-lark.rooster465.autos# IE | 3.249.67.252
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@84.247.48.78:1080# IE | 84.247.48.78
 ss://YWVzLTI1Ni1nY206V0N1ejd5cmZaU0NRUVhTTnJ0R1B6MkhU@146.70.48.53:50168#%F0%9F%87%AE%F0%9F%87%AAIE-146.70.48.53-2479
 ss://YWVzLTI1Ni1nY206V0N1ejd5cmZaU0NRUVhTTnJ0R1B6MkhU@146.70.48.53:50168#%F0%9F%87%AE%F0%9F%87%AAIE-146.70.48.53-2425
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzQ3cyYmhSWm1KaHBtZ3JM@4.210.67.30:443#[5374][IE][0][SS][None][ShadowProxy66][2026-07-25][2026-07-28 02:00]

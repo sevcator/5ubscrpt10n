@@ -5129,7 +5129,7 @@ ss://f256c952-0799-496c-c2f5-3534a0fa2b28@webshecan.webredirect.org:2087/?type=t
 ss://6c8f2ee5-effd-4601-90d3-8d289b2956ee@5.159.54.151:80?security=none&encryption=none&headerType=none&type=tcp#[3295][UnResolvedDomains][0][SS][None][Fr33C0nfig][2026-03-08][2026-07-29 02:03]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0S1JMKzNWRXNtbzZ1S05EMXB3UTZtK2JhVmRPZ1MzR1oxMW8vd1dLRGJBPQ@e1.cover20.ir:51570?type=tcp#@ss
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqVlBqeU5HZ09BZnY0YjRlOGRVSzY5M2V0MjdhS2tMSnAxVHhUUlVJZ0hzPQ@e4.cover20.ir:16156?type=tcp#@ss
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6eXFCNzdHc0owQ1puUkJpV3ZGNmJ1UHB5bkNYWEhRWTZRRFByRE5Jd1hVPQ@n4.cover20.ir:19964?type=tcp#ss
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozaGxuN0dNdHgrc2ZMUDQ2Y3liSTVKaGllcXNUOStCWXVkam5nQVBuTGRrPQ@e4.cover20.ir:16156?type=tcp#ss
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.204:8080#@Network_442_%20ss%2001
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.3:8080#@Network_442_%20ss%2002
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.3:8080#@Network_442_%20ss%2003
@@ -5967,6 +5967,7 @@ ss://ecc97810-557a-44ef-9957-ba078d0ac414@45.12.150.145:15470?security=reality&e
 ss://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@25.129.197.138:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&host=sni.111000.dns.army&type=ws&sni=sni.111000.dns.army#[1101][UnResolvedDomains][0][SS][None][kiava][2026-01-24][2026-07-29 02:03]
 ss://eyJwYXRoIjoiXC92bWVzc1wvIiwiYWRkIjoiMzguMTA3LjIzNC41NyIsInBvcnQiOiI4MCIsIm5ldCI6IndzIiwicHMiOiIlNUJUZWxlZ3JhbSUyMCUzQSUyMCU0MGtpYXZhJTVEJTIwS1olMjAxMDUwMjgiLCJpZCI6IjU2N2Y0YmU1LTEyYWItNDJlMS1iOGQ5LWRiNmZkMWZkZDMxYyIsImhvc3QiOiIiLCJzY3kiOiJhdXRvIn0=</pre><br/><br/><pre>vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.53.181:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#[11144][UnResolvedDomains][0][SS][None][kiava][2026-01-24][2026-07-29 02:03]
 ss://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@208.103.161.32:2053?path=%2F&security=tls&encryption=none&host=sni.111000.dynv6.net&type=ws&sni=sni.111000.dynv6.net#[1100][UnResolvedDomains][0][SS][None][kiava][2026-01-24][2026-07-29 02:03]
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6eXFCNzdHc0owQ1puUkJpV3ZGNmJ1UHB5bkNYWEhRWTZRRFByRE5Jd1hVPQ@n4.cover20.ir:19964?type=tcp#ss
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowam5wUWtCM01pU01oUXV1ZkZGZlNqK0R1M1d6d0czclY0SzJhRGtBR1BVPQ@e4.cover20.ir:16156?type=tcp#ss
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDaFhJbEVteEptY3NvMTlaS2FUUGJPME81c21iRnRlRlBzd29lOHREdGFJPQ@e4.cover20.ir:16156?type=tcp#ss
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSb0drdk1tUXVvOHZKais5MnVGMmNMUFc5Zm1ORXZsNmFsTDBNeUxnZUkwPQ@e3.cover20.ir:56985?type=tcp#@ss
@@ -15177,3 +15178,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@31.210.78.66:1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZVEV5WkRJME9HUXdNMlptWmpjNFpUZzFaVEJpWVRObFpUWmtaakl4T0RNPQ==@158.101.208.107:45819#[openproxylist.com] ss-NL
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@185.106.94.132:1081#[openproxylist.com] ss-RU
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@146.70.221.238:1080#[openproxylist.com] ss-RS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@38.113.188.118:1080#[openproxylist.com] ss-CA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@185.185.134.70:1080#[openproxylist.com] ss-IL

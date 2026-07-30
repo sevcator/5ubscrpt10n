@@ -48,6 +48,7 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkN6ZWNoaWEiLA0KICAiYWRkIjogIjc3Ljc1LjIz
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@146.70.222.126:1080#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%20%7C%20Basic
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@146.70.222.126:1080# CZ | 146.70.222.126
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@185.156.174.106:1080# CZ | 185.156.174.106
+vless://5eecb34f-c905-4c77-b7fb-d830b451cd11@141.133.172.222:20342?security=&encryption=none&headerType=none&type=tcp# CZ | 141.133.172.222
 vless://5eecb34f-c905-4c77-b7fb-d830b451cd11@141.133.172.222:20342?encryption=none&security=none&type=tcp&headerType=none#CZ_975_@Surfboardv2ray
 vless://5eecb34f-c905-4c77-b7fb-d830b451cd11@141.133.172.222:20342?security=none&encryption=none&headerType=none&type=tcp#CZ_976_@Surfboardv2ray
 vless://5eecb34f-c905-4c77-b7fb-d830b451cd11@141.133.172.222:20342?security=none&encryption=none&headerType=none&type=tcp#CZ_977_@Surfboardv2ray
@@ -367,3 +368,4 @@ ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@212.102.38.88:443#%F0%9F%87%A8%F0%9F%8
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@212.102.38.41:443#%F0%9F%87%A8%F0%9F%87%BFCZ-212.102.38.41-8231
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjeWk0RkRlNEZkclRHM3JVcG5h@195.123.246.15:51348#%F0%9F%87%A8%F0%9F%87%BFCZ-195.123.246.15-8283
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@143.244.58.102:443#%F0%9F%87%A8%F0%9F%87%BFCZ-143.244.58.102-8616
+vless://af338e79-8259-4662-a0ff-db6df2414501@xboxgame-dl.com:433?encryption=none&security=reality&sni=xboxgame-dl.com&fp=chrome&pbk=J6v3yhXsfUyoPDmw3Beq9YSxqlW2Ir_5PpULj1xQX2E&sid=8d4981fb6742b104&type=tcp&headerType=none# CZ | 46.8.8.220
