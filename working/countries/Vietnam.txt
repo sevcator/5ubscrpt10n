@@ -163,6 +163,7 @@ vmess://ewogICAgImFkZCI6ICIxMDMuODIuMjUuMTA2IiwKICAgICJhaWQiOiAwLAogICAgImhvc3Qi
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@103.163.218.2:989#%F0%9F%87%BB%F0%9F%87%B3VN-103.163.218.2-8193
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.163.218.2:990#VN Da361
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@221.132.29.208:38388#VN Da402
+vless://ef6c9625-62de-4b9d-b7e2-0d4a9f67a9b2@163.61.74.121:443?security=tls&fp=chrome&sni=sni.ehb.cc.cd&type=ws&headerType=none&host=sni.ehb.cc.cd&path=/proxyip=ProxyIP.CMLiussss.net?uuid=ef6c9625-62de-4b9d-b7e2-0d4a9f67a9b2#VN_3302_@Surfboardv2ray
 trojan://94d219c9-1afc-4d42-b090-8b3794764380@36.50.135.142:443#Vietnam
 trojan://af4dc66a-ec88-4057-9e46-777b584577f7@usla.mjt001.com:443?allowInsecure=1#%f0%9f%87%bb%f0%9f%87%b3VN%e8%b6%8a%e5%8d%97(youtube%e9%98%bf%e4%bc%9f%e7%a7%91%e6%8a%80)
 trojan://af4dc66a-ec88-4057-9e46-777b584577f7@vn.mjt001.com:443?allowInsecure=1#%f0%9f%87%bb%f0%9f%87%b3VN%e8%b6%8a%e5%8d%97(youtube%e9%98%bf%e4%bc%9f%e7%a7%91%e6%8a%80)
