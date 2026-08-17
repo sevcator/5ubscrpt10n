@@ -269,6 +269,9 @@
   "https://raw.githubusercontent.com/budamu/clashconfig/main/v2ray.txt",
   "https://raw.githubusercontent.com/budamu/clashconfig/main/v2ray2.txt",
   "https://raw.githubusercontent.com/mfuu/v2ray/refs/heads/master/v2ray",
+  "https://raw.githubusercontent.com/10ium/VpnClashFaCollector/main/sub/all/mixed.txt",
+  "https://raw.githubusercontent.com/morteza-v2/free-v2ray-irancell-config/refs/heads/main/Sub1.txt",
+  "https://raw.githubusercontent.com/Everyday-VPN/Everyday-VPN/refs/heads/main/subscription/main.txt",
   "https://raw.githubusercontent.com/Huibq/TrojanLinks/master/links/vmess#ignore=vmess",
   "https://raw.githubusercontent.com/xiaoji235/airport-free/refs/heads/main/v2ray.txt",
   "https://raw.githubusercontent.com/xiyaowong/freeFQ/main/v2ray",
@@ -283,6 +286,7 @@
   "https://raw.githubusercontent.com/firerpa/lamda/main/CHANGELOG.txt",
   "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Sub45.txt",
   "https://raw.githubusercontent.com/lashwang/shadowsocks-android/main/core/src/main/jni/shadowsocks-libev/CMakeLists.txt",
+  "https://raw.githubusercontent.com/sinavm/SVM/refs/heads/main/config.txt",
   "https://raw.githubusercontent.com/six2dez/OneListForAll/main/dict/log_long.txt",
   "https://raw.githubusercontent.com/vulncheck-oss/0day.today.archive/main/local-exploits/28797.txt",
   "https://raw.githubusercontent.com/gfpcom/free-proxy-list/main/sources/ss.txt",
@@ -376,6 +380,11 @@
   "https://raw.githubusercontent.com/Hidashimora/free-vpn-anti-rkn/main/configs/20.txt",
   "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/Base64/BLACK_SS%2BAll_RUS_base64.txt",
   "https://raw.githubusercontent.com/amir-reza-bijandi/v2ray-configs/main/configs.txt",
+  "https://raw.githubusercontent.com/Arianlavi/RebeldevConfig/refs/heads/main/RebelLink/trojan_subscriptions.txt",
+  "https://raw.githubusercontent.com/Arianlavi/RebeldevConfig/refs/heads/main/RebelLink/vmess_subscriptions.txt",
+  "https://raw.githubusercontent.com/Arianlavi/RebeldevConfig/refs/heads/main/RebelLink/vless_subscriptions.txt",
+  "https://raw.githubusercontent.com/Arianlavi/RebeldevConfig/refs/heads/main/RebelLink/all_subscriptions.txt",
+  "https://raw.githubusercontent.com/Arianlavi/RebeldevConfig/refs/heads/main/RebelLink/ss_subscriptions.txt",
   "https://raw.githubusercontent.com/Barabama/FreeNodes/refs/heads/main/nodes/yudou66.txt",
   "https://raw.githubusercontent.com/Barabama/FreeNodes/refs/heads/main/nodes/wenode.txt",
   "https://raw.githubusercontent.com/Barabama/FreeNodes/refs/heads/main/nodes/nodefree.txt",
@@ -844,5 +853,5 @@
   "https://fetchjiedian.feisu360.xyz/clash/proxies",
   "https://gfwglass.tk",
   "https://t.me/abvpnsupport",
-  "https://t.me/abvpnbot"
+  "https://sub.abvp.me/s/37208d52-8823-412d-944e-0a8ef08a5079"
 ]
