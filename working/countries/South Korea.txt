@@ -2550,6 +2550,11 @@ trojan://FH72359861@good-hound.rooster465.autos:443?security=tls&sni=good-hound.
 trojan://FH72359861@apt-whippet.rooster465.autos:443?security=tls#[openproxylist.com] trojan-KR
 trojan://FH72359861@massive-ocelot.rooster465.autos:443?security=tls#[openproxylist.com] trojan-KR
 trojan://FH72359861@43.202.61.210:443?security=tls&sni=loyal-molly.rooster465.autos#[openproxylist.com] trojan-KR
+trojan://AE62539071@glorious-glider.rooster465.autos:443?security=tls#[openproxylist.com] trojan-KR
+trojan://AE62539071@grand-grub.rooster465.autos:443?security=tls#[openproxylist.com] trojan-KR
+trojan://AE62539071@skilled-monster.rooster465.autos:443?security=tls#[openproxylist.com] trojan-KR
+trojan://AE62539071@viable-serval.rooster465.autos:443?security=tls#[openproxylist.com] trojan-KR
+trojan://FH72359861@loyal-molly.rooster465.autos:443?security=tls&sni=loyal-molly.rooster465.autos#[openproxylist.com] trojan-KR
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6679#[6544][KR][0][SS][None][ShadowProxy66][2026-07-24][2026-07-29 02:03]
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRwa00yWTJOelJsTWkxaU9UZzFMVFE1WkRJdE9EWTFOQzAwWWpoa05UTmxNakF5TVRj@gdyddx500.xiyunchen.cn:1342#[7830][KR][0][SS][None][Hope_Net][2026-07-28][2026-07-29 02:03]
 ss://93b99881-df03-4597-9146-0c11e46387f7@116.40.170.124:24100?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#[5026][KR][0][SS][None][Hope_Net][2026-07-28][2026-07-29 02:04]
@@ -2711,8 +2716,3 @@ ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@141.164.45.187:5498#%f0%9f%87%b0%f0%9f
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6697#%f0%9f%87%b0%f0%9f%87%b7%20KR%2012
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@141.164.45.187:8119#%f0%9f%87%b0%f0%9f%87%b7%20KR%2013
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@141.164.45.187:9101#%f0%9f%87%b0%f0%9f%87%b7%20KR%2014
-trojan://AE62539071@glorious-glider.rooster465.autos:443?security=tls#[openproxylist.com] trojan-KR
-trojan://AE62539071@grand-grub.rooster465.autos:443?security=tls#[openproxylist.com] trojan-KR
-trojan://AE62539071@skilled-monster.rooster465.autos:443?security=tls#[openproxylist.com] trojan-KR
-trojan://AE62539071@viable-serval.rooster465.autos:443?security=tls#[openproxylist.com] trojan-KR
-trojan://FH72359861@loyal-molly.rooster465.autos:443?security=tls&sni=loyal-molly.rooster465.autos#[openproxylist.com] trojan-KR

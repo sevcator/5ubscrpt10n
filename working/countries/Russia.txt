@@ -6851,3 +6851,4 @@ ss://YWVzLTI1Ni1nY206Y2ZlNjg1NzI2ZWVhMmM0YkAxODUuMjIuMTU0LjEwMzoxMDkyMQ==#//Russ
 ss://YWVzLTI1Ni1nY206ZmJhZjMzYmNmZmU1M2NmOQ@195.58.48.19:10921# RU | 195.58.48.19
 ss://YWVzLTI1Ni1nY206Y2ZlNjg1NzI2ZWVhMmM0Yg==@185.22.154.103:10921#//Russia/Moscow
 ss://YWVzLTI1Ni1nY206c3NfMTc4NjkxMzg3Mw@80.76.60.120:1080# RU | 80.76.60.120
+vless://ad17ed00-5bb6-4fa4-8be1-a545a9fbda6e@45.84.1.247:8443?security=reality&encryption=none&pbk=E_hcnZ6IvHDD2IFy8UGRvwWXHSqRrF--Ply0hJXSd30&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=rbc.ru&sid=849cac6150823b#[openproxylist.com] vless-RU
