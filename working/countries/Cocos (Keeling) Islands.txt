@@ -33,7 +33,6 @@ ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@162.19.59.165:443#4Mohsen-40cc8c6ba8
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@198.244.231.28:443#4Sarina-cc3de2c013
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@190.103.176.32:989#4Kian-c585b5cc4a
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@41.203.4.34:989#4Sarina-2daf1e10cc
-ss://YWVzLTI1Ni1nY206MWVhZGQ0ZTRhMzdiNjYwMQ@45.8.158.176:10801#4Sarina-e507cc5a37
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@172.99.190.7:7307#4FreeIran-d16f2f74cc
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@23.157.40.120:8000#4Sarina-f6e213cc78
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@38.64.138.145:8080#4Sarina-db848cc0ab
@@ -149,6 +148,7 @@ vless://7fa91a52-54d0-442f-b550-cf83d916918c@edge-tr-ist.cdn.sx:2083/?type=tcp&e
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@188.114.97.6:443?encryption=none&host=josni.hoyes.cloudns.ch&path=%2Fsg-melbi&security=tls&sni=josni.hoyes.cloudns.ch&type=ws#4Jadi-e9e8c5f7cc
 vless://83f03646-fb28-44cc-9d2c-8853f6c09285@104.17.189.125:8443?path=%2F%3Fed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=r4fnviw9jl4i4rx.zjde5.de5.net&type=ws&allowInsecure=0&sni=r4fnviw9jl4i4rx.zjde5.de5.net#4Nika-cc69c90152
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@cf.levikogjgfdd.ir:2095?path=/&security=none&encryption=none&host=fangbinxingnmsl.pusytroller.gq&type=ws#4Jadi-19391cc14c
+vless://88DA9CA6-5E68-4687-A748-961B612DCED5@kr1-r.link-t7.com:10046?sni=s0.awsstatic.com&type=grpc&serviceName=update&fp=chrome&security=tls#4Kian-e15a70cc48
 vless://890c460c-b334-48d7-a1b8-38b4f001c66b@trt.fastlynew.hosting-ip.com:80?path=%2F&security=&encryption=none&host=jetuk43.global.ssl.fastly.net&type=xhttp#4Sarina-e7b4cc32c9
 vless://9047efd2-5aa4-4c9c-a58f-a5791b06c79e@104.21.40.208:8443?path=/&security=tls&encryption=none&insecure=0&host=ad-010.vector2llqn.info&fp=chrome&type=ws&allowInsecure=0&sni=ad-010.vector2llqn.info#4Nika-6cc8527fab
 vless://95ae0de8-d944-4b1e-b450-d34d80f9a528@xfr.saturn-cloud.net:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=xfr.saturn-cloud.net&pbk=UjwVdSvY-6dV5UKCNO7ROokiSF_aLaXYyUaG6RybOmI&sid=2762604ed2e0fa2f&allowinsecure=0&type=tcp&headerType=none#4Sarina-bc91cc56fe
@@ -161,6 +161,7 @@ vless://a6f6d9c9-9d43-4d0e-bf95-4b87cc5bbaac@gb1.murhost.network:443?flow=xtls-r
 vless://a6f6d9c9-9d43-4d0e-bf95-4b87cc5bbaac@gb1.murhost.network:443?security=reality&encryption=none&pbk=-nB-tCeZ4Zr72ArHUKnbUphbs4PlBS6iId6PkrPQQTE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=gb1.murhost.network&sid=84f9881951050a30#4Nika-cc069d6346
 vless://ae9bcc43-5fd8-4891-b06e-1c93e2747ed9@45.74.178.41:719?security=none&type=ws&host=play.google.com&path=/api/v2/xtrnwqjbkr?ed=2560&encryption=none#4Jadi-0b1cc321fa
 vless://be42674a-296a-43d8-bf04-b8314d65ff63@199.232.78.159:443?encryption=none&security=tls&sni=ssl.fastly.com&type=ws&host=pane2.global.ssl.fastly.net&path=%2FTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER#4Kian-9cc2e48cb0
+vless://cd477134-ffce-473a-8dca-8ce5fc6eb3eb@216.167.54.75:47212#4Kian-07c5f610cc
 vless://d057338f-0f7b-4245-80b3-6bcabd365b84@chatgpt.com:443?encryption=none&security=tls&sni=edgE26-TOPnET.TopnEt1127.wOrkErs.DeV&fp=chrome&type=ws&host=edge26-topnet.topnet1127.workers.dev&path=/eyJqdW5rIjoicVZMOXFIcEN4UkI2azNnIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560#4Nika-f9cc3ee9dc
 vless://d361072e-9e0e-4e2d-8ec7-2a4189b5b23a@cf.levikogjgfdd.ir:2053?path=/J5aLQOY1R9ONWYCM&insecure=0&sni=ov.iran-servers.shop&fp=chrome&host=ov.iran-servers.shop&type=ws&security=tls&encryption=none&allowInsecure=0#4FreeIran-f26e86cc51
 vless://d361072e-9e0e-4e2d-8ec7-2a4189b5b23a@millionaire.levikogjgfdd.ir:2053?path=%2FJ5aLQOY1R9ONWYCM&security=tls&encryption=none&insecure=0&host=ov.iran-servers.shop&fp=chrome&type=ws&allowInsecure=0&sni=ov.iran-servers.shop#4Mohsen-48cc36538c
@@ -303,3 +304,4 @@ trojan://FH72359861@tough-gopher.rooster465.autos:443?security=tls&sni=tough-gop
 trojan://HC04361579@3.38.101.4:443?sni=peaceful-muskrat.rooster465.autos&fp=chrome&type=tcp&path=/#4Mohsen-154cc6dfa7
 trojan://ND91608427@52.78.13.238:443?security=tls&sni=upward-puma.rooster465.autos&type=tcp&path=/#4FreeIran-b091cc900a
 trojan://ND91608427@91.199.84.120:443?sni=dynamic-grubworm.rooster465.autos&fp=chrome&type=tcp&path=/#4Sarina-cc934b623e
+ss://YWVzLTI1Ni1nY206MWVhZGQ0ZTRhMzdiNjYwMQ@45.8.158.176:10801#4Sarina-e507cc5a37

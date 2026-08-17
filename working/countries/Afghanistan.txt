@@ -102,7 +102,6 @@ vless://2638ebe2-0685-46ec-9c24-24a3923062d3@212.104.128.85:443?alpn=h3,h2,http/
 vless://2730487f-0ed5-4f04-92d5-f95f9253d4f4@172.67.135.69:443?encryption=none&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jovego2551.workers.dev&path=ws&security=tls&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jovego2551.workers.dev&type=ws#4FreeIran-8fe7d59af4
 vless://278412f2-ef42-48e2-a4c0-243b173e612b@ee2.mehab.me:443?encryption=none&fp=chrome&security=tls&type=tcp#4Nika-f780b1b5af
 vless://28722287-c702-49e7-833b-08b744242e21@cosmin.ns.cloudflare.com:443?path=%2Fuldbfpws&security=tls&encryption=none&insecure=1&host=639025584960955732.highlander-amsjk.info&type=ws&allowInsecure=1&sni=639025584960955732.highlander-amsjk.info#4Nika-820af7d930
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@217.19.122.234:9001?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=firefox&type=grpc&serviceName=grpc-reality&sni=api-maps.yandex.ru&sid=6ba85179e30d4fc2#4FreeIran-af598fbe72
 vless://2cb6b4d9-0c74-45e2-a4fb-645bb8ac532a@lat.o4ka-internet.com:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=V2JprbR_aJkS7uX6anyU3nrswGxdvDQT2HpY4WnzuC8&security=reality&sid=5629431325884ff0&sni=lat.o4ka-internet.com&type=tcp#4FreeIran-4af7639616
 vless://2e3471c1-9eb0-4810-aec3-09c1118d2dfc@104.24.196.67:80?encryption=none&security=none&type=ws&host=morning-wildflower-70dd-ppal03.xotocip989.workers.dev&path=/?ed=2560#4Jadi-a6af169979
 vless://302c2e89-6f2d-4500-90ce-26d075c7e84f@66.78.40.202:443?security=reality&encryption=none&pbk=8zJkTehTmhmgKWUIj-CyJP4gtMjNxLgBxPjHC1wwW3A&headerType=none&fp=chrome&spx=/b46a29a208a37d1&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com&sid=61#4Mohsen-5af4145f21
@@ -133,6 +132,7 @@ vless://8033102198@144.31.168.91:443?security=tls&alpn=http/1.1&encryption=none&
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.18.37.228:443?encryption=none&security=tls&sni=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&host=josni.hoyes.cloudns.ch&path=/sg-melbi#4Nika-0b68af89e1
 vless://8481cfbb-49a2-df3b-2af2-949631ef5848@104.20.6.134:2096?encryption=none&type=xhttp&mode=auto&host=f927b3b16dff26f5.mizgerdiran.com&path=/iran/ws?ed=2083&security=tls&fp=chrome&sni=f927b3b16dff26f5.mizgerdiran.com&alpn=h3,h2,http/1.1#4FreeIran-3ed4d694af
 vless://85c4c0ce-08ef-493d-96f3-a711a70ec995@104.21.38.220:443?security=tls&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/TvPAJHXEXlFdLMqF?ed=2560&sni=cxrolvpn.vipserver2.workers.dev&fp=chrome&alpn=http/1.1#4Kian-b1a27af8a6
+vless://88DA9CA6-5E68-4687-A748-961B612DCED5@us2-r.link-t7.com:10239?sni=s0.awsstatic.com&type=grpc&serviceName=movie&fp=chrome&security=tls#4Nika-a86459af91
 vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@104.18.1.1:443?path=/sea&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=xqexv.greenwolf-ili.sbs&fp=chrome&type=ws&allowInsecure=0&sni=xqexv.greenwolf-ili.sbs#4FreeIran-a1a239e2af
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.221:8880?mode=gun&security=none&encryption=none&type=grpc#4FreeIran-8d8bc91af0
 vless://9500cf8b-020a-4a70-906c-e14bb5375875@144.31.237.215:443?security=reality&encryption=none&pbk=cNWgfJHerzIEb0RXxncP8R9Ex8-FkALOtbhneEIHpR0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.sciencedirect.com&sid=a1b2c4d4a1b2c5d5#4Kian-af79930871
@@ -165,6 +165,7 @@ vless://de64aaa6-a0ea-48d0-853b-1c3cbc7fb42c@141.98.118.70:443?mode=auto&path=/&
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.94:8880?mode=gun&security=none&encryption=none&type=grpc#4Jadi-db908af31e
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.144.28.5:8880?mode=gun&security=&encryption=none&type=grpc#4Nika-2af0cdf3ea
 vless://e0454af2-6fe9-4983-a55d-05e1da202602@199.232.78.159:443?encryption=none&type=ws&host=netheroijji.global.ssl.fastly.net&path=/&security=tls&sni=ssl.fastly.com#4Jadi-e6dce3af90
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.19.137:22222?encryption=none&security=none&type=tcp#4FreeIran-cec1eb4af9
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.78.6.106:22222?encryption=none&type=tcp#4Nika-af2ba56538
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.185.140.9:22223?security=none&encryption=none&headerType=none&type=tcp#4Mohsen-af10b5655d
 vless://e4a52f75-474e-449e-bcd2-05ea177f1403@104.31.16.168:80?encryption=none&security=tls&type=ws&sni=abdodhord.9.tech&host=abdodhord.9.tech&path=%2f#4Mohsen-15b434af95
@@ -233,6 +234,7 @@ vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.167:23576?type=tcp&encryp
 vless://77550287-7875-4b45-b03e-6968074a1f68@auth.cometatech.ru:8443?security=reality&type=tcp&sni=www.vk.com&fp=chrome&flow=xtls-rprx-vision&sid=f99d367c4de3&pbk=fcPttS39Xqn_zD3p0tAhCf1kdiT5Si8B5kmYZE2xfhM&encryption=none#SiNAVM-reality-1af6e4a8
 vless://9a12e2e5-7038-4ed8-91f3-a94d9b2d465f@nl2.srv.happvpn.com:443?security=reality&encryption=none&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&headerType=none&fp=chrome&spx=%2F---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=c2a0b2d60a7fc300#SiNAVM-reality-4af66ee2
 vless://bcfd2b93-4dfd-42b5-9001-11e14c255761@nl5.tunnely.ru:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=nl5.tunnely.ru&fp=chrome&security=reality&pbk=pPGE5Uacj1AGAB_WLOXB_UUnVBOmuJGH0vTSfmRBKzM&sid=2e40144ddc07e8e1#SiNAVM-reality-414af5b4
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@217.19.122.234:9001?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=firefox&type=grpc&serviceName=grpc-reality&sni=api-maps.yandex.ru&sid=6ba85179e30d4fc2#4FreeIran-af598fbe72
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.20:23576?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=tcp#4Mohsen-9af040b1f1
 vless://55d61055-1a7f-4bc5-aca2-4ee78c738b60@194.233.75.66:443?encryption=none&type=raw&headerType=none&security=tls&fp=chrome&sni=sahanwickramasinghevip.shop#4Nika-7b9819af22
 vless://c7e9c591-2764-423a-afca-efbd010fd396@129.151.198.3:2053?fp=chrome&host=forfreeuse.rtqa.ru&path=/&security=tls&sni=forfreeuse.rtqa.ru&type=ws#4Sarina-fb5af87027

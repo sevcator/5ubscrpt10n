@@ -1799,7 +1799,7 @@ trojan://PQ05174892@13.212.174.21:443?allowInsecure=0&sni=fleet-pony.rooster465.
 trojan://PQ05174892@fleet-pony.rooster465.autos:443?allowInsecure=0&sni=fleet-pony.rooster465.autos#%5Bpeasoft%2FNoMoreWalls%5D%F0%9F%87%B8%F0%9F%87%ACSG_23%7C5.3MB%2Fs
 trojan://PQ05174892@fleet-pony.rooster465.autos:443?allowInsecure=1#%5Bpeasoft%2FNoMoreWalls%5D%F0%9F%87%B8%F0%9F%87%ACSG_2%7C4.2MB%2Fs
 ss://2022-blake3-aes-128-gcm:gyKRDZaU7H9DXBVjEKDdAw%3D%3D@idc-tunnel.xssx.win:62750#%F0%9F%87%B8%F0%9F%87%ACSG_1%7C2.0MB%2Fs%7CGPT%E2%81%BA%7CYT-CN%7CNF%7C4%25
-trojan://fVZMat1g9H@172.236.133.188:52?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=172.236.133.188# SG | 172.236.133.188
+vless://c739bb1d-5fc7-4f45-acec-534267a1f1e7@3696b38bsg.murphyweb.sbs:32166/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=buylite.music.apple.com&fp=chrome&security=reality&pbk=OdTELUjAUKO_qr-O-uihaAZJAhA8GyIWVI6CpozVCU4&sid=6c6c7c97&packetEncoding=xudp# SG | 13.212.121.46
 vless://c739bb1d-5fc7-4f45-acec-534267a1f1e7@3696b38bsg.murphyweb.sbs:32166/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=buylite.music.apple.com&fp=chrome&security=reality&pbk=OdTELUjAUKO_qr-O-uihaAZJAhA8GyIWVI6CpozVCU4&sid=6c6c7c97&packetEncoding=xudp# SG | 13.212.112.40
 vless://88DA9CA6-5E68-4687-A748-961B612DCED5@13.212.89.97:10039?sni=d1.awsstatic.com&type=grpc&serviceName=update&fp=chrome&security=tls#%F0%9F%87%B8%F0%9F%87%ACSG_16%7C5.1MB/s
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.8.211.217:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#[863][SG][0][VLESS][None][free1_vpn][2026-07-17][2026-07-29 02:03]
@@ -3108,6 +3108,8 @@ vmess://ewogICAgImFkZCI6ICIxMzguMi44My4yMTciLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6
 vmess://eyJhZGQiOiIxMzkuNTkuOTYuMTEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZWMyY2FmYWEtZmE2ZC00YTk3LWRkNmEtNGQ1YmJkZGU3MzFmIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI1MzYyNSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIiLCJwcyI6IlNHIPCfh7jwn4esIHwgQFJheWRpa2FseCB8IDVBRjFCMCJ9
 vmess://eyJ2IjoiMiIsInBzIjoiU0cg8J+HuPCfh6wgfCBAUmF5ZGlrYWx4IHwgMjBFNTY4IiwiYWRkIjoiY2luZHk1OC5jZW9paWkuY29tIiwicG9ydCI6IjM2ODA5IiwidHlwZSI6Im5vbmUiLCJpZCI6ImQ1Y2FjN2VhLWEwMmYtM2NmMi05Y2E4LWY0OGI2NjY2YjQxOSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvaGxzL2NjdHY1cGhkLm0zdTgiLCJob3N0IjoiYWpheC5taWNyb3NvZnQuY29tIiwidGxzIjoiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
 vmess://ewogICAgImFkZCI6ICIxNS4yMzUuMTg0LjM2IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICI3Y2U1MjVmNS0zYTliLTQ2MjctYWUwZS0zY2EwYjU3NTE5ZTMiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvdm1lc3MiLAogICAgInBvcnQiOiA4MCwKICAgICJwcyI6ICLwn4e48J+HrFNHLTE1LjIzNS4xODQuMzYtMjQ4MCIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
+vmess://eyJhZGQiOiIxNDAuODMuNTcuMjAiLCJhaWQiOiIwIiwiaG9zdCI6InNnLjExMTYwMzIxLmRlNS5uZXQiLCJpZCI6IjFmMDFlMzg5LWZiY2ItNDk0Yy1lNDZhLTIxMGVjMzYzMjljMiIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicG9ydCI6IjEzMTE4IiwicHMiOiJcdWQ4M2NcdWRkZjhcdWQ4M2NcdWRkZWNbb3BlbnByb3h5bGlzdC5jb21dIHZtZXNzLVNHIiwic2N5IjoiYXV0byIsInNuaSI6InNnLjExMTYwMzIxLmRlNS5uZXQiLCJ0ZXN0X25hbWUiOiI0MyIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
+trojan://fVZMat1g9H@172.236.133.188:52?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=172.236.133.188# SG | 172.236.133.188
 trojan://BxceQaOe@16.163.139.175:26704?sni=t.me%2Fripaojiedian#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
 trojan://humanity@104.18.152.113:443?sni=www.ignitelimit.com#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A12
 trojan://PQ05174892@intense-sole.rooster465.autos:443?allowInsecure=1#%F0%9F%87%B8%F0%9F%87%ACSG_1%7C4.7MB/s
@@ -3784,6 +3786,7 @@ trojan://PQ05174892@pleased-albacore.rooster465.autos:443?allowInsecure=0&sni=pl
 trojan://PQ05174892@vast-werewolf.rooster465.autos:443?allowInsecure=1&sni=vast-werewolf.rooster465.autos#[openproxylist.com] trojan-SG
 trojan://FH72359861@worthy-perch.rooster465.autos:443?security=tls&sni=worthy-perch.rooster465.autos#[openproxylist.com] trojan-SG
 trojan://FH72359861@charming-ox.rooster465.autos:443?security=tls&headerType=&type=tcp&sni=charming-ox.rooster465.autos#[openproxylist.com] trojan-SG
+trojan://AE62539071@13.229.94.200:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=massive-terrapin.rooster465.autos#[openproxylist.com] trojan-SG
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6dlRVRUM0bHpBQ0RBRzhqOENJL2lRUDZPT0hIdFZOM1BuS1d0NTh0OXhZST0=@140.245.96.227:56927#%F0%9F%87%B8%F0%9F%87%ACSG_17%7C1.3MB/s
 ss://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.8.211.217:443?encryption=none&host=vangoghhh.info&path=%2Frdfgtws&security=tls&sni=vangoghhh.info&type=ws#[853][SG][0][SS][None][oneclickvpnkeys][2026-07-24][2026-07-29 02:03]
 ss://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.8.211.217:443?security=tls&sni=vangoghhh.info&allowInsecure=1&type=ws&path=/rdfgtws&host=vangoghhh.info&encryption=none#[892][SG][0][SS][None][v2ray_vpn_ir][2026-07-21][2026-07-29 02:04]
@@ -4131,6 +4134,4 @@ ss://YWVzLTI1Ni1nY206YTMzOEE5@aw-sg.vndmall.pro:8888# SG | 56.10.43.137
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.16:38388#%F0%9F%87%B8%F0%9F%87%ACSG%C2%B2_1%7C2.4MB%2Fs%7CX%7CHistory
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@103.106.229.69:9090#%f0%9f%87%b8%f0%9f%87%ac%20SG%201
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6R1FxYnFPWHV4WkVOekFRTk5CTkhOMWYwRzk4UDN0OTI5dmY5MzJxWWNsdz0@161.118.220.20:56927# SG | 161.118.220.20
-trojan://AE62539071@13.229.94.200:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=massive-terrapin.rooster465.autos#[openproxylist.com] trojan-SG
-vmess://eyJhZGQiOiIxNDAuODMuNTcuMjAiLCJhaWQiOiIwIiwiaG9zdCI6InNnLjExMTYwMzIxLmRlNS5uZXQiLCJpZCI6IjFmMDFlMzg5LWZiY2ItNDk0Yy1lNDZhLTIxMGVjMzYzMjljMiIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicG9ydCI6IjEzMTE4IiwicHMiOiJcdWQ4M2NcdWRkZjhcdWQ4M2NcdWRkZWNbb3BlbnByb3h5bGlzdC5jb21dIHZtZXNzLVNHIiwic2N5IjoiYXV0byIsInNuaSI6InNnLjExMTYwMzIxLmRlNS5uZXQiLCJ0ZXN0X25hbWUiOiI0MyIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
-vless://c739bb1d-5fc7-4f45-acec-534267a1f1e7@3696b38bsg.murphyweb.sbs:32166/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=buylite.music.apple.com&fp=chrome&security=reality&pbk=OdTELUjAUKO_qr-O-uihaAZJAhA8GyIWVI6CpozVCU4&sid=6c6c7c97&packetEncoding=xudp# SG | 13.212.121.46
+vless://6aa028bc-08a9-41d1-a397-d60ce65df081@support.zoom.us:80?security=none&type=ws&path=/shalana&host=shalana.xyz&encryption=none#[openproxylist.com] vless-SG

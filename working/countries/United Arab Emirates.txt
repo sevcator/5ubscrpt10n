@@ -625,7 +625,6 @@ trojan://ND91608427@3.112.238.99:443?sni=stunning-mite.rooster465.autos&path=/#4
 trojan://ND91608427@3.112.238.99:443?sni=stunning-mite.rooster465.autos&type=tcp&path=/#4FreeIran-ae2efba251
 trojan://ND91608427@communal-sunbird.rooster465.autos:443?sni=communal-sunbird.rooster465.autos&path=/#4Kian-0ae56d8894
 trojan://PQ05174892@13.214.213.158:443?sni=apparent-wasp.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#4Nika-ae44c9bf75
-trojan://PQ05174892@43.203.240.219:443?allowInsecure=1&sni=precious-stag.rooster465.autos#4Kian-48a776e2ae
 trojan://PQ05174892@modest-pup.rooster465.autos:443?sni=modest-pup.rooster465.autos&type=tcp&fp=chrome#4FreeIran-5b0ae7e801
 trojan://humanity@104.16.73.213:443?security=tls&sni=www.ignitelimit.com#4Kian-36ab1ae648
 trojan://humanity@104.26.15.137:443?allowInsecure=1&sni=www.ignitelimit.com#4Sarina-20269a5ae0
@@ -675,6 +674,7 @@ vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?encryption=none&se
 vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@188.114.96.109:8443?security=tls&type=ws&sni=cf-wkrs-pages-vless-aoy.pages.dev&path=/&encryption=none&headerType=none#4Kian-2007ae104f
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.97.3:443?path=/kkhhl0gssoz7m6id/zgu1lm1lcmxpbm56lmxpbms&security=tls&encryption=none&host=936a99B4.Vde5-MlX81LANeo.pAgES.dEv&type=ws&sni=936a99B4.Vde5-MlX81LANeo.pAgES.dEv#4Kian-a9280ae2b1
 vless://8a204637-801f-4f7d-8c44-318e0e5992c4@am255.amin5646.ir:2082?type=xhttp&encryption=none&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&host=am290.amin5646.ir&mode=auto&security=none#4Kian-950d9f64ae
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.234.172:62145#4FreeIran-2cbe503ae1
 vless://9258527e-4a92-4932-8ba9-27e2e3030222@95.181.173.111:8443?mode=auto&path=%2F&security=reality&encryption=none&pbk=nb4KaSPDM33uIfKWzptz0M8DAUBtZy37S4YvD6oa0FE&fp=chrome&spx=%2F&type=xhttp&sni=www.yahoo.com&sid=40#4Kian-ae55af0210
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.131.208.62:2096?encryption=none&security=tls&sni=LhCgBjGr29.vElTrIxS.OrG&alpn=h3%2Ch2&fp=chrome&type=ws&host=LhCgBjGr29.vElTrIxS.OrG&path=%2F#4Mohsen-ae953b9d05
 vless://9a237f52-35f4-411f-a544-f5b574324c6b@172.67.135.195:80?security=&type=ws&path=/&host=bia-to-channel4.unlimiteddev.shop&encryption=none#4Kian-60fee7f2ae
@@ -781,6 +781,7 @@ vless://ca9ac6fc-7269-42c9-8e48-18d8f0449750@uae.panelmarzban.com:3040?security=
 ss://chacha20-ietf-poly1305:d0fa3a9b-2115-4cc0-a8f5-7f4f7caf6ec1@217.195.200.95:8080#%F0%9F%87%A6%F0%9F%87%AA%20AE%20217.195.200.95%20%E2%97%88%20tcp%3A8080%20%E2%97%88%20G-Core%20Labs%20S.A.%20%2F%20GCL%20%E2%97%88%20ce307
 ss://chacha20-ietf-poly1305:5c9c8c20877eccc2@109.61.18.99:23658#%F0%9F%87%A6%F0%9F%87%AA%20AE%20109.61.18.99%20%E2%97%88%20tcp%3A23658%20%E2%97%88%20G-Core%20Labs%20S.A.%20%2F%20GCL%20%E2%97%88%20de0b0
 vless://65cb5591-6be5-461d-afe7-369866a2cbb6@passer04.ultranumber.top:46875?type=tcp&headerType=http&host=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc&fp=chrome#%F0%9F%92%B0%F0%9F%87%A6%F0%9F%87%AA%20AE%2093.127.180.79%20%E2%97%88%20tcp%3A46875%20%E2%97%88%20Innovative%20Telecom%20Systems%20FZE%20%2F%20Qbic%20%E2%97%88%204c233
+vless://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?encryption=none&security=none&type=ws&host=uae.unixzone.us&path=/# AE | 84.235.244.108
 vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@168.222.140.155:4100?encryption=none&path=/v1&security=none&type=ws#4Sarina-737ae108a0
 vless://2f41c3ac-627d-4a65-9f3c-b8e2a73f06d9@66.90.93.74:8444?alpn=http/1.1&encryption=none&fp=firefox&path=/api/v1/connect&security=tls&sni=gateway-v1.bosx.net&type=ws#4FreeIran-2ae8cb1e66
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.103:23576?security=reality&type=tcp&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&encryption=none#4Jadi-8ae6a58562
@@ -839,6 +840,7 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HpvCfh6pBRS0xOTQuMTU2LjEyMC4xNS0zODk2IiwgImFk
 vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HpvCfh6ogVW5pdGVkIEFyYWIgRW1pcmF0ZXMoQ2hhLi4uIiwgImFkZCI6ICJ1YWUuaWdnZmFzdHdlYi5jb20iLCAicG9ydCI6ICIzNjIwMCIsICJhaWQiOiAiMiIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiOWUwODIyYzItNzVlYS00ZDMwLTg4OTUtOWZlNTlkYTk5MzVjIiwgImhvc3QiOiAibGYzLWNkbi10b3MuYnl0ZXNjbS5jb20iLCAicGF0aCI6ICIvIn0=
 vmess://eyJhZGQiOiI4OS4zMS4xMjAuMTkyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQ0NTM3NTk1LTljY2MtNGI4My04OTM2LTVmOWFkMzIyOTAxOSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0Ijo0NDMsInBzIjoiQUUg8J+HpvCfh6ogfCBAUmF5ZGlrYWx4IHwgRTQ0MTFBIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiIsIm5hbWUiOiJBRSDwn4em8J+HqiB8IEBSYXlkaWthbHggfCBFNDQxMUEifQ==
 vmess://eyJ2IjoiMiIsInBzIjoiQUUg8J+HpvCfh6ogfCBAUmF5ZGlrYWx4IHwgNTZGQjU4IiwiYWRkIjoiaXItNzgzNjczNjcudGgzdGVhbS5pciIsInBvcnQiOiIyMDg3IiwiaWQiOiI0YjQwNzVlOC1jZTY3LTRjNTQtYTNkNy1iM2M2ZjNjNDNkM2EiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiaXItNzgzNjczNjcudGgzdGVhbS5pciIsInBhdGgiOiIvNDRzIiwidGxzIjoidGxzIiwic25pIjoiaXItNzgzNjczNjcudGgzdGVhbS5pciIsImFscG4iOiJoMixodHRwLzEuMSxoMyIsImZwIjoiY2hyb21lIiwiaW5zZWN1cmUiOiIwIn0=
+trojan://PQ05174892@43.203.240.219:443?allowInsecure=1&sni=precious-stag.rooster465.autos#4Kian-48a776e2ae
 trojan://AE62539071@43.201.49.96:443?sni=firm-krill.rooster465.autos&type=tcp&path=/#4Sarina-b1023ae03d
 trojan://AE62539071@43.202.55.63:443?sni=causal-ladybug.rooster465.autos&fp=chrome&type=tcp&path=/#4FreeIran-634ae242a7
 trojan://AE62539071@52.194.186.154:443?sni=evolving-kangaroo.rooster465.autos&fp=chrome&type=tcp&path=/#4Sarina-5e318454ae
@@ -884,4 +886,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@109.169.72.249:802#%F0%9F%
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@109.169.72.249:801#%F0%9F%87%A6%F0%9F%87%AAAE-109.169.72.249-4128
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@109.169.72.249:805#%F0%9F%87%A6%F0%9F%87%AAAE-109.169.72.249-6283
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDVUVZZ0JJdjNVaW5FWWNCL0hhNUpmNzkyQUVqeU53bkd1MGhJS0srbzVRPQ==@e1.cover20.ir:51570#%5Bpeasoft%2FNoMoreWalls%5D%F0%9F%87%A6%F0%9F%87%AAAE_1%7C2.6MB%2Fs
-vless://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?encryption=none&security=none&type=ws&host=uae.unixzone.us&path=/# AE | 84.235.244.108

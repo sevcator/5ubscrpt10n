@@ -2776,3 +2776,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYms4bWVhcDM3cGljZXRi@kovirabest4.kovira2.ir
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYms4bWVhcDM3cGljZXRi@65.109.181.69:25026# FI | 65.109.181.69
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyS0F1OWVNbUd3U2hXVFdjdXl5bm1MRTgxUFZrb0tEdlEzZmIyOWRQU2NjMWJNVVc1eTZocHByWHFWV3FTcWpUaTIzNGhGR2REZjNBckN1V3RCdzVGQTZ6VjV3QmdXVFA@185.5.38.89:57327# FI | 185.5.38.89
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4eWV6ZDQwbHIydzR6ejA4@93.123.13.7:16460# FI | 93.123.13.7
+vless://7f3c6d59-e19f-47e4-8004-5facb77b1211@65.109.181.6:80?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp# FI | 65.109.181.6
+vless://fbb74aa8-b89a-4f20-9504-6b25aadf6681@132.243.223.88:443?security=reality&encryption=none&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=fin2.freeinternat.com&sid=ff776ff77be48b88# FI | 132.243.223.88
