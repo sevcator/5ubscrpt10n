@@ -1,1 +1,1 @@
-vless://54d91bc3-a461-4458-a620-36f27f5d6975@87.120.108.150:443?sni=www.amd.com&type=grpc&serviceName=grpc-api-v2&fp=firefox&security=tls#%F0%9F%87%B1%F0%9F%87%B0LK_1%7C2.4MB/s
+vless://35066ccf-e303-4b0e-993b-aa2c2cef9c87@87.120.196.190:2443?security=reality&type=grpc&mode=gun&serviceName=grpc&packetEncoding=xudp&sni=ya.ru&fp=edge&sid=ef567890&pbk=rRg3JiP2006ldJYh2TDPAn7dtlXLcSHdgHgkGI_HZTE#%F0%9F%87%B1%F0%9F%87%B0LK_1%7C181KB%2Fs%7CA004-260618%2001
